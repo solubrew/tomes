@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x514910771AF9Ca656af840dff83E8264EcF986CA'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ChainLink Token
+    symbol: LINK
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0944d2C41FEF3088467287e208E5bBB622A0c09C'
+    chainId: null
+    decimals: null
+    description: sTRX (sTRX) is a cryptocurrency and operates on the Ethereum platform.
+      sTRX has a current supply of 195,632.51739571 with 0 in circulation. The last
+      known price of sTRX is 0.02655721 USD and is down -0.18 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://www.synthetix.io.
+    logoURI: null
+    name: sTRX
+    symbol: sTRX
+    type: null

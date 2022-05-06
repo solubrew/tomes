@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2604fa406be957e542beb89e6754fcde6815e83f'
+    chainId: null
+    decimals: null
+    description: Playkey (PKT) is a cryptocurrency and operates on the Ethereum platform.
+      Playkey has a current supply of 19,893,267.57518124 with 14,661,943.90131346
+      in circulation. The last known price of Playkey is 0.00992236 USD and is up
+      12.45 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $24,817.95 traded over the last 24 hours. More information can be found
+      at https://playkey.io/.
+    logoURI: null
+    name: Playkey
+    symbol: PKT
+    type: null

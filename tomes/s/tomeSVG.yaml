@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFFC97142863e9B2583588e3705e2322eF0369635'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Surge Token
+    symbol: SVG
+    type: null

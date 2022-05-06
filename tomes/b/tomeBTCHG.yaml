@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5547136b913b68881596275ace01e9a589c5b16b'
+    chainId: null
+    decimals: null
+    description: BITCOINHEDGE (BTCHG) is a cryptocurrency and operates on the Ethereum
+      platform. BITCOINHEDGE has a current supply of 2,100,000 with 0 in circulation.
+      The last known price of BITCOINHEDGE is 10.00525927 USD and is up 11.09 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $43.02
+      traded over the last 24 hours. More information can be found at https://bitcoinhedge.io/.
+    logoURI: null
+    name: BITCOINHEDGE
+    symbol: BTCHG
+    type: null

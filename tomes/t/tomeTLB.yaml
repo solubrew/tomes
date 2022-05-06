@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8ab0565dfe65bf9be754d7b0dadbb42c4ecaec01'
+    chainId: null
+    decimals: null
+    description: The Luxury Coin (TLB) is a cryptocurrency and operates on the Ethereum
+      platform. The Luxury Coin has a current supply of 62,000,000 with 0 in circulation.
+      The last known price of The Luxury Coin is 27.6519258 USD and is up 2.73 over
+      the last 24 hours. It is currently trading on 4 active market(s) with $760,734.76
+      traded over the last 24 hours. More information can be found at https://theluxurybank.com/.
+    logoURI: null
+    name: The Luxury Coin
+    symbol: TLB
+    type: null

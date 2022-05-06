@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa86a0da9d05d0771955df05b44ca120661af16de'
+    chainId: null
+    decimals: null
+    description: OTCBTC Token (OTB) is a cryptocurrency and operates on the Ethereum
+      platform. OTCBTC Token has a current supply of 199,470,887.76256263 with 0 in
+      circulation. The last known price of OTCBTC Token is 0.0048238 USD and is up
+      19.97 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $8,650.32 traded over the last 24 hours. More information can be found
+      at https://otcbtc.com/.
+    logoURI: null
+    name: OTCBTC Token
+    symbol: OTB
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xDcc3E7CD353dD71a1cA77d423F194995A805d41C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Fabcoins
+    symbol: Fab
+    type: null

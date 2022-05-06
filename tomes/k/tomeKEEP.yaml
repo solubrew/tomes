@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x85eee30c52b0b379b046fb0f85f4f3dc3009afec'
+    chainId: null
+    decimals: null
+    description: Keep Network (KEEP) is a cryptocurrency and operates on the Ethereum
+      platform. Keep Network has a current supply of 1,000,000,000 with 216,918,759
+      in circulation. The last known price of Keep Network is 0.31194214 USD and is
+      up 4.55 over the last 24 hours. It is currently trading on 20 active market(s)
+      with $639,911.59 traded over the last 24 hours. More information can be found
+      at https://keep.network.
+    logoURI: null
+    name: Keep Network
+    symbol: KEEP
+    type: null

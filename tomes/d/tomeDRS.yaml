@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbf13FF395D686Ed7C705A5411CC8E4E21Ff2Ceb2'
+    chainId: null
+    decimals: null
+    description: Doctors Coin (DRS) is a cryptocurrency and operates on the Ethereum
+      platform. Doctors Coin has a current supply of 10,000,000,000 with 229,741,603
+      in circulation. The last known price of Doctors Coin is 0.74835599 USD and is
+      up 1.61 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $19,410.37 traded over the last 24 hours. More information can be found
+      at https://drscoin.net/.
+    logoURI: null
+    name: Doctors Coin
+    symbol: DRS
+    type: null

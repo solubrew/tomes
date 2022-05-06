@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9b68bfae21df5a510931a262cecf63f41338f264'
+    chainId: null
+    decimals: null
+    description: DecentBet (DBET) is a cryptocurrency and operates on the Ethereum
+      platform. DecentBet has a current supply of 188,632,973.02179232. The last known
+      price of DecentBet is 0.00123865 USD and is down -12.41 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $1,315.48 traded over the
+      last 24 hours. More information can be found at https://www.decent.bet/.
+    logoURI: null
+    name: DecentBet
+    symbol: DBET
+    type: null

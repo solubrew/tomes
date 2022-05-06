@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x017b584acfd16d767541ae9e80cdc702f4527b0b'
+    chainId: null
+    decimals: null
+    description: ASYAGRO (ASY) is a cryptocurrency and operates on the Ethereum platform.
+      ASYAGRO has a current supply of 7,499,999,000 with 0 in circulation. The last
+      known price of ASYAGRO is 0.07030255 USD and is up 27.95 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $16,903.64 traded over the
+      last 24 hours. More information can be found at https://asyagro.io/.
+    logoURI: null
+    name: ASYAGRO
+    symbol: ASY
+    type: null

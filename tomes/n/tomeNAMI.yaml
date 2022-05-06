@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7eb4db4dddb16a329c5ade17a8a0178331267e28'
+    chainId: null
+    decimals: null
+    description: Tsunami finance (NAMI) is a cryptocurrency and operates on the Ethereum
+      platform. Tsunami finance has a current supply of 0. The last known price of
+      Tsunami finance is 168.5027226 USD and is up 1.54 over the last 24 hours. It
+      is currently trading on 2 active market(s) with $50,864.73 traded over the last
+      24 hours. More information can be found at https://tsunami.finance/.
+    logoURI: null
+    name: Tsunami finance
+    symbol: NAMI
+    type: null

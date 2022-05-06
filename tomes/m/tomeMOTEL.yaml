@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6543d695289eb29838252d55cb20606C3E3d4c9D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: M Coin
+    symbol: MOTEL
+    type: null

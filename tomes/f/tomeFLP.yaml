@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3'
+    chainId: null
+    decimals: null
+    description: FLIP (FLP) is a cryptocurrency and operates on the Ethereum platform.
+      FLIP has a current supply of 100,000,000 with 55,955,000 in circulation. The
+      last known price of FLIP is 0.0116509 USD and is up 103.32 over the last 24
+      hours. It is currently trading on 4 active market(s) with $2,789.27 traded over
+      the last 24 hours. More information can be found at https://fliptoken.gameflip.com/.
+    logoURI: null
+    name: FLIP
+    symbol: FLP
+    type: null

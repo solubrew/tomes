@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x034455C8a9882BF44C9704c780A55198E05BA559'
+    chainId: null
+    decimals: null
+    description: Lumos (LMS) is a cryptocurrency and operates on the Ethereum platform.
+      Lumos has a current supply of 485,847 with 0 in circulation. The last known
+      price of Lumos is 0.24200828 USD and is down -2.89 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $2,652.41 traded over the last
+      24 hours. More information can be found at https://lumos.finance/.
+    logoURI: null
+    name: Lumos
+    symbol: LMS
+    type: null

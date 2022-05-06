@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7a4c9e42F7Bdb9868b276223e6CB71B0500C59d2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cybone
+    symbol: CYBO
+    type: null

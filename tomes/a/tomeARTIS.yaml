@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x082e13494f12ebb7206fbf67e22a6e1975a1a669'
+    chainId: null
+    decimals: null
+    description: Artis Turba (ARTIS) is a cryptocurrency and operates on the Ethereum
+      platform. Artis Turba has a current supply of 350,000,000 with 29,130,007.57
+      in circulation. The last known price of Artis Turba is 0.00390426 USD and is
+      up 3.37 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $4.92 traded over the last 24 hours. More information can be found at https://artisturba.com.
+    logoURI: null
+    name: Artis Turba
+    symbol: ARTIS
+    type: null

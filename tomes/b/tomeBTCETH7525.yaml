@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA35Fc5019C4dc509394Bd4d74591a0bF8852c195'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BitEth7525RebalancingSetToken
+    symbol: BTCETH7525
+    type: null

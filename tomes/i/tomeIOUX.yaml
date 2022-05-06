@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8ad6739649f1fbf079882c14d27862d5c2206660'
+    chainId: null
+    decimals: null
+    description: IOU (IOUX) is a cryptocurrency and operates on the Ethereum platform.
+      IOU has a current supply of 800,000,000 with 0 in circulation. The last known
+      price of IOU is 0.002 USD and is up 0.00 over the last 24 hours. More information
+      can be found at https://iou.io.
+    logoURI: null
+    name: IOU
+    symbol: IOUX
+    type: null

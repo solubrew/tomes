@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x63120ccd7b415743e8753afd167f5ad4a1732c43'
+    chainId: null
+    decimals: null
+    description: QANplatform (QARK) is a cryptocurrency and operates on the Ethereum
+      platform. QANplatform has a current supply of 333,333,000 with 19,057,960 in
+      circulation. The last known price of QANplatform is 0.22771952 USD and is up
+      55.14 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $1,154.77 traded over the last 24 hours. More information can be found
+      at https://qanplatform.com/.
+    logoURI: null
+    name: QANplatform
+    symbol: QARK
+    type: null

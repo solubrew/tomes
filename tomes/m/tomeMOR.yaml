@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa6A7fCe4AFFe059548Fc39eBbc74555952A6Fb0d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MoriaToken
+    symbol: MOR
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xED0e2041BFb5a426e5ED426A73765624E08BbB75'
+    chainId: null
+    decimals: null
+    description: FANZY (FX1) is a cryptocurrency and operates on the Ethereum platform.
+      FANZY has a current supply of 0. The last known price of FANZY is 0.00005507
+      USD and is down -26.53 over the last 24 hours. It is currently trading on 1
+      active market(s) with $9,470.77 traded over the last 24 hours. More information
+      can be found at https://fanzy.io/.
+    logoURI: null
+    name: FANZY
+    symbol: FX1
+    type: null

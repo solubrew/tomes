@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x68F4Ba8018216542Ac2Ab8125166Be66304DD71c'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: DGGLASS
+    type: null

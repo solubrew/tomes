@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb8e2e2101ed11e9138803cd3e06e16dd19910647'
+    chainId: null
+    decimals: null
+    description: ArdCoin (ARDX) is a cryptocurrency and operates on the Ethereum platform.
+      ArdCoin has a current supply of 5,158,308,000 with 277,807,957.41 in circulation.
+      The last known price of ArdCoin is 0.00095894 USD and is up 155.26 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $34,780.92
+      traded over the last 24 hours. More information can be found at https://ardcoin.com/.
+    logoURI: null
+    name: ArdCoin
+    symbol: ARDX
+    type: null

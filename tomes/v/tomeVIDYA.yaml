@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30'
+    chainId: null
+    decimals: null
+    description: Vidya (VIDYA) is a cryptocurrency and operates on the Ethereum platform.
+      Vidya has a current supply of 0. The last known price of Vidya is 0.02842963
+      USD and is down -0.25 over the last 24 hours. It is currently trading on 4 active
+      market(s) with $151,438.85 traded over the last 24 hours. More information can
+      be found at https://team3d.io/.
+    logoURI: null
+    name: Vidya
+    symbol: VIDYA
+    type: null

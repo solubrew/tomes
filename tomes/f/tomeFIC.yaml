@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc9D8F15803c645e98B17710a0b6593F097064bEF'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: FIC
+    type: null

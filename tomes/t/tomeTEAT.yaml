@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x38d58b82cb24a3e0410a7991f255174c9fd8093b'
+    chainId: null
+    decimals: null
+    description: TEAL (TEAT) is a cryptocurrency and operates on the Ethereum platform.
+      TEAL has a current supply of 9,421,019 with 0 in circulation. The last known
+      price of TEAL is 0.66997652 USD and is down -2.61 over the last 24 hours. It
+      is currently trading on 3 active market(s) with $10,983.50 traded over the last
+      24 hours. More information can be found at https://www.teal.digital/.
+    logoURI: null
+    name: TEAL
+    symbol: TEAT
+    type: null

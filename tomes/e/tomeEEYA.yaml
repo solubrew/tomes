@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x81A8B50dec71a73463c1d02c80c0Cd8883014C59'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ethele Yang
+    symbol: EEYA
+    type: null

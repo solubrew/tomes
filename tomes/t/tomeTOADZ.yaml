@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1CB1A5e65610AEFF2551A50f76a87a7d3fB649C6'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: TOADZ
+    type: null

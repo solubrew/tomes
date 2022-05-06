@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa4ec83c8907888d006A37debF755ee39766f38ae'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Global Currency Unit
+    symbol: GCU
+    type: null

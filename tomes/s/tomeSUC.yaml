@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB8D2d65d4d65124690f8eab76Bea5d27CAE5cc98'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: sucoin
+    symbol: SUC
+    type: null

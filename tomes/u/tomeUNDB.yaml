@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd03b6ae96cae26b743a6207dcee7cbe60a425c70'
+    chainId: null
+    decimals: null
+    description: UniDexBot (UNDB) is a cryptocurrency and operates on the Ethereum
+      platform. UniDexBot has a current supply of 1,000 with 0 in circulation. The
+      last known price of UniDexBot is 4,056.09013991 USD and is up 4.93 over the
+      last 24 hours. More information can be found at https://unidexbot.com/app/.
+    logoURI: null
+    name: UniDexBot
+    symbol: UNDB
+    type: null

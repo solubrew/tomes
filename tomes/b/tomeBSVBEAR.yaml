@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCe49c3c92b33a1653F34811a9d7e34502bF12B89'
+    chainId: null
+    decimals: null
+    description: 3x Short Bitcoin SV Token (BSVBEAR) is a cryptocurrency and operates
+      on the Ethereum platform. 3x Short Bitcoin SV Token has a current supply of
+      25,139,001.238 with 0 in circulation. The last known price of 3x Short Bitcoin
+      SV Token is 0.0869673 USD and is up 3.13 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $225,277.63 traded over the last 24 hours.
+      More information can be found at https://ftx.com/tokens/BSVBEAR.
+    logoURI: null
+    name: 3x Short Bitcoin SV Token
+    symbol: BSVBEAR
+    type: null

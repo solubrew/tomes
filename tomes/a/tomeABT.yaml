@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ArcBlock
+    symbol: ABT
+    type: null

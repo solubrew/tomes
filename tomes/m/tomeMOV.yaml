@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x40284109c3309a7c3439111bfd93bf5e0fbb706c'
+    chainId: null
+    decimals: null
+    description: MOTIV Protocol (MOV) is a cryptocurrency and operates on the Ethereum
+      platform. MOTIV Protocol has a current supply of 0. The last known price of
+      MOTIV Protocol is 0.00632917 USD and is up 0.00 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $1,996,709.26 traded over the last
+      24 hours. More information can be found at http://motivprotocol.io/.
+    logoURI: null
+    name: MOTIV Protocol
+    symbol: MOV
+    type: null

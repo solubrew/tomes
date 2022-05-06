@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x14F3f6DbBb919ddaBb8D7f279e9B97E6bBFEeDE6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Etherwave
+    symbol: ETW
+    type: null

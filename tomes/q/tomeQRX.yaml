@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8'
+    chainId: null
+    decimals: null
+    description: QuiverX (QRX) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. QuiverX has a current supply of 100,000,000 with 0 in
+      circulation. The last known price of QuiverX is 0.02463969 USD and is down -12.46
+      over the last 24 hours. It is currently trading on 1 active market(s) with $105,863.15
+      traded over the last 24 hours.
+    logoURI: null
+    name: QuiverX
+    symbol: QRX
+    type: null

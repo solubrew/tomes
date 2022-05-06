@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x026ec7b7b657673340912B9e058a4396166fA35d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: WI Posha Allegro
+    symbol: GALA
+    type: null

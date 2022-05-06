@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc7514B42453C492fd95D3e2E41685FaB4991F28E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Googlier Indium
+    symbol: GOOGN
+    type: null

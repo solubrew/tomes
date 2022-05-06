@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3004cf8b4e28d60f4e305df25a57cd5faf37b8d5'
+    chainId: null
+    decimals: null
+    description: BSYS (BSYS) is a cryptocurrency and operates on the Ethereum platform.
+      BSYS has a current supply of 0. The last known price of BSYS is 0.00452262 USD
+      and is down -0.24 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $131,783.30 traded over the last 24 hours. More information can
+      be found at https://bsys.io/.
+    logoURI: null
+    name: BSYS
+    symbol: BSYS
+    type: null

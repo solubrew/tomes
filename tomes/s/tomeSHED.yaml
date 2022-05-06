@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9bedcd470351cbadfff3bd340085655bb260fdb2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Strategic House of Entreprenuers and Degens
+    symbol: SHED
+    type: null

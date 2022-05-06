@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x83eEA00D838f92dEC4D1475697B9f4D3537b56E3'
+    chainId: null
+    decimals: null
+    description: Voise (VOISE) is a cryptocurrency and operates on the Ethereum platform.
+      Voise has a current supply of 775,513,264.3613237 with 549,336,806.0003775 in
+      circulation. The last known price of Voise is 0.00563412 USD and is down -0.46
+      over the last 24 hours. It is currently trading on 2 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://www.voise.com.
+    logoURI: null
+    name: Voise
+    symbol: VOISE
+    type: null

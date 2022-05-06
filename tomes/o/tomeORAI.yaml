@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4c11249814f11b9346808179cf06e71ac328c1b5'
+    chainId: null
+    decimals: null
+    description: Oraichain Token (ORAI) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. Oraichain Token has a current supply of 86,000,000
+      with 0 in circulation. The last known price of Oraichain Token is 17.55189416
+      USD and is up 4.97 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $331,462.64 traded over the last 24 hours. More information can
+      be found at https://orai.io/.
+    logoURI: null
+    name: Oraichain Token
+    symbol: ORAI
+    type: null

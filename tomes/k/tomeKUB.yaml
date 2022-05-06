@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc59cb23295e2DEEB66bd090ACB6B02BE8d30A11F'
+    chainId: null
+    decimals: null
+    description: Kublaicoin (KUB) is a cryptocurrency and operates on the Ethereum
+      platform. Kublaicoin has a current supply of 500,000,000 with 0 in circulation.
+      The last known price of Kublaicoin is 0.01340519 USD and is down -16.47 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $8.19
+      traded over the last 24 hours. More information can be found at https://kublaicoin.io/.
+    logoURI: null
+    name: Kublaicoin
+    symbol: KUB
+    type: null

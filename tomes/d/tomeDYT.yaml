@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaD95a3c0fdC9bC4b27fD79e028A0a808D5564aa4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Dynamite
+    symbol: DYT
+    type: null

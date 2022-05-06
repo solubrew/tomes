@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x054f76beed60ab6dbeb23502178c52d6c5debe40'
+    chainId: null
+    decimals: null
+    description: DeFiner (FIN) is a cryptocurrency and operates on the Ethereum platform.
+      DeFiner has a current supply of 168,000,000 with 2,517,952.985 in circulation.
+      The last known price of DeFiner is 0.58483855 USD and is up 2.56 over the last
+      24 hours. It is currently trading on 9 active market(s) with $368,463.89 traded
+      over the last 24 hours. More information can be found at https://definer.org/.
+    logoURI: null
+    name: DeFiner
+    symbol: FIN
+    type: null

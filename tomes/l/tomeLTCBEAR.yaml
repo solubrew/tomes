@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB422e605fBd765B80D2C4b5d8196C2f94144438B'
+    chainId: null
+    decimals: null
+    description: 3x Short Litecoin Token (LTCBEAR) is a cryptocurrency and operates
+      on the Ethereum platform. 3x Short Litecoin Token has a current supply of 329.29
+      with 0 in circulation. The last known price of 3x Short Litecoin Token is 25.32155519
+      USD and is down -8.75 over the last 24 hours. It is currently trading on 4 active
+      market(s) with $175,565.02 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/LTCBEAR.
+    logoURI: null
+    name: 3x Short Litecoin Token
+    symbol: LTCBEAR
+    type: null

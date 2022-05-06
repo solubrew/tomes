@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa9Baa8401D4bD5907D1c2c007c7f3c6fe6EbDA02'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Glendara
+    symbol: GLDA
+    type: null

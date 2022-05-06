@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x20c36f062a31865bED8a5B1e512D9a1A20AA333A'
+    chainId: null
+    decimals: null
+    description: DefiDollar DAO (DFD) is a cryptocurrency and operates on the Ethereum
+      platform. DefiDollar DAO has a current supply of 100,000,000 with 0 in circulation.
+      The last known price of DefiDollar DAO is 0.54196314 USD and is up 3.54 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $38,376.98
+      traded over the last 24 hours. More information can be found at https://app.dusd.finance/.
+    logoURI: null
+    name: DefiDollar DAO
+    symbol: DFD
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Kin
+    symbol: KIN
+    type: null

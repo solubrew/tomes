@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8752bf7ad53d25a4165b9370f2becc22dd8ae838'
+    chainId: null
+    decimals: null
+    description: BlockNoteX (BNOX) is a cryptocurrency and operates on the Ethereum
+      platform. BlockNoteX has a current supply of 27,478.98 with 0 in circulation.
+      The last known price of BlockNoteX is 0.59965264 USD and is down -0.07 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $60,280.10
+      traded over the last 24 hours. More information can be found at https://blocknote.gold/eng/bnox.
+    logoURI: null
+    name: BlockNoteX
+    symbol: BNOX
+    type: null

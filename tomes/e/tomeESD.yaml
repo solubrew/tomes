@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x36f3fd68e7325a35eb768f1aedaae9ea0689d723'
+    chainId: null
+    decimals: null
+    description: Empty Set Dollar (ESD) is a cryptocurrency and operates on the Ethereum
+      platform. Empty Set Dollar has a current supply of 364,277.96745 with 0 in circulation.
+      The last known price of Empty Set Dollar is 0.99143227 USD and is up 1.91 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $1,712,749.96
+      traded over the last 24 hours.
+    logoURI: null
+    name: Empty Set Dollar
+    symbol: ESD
+    type: null

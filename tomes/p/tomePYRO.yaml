@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x14409b0fc5c7f87b5dad20754fe22d29a3de8217'
+    chainId: null
+    decimals: null
+    description: PYRO Network (PYRO) is a cryptocurrency and operates on the Ethereum
+      platform. PYRO Network has a current supply of 816,837,506.3415899 with 811,824,394.0965567
+      in circulation. The last known price of PYRO Network is 0.00009842 USD and is
+      down -3.29 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://pyro.network.
+    logoURI: null
+    name: PYRO Network
+    symbol: PYRO
+    type: null

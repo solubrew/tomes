@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2d9765a94FF22e0CA3AfC3E3F4B116dE2b67582a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CGCOINS
+    symbol: CGC
+    type: null

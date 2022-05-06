@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB4681169017Cd0ed61DFbDC6cDbC1C5BB1273255'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PR Coin
+    symbol: USTD
+    type: null

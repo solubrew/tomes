@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9F65cFd011233C2193BFEb5088F0E86068b794B0'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DENARIO
+    symbol: DNR
+    type: null

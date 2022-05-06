@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4F6bf962F8e16AA761b48E674F9034063c2b2d7F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DaJinZhuCoin
+    symbol: JZC
+    type: null

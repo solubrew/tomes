@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd55E5eA9e6c055708eC01C881cb12907d33b21d4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Zethereum
+    symbol: ZETH
+    type: null

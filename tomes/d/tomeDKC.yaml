@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb5CE43922EB8E73bD2B1fCeC33C2DbA43CcE7E4C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ICO GAZUA TOKEN
+    symbol: DKC
+    type: null

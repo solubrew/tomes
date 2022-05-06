@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5228a22e72ccc52d415ecfd199f99d0665e7733b'
+    chainId: null
+    decimals: null
+    description: pTokens BTC (PBTC) is a cryptocurrency and operates on the Ethereum
+      platform. pTokens BTC has a current supply of 21,000,000 with 0 in circulation.
+      The last known price of pTokens BTC is 19,154.50265897 USD and is up 1.17 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $11,459.28
+      traded over the last 24 hours. More information can be found at https://ptokens.io.
+    logoURI: null
+    name: pTokens BTC
+    symbol: PBTC
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Amon
+    symbol: AMN
+    type: null

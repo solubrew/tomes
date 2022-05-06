@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x156Bd3133360558f415307CAD605c9907C3F1a95'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: COINCEPPP
+    symbol: COINCEP
+    type: null

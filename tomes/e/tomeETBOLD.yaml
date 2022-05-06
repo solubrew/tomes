@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9F9A0E0747A18426fd29F4A76820C808dA3B140b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ETHBOLD
+    symbol: ETBOLD
+    type: null

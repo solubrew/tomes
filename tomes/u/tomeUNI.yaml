@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1f9840a85d5af5bf1d1762f925bdaddc4201f984'
+    chainId: null
+    decimals: null
+    description: Uniswap (UNI) is a cryptocurrency and operates on the Ethereum platform.
+      Uniswap has a current supply of 1,000,000,000 with 246,055,664.4277057 in circulation.
+      The last known price of Uniswap is 3.66520843 USD and is down -4.52 over the
+      last 24 hours. It is currently trading on 170 active market(s) with $631,811,527.37
+      traded over the last 24 hours. More information can be found at https://uniswap.org/blog/uni/.
+    logoURI: null
+    name: Uniswap
+    symbol: UNI
+    type: null

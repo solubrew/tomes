@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbA745513ACEbcBb977497C569D4F7d340f2A936B'
+    chainId: null
+    decimals: null
+    description: Mainstream For The Underground (MFTU) is a cryptocurrency and operates
+      on the Ethereum platform. Mainstream For The Underground has a current supply
+      of 1,400,000,000 with 1,075,139,614.59 in circulation. The last known price
+      of Mainstream For The Underground is 0.00004216 USD and is down -39.41 over
+      the last 24 hours. It is currently trading on 5 active market(s) with $18.20
+      traded over the last 24 hours. More information can be found at https://mftu.net.
+    logoURI: null
+    name: Mainstream For The Underground
+    symbol: MFTU
+    type: null

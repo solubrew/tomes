@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9b8b9c7C02be0bD0AA4D669bF6a1f6003424c6Dc'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: ASSOC
+    type: null

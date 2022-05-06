@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x593114f03a0a575aece9ed675e52ed68d2172b8c'
+    chainId: null
+    decimals: null
+    description: BidiPass (BDP) is a cryptocurrency and operates on the Ethereum platform.
+      BidiPass has a current supply of 1,500,000,000 with 379,358,473.787443 in circulation.
+      The last known price of BidiPass is 0.00059987 USD and is down -16.00 over the
+      last 24 hours. It is currently trading on 12 active market(s) with $47,928.52
+      traded over the last 24 hours. More information can be found at https://bidipass.org/.
+    logoURI: null
+    name: BidiPass
+    symbol: BDP
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x27702a26126e0b3702af63ee09ac4d1a084ef628'
+    chainId: null
+    decimals: null
+    description: Aleph.im (ALEPH) is a cryptocurrency and operates on the Ethereum
+      platform. Aleph.im has a current supply of 500,000,000 with 66,714,641.80016376
+      in circulation. The last known price of Aleph.im is 0.13364253 USD and is down
+      -2.90 over the last 24 hours. It is currently trading on 15 active market(s)
+      with $184,555.92 traded over the last 24 hours. More information can be found
+      at https://aleph.im/.
+    logoURI: null
+    name: Aleph.im
+    symbol: ALEPH
+    type: null

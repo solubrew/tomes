@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd'
+    chainId: null
+    decimals: null
+    description: DODO (DODO) is a cryptocurrency and operates on the Ethereum platform.
+      DODO has a current supply of 1,000,000,000 with 11,951,414 in circulation. The
+      last known price of DODO is 0.18993292 USD and is down -1.00 over the last 24
+      hours. It is currently trading on 9 active market(s) with $62,552.13 traded
+      over the last 24 hours. More information can be found at https://dodoex.io/.
+    logoURI: null
+    name: DODO
+    symbol: DODO
+    type: null

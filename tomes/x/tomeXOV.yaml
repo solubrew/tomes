@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x153ed9cc1b792979d2bde0bbf45cc2a7e436a5f9'
+    chainId: null
+    decimals: null
+    description: XOVBank (XOV) is a cryptocurrency and operates on the Ethereum platform.
+      XOVBank has a current supply of 150,000,000 with 138,683,801.71150687 in circulation.
+      The last known price of XOVBank is 0.00005893 USD and is down -1.16 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $2,668.27
+      traded over the last 24 hours. More information can be found at http://www.xov.io/.
+    logoURI: null
+    name: XOVBank
+    symbol: XOV
+    type: null

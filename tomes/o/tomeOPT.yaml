@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda'
+    chainId: null
+    decimals: null
+    description: Open Predict Token (OPT) is a cryptocurrency and operates on the
+      Ethereum platform. Open Predict Token has a current supply of 9,900,000 with
+      999,478.314 in circulation. The last known price of Open Predict Token is 0.80914771
+      USD and is up 4.08 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $1,107.03 traded over the last 24 hours. More information can
+      be found at https://openpredict.io/.
+    logoURI: null
+    name: Open Predict Token
+    symbol: OPT
+    type: null

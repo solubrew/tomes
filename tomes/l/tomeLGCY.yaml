@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xae697f994fc5ebc000f8e22ebffee04612f98a0d'
+    chainId: null
+    decimals: null
+    description: LGCY Network (LGCY) is a cryptocurrency and operates on the Ethereum
+      platform. LGCY Network has a current supply of 100,000,000,000 with 0 in circulation.
+      The last known price of LGCY Network is 0.00071791 USD and is down -1.55 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $1,353,789.58
+      traded over the last 24 hours. More information can be found at https://lgcy.network/.
+    logoURI: null
+    name: LGCY Network
+    symbol: LGCY
+    type: null

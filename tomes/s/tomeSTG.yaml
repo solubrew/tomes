@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x89d3563724c6F0C1A18dDf6427ec43A35Ed22e3F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Storag Coin
+    symbol: STG
+    type: null

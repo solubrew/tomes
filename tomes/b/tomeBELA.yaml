@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2e98a6804e4b6c832ed0ca876a943abd3400b224'
+    chainId: null
+    decimals: null
+    description: Bela (BELA) is a cryptocurrency and operates on the Ethereum platform.
+      Bela has a current supply of 54,373,618.7838408 with 48,227,234.84036066 in
+      circulation. The last known price of Bela is 0.00230706 USD and is up 2.11 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at http://livebela.com/.
+    logoURI: null
+    name: Bela
+    symbol: BELA
+    type: null

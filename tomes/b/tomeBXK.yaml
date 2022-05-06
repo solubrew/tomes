@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeb6985acd6d0cbff60b88032b0b29ac1d9d66a1b'
+    chainId: null
+    decimals: null
+    description: Bitbook Gambling (BXK) is a cryptocurrency and operates on the Ethereum
+      platform. Bitbook Gambling has a current supply of 730,756,054.4 with 357,687,491.4
+      in circulation. The last known price of Bitbook Gambling is 0.19486335 USD and
+      is up 1.61 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $3,377.84 traded over the last 24 hours. More information can be found
+      at https://ico.bitbook.ag/en.
+    logoURI: null
+    name: Bitbook Gambling
+    symbol: BXK
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xba9ecaa4d6f22d3a69c41daa0584ac0e2418925e'
+    chainId: null
+    decimals: null
+    description: BTS Coin (BTSC) is a cryptocurrency and operates on the Ethereum
+      platform. BTS Coin has a current supply of 0. The last known price of BTS Coin
+      is 0.00025077 USD and is down -4.52 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $21.43 traded over the last 24 hours. More
+      information can be found at https://www.btscoin.io/.
+    logoURI: null
+    name: BTS Coin
+    symbol: BTSC
+    type: null

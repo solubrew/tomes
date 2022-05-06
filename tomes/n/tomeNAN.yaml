@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb393cd041afc1aca4c380c663793fe2c7b8a0212'
+    chainId: null
+    decimals: null
+    description: NanTrade (NAN) is a cryptocurrency and operates on the Ethereum platform.
+      NanTrade has a current supply of 80,000,000 with 0 in circulation. The last
+      known price of NanTrade is 0.16947984 USD and is up 0.40 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $25,124.21 traded over the
+      last 24 hours. More information can be found at http://nantrade.net/.
+    logoURI: null
+    name: NanTrade
+    symbol: NAN
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x26710D94067B144c2A6970CBBB96a5d08B70aC79'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Hydrolic
+    symbol: HDC
+    type: null

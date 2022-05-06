@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0E5E5C1b981A20bE2bFAdE0B114e5FE7BA6EfF7f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Googlier Tellurium
+    symbol: GOOGT
+    type: null

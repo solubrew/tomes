@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828'
+    chainId: null
+    decimals: null
+    description: UMA (UMA) is a cryptocurrency and operates on the Ethereum platform.
+      UMA has a current supply of 101,130,717.53779314 with 55,506,086.65182674 in
+      circulation. The last known price of UMA is 7.77590091 USD and is down -2.47
+      over the last 24 hours. It is currently trading on 74 active market(s) with
+      $12,480,608.83 traded over the last 24 hours. More information can be found
+      at https://umaproject.org/.
+    logoURI: null
+    name: UMA
+    symbol: UMA
+    type: null

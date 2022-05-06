@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x461733c17b0755ca5649b6db08b3e213fcf22546'
+    chainId: null
+    decimals: null
+    description: ATN (ATN) is a cryptocurrency and operates on the Ethereum platform.
+      ATN has a current supply of 210,000,000 with 84,302,524.1608 in circulation.
+      The last known price of ATN is 0.00863044 USD and is up 12.07 over the last
+      24 hours. It is currently trading on 3 active market(s) with $8,948.76 traded
+      over the last 24 hours. More information can be found at https://atn.io/.
+    logoURI: null
+    name: ATN
+    symbol: ATN
+    type: null

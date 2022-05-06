@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9a005c9a89bd72a4bd27721e7a09a3c11d2b03c4'
+    chainId: null
+    decimals: null
+    description: StarterCoin (STAC) is a cryptocurrency and operates on the Ethereum
+      platform. StarterCoin has a current supply of 342,007,188.93050826. The last
+      known price of StarterCoin is 0.00020665 USD and is down -78.51 over the last
+      24 hours. It is currently trading on 2 active market(s) with $1,393.03 traded
+      over the last 24 hours. More information can be found at http://www.coinstarter.com/.
+    logoURI: null
+    name: StarterCoin
+    symbol: STAC
+    type: null

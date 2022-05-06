@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7c2e5b7ec572199d3841f6a38f7d4868bd0798f1'
+    chainId: null
+    decimals: null
+    description: Havy (HAVY) is a cryptocurrency and operates on the Ethereum platform.
+      Havy has a current supply of 8,200,000,000 with 7,514,830,814.34556 in circulation.
+      The last known price of Havy is 0.00006684 USD and is up 1.51 over the last
+      24 hours. It is currently trading on 3 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://havy.io.
+    logoURI: null
+    name: Havy
+    symbol: HAVY
+    type: null

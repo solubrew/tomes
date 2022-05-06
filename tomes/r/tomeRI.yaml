@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x37E808F084101F75783612407e7C3f5F92d8ee3F'
+    chainId: null
+    decimals: null
+    description: RI Token (RI) is a cryptocurrency and operates on the Ethereum platform.
+      RI Token has a current supply of 38,702 with 0 in circulation. The last known
+      price of RI Token is 0.62795043 USD and is up 0.84 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $7,927.40 traded over the last
+      24 hours. More information can be found at https://xiotri.io/.
+    logoURI: null
+    name: RI Token
+    symbol: RI
+    type: null

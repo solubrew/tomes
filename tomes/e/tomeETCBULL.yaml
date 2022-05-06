@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x974c98Bc2e82FA18de92B7e697A1D9BD25682e80'
+    chainId: null
+    decimals: null
+    description: 3X Long Ethereum Classic Token (ETCBULL) is a cryptocurrency and
+      operates on the Ethereum platform. 3X Long Ethereum Classic Token has a current
+      supply of 1,849.31020861 with 0 in circulation. The last known price of 3X Long
+      Ethereum Classic Token is 64.825 USD and is down -2.11 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $1,101.76 traded over the
+      last 24 hours. More information can be found at https://ftx.com/tokens/ETCBULL.
+    logoURI: null
+    name: 3X Long Ethereum Classic Token
+    symbol: ETCBULL
+    type: null

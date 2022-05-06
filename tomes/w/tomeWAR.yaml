@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf4a81c18816c9b0ab98fac51b36dcb63b0e58fde'
+    chainId: null
+    decimals: null
+    description: YieldWars (WAR) is a cryptocurrency and operates on the Ethereum
+      platform. YieldWars has a current supply of 2,800,000 with 0 in circulation.
+      The last known price of YieldWars is 0.12991201 USD and is down -26.38 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $66,534.19
+      traded over the last 24 hours. More information can be found at https://yieldwars.com/.
+    logoURI: null
+    name: YieldWars
+    symbol: WAR
+    type: null

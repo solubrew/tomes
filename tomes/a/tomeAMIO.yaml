@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2e68dfb3f50ea302c88f8db74096d57565d9970a'
+    chainId: null
+    decimals: null
+    description: Amino Network (AMIO) is a cryptocurrency and operates on the Ethereum
+      platform. Amino Network has a current supply of 1,000,000,000 with 50,165,287.31445706
+      in circulation. The last known price of Amino Network is 0.00136089 USD and
+      is down -0.02 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $73,270.45 traded over the last 24 hours. More information can be found
+      at https://www.amino.world/.
+    logoURI: null
+    name: Amino Network
+    symbol: AMIO
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB0BFB1E2F72511cF8b4D004852E2054d7b9a76e1'
+    chainId: null
+    decimals: null
+    description: Streamix (MIXS) is a cryptocurrency and operates on the Ethereum
+      platform. Streamix has a current supply of 500,000,000 with 0 in circulation.
+      The last known price of Streamix is 0.22029722 USD and is down -20.35 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $6,221.04
+      traded over the last 24 hours. More information can be found at https://streamix.io/.
+    logoURI: null
+    name: Streamix
+    symbol: MIXS
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e'
+    chainId: null
+    decimals: null
+    description: Wixlar (WIX) is a cryptocurrency and operates on the Ethereum platform.
+      Wixlar has a current supply of 5,330,000,000 with 2,392,635,809.94 in circulation.
+      The last known price of Wixlar is 0.00723794 USD and is up 0.64 over the last
+      24 hours. It is currently trading on 6 active market(s) with $3,543.34 traded
+      over the last 24 hours. More information can be found at https://wixlar.com.
+    logoURI: null
+    name: Wixlar
+    symbol: WIX
+    type: null

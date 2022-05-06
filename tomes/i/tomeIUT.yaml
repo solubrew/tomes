@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD36a0e7b741542208aE0fBb35453C893D0136625'
+    chainId: null
+    decimals: null
+    description: ITO Utility Token (IUT) is a cryptocurrency and operates on the Ethereum
+      platform. ITO Utility Token has a current supply of 91,446,016 with 90,786,016
+      in circulation. The last known price of ITO Utility Token is 0.00382801 USD
+      and is up 19.15 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $67.44 traded over the last 24 hours. More information can be
+      found at http://ito.network/.
+    logoURI: null
+    name: ITO Utility Token
+    symbol: IUT
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7C1056ac0F7D223C4297e0c683453EE625011B1f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ButtCoin
+    symbol: 0xBUTT
+    type: null

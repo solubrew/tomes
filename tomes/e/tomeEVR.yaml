@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3137619705b5fc22a3048989f983905e456b59ab'
+    chainId: null
+    decimals: null
+    description: Everus (EVR) is a cryptocurrency and operates on the Ethereum platform.
+      Everus has a current supply of 1,000,000,000 with 465,776,853.0978613 in circulation.
+      The last known price of Everus is 0.04842871 USD and is up 1.59 over the last
+      24 hours. It is currently trading on 9 active market(s) with $108.32 traded
+      over the last 24 hours. More information can be found at https://everus.org/.
+    logoURI: null
+    name: Everus
+    symbol: EVR
+    type: null

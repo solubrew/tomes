@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0'
+    chainId: null
+    decimals: null
+    description: AllianceBlock (ALBT) is a cryptocurrency and operates on the Ethereum
+      platform. AllianceBlock has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of AllianceBlock is 0.06861345 USD and is down -2.82 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $115,170.85
+      traded over the last 24 hours. More information can be found at https://allianceblock.io/.
+    logoURI: null
+    name: AllianceBlock
+    symbol: ALBT
+    type: null

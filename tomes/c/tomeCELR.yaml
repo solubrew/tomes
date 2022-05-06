@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF56fdAE611B734005D71c03b7b8C966e45D1D768'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Celer Network
+    symbol: CELR
+    type: null

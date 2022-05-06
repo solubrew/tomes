@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x63D0eEa1D7C0d1e89d7e665708d7e8997C0a9eD6'
+    chainId: null
+    decimals: null
+    description: Ethanol (ENOL) is a cryptocurrency and operates on the Ethereum platform.
+      Ethanol has a current supply of 0. The last known price of Ethanol is 72.50657117
+      USD and is down -19.83 over the last 24 hours. It is currently trading on 1
+      active market(s) with $52,870.25 traded over the last 24 hours. More information
+      can be found at https://ethanoltoken.com.
+    logoURI: null
+    name: Ethanol
+    symbol: ENOL
+    type: null

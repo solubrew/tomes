@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68'
+    chainId: null
+    decimals: null
+    description: Electric Vehicle Zone (EVZ) is a cryptocurrency and operates on the
+      Ethereum platform. Electric Vehicle Zone has a current supply of 8,420,257,832
+      with 0 in circulation. The last known price of Electric Vehicle Zone is 0.04047425
+      USD and is up 132.11 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $715,691,203.37 traded over the last 24 hours. More information
+      can be found at https://www.evzlife.com/.
+    logoURI: null
+    name: Electric Vehicle Zone
+    symbol: EVZ
+    type: null

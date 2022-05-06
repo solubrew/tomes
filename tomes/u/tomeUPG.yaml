@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xca52c16C468624b78bD52431eb1b6856d38e61fF'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: UPG
+    type: null

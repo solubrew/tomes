@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x512630DC263FD4c71DBe81Fec68cF61156d79E80'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: WORLD WIDE TRADE
+    symbol: WWT
+    type: null

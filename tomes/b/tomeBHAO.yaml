@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6d7c7d764d6f1DFa256C74AbB4C4d7861d8EE64C'
+    chainId: null
+    decimals: null
+    description: Bithao (BHAO) is a cryptocurrency and operates on the Ethereum platform.
+      Bithao has a current supply of 2,100,000,000 with 43,922,587 in circulation.
+      The last known price of Bithao is 1.74836466 USD and is up 12.13 over the last
+      24 hours. It is currently trading on 2 active market(s) with $205,718.78 traded
+      over the last 24 hours. More information can be found at https://bithao.io/bithao-home/.
+    logoURI: null
+    name: Bithao
+    symbol: BHAO
+    type: null

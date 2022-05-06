@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7e03521b9dA891Ca3F79A8728E2eaeb24886c5f9'
+    chainId: null
+    decimals: null
+    description: 3X Long Matic Token (MATICBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Long Matic Token has a current supply of 74,585.82946075
+      with 0 in circulation. The last known price of 3X Long Matic Token is 0.6095
+      USD and is up 11.83 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $4,708.85 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/MATICBULL.
+    logoURI: null
+    name: 3X Long Matic Token
+    symbol: MATICBULL
+    type: null

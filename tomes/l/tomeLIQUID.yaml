@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaC2385e183d9301dd5E2BB08DA932CbF9800dC9c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Netkoin Liquid
+    symbol: LIQUID
+    type: null

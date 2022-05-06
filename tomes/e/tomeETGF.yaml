@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x74603e780545d02C4257E7D2BE19c74dE7BE1952'
+    chainId: null
+    decimals: null
+    description: ETG Finance (ETGF) is a cryptocurrency and operates on the Ethereum
+      platform. ETG Finance has a current supply of 118,000 with 0 in circulation.
+      The last known price of ETG Finance is 1.91995627 USD and is down -3.86 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $2,084.19
+      traded over the last 24 hours. More information can be found at https://etgproject.org.
+    logoURI: null
+    name: ETG Finance
+    symbol: ETGF
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31'
+    chainId: null
+    decimals: null
+    description: AdHive (ADH) is a cryptocurrency and operates on the Ethereum platform.
+      AdHive has a current supply of 392,000,000 with 131,376,614.2801129 in circulation.
+      The last known price of AdHive is 0.000627 USD and is up 5.17 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://adhive.tv/.
+    logoURI: null
+    name: AdHive
+    symbol: ADH
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5C0669c6718bF35112d4E643FE80Bf7fB06dEdeb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: NOUR
+    symbol: NOUR
+    type: null

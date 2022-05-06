@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xff2b3353c3015e9f1fbf95b9bda23f58aa7ce007'
+    chainId: null
+    decimals: null
+    description: BitScreener Token (BITX) is a cryptocurrency and operates on the
+      Ethereum platform. BitScreener Token has a current supply of 367,469,114.9126716
+      with 87,573,176.91267163 in circulation. The last known price of BitScreener
+      Token is 0.00523627 USD and is up 6.42 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $2,527.83 traded over the last 24 hours.
+      More information can be found at https://tokensale.bitscreener.com/.
+    logoURI: null
+    name: BitScreener Token
+    symbol: BITX
+    type: null

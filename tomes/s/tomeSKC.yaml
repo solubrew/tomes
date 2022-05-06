@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0fE156436F203B114C6c562Cb1a2A81aa2801090'
+    chainId: null
+    decimals: null
+    description: SKINCHAIN (SKC) is a cryptocurrency and operates on the Ethereum
+      platform. SKINCHAIN has a current supply of 3,000,000,000 with 0 in circulation.
+      The last known price of SKINCHAIN is 0.00001876 USD and is up -0.00 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $159.34 traded
+      over the last 24 hours. More information can be found at http://skinchain.io/.
+    logoURI: null
+    name: SKINCHAIN
+    symbol: SKC
+    type: null

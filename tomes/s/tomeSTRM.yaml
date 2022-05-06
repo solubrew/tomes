@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x57d86C0a6F5888a92204B459d7f7669488AA9B7e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Music Stream
+    symbol: STRM
+    type: null

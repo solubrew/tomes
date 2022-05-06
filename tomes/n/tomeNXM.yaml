@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: NXM
+    symbol: NXM
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa957045a12d270e2ee0dca9a3340c340e05d4670'
+    chainId: null
+    decimals: null
+    description: AIDUS TOKEN (AIDUS) is a cryptocurrency and operates on the Ethereum
+      platform. AIDUS TOKEN has a current supply of 10,000,000,000 with 437,852,797.27682877
+      in circulation. The last known price of AIDUS TOKEN is 0.00704771 USD and is
+      down -22.75 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $25,110.27 traded over the last 24 hours. More information can be found
+      at https://aidus.io.
+    logoURI: null
+    name: AIDUS TOKEN
+    symbol: AIDUS
+    type: null

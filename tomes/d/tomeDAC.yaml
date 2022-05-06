@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaad54c9f27b876d2538455dda69207279ff673a5'
+    chainId: null
+    decimals: null
+    description: Davinci Coin (DAC) is a cryptocurrency and operates on the Ethereum
+      platform. Davinci Coin has a current supply of 8,800,000,000 with 4,596,901,498.799675
+      in circulation. The last known price of Davinci Coin is 0.00382672 USD and is
+      up 5.02 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $70,655,826.97 traded over the last 24 hours. More information can be found
+      at https://davinci.vision.
+    logoURI: null
+    name: Davinci Coin
+    symbol: DAC
+    type: null

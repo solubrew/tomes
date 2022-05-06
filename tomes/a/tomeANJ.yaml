@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcD62b1C403fa761BAadFC74C525ce2B51780b184'
+    chainId: null
+    decimals: null
+    description: Aragon Court (ANJ) is a cryptocurrency and operates on the Ethereum
+      platform. Aragon Court has a current supply of 128,645,461.38846613 with 122,645,461.38846613
+      in circulation. The last known price of Aragon Court is 0.03989372 USD and is
+      up 1.52 over the last 24 hours. It is currently trading on 13 active market(s)
+      with $364,679.86 traded over the last 24 hours. More information can be found
+      at https://anj.aragon.org/.
+    logoURI: null
+    name: Aragon Court
+    symbol: ANJ
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x97cb5cc1b2e10cc56dc16ab9179f06dfedbe41a2'
+    chainId: null
+    decimals: null
+    description: MobilinkToken (MOLK) is a cryptocurrency and operates on the Ethereum
+      platform. MobilinkToken has a current supply of 9,000,000,000 with 0 in circulation.
+      The last known price of MobilinkToken is 0.00620293 USD and is up 2.47 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://mobilink.io/.
+    logoURI: null
+    name: MobilinkToken
+    symbol: MOLK
+    type: null

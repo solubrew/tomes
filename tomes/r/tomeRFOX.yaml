@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa1d6df714f91debf4e0802a542e13067f31b8262'
+    chainId: null
+    decimals: null
+    description: RedFOX Labs (RFOX) is a cryptocurrency and operates on the Ethereum
+      platform. RedFOX Labs has a current supply of 2,000,000,000 with 0 in circulation.
+      The last known price of RedFOX Labs is 0.02050307 USD and is down -11.00 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $104,945.37
+      traded over the last 24 hours. More information can be found at https://redfoxlabs.io/.
+    logoURI: null
+    name: RedFOX Labs
+    symbol: RFOX
+    type: null

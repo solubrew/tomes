@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LoomToken
+    symbol: LOOM
+    type: null

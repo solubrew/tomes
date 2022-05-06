@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xDd6C68bb32462e01705011a4e2Ad1a60740f217F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Hubiits
+    symbol: HBT
+    type: null

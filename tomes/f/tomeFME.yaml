@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x947938339bf61c84669e303bc39c794d65a525d0'
+    chainId: null
+    decimals: null
+    description: FME (FME) is a cryptocurrency and operates on the Ethereum platform.
+      FME has a current supply of 90,000,000 with 0 in circulation. The last known
+      price of FME is 0.00049499 USD and is up 19.76 over the last 24 hours. It is
+      currently trading on 4 active market(s) with $18,380.39 traded over the last
+      24 hours. More information can be found at http://whitepaper.fmetoken.io.
+    logoURI: null
+    name: FME
+    symbol: FME
+    type: null

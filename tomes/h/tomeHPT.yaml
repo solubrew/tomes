@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa66Daa57432024023DB65477BA87D4E7F5f95213'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HuobiPoolToken
+    symbol: HPT
+    type: null

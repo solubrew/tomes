@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6F0b09BFa87410aB993291Ec5f8CDa81f1D2acd9'
+    chainId: null
+    decimals: null
+    description: Pilnette (PVG) is a cryptocurrency and operates on the Ethereum platform.
+      Pilnette has a current supply of 0. The last known price of Pilnette is 0.00011064
+      USD and is down -29.46 over the last 24 hours. It is currently trading on 1
+      active market(s) with $349.68 traded over the last 24 hours. More information
+      can be found at http://www.pilnette.com/.
+    logoURI: null
+    name: Pilnette
+    symbol: PVG
+    type: null

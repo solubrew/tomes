@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x915044526758533dfB918ecEb6e44bc21632060D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Chroma
+    symbol: CHR
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf263292e14d9D8ECd55B58dAD1F1dF825a874b7c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EduCoin
+    symbol: EDU
+    type: null

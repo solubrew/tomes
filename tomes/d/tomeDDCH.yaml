@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfa9F74d6EF265Ae866992CFD2dCCb0f677227280'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DINDICASH
+    symbol: DDCH
+    type: null

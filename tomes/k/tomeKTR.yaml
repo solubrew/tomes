@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9a8c04E6166C553dc01Dd8f36B78904833baeB57'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: KRISTREEDERTOKEN
+    symbol: KTR
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9f195617fa8fbad9540c5d113a99a0a0172aaedc'
+    chainId: null
+    decimals: null
+    description: Niobium Coin (NBC) is a cryptocurrency and operates on the Ethereum
+      platform. Niobium Coin has a current supply of 102,289,706.27784455 with 62,627,667.57410075
+      in circulation. The last known price of Niobium Coin is 0.00482452 USD and is
+      down -12.28 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $100.73 traded over the last 24 hours. More information can be found at
+      https://niobiumcoin.io/.
+    logoURI: null
+    name: Niobium Coin
+    symbol: NBC
+    type: null

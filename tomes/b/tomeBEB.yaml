@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe71cEbd38cE2186E01eb6c8a232eC16E8906Ed69'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: betbeb.com Mining 0.75 ETH day
+    symbol: BEB
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7458fd786B2fe8CD801C0381f88b61C5071A006F'
+    chainId: null
+    decimals: null
+    description: LOA Protocol (LOA) is a cryptocurrency and operates on the Ethereum
+      platform. LOA Protocol has a current supply of 2,000,000,000 with 0 in circulation.
+      The last known price of LOA Protocol is 0.01467796 USD and is down -16.81 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $8,560.44
+      traded over the last 24 hours. More information can be found at https://loaprotocol.io/.
+    logoURI: null
+    name: LOA Protocol
+    symbol: LOA
+    type: null

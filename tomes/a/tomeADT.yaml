@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb1068836933fCE8B92a7F65222EA551061308aF4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Air-Drop Token
+    symbol: ADT
+    type: null

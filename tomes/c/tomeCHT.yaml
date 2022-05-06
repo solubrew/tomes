@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3277dd536471a3cBEB0c9486aCad494C95A31E73'
+    chainId: null
+    decimals: null
+    description: CoinHe Token (CHT) is a cryptocurrency and operates on the Ethereum
+      platform. CoinHe Token has a current supply of 200,000,000 with 0 in circulation.
+      The last known price of CoinHe Token is 0.1022901 USD and is up 5.49 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $139,452.68
+      traded over the last 24 hours. More information can be found at https://token.coinhe.io/.
+    logoURI: null
+    name: CoinHe Token
+    symbol: CHT
+    type: null

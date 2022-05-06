@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x64E65D352f6A2949463B3a7595911B61BBaFc63E'
+    chainId: null
+    decimals: null
+    description: Khipu Token (KIP) is a cryptocurrency and operates on the Ethereum
+      platform. Khipu Token has a current supply of 0. The last known price of Khipu
+      Token is 0.0003923 USD and is up 0.75 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $18,106.91 traded over the last 24 hours.
+      More information can be found at http://khipu.io/.
+    logoURI: null
+    name: Khipu Token
+    symbol: KIP
+    type: null

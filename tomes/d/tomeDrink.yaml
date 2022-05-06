@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb8105B0d4a9Ae55658B418065fEA4282a8d2e968'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DrinkChain
+    symbol: Drink
+    type: null

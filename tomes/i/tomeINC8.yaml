@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x072ccd6247E88114590D08d6A80B7a609473C17E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Incinerate Token
+    symbol: INC8
+    type: null

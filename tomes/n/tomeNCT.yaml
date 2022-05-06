@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9e46a38f5daabe8683e10793b06749eef7d733d1'
+    chainId: null
+    decimals: null
+    description: PolySwarm (NCT) is a cryptocurrency and operates on the Ethereum
+      platform. PolySwarm has a current supply of 1,885,913,075.8515422 with 1,546,457,129.5096478
+      in circulation. The last known price of PolySwarm is 0.00281729 USD and is down
+      -11.54 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $4,315.53 traded over the last 24 hours. More information can be found
+      at https://polyswarm.io/.
+    logoURI: null
+    name: PolySwarm
+    symbol: NCT
+    type: null

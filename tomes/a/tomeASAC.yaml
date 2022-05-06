@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6913ccabbc337f0ea7b4109dd8200d61c704d332'
+    chainId: null
+    decimals: null
+    description: Asac Coin (ASAC) is a cryptocurrency and operates on the Ethereum
+      platform. Asac Coin has a current supply of 2,019,041,314 with 0 in circulation.
+      The last known price of Asac Coin is 0.00304105 USD and is up 3.40 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $2,133.63
+      traded over the last 24 hours. More information can be found at https://asaccoin.com/.
+    logoURI: null
+    name: Asac Coin
+    symbol: ASAC
+    type: null

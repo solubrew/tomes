@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: StableUSD
+    symbol: USDS
+    type: null

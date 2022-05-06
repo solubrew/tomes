@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD434e2Ec93be12D72934543F68278c2B8e0cb3Fc'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Dan Pan Coin
+    symbol: DPC
+    type: null

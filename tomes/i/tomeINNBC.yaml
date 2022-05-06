@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB67718b98d52318240c52E71A898335da4A28c42'
+    chainId: null
+    decimals: null
+    description: Innovative Bioresearch Coin (INNBC) is a cryptocurrency and operates
+      on the Ethereum platform. Innovative Bioresearch Coin has a current supply of
+      45,200,000,000 with 45,199,999,998.74818 in circulation. The last known price
+      of Innovative Bioresearch Coin is 0.00000017 USD and is down -5.55 over the
+      last 24 hours. It is currently trading on 5 active market(s) with $9,443.61
+      traded over the last 24 hours. More information can be found at https://www.innovativebioresearch.com/.
+    logoURI: null
+    name: Innovative Bioresearch Coin
+    symbol: INNBC
+    type: null

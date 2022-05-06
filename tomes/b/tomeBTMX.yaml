@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcca0c9c383076649604ee31b20248bc04fdf61ca'
+    chainId: null
+    decimals: null
+    description: BitMax Token (BTMX) is a cryptocurrency and operates on the Ethereum
+      platform. BitMax Token has a current supply of 780,615,274 with 660,615,274
+      in circulation. The last known price of BitMax Token is 0.03966796 USD and is
+      up 0.11 over the last 24 hours. It is currently trading on 7 active market(s)
+      with $2,943,947.32 traded over the last 24 hours. More information can be found
+      at https://bitmax.io/.
+    logoURI: null
+    name: BitMax Token
+    symbol: BTMX
+    type: null

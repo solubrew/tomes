@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x388fd8a5145d6ef85aae14d494f93df9d1c7c00c'
+    chainId: null
+    decimals: null
+    description: BitcoinRegular (BTRL) is a cryptocurrency and operates on the Ethereum
+      platform. BitcoinRegular has a current supply of 21,000,000 with 0 in circulation.
+      The last known price of BitcoinRegular is 0.83099135 USD and is down -12.33
+      over the last 24 hours. It is currently trading on 4 active market(s) with $13,595.96
+      traded over the last 24 hours. More information can be found at https://bitcoinregular.com/.
+    logoURI: null
+    name: BitcoinRegular
+    symbol: BTRL
+    type: null

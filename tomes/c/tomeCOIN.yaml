@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x87b008E57F640D94Ee44Fd893F0323AF933F9195'
+    chainId: null
+    decimals: null
+    description: Coin Artist (COIN) is a cryptocurrency and operates on the Ethereum
+      platform. Coin Artist has a current supply of 0. The last known price of Coin
+      Artist is 0.59963138 USD and is down -1.42 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $6,464.65 traded over the last 24 hours.
+      More information can be found at https://medium.com/@coin_artist_17801.
+    logoURI: null
+    name: Coin Artist
+    symbol: COIN
+    type: null

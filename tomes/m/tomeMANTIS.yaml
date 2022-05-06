@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3d79f5Abf58619f0A70f69C094d99E25d6f2126B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MANTIS
+    symbol: MANTIS
+    type: null

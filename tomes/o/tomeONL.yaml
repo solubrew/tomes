@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6863be0e7cf7ce860a574760e9020d519a8bdc47'
+    chainId: null
+    decimals: null
+    description: On.Live (ONL) is a cryptocurrency and operates on the Ethereum platform.
+      On.Live has a current supply of 59,725,382.21855845 with 21,622,302.59532718
+      in circulation. The last known price of On.Live is 0.01485412 USD and is up
+      2.80 over the last 24 hours. It is currently trading on 3 active market(s) with
+      $945.16 traded over the last 24 hours. More information can be found at https://on.live/.
+    logoURI: null
+    name: On.Live
+    symbol: ONL
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25'
+    chainId: null
+    decimals: null
+    description: CoinMetro Token (XCM) is a cryptocurrency and operates on the Ethereum
+      platform. CoinMetro Token has a current supply of 330,000,000 with 279,657,674.97677016
+      in circulation. The last known price of CoinMetro Token is 0.04026783 USD and
+      is up 2.87 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $44,483.05 traded over the last 24 hours. More information can be found
+      at https://coinmetro.com/.
+    logoURI: null
+    name: CoinMetro Token
+    symbol: XCM
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEc71a153b29da4821Ff1d58Eb9C72fFf75a1fc48'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: STZ
+    symbol: STZ
+    type: null

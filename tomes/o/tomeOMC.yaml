@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd6bd97a26232ba02172ff86b055d5d7be789335b'
+    chainId: null
+    decimals: null
+    description: Ormeus Cash (OMC) is a cryptocurrency and operates on the Ethereum
+      platform. Ormeus Cash has a current supply of 300,500,150 with 190,375,983.7714797
+      in circulation. The last known price of Ormeus Cash is 0.00769454 USD and is
+      up 1.56 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $75,685.67 traded over the last 24 hours. More information can be found
+      at https://ormeuscash.com/.
+    logoURI: null
+    name: Ormeus Cash
+    symbol: OMC
+    type: null

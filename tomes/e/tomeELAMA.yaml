@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfb444c1f2b718ddfc385cb8fd9f2d1d776b24668'
+    chainId: null
+    decimals: null
+    description: Elamachain (ELAMA) is a cryptocurrency and operates on the Ethereum
+      platform. Elamachain has a current supply of 1,000,000,000 with 732,115,374.9685714
+      in circulation. The last known price of Elamachain is 0.01132221 USD and is
+      up 6.25 over the last 24 hours. It is currently trading on 12 active market(s)
+      with $1,465,865.10 traded over the last 24 hours. More information can be found
+      at https://www.elamachain.io/.
+    logoURI: null
+    name: Elamachain
+    symbol: ELAMA
+    type: null

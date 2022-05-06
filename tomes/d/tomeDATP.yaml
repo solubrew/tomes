@@ -1,0 +1,20 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x813b428af3920226e059b68a62e4c04933d4ea7a'
+    chainId: null
+    decimals: null
+    description: Decentralized Asset Trading Platform (DATP) is a cryptocurrency and
+      operates on the Ethereum platform. Decentralized Asset Trading Platform has
+      a current supply of 15,000,000,000 with 11,820,620,222.25 in circulation. The
+      last known price of Decentralized Asset Trading Platform is 0.00000212 USD and
+      is down -3.75 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $187.00 traded over the last 24 hours. More information can be found at
+      https://datp.market/.
+    logoURI: null
+    name: Decentralized Asset Trading Platform
+    symbol: DATP
+    type: null

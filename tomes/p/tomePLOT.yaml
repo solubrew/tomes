@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x72f020f8f3e8fd9382705723cd26380f8d0c66bb'
+    chainId: null
+    decimals: null
+    description: PlotX (PLOT) is a cryptocurrency and operates on the Ethereum platform.
+      PlotX has a current supply of 200,000,000 with 34,707,039 in circulation. The
+      last known price of PlotX is 0.04717751 USD and is up 8.57 over the last 24
+      hours. It is currently trading on 4 active market(s) with $298,317.77 traded
+      over the last 24 hours. More information can be found at https://plotx.io/.
+    logoURI: null
+    name: PlotX
+    symbol: PLOT
+    type: null

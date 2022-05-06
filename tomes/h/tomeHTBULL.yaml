@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0D5E2681D2AaDC91F7DA4146740180A2190f0c79'
+    chainId: null
+    decimals: null
+    description: 3X Long Huobi Token Token (HTBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Long Huobi Token Token has a current supply of
+      663.77347876 with 0 in circulation. The last known price of 3X Long Huobi Token
+      Token is 123.4 USD and is up 3.31 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $1.23 traded over the last 24 hours. More information
+      can be found at https://ftx.com/tokens/HTBULL.
+    logoURI: null
+    name: 3X Long Huobi Token Token
+    symbol: HTBULL
+    type: null

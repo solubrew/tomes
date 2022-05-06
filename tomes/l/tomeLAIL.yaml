@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x73d67103Ad2BC658632B8A32d40f23001b16a19b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: lail currency
+    symbol: LAIL
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC7743bf0B300Ec041E704Cc34d4f43050942099E'
+    chainId: null
+    decimals: null
+    description: CAT.trade Protocol (CATX) is a cryptocurrency and operates on the
+      Ethereum platform. CAT.trade Protocol has a current supply of 100,000,000 with
+      0 in circulation. The last known price of CAT.trade Protocol is 0.28622875 USD
+      and is up 16.95 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $75,643.49 traded over the last 24 hours. More information can
+      be found at https://cat.trade/home/.
+    logoURI: null
+    name: CAT.trade Protocol
+    symbol: CATX
+    type: null

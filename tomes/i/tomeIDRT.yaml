@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Rupiah Token
+    symbol: IDRT
+    type: null

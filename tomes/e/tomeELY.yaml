@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa95592dcffa3c080b4b40e459c5f5692f67db7f8'
+    chainId: null
+    decimals: null
+    description: Elysian (ELY) is a cryptocurrency and operates on the Ethereum platform.
+      Elysian has a current supply of 260,000,000 with 97,966,210.08061156 in circulation.
+      The last known price of Elysian is 0.00049513 USD and is down -1.72 over the
+      last 24 hours. It is currently trading on 4 active market(s) with $293,857.68
+      traded over the last 24 hours. More information can be found at https://elycoin.io.
+    logoURI: null
+    name: Elysian
+    symbol: ELY
+    type: null

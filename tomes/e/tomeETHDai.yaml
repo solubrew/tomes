@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8Ddc86DbA7ad728012eFc460b8A168Aba60B403B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ETHDaiRebalancingSetToken
+    symbol: ETHDai
+    type: null

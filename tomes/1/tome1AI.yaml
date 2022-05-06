@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x208bbb6bCEA22ef2011789331405347394EbAa51'
+    chainId: null
+    decimals: null
+    description: 1AI Token (1AI) is a cryptocurrency and operates on the Ethereum
+      platform. 1AI Token has a current supply of 20,000,000,000 with 0 in circulation.
+      The last known price of 1AI Token is 0.0001915 USD and is up 1.42 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://www.1ai.io.
+    logoURI: null
+    name: 1AI Token
+    symbol: 1AI
+    type: null

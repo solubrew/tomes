@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6ce654ac973d326f89f0685e7459542641410ed9'
+    chainId: null
+    decimals: null
+    description: HubDao (HD) is a cryptocurrency and operates on the Ethereum platform.
+      HubDao has a current supply of 11,200,000 with 0 in circulation. The last known
+      price of HubDao is 0.29355013 USD and is down -3.83 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $154,269.20 traded over the
+      last 24 hours. More information can be found at https://hubdao.org/.
+    logoURI: null
+    name: HubDao
+    symbol: HD
+    type: null

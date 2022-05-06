@@ -1,0 +1,20 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8e30ea2329d95802fd804f4291220b0e2f579812'
+    chainId: null
+    decimals: null
+    description: Decentralized Vulnerability Platform (DVP) is a cryptocurrency and
+      operates on the Ethereum platform. Decentralized Vulnerability Platform has
+      a current supply of 5,000,000,000 with 302,480,926 in circulation. The last
+      known price of Decentralized Vulnerability Platform is 0.03296646 USD and is
+      up 2.00 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $220,105.64 traded over the last 24 hours. More information can be found
+      at https://dvpnet.io/.
+    logoURI: null
+    name: Decentralized Vulnerability Platform
+    symbol: DVP
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f'
+    chainId: null
+    decimals: null
+    description: BlockMesh (BMH) is a cryptocurrency and operates on the Ethereum
+      platform. BlockMesh has a current supply of 2,000,000,000 with 273,039,970.8790467
+      in circulation. The last known price of BlockMesh is 0.00025589 USD and is down
+      -0.14 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $1,495.44 traded over the last 24 hours. More information can be found
+      at https://www.blockmesh.io/.
+    logoURI: null
+    name: BlockMesh
+    symbol: BMH
+    type: null

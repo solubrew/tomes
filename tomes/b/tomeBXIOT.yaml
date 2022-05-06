@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355'
+    chainId: null
+    decimals: null
+    description: bXIOT (BXIOT) is a cryptocurrency and operates on the Ethereum platform.
+      bXIOT has a current supply of 250,000 with 0 in circulation. The last known
+      price of bXIOT is 1.15918655 USD and is down -3.54 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $5,361.46 traded over the last
+      24 hours. More information can be found at https://xiotri.io.
+    logoURI: null
+    name: bXIOT
+    symbol: BXIOT
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x04a020325024f130988782bd5276e53595e8d16e'
+    chainId: null
+    decimals: null
+    description: Herbalist Token (HERB) is a cryptocurrency and operates on the Ethereum
+      platform. Herbalist Token has a current supply of 9,500,000,000 with 9,499,999,999
+      in circulation. The last known price of Herbalist Token is 0.00000561 USD and
+      is down -0.11 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $25.71 traded over the last 24 hours. More information can be found at
+      http://www.herbalisttoken.com/.
+    logoURI: null
+    name: Herbalist Token
+    symbol: HERB
+    type: null

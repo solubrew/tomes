@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x07D9e49Ea402194bf48A8276dAfB16E4eD633317'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DALECOIN
+    symbol: DALC
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaE73B38d1c9A8b274127ec30160a4927C4d71824'
+    chainId: null
+    decimals: null
+    description: STK (STK) is a cryptocurrency and operates on the Ethereum platform.
+      STK has a current supply of 500,000,000 with 341,414,781.9709 in circulation.
+      The last known price of STK is 0.00125479 USD and is up 2.35 over the last 24
+      hours. It is currently trading on 2 active market(s) with $25,708.15 traded
+      over the last 24 hours. More information can be found at https://stktoken.com/.
+    logoURI: null
+    name: STK
+    symbol: STK
+    type: null

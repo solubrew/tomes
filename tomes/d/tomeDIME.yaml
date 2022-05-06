@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xAf0Dba1D4f9107C59C317b4388c0a54b70EA0ACd'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Dimple
+    symbol: DIME
+    type: null

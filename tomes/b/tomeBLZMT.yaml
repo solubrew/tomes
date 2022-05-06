@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf6fF4a4896e98A53e74E24c15f2A51a6aBB5964A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BlazingMoonToken
+    symbol: BLZMT
+    type: null

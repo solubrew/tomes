@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x54ad74edeab48e09ccc43ee324f2603071dad72b'
+    chainId: null
+    decimals: null
+    description: DTOP Token (DTOP) is a cryptocurrency and operates on the Ethereum
+      platform. DTOP Token has a current supply of 0. The last known price of DTOP
+      Token is 0.00383235 USD and is up 36.31 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $21,967.32 traded over the last 24 hours.
+      More information can be found at http://www.dtop.link/.
+    logoURI: null
+    name: DTOP Token
+    symbol: DTOP
+    type: null

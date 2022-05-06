@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x73Cee8348b9bDd48c64E13452b8a6fbc81630573'
+    chainId: null
+    decimals: null
+    description: Egoras (EGR) is a cryptocurrency and operates on the Ethereum platform.
+      Egoras has a current supply of 99,097,732,541.23735 with 65,160,356,358 in circulation.
+      The last known price of Egoras is 0.00015515 USD and is up 48.76 over the last
+      24 hours. It is currently trading on 1 active market(s) with $69,770.28 traded
+      over the last 24 hours. More information can be found at https://egoras.com/.
+    logoURI: null
+    name: Egoras
+    symbol: EGR
+    type: null

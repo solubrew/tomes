@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x692093032661C2aE1dfA152610784CE8054fc842'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TROLL
+    symbol: TRO
+    type: null

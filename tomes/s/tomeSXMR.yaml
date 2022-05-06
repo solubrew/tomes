@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5299d6F7472DCc137D7f3C4BcfBBB514BaBF341A'
+    chainId: null
+    decimals: null
+    description: sXMR (SXMR) is a cryptocurrency and operates on the Ethereum platform.
+      sXMR has a current supply of 180.78033982 with 0 in circulation. The last known
+      price of sXMR is 101.05620121 USD and is up 2.46 over the last 24 hours. More
+      information can be found at https://www.synthetix.io/.
+    logoURI: null
+    name: sXMR
+    symbol: SXMR
+    type: null

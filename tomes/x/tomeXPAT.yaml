@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBB1fA4FdEB3459733bF67EbC6f893003fA976a82'
+    chainId: null
+    decimals: null
+    description: Bitnation (XPAT) is a cryptocurrency and operates on the Ethereum
+      platform. Bitnation has a current supply of 42,000,000,000 with 30,671,995,337.76508
+      in circulation. The last known price of Bitnation is 0.00000296 USD and is down
+      -50.99 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://bitnation.co.
+    logoURI: null
+    name: Bitnation
+    symbol: XPAT
+    type: null

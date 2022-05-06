@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x22585C163b353510e8FEf984C02609302EB5Fc62'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: The Reaper
+    symbol: REAP
+    type: null

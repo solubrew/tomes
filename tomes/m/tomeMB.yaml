@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8d8129963291740dddd917ab01af18c7aed4ba58'
+    chainId: null
+    decimals: null
+    description: MineBee (MB) is a cryptocurrency and operates on the Ethereum platform.
+      MineBee has a current supply of 5,000,000,000 with 1,830,117,455.2198474 in
+      circulation. The last known price of MineBee is 0.00020023 USD and is down -0.06
+      over the last 24 hours. It is currently trading on 4 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://minebee.io/.
+    logoURI: null
+    name: MineBee
+    symbol: MB
+    type: null

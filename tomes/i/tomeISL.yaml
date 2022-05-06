@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc39976F60185257cc2Da55f5bb2C9Db84732fC3b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Peninsula Coin
+    symbol: ISL
+    type: null

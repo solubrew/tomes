@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbE685C5E06866cfB94A4242E3DF8f2fa3E7c2b73'
+    chainId: null
+    decimals: null
+    description: Yearn Finance Red Moon (YFRM) is a cryptocurrency launched in 2020and
+      operates on the Ethereum platform. Yearn Finance Red Moon has a current supply
+      of 9,999 with 0 in circulation. The last known price of Yearn Finance Red Moon
+      is 2.36291201 USD and is down -41.86 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $148.19 traded over the last 24 hours. More
+      information can be found at https://yfrm.finance.
+    logoURI: null
+    name: Yearn Finance Red Moon
+    symbol: YFRM
+    type: null

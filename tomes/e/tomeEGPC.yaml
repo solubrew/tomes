@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBcC9fe1b74B2cC5949B129538B8616aa86EAD5e9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EGP Coin
+    symbol: EGPC
+    type: null

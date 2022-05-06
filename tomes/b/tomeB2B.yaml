@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393'
+    chainId: null
+    decimals: null
+    description: B2BX (B2B) is a cryptocurrency and operates on the Ethereum platform.
+      B2BX has a current supply of 19,822,337.19958543 with 19,629,794.46346944 in
+      circulation. The last known price of B2BX is 0.75032631 USD and is down -0.01
+      over the last 24 hours. It is currently trading on 3 active market(s) with $278.11
+      traded over the last 24 hours. More information can be found at https://www.b2bx.exchange/.
+    logoURI: null
+    name: B2BX
+    symbol: B2B
+    type: null

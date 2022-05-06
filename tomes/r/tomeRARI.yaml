@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfca59cd816ab1ead66534d82bc21e7515ce441cf'
+    chainId: null
+    decimals: null
+    description: Rarible (RARI) is a cryptocurrency and operates on the Ethereum platform.
+      Rarible has a current supply of 25,000,000 with 855,330.434615 in circulation.
+      The last known price of Rarible is 1.74957187 USD and is down -7.87 over the
+      last 24 hours. It is currently trading on 14 active market(s) with $398,157.17
+      traded over the last 24 hours. More information can be found at https://app.rarible.com/rari.
+    logoURI: null
+    name: Rarible
+    symbol: RARI
+    type: null

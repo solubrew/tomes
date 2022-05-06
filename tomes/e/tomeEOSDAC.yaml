@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba'
+    chainId: null
+    decimals: null
+    description: eosDAC (EOSDAC) is a cryptocurrency and operates on the Ethereum
+      platform. eosDAC has a current supply of 1,200,000,000 with 660,755,176.7845
+      in circulation. The last known price of eosDAC is 0.00112279 USD and is down
+      -11.97 over the last 24 hours. It is currently trading on 10 active market(s)
+      with $23,831.31 traded over the last 24 hours. More information can be found
+      at https://eosdac.io/.
+    logoURI: null
+    name: eosDAC
+    symbol: EOSDAC
+    type: null

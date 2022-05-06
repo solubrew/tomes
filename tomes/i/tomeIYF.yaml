@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5d762f76b9e91f71cc4f94391bdfe6333db8519c'
+    chainId: null
+    decimals: null
+    description: IYF.finance (IYF) is a cryptocurrency and operates on the Ethereum
+      platform. IYF.finance has a current supply of 24,000 with 0 in circulation.
+      The last known price of IYF.finance is 35.11318908 USD and is up 15.00 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $88,520.44
+      traded over the last 24 hours. More information can be found at https://iyf.finance.
+    logoURI: null
+    name: IYF.finance
+    symbol: IYF
+    type: null

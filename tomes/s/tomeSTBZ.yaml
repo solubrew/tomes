@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb987d48ed8f2c468d52d6405624eadba5e76d723'
+    chainId: null
+    decimals: null
+    description: Stabilize (STBZ) is a cryptocurrency and operates on the Ethereum
+      platform. Stabilize has a current supply of 133,000. The last known price of
+      Stabilize is 1.72471199 USD and is down -7.08 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $9,272.56 traded over the last
+      24 hours. More information can be found at https://www.stabilize.finance.
+    logoURI: null
+    name: Stabilize
+    symbol: STBZ
+    type: null

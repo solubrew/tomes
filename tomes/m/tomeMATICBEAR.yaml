@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbE893b4C214DBFfC17ef1E338fBDb7061FF09237'
+    chainId: null
+    decimals: null
+    description: 3X Short Matic Token (MATICBEAR) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Short Matic Token has a current supply of 170,853.57308375
+      with 0 in circulation. The last known price of 3X Short Matic Token is 0.009945
+      USD and is down -15.00 over the last 24 hours. It is currently trading on 1
+      active market(s) with $174.06 traded over the last 24 hours. More information
+      can be found at https://ftx.com/tokens/MATICBEAR.
+    logoURI: null
+    name: 3X Short Matic Token
+    symbol: MATICBEAR
+    type: null

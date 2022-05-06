@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFA109de90A24B3BD5aF459c376EbaFA75b7C1C5B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MedK
+    symbol: MedK
+    type: null

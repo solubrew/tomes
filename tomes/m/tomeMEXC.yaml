@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7de2d123042994737105802d2abd0a10a7bde276'
+    chainId: null
+    decimals: null
+    description: MEXC Token (MEXC) is a cryptocurrency and operates on the Ethereum
+      platform. MEXC Token has a current supply of 1,467,674,097.9613817 with 983,388,383.7613817
+      in circulation. The last known price of MEXC Token is 0.00005486 USD and is
+      up 24.11 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $1,351.34 traded over the last 24 hours. More information can be found
+      at https://mexc.life.
+    logoURI: null
+    name: MEXC Token
+    symbol: MEXC
+    type: null

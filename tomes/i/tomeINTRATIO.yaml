@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBA8Ea15b647F54D9ff849670FcaAcF35Df21A457'
+    chainId: null
+    decimals: null
+    description: Intelligent Ratio Set (INTRATIO) is a cryptocurrency and operates
+      on the Ethereum platform. Intelligent Ratio Set has a current supply of 822.14898521
+      with 0 in circulation. The last known price of Intelligent Ratio Set is 549.92
+      USD and is up 2.79 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $0.00 traded over the last 24 hours. More information can be
+      found at https://www.tokensets.com/set/intratio-1.
+    logoURI: null
+    name: Intelligent Ratio Set
+    symbol: INTRATIO
+    type: null

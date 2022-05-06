@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6881e457e6B0F14Bb48537ae0809c8C016a43C2a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: KaiHua Coin
+    symbol: KHC
+    type: null

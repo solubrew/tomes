@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1a2277c83930b7a64c3e3d5544eaa8c4f946b1b7'
+    chainId: null
+    decimals: null
+    description: e-Chat (ECHT) is a cryptocurrency and operates on the Ethereum platform.
+      e-Chat has a current supply of 300,000,000 with 19,161,060.23617136 in circulation.
+      The last known price of e-Chat is 0.00037424 USD and is up 3.20 over the last
+      24 hours. More information can be found at https://echat.io/.
+    logoURI: null
+    name: e-Chat
+    symbol: ECHT
+    type: null

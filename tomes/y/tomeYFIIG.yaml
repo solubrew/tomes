@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xef8ba8cba86f81b3108f60186fce9c81b5096d5c'
+    chainId: null
+    decimals: null
+    description: YFII Gold (YFIIG) is a cryptocurrency and operates on the Ethereum
+      platform. YFII Gold has a current supply of 50,000 with 0 in circulation. The
+      last known price of YFII Gold is 5.06500595 USD and is down -1.98 over the last
+      24 hours. It is currently trading on 4 active market(s) with $117,612.38 traded
+      over the last 24 hours. More information can be found at https://yfiigold.finance/.
+    logoURI: null
+    name: YFII Gold
+    symbol: YFIIG
+    type: null

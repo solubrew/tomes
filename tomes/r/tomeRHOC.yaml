@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x168296bb09e24A88805CB9c33356536B980D3fC5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: RHOC
+    symbol: RHOC
+    type: null

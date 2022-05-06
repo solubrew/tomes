@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9113BEbA84529B43e672e7842054F3E0F0aD0936'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ejiangjun
+    symbol: EJJ
+    type: null

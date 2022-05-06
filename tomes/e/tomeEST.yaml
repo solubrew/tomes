@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0Efc2390C79C47452898a234a27F2b9C39A7a725'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Estate Coin
+    symbol: EST
+    type: null

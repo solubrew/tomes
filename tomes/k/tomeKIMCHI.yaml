@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1e18821e69b9faa8e6e75dffe54e7e25754beda0'
+    chainId: null
+    decimals: null
+    description: KIMCHI.finance (KIMCHI) is a cryptocurrency and operates on the Ethereum
+      platform. KIMCHI.finance has a current supply of 623,680,725. The last known
+      price of KIMCHI.finance is 0.00052358 USD and is down -57.02 over the last 24
+      hours. It is currently trading on 7 active market(s) with $52,825.75 traded
+      over the last 24 hours. More information can be found at https://kimchi.finance/.
+    logoURI: null
+    name: KIMCHI.finance
+    symbol: KIMCHI
+    type: null

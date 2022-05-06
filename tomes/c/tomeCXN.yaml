@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb48E0F69e6A3064f5498D495F77AD83e0874ab28'
+    chainId: null
+    decimals: null
+    description: CXN Network (CXN) is a cryptocurrency and operates on the Ethereum
+      platform. CXN Network has a current supply of 0. The last known price of CXN
+      Network is 0.00297986 USD and is up 7.12 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $3,484.58 traded over the last 24 hours.
+      More information can be found at https://cxn.network.
+    logoURI: null
+    name: CXN Network
+    symbol: CXN
+    type: null

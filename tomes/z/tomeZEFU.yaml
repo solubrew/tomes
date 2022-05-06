@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229'
+    chainId: null
+    decimals: null
+    description: Zenfuse (ZEFU) is a cryptocurrency and operates on the Ethereum platform.
+      Zenfuse has a current supply of 200,000,000 with 0 in circulation. The last
+      known price of Zenfuse is 0.09095438 USD and is down -29.67 over the last 24
+      hours. It is currently trading on 3 active market(s) with $808,652.46 traded
+      over the last 24 hours. More information can be found at https://zenfuse.io/.
+    logoURI: null
+    name: Zenfuse
+    symbol: ZEFU
+    type: null

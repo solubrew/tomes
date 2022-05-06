@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x49e833337ece7afe375e44f4e3e8481029218e5c'
+    chainId: null
+    decimals: null
+    description: Value Liquidity (VALUE) is a cryptocurrency and operates on the Ethereum
+      platform. Value Liquidity has a current supply of 0. The last known price of
+      Value Liquidity is 3.62543356 USD and is up 15.26 over the last 24 hours. It
+      is currently trading on 27 active market(s) with $38,940,240.23 traded over
+      the last 24 hours. More information can be found at https://valuedefi.io.
+    logoURI: null
+    name: Value Liquidity
+    symbol: VALUE
+    type: null

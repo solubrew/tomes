@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29'
+    chainId: null
+    decimals: null
+    description: Timers (IPM) is a cryptocurrency and operates on the Ethereum platform.
+      Timers has a current supply of 3,347,380 with 0 in circulation. The last known
+      price of Timers is 0.0812574 USD and is up 2.55 over the last 24 hours. It is
+      currently trading on 3 active market(s) with $62,031.97 traded over the last
+      24 hours. More information can be found at https://timers.network/.
+    logoURI: null
+    name: Timers
+    symbol: IPM
+    type: null

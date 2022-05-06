@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x60571e95e12c78cba5223042692908f0649435a5'
+    chainId: null
+    decimals: null
+    description: PLAAS FARMERS TOKEN (PLAAS) is a cryptocurrency and operates on the
+      Ethereum platform. PLAAS FARMERS TOKEN has a current supply of 50,000,000 with
+      27,100,930.72823226 in circulation. The last known price of PLAAS FARMERS TOKEN
+      is 0.0025044 USD and is down -13.62 over the last 24 hours. It is currently
+      trading on 5 active market(s) with $63,292.91 traded over the last 24 hours.
+      More information can be found at https://plaas.io.
+    logoURI: null
+    name: PLAAS FARMERS TOKEN
+    symbol: PLAAS
+    type: null

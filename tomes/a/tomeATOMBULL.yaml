@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x75F0038B8fbfCCAFe2aB9a51431658871bA5182C'
+    chainId: null
+    decimals: null
+    description: 3X Long Cosmos Token (ATOMBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Long Cosmos Token has a current supply of 2,055.22903127
+      with 0 in circulation. The last known price of 3X Long Cosmos Token is 20.30508522
+      USD and is up 7.18 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $16,479.87 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/ATOMBULL.
+    logoURI: null
+    name: 3X Long Cosmos Token
+    symbol: ATOMBULL
+    type: null

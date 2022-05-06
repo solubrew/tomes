@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD378a2a4E37025F87528c7C1a4224B0A18F761Eb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BELLO_TOKEN
+    symbol: BELLO
+    type: null

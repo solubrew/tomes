@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x694d6AB8B31BbA22CcB670889E63c08193b837C7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Liquidity StakeD
+    symbol: LSD
+    type: null

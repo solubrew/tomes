@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x322f4f6a48329690957a3bcbd1301516c2b83c1f'
+    chainId: null
+    decimals: null
+    description: MesChain (MES) is a cryptocurrency and operates on the Ethereum platform.
+      MesChain has a current supply of 7,000,000,000 with 774,677,652 in circulation.
+      The last known price of MesChain is 0.00005367 USD and is down -12.65 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $111.50 traded
+      over the last 24 hours. More information can be found at https://www.meschain.io.
+    logoURI: null
+    name: MesChain
+    symbol: MES
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44'
+    chainId: null
+    decimals: null
+    description: Keep3rV1 (KP3R) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. Keep3rV1 has a current supply of 200,001. The last
+      known price of Keep3rV1 is 464.79068199 USD and is up 14.15 over the last 24
+      hours. It is currently trading on 11 active market(s) with $19,287,578.16 traded
+      over the last 24 hours. More information can be found at https://keep3r.network/.
+    logoURI: null
+    name: Keep3rV1
+    symbol: KP3R
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcfd6ae8bf13f42de14867351eaff7a8a3b9fbbe7'
+    chainId: null
+    decimals: null
+    description: SINERGIA (SNG) is a cryptocurrency and operates on the Ethereum platform.
+      SINERGIA has a current supply of 20,000,000 with 0 in circulation. The last
+      known price of SINERGIA is 0.05290915 USD and is down -1.31 over the last 24
+      hours. It is currently trading on 2 active market(s) with $659.57 traded over
+      the last 24 hours. More information can be found at https://www.sinergiablockchain.org/_/index_en.html.
+    logoURI: null
+    name: SINERGIA
+    symbol: SNG
+    type: null

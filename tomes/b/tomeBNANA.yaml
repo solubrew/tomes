@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x07ef9e82721ac16809d24dafbe1792ce01654db4'
+    chainId: null
+    decimals: null
+    description: Chimpion (BNANA) is a cryptocurrency and operates on the Ethereum
+      platform. Chimpion has a current supply of 100,000,000,000 with 31,727,387.34575
+      in circulation. The last known price of Chimpion is 1.83518557 USD and is up
+      1.42 over the last 24 hours. It is currently trading on 6 active market(s) with
+      $442,463.54 traded over the last 24 hours. More information can be found at
+      https://www.chimpion.io.
+    logoURI: null
+    name: Chimpion
+    symbol: BNANA
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc'
+    chainId: null
+    decimals: null
+    description: GoldMint (MNTP) is a cryptocurrency and operates on the Ethereum
+      platform. GoldMint has a current supply of 10,000,000 with 1,914,996.84042279
+      in circulation. The last known price of GoldMint is 0.17586128 USD and is up
+      32.54 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $857.90 traded over the last 24 hours. More information can be found at
+      https://www.goldmint.io/.
+    logoURI: null
+    name: GoldMint
+    symbol: MNTP
+    type: null

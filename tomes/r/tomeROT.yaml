@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2'
+    chainId: null
+    decimals: null
+    description: Rotten (ROT) is a cryptocurrency and operates on the Ethereum platform.
+      Rotten has a current supply of 41,319,820.97115105. The last known price of
+      Rotten is 0.00618897 USD and is down -13.87 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $10,301.10 traded over the last 24 hours.
+      More information can be found at https://rottenswap.org/#/.
+    logoURI: null
+    name: Rotten
+    symbol: ROT
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc80c5e40220172b36adee2c951f26f2a577810c5'
+    chainId: null
+    decimals: null
+    description: Bankera (BNK) is a cryptocurrency and operates on the Ethereum platform.
+      Bankera has a current supply of 25,000,000,000 with 24,618,912,107.742558 in
+      circulation. The last known price of Bankera is 0.00105507 USD and is up 20.63
+      over the last 24 hours. It is currently trading on 5 active market(s) with $12,691.92
+      traded over the last 24 hours. More information can be found at https://bankera.com/.
+    logoURI: null
+    name: Bankera
+    symbol: BNK
+    type: null

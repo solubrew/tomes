@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7b123f53421b1bf8533339bfbdc7c98aa94163db'
+    chainId: null
+    decimals: null
+    description: DFOhub (BUIDL) is a cryptocurrency and operates on the Ethereum platform.
+      DFOhub has a current supply of 30,000,000 with 0 in circulation. The last known
+      price of DFOhub is 1.19100072 USD and is up 89.28 over the last 24 hours. It
+      is currently trading on 8 active market(s) with $1,070,345.21 traded over the
+      last 24 hours. More information can be found at https://dfohub.com.
+    logoURI: null
+    name: DFOhub
+    symbol: BUIDL
+    type: null

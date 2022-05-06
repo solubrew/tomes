@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0Ac19d0617AF7F95F154Ae2CDFAa6F2C9DcEC8F3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Wrapped CheezeWizards
+    symbol: WCW
+    type: null

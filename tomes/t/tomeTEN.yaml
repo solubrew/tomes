@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdd16ec0f66e54d453e6756713e533355989040e4'
+    chainId: null
+    decimals: null
+    description: Tokenomy (TEN) is a cryptocurrency and operates on the Ethereum platform.
+      Tokenomy has a current supply of 200,000,000. The last known price of Tokenomy
+      is 0.02548814 USD and is up 0.58 over the last 24 hours. It is currently trading
+      on 7 active market(s) with $297,763.04 traded over the last 24 hours. More information
+      can be found at https://www.tokenomy.com/.
+    logoURI: null
+    name: Tokenomy
+    symbol: TEN
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x28cb7e841ee97947a86B06fA4090C8451f64c0be'
+    chainId: null
+    decimals: null
+    description: YF Link (YFL) is a cryptocurrency and operates on the Ethereum platform.
+      YF Link has a current supply of 52,000 with 50,114.73633112 in circulation.
+      The last known price of YF Link is 490.82247197 USD and is down -9.63 over the
+      last 24 hours. It is currently trading on 17 active market(s) with $1,921,111.49
+      traded over the last 24 hours. More information can be found at https://yflink.io/.
+    logoURI: null
+    name: YF Link
+    symbol: YFL
+    type: null

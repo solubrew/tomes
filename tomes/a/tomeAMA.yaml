@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x13A863E9Bc99B926ea8E153513B85695dDCf9826'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ADAMASCOIN
+    symbol: AMA
+    type: null

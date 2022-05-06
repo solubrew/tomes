@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x86642d169db9f57a02c65052049cbbbfb3e3b08c'
+    chainId: null
+    decimals: null
+    description: dRAY (DRAY) is a cryptocurrency and operates on the Ethereum platform.
+      dRAY has a current supply of 3,000,000 with 0 in circulation. The last known
+      price of dRAY is 1.27401022 USD and is up 4.93 over the last 24 hours. More
+      information can be found at https://dray.digital/.
+    logoURI: null
+    name: dRAY
+    symbol: DRAY
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbF4a2DdaA16148a9D0fA2093FfAC450ADb7cd4aa'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ethereum Money
+    symbol: ETHMNY
+    type: null

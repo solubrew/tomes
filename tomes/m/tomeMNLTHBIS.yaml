@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6d4bbC0387dD4759EEe30f6A482AC6dC2Df3Facf'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: MNLTHBIS
+    type: null

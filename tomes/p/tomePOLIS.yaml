@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x622f2962ae78e8686ecc1e30cf2f9a6e5ac35626'
+    chainId: null
+    decimals: null
+    description: Polis (POLIS) is a cryptocurrency and operates on the Ethereum platform.
+      Users are able to generate POLIS through the process of mining. Polis has a
+      current supply of 9,831,890.56695441. The last known price of Polis is 0.4454898
+      USD and is up 2.02 over the last 24 hours. It is currently trading on 6 active
+      market(s) with $3,285.69 traded over the last 24 hours. More information can
+      be found at https://polispay.org/.
+    logoURI: null
+    name: Polis
+    symbol: POLIS
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x447345145207e06075E264ac8f7862560f33742c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Tobiasz Horodko Token
+    symbol: TH
+    type: null

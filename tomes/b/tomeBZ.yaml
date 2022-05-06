@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4375e7ad8a01b8ec3ed041399f62d9cd120e0063'
+    chainId: null
+    decimals: null
+    description: Bit-Z Token (BZ) is a cryptocurrency and operates on the Ethereum
+      platform. Bit-Z Token has a current supply of 674,513,630 with 125,046,554.6999999
+      in circulation. The last known price of Bit-Z Token is 0.07144385 USD and is
+      down -2.85 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $1,884,050.08 traded over the last 24 hours. More information can be found
+      at https://www.bitz.top/.
+    logoURI: null
+    name: Bit-Z Token
+    symbol: BZ
+    type: null

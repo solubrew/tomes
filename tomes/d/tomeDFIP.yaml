@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd89A909648e28e8352b63b78007f7fF144f434E9'
+    chainId: null
+    decimals: null
+    description: DeFi Insurance Protocol (DFIP) is a cryptocurrency and operates on
+      the Ethereum platform. DeFi Insurance Protocol has a current supply of 0. The
+      last known price of DeFi Insurance Protocol is 0.00000575 USD and is up 1.42
+      over the last 24 hours. It is currently trading on 1 active market(s) with $362.05
+      traded over the last 24 hours. More information can be found at https://dfip.io/.
+    logoURI: null
+    name: DeFi Insurance Protocol
+    symbol: DFIP
+    type: null

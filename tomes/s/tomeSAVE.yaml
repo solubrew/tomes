@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc1eecf1f4af8eb9a2a19f6c26b434aa96ce859e1'
+    chainId: null
+    decimals: null
+    description: SaveToken (SAVE) is a cryptocurrency and operates on the Ethereum
+      platform. SaveToken has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of SaveToken is 0.00469858 USD and is down -0.08 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $1.08 traded
+      over the last 24 hours. More information can be found at https://savetoken.us/.
+    logoURI: null
+    name: SaveToken
+    symbol: SAVE
+    type: null

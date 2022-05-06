@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc21dBEE65D62770953035f0434C532d578a666c9'
+    chainId: null
+    decimals: null
+    description: CryptoEnergy (CNRG) is a cryptocurrency launched in 2019and operates
+      on the Ethereum platform. CryptoEnergy has a current supply of 3,675,000 with
+      27,700 in circulation. The last known price of CryptoEnergy is 12.01713886 USD
+      and is down -0.01 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $5,227.34 traded over the last 24 hours. More information can
+      be found at https://cryptoenergy.io/en/.
+    logoURI: null
+    name: CryptoEnergy
+    symbol: CNRG
+    type: null

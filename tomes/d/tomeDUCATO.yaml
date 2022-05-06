@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa117ea1c0c85CEf648df2b6f40e50bb5475C228d'
+    chainId: null
+    decimals: null
+    description: Ducato Protocol Token (DUCATO) is a cryptocurrency and operates on
+      the Ethereum platform. Ducato Protocol Token has a current supply of 50,000,000
+      with 0 in circulation. The last known price of Ducato Protocol Token is 14.37404716
+      USD and is up 0.41 over the last 24 hours. It is currently trading on 6 active
+      market(s) with $1,396,385.38 traded over the last 24 hours. More information
+      can be found at http://ducato.io/.
+    logoURI: null
+    name: Ducato Protocol Token
+    symbol: DUCATO
+    type: null

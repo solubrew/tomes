@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x075190c6130ea0a3a7e40802f1d77f4ea8f38fe2'
+    chainId: null
+    decimals: null
+    description: nYFI (N0031) is a cryptocurrency and operates on the Ethereum platform.
+      nYFI has a current supply of 1,353,132 with 0 in circulation. The last known
+      price of nYFI is 0.45515199 USD and is up 9.71 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $1,814.22 traded over the last
+      24 hours. More information can be found at https://nestprotocol.org/.
+    logoURI: null
+    name: nYFI
+    symbol: N0031
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x56325d180ec3878a9028afc7b0edcee7486cc9df'
+    chainId: null
+    decimals: null
+    description: Fountain (FTN) is a cryptocurrency and operates on the Ethereum platform.
+      Fountain has a current supply of 2,208,919,510.99 with 88,674,657.8900218 in
+      circulation. The last known price of Fountain is 0.00757064 USD and is down
+      -9.65 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $4,211.74 traded over the last 24 hours. More information can be found
+      at https://fountainhub.com.
+    logoURI: null
+    name: Fountain
+    symbol: FTN
+    type: null

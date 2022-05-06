@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3b9e094d56103611f0acefdab43182347ba60df4'
+    chainId: null
+    decimals: null
+    description: PANTHEON X (XPN) is a cryptocurrency and operates on the Ethereum
+      platform. PANTHEON X has a current supply of 770,000,000 with 125,315,944.95286357
+      in circulation. The last known price of PANTHEON X is 0.00455462 USD and is
+      up 4.81 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $53,876.36 traded over the last 24 hours. More information can be found
+      at https://pantheonx.io/.
+    logoURI: null
+    name: PANTHEON X
+    symbol: XPN
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xed0439eacf4c4965ae4613d77a5c2efe10e5f183'
+    chainId: null
+    decimals: null
+    description: Shroom.Finance (SHROOM) is a cryptocurrency and operates on the Ethereum
+      platform. Shroom.Finance has a current supply of 0. The last known price of
+      Shroom.Finance is 0.05025621 USD and is up 3.92 over the last 24 hours. It is
+      currently trading on 5 active market(s) with $145,369.10 traded over the last
+      24 hours. More information can be found at https://shroom.finance/.
+    logoURI: null
+    name: Shroom.Finance
+    symbol: SHROOM
+    type: null

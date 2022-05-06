@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x250a3500f48666561386832f1f1f1019b89a2699'
+    chainId: null
+    decimals: null
+    description: SAFE2 (SAFE2) is a cryptocurrency and operates on the Ethereum platform.
+      SAFE2 has a current supply of 52,689. The last known price of SAFE2 is 233.0413513
+      USD and is up 7.34 over the last 24 hours. More information can be found at
+      http://coverprotocol.com/.
+    logoURI: null
+    name: SAFE2
+    symbol: SAFE2
+    type: null

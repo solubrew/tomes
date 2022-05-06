@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x469E66e06fEc34839E5eB1273ba85A119B8D702F'
+    chainId: null
+    decimals: null
+    description: Degov (DEGOV) is a cryptocurrency and operates on the Ethereum platform.
+      Degov has a current supply of 0. The last known price of Degov is 52.92242453
+      USD and is up 37.01 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $429,205.85 traded over the last 24 hours. More information can
+      be found at https://debaseonomics.io/.
+    logoURI: null
+    name: Degov
+    symbol: DEGOV
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe7e4279b80d319ede2889855135a22021baf0907'
+    chainId: null
+    decimals: null
+    description: ZeusNetwork (ZEUS) is a cryptocurrency and operates on the Ethereum
+      platform. ZeusNetwork has a current supply of 100,000,000,000 with 70,000,000,000
+      in circulation. The last known price of ZeusNetwork is 0.00000019 USD and is
+      down -0.46 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://zeusfundme.com.
+    logoURI: null
+    name: ZeusNetwork
+    symbol: ZEUS
+    type: null

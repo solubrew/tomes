@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xECbF566944250ddE88322581024E611419715f7A'
+    chainId: null
+    decimals: null
+    description: xBTC (xBTC) is a cryptocurrency and operates on the Ethereum platform.
+      xBTC has a current supply of 2,629,685.65438285 with 1,543,563.00367693 in circulation.
+      The last known price of xBTC is 0.53911264 USD and is up 17.93 over the last
+      24 hours. It is currently trading on 3 active market(s) with $9,668.52 traded
+      over the last 24 hours. More information can be found at https://xbtc.fi/.
+    logoURI: null
+    name: xBTC
+    symbol: xBTC
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6251583e7D997DF3604bc73B9779196e94A090Ce'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Hercules
+    symbol: HERC
+    type: null

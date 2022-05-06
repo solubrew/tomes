@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbA7c7c3E91445f6BD6424C7f3945C3bE73FD280d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CRWNCOIN
+    symbol: CRWN
+    type: null

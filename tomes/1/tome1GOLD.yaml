@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xda4129919f964a3a526d3182bb03e6449e5a8872'
+    chainId: null
+    decimals: null
+    description: 1irstGold (1GOLD) is a cryptocurrency and operates on the Ethereum
+      platform. 1irstGold has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of 1irstGold is 59.92554078 USD and is down -1.60 over
+      the last 24 hours. It is currently trading on 4 active market(s) with $47,398.42
+      traded over the last 24 hours. More information can be found at https://1irstgold.com/.
+    logoURI: null
+    name: 1irstGold
+    symbol: 1GOLD
+    type: null

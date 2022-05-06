@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc86d054809623432210c107af2e3f619dcfbf652'
+    chainId: null
+    decimals: null
+    description: Sentinel Protocol (UPP) is a cryptocurrency and operates on the Ethereum
+      platform. Sentinel Protocol has a current supply of 500,000,000.00000006 with
+      417,137,682.25 in circulation. The last known price of Sentinel Protocol is
+      0.02230037 USD and is down -2.94 over the last 24 hours. It is currently trading
+      on 7 active market(s) with $1,884,975.94 traded over the last 24 hours. More
+      information can be found at https://sentinelprotocol.io.
+    logoURI: null
+    name: Sentinel Protocol
+    symbol: UPP
+    type: null

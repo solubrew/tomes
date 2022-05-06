@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xacACa5b8805636608e14C64b0bFFfC2Deb2C6cEc'
+    chainId: null
+    decimals: null
+    description: ROMToken (ROM) is a cryptocurrency and operates on the Ethereum platform.
+      ROMToken has a current supply of 350,000,000,000 with 0 in circulation. The
+      last known price of ROMToken is 0.00000923 USD and is up 0.00 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours.
+    logoURI: null
+    name: ROMToken
+    symbol: ROM
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x15a664416e42766a6cc0a1221d9c088548a6e731'
+    chainId: null
+    decimals: null
+    description: WEBN token (WEBN) is a cryptocurrency and operates on the Ethereum
+      platform. WEBN token has a current supply of 6,000,000,000 with 0 in circulation.
+      The last known price of WEBN token is 0.00000334 USD and is up 6.83 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $4,448.22
+      traded over the last 24 hours. More information can be found at https://www.webinnovationph.com.
+    logoURI: null
+    name: WEBN token
+    symbol: WEBN
+    type: null

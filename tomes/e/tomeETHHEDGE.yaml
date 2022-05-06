@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x10e1E953DDBa597011f8bFA806aB0cC3415a622b'
+    chainId: null
+    decimals: null
+    description: 1X Short Ethereum Token (ETHHEDGE) is a cryptocurrency and operates
+      on the Ethereum platform. 1X Short Ethereum Token has a current supply of 1,144.14806119
+      with 0 in circulation. The last known price of 1X Short Ethereum Token is 287.05629225
+      USD and is down -3.24 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $91,817.59 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/ETHHEDGE.
+    logoURI: null
+    name: 1X Short Ethereum Token
+    symbol: ETHHEDGE
+    type: null

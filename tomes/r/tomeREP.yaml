@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1985365e9f78359a9B6AD760e32412f4a445E862'
+    chainId: null
+    decimals: null
+    description: Augur (REP) is a cryptocurrency and operates on the Ethereum platform.
+      Augur has a current supply of 11,000,000. The last known price of Augur is 15.33925704
+      USD and is up 8.85 over the last 24 hours. It is currently trading on 84 active
+      market(s) with $9,100,425.92 traded over the last 24 hours. More information
+      can be found at http://www.augur.net/.
+    logoURI: null
+    name: Augur
+    symbol: REP
+    type: null

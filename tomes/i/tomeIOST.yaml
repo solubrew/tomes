@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: IOSToken
+    symbol: IOST
+    type: null

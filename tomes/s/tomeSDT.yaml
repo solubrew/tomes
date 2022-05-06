@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5aD1D541584bE30CE5C43Ab99a788D6461577be4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Stardust
+    symbol: SDT
+    type: null

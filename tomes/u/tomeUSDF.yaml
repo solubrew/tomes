@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x34aA2f0aC4407a978704bff8Bf1F5266b5915Ad6'
+    chainId: null
+    decimals: null
+    description: FolgoryUSD (USDF) is a cryptocurrency and operates on the Ethereum
+      platform. FolgoryUSD has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of FolgoryUSD is 0.99678511 USD and is down -0.37 over
+      the last 24 hours. It is currently trading on 16 active market(s) with $987,470.17
+      traded over the last 24 hours. More information can be found at https://folgory.com.
+    logoURI: null
+    name: FolgoryUSD
+    symbol: USDF
+    type: null

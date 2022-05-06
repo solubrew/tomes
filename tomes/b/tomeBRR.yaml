@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x49f941fa7f5731fe302068d79c8604c24c5e7196'
+    chainId: null
+    decimals: null
+    description: Brr (BRR) is a cryptocurrency and operates on the Ethereum platform.
+      Brr has a current supply of 2,199,999,694,733.93 with 0 in circulation. The
+      last known price of Brr is 0.00420566 USD and is up 0.00 over the last 24 hours.
+      It is currently trading on 0 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://www.brr.finance/.
+    logoURI: null
+    name: Brr
+    symbol: BRR
+    type: null

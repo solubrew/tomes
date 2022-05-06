@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E'
+    chainId: null
+    decimals: null
+    description: zLOT Finance (ZLOT) is a cryptocurrency and operates on the Ethereum
+      platform. zLOT Finance has a current supply of 8,888 with 0 in circulation.
+      The last known price of zLOT Finance is 1,530.72749949 USD and is down -17.42
+      over the last 24 hours. It is currently trading on 1 active market(s) with $92,382.44
+      traded over the last 24 hours. More information can be found at https://zlot.finance/.
+    logoURI: null
+    name: zLOT Finance
+    symbol: ZLOT
+    type: null

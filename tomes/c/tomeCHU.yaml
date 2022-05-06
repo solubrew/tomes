@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3d9a801720cdBcE293EDBC7d8dcd82D6cEaabBd3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CentHungary
+    symbol: CHU
+    type: null

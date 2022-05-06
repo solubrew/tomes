@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6af4429a10e14098DA1F8839C9BD88a83Bf84a2f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Kadir Has Token
+    symbol: KHAS
+    type: null

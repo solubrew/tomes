@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8367322d7Ad9917aEb1C8EBedf322F7125a204E2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SFC
+    symbol: SFC
+    type: null

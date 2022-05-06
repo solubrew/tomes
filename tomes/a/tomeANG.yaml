@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x130914E1B240a7F4c5D460B7d3a2Fd3846b576fa'
+    chainId: null
+    decimals: null
+    description: Aureus Nummus Gold (ANG) is a cryptocurrency and operates on the
+      Ethereum platform. Aureus Nummus Gold has a current supply of 60,000,000,000,000
+      with 0 in circulation. The last known price of Aureus Nummus Gold is 0.00049021
+      USD and is down -0.01 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $1,590.79 traded over the last 24 hours. More information can
+      be found at https://www.an.gold/.
+    logoURI: null
+    name: Aureus Nummus Gold
+    symbol: ANG
+    type: null

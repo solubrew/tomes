@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E'
+    chainId: null
+    decimals: null
+    description: Hi Mutual Society (HMC) is a cryptocurrency and operates on the Ethereum
+      platform. Hi Mutual Society has a current supply of 1,000,000,000 with 404,100,000
+      in circulation. The last known price of Hi Mutual Society is 0.00344937 USD
+      and is down -3.91 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $10,706.82 traded over the last 24 hours. More information can
+      be found at http://hms.io/.
+    logoURI: null
+    name: Hi Mutual Society
+    symbol: HMC
+    type: null

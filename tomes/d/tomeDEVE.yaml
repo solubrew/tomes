@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e'
+    chainId: null
+    decimals: null
+    description: Divert Finance (DEVE) is a cryptocurrency launched in 1970and operates
+      on the Ethereum platform. Divert Finance has a current supply of 70,000 with
+      0 in circulation. The last known price of Divert Finance is 155.31133392 USD
+      and is down -0.99 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $72,956.05 traded over the last 24 hours. More information can
+      be found at https://divertfinance.com/.
+    logoURI: null
+    name: Divert Finance
+    symbol: DEVE
+    type: null

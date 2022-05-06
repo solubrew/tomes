@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf3bE20da25B31Bd6Ee4CE4496985b2064304C125'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MYUBI Token
+    symbol: MYU
+    type: null

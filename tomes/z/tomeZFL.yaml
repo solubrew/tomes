@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x19fFfd124CD9089E21026d10dA97f8cD6B442Bff'
+    chainId: null
+    decimals: null
+    description: Zuflo Coin (ZFL) is a cryptocurrency and operates on the Ethereum
+      platform. Zuflo Coin has a current supply of 500,000,000 with 64,944,573.42
+      in circulation. The last known price of Zuflo Coin is 0.0016756 USD and is down
+      -5.23 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $9,619.91 traded over the last 24 hours. More information can be found
+      at https://www.zedxe.com/.
+    logoURI: null
+    name: Zuflo Coin
+    symbol: ZFL
+    type: null

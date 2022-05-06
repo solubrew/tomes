@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9E18B959E5eEd7989bF4341f911f21128ecf21CD'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Gemnet
+    symbol: GEMNET
+    type: null

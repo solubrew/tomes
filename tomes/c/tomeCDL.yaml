@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcb17cd357c7acd594717d899ecb9df540f633f27'
+    chainId: null
+    decimals: null
+    description: CoinDeal Token (CDL) is a cryptocurrency and operates on the Ethereum
+      platform. CoinDeal Token has a current supply of 50,000,000 with 46,842,401.13997169
+      in circulation. The last known price of CoinDeal Token is 0.01206467 USD and
+      is down -0.17 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $127.60 traded over the last 24 hours. More information can be found at
+      https://token.coindeal.com/.
+    logoURI: null
+    name: CoinDeal Token
+    symbol: CDL
+    type: null

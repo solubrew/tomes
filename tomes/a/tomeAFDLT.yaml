@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD8a8843b0a5aba6B030E92B3F4d669FaD8A5BE50'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AfroDex Labs Token
+    symbol: AFDLT
+    type: null

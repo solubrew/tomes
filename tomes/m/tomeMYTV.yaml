@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x45af324f53a8d7da1752dad74adc1748126d7978'
+    chainId: null
+    decimals: null
+    description: MyTVchain (MYTV) is a cryptocurrency launched in 2018and operates
+      on the Ethereum platform. MyTVchain has a current supply of 3,900,000,000 with
+      0 in circulation. The last known price of MyTVchain is 0.01055851 USD and is
+      up 1.67 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $1,775.74 traded over the last 24 hours. More information can be found
+      at https://mytvchain.io/.
+    logoURI: null
+    name: MyTVchain
+    symbol: MYTV
+    type: null

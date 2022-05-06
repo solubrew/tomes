@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xff19138b039d938db46bdda0067dc4ba132ec71c'
+    chainId: null
+    decimals: null
+    description: Snetwork (SNET) is a cryptocurrency and operates on the Ethereum
+      platform. Snetwork has a current supply of 1,000,000,000 with 221,757,486.9351466
+      in circulation. The last known price of Snetwork is 0.00281259 USD and is up
+      26.37 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $118,472.37 traded over the last 24 hours. More information can be found
+      at https://www.snetwork.io/.
+    logoURI: null
+    name: Snetwork
+    symbol: SNET
+    type: null

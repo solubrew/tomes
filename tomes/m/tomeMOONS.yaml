@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x260e63d91fccc499606bae3fe945c4ed1cf56a56'
+    chainId: null
+    decimals: null
+    description: MoonTools (MOONS) is a cryptocurrency and operates on the Ethereum
+      platform. MoonTools has a current supply of 50,000 with 27,500 in circulation.
+      The last known price of MoonTools is 5.71324572 USD and is up 3.44 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $95.97 traded
+      over the last 24 hours. More information can be found at https://www.moontools.io.
+    logoURI: null
+    name: MoonTools
+    symbol: MOONS
+    type: null

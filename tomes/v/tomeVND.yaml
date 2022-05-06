@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFC69e0771bD474e0575763bCb6B87d279e182fE5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: "\u0110\u1ED3ng Vi\u1EC7t Nam"
+    symbol: VND
+    type: null

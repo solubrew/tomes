@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x286bda1413a2df81731d4930ce2f862a35a609fe'
+    chainId: null
+    decimals: null
+    description: Wabi (WABI) is a cryptocurrency and operates on the Ethereum platform.
+      Wabi has a current supply of 100,000,000 with 90,699,999.33824052 in circulation.
+      The last known price of Wabi is 0.08744763 USD and is up 3.39 over the last
+      24 hours. It is currently trading on 14 active market(s) with $319,202.67 traded
+      over the last 24 hours. More information can be found at https://wabi.io.
+    logoURI: null
+    name: Wabi
+    symbol: WABI
+    type: null

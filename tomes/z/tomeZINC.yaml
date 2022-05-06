@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea'
+    chainId: null
+    decimals: null
+    description: ZINC (ZINC) is a cryptocurrency and operates on the Ethereum platform.
+      ZINC has a current supply of 22,879,999 with 5,583,588.23004656 in circulation.
+      The last known price of ZINC is 0.03231556 USD and is down -5.31 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://zinc.work/.
+    logoURI: null
+    name: ZINC
+    symbol: ZINC
+    type: null

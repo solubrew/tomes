@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x86c8bF8532AA2601151c9DbbF4e4C4804e042571'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Simoleon
+    symbol: SIM
+    type: null

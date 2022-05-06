@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD60314496bdd92629DACfB50cC1F6c6c18d98B41'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: REVA
+    symbol: REV
+    type: null

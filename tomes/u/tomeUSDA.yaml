@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3c7b464376db7c9927930cf50eefdea2eff3a66a'
+    chainId: null
+    decimals: null
+    description: USDA (USDA) is a cryptocurrency and operates on the Ethereum platform.
+      USDA has a current supply of 1,000,000,000 with 0 in circulation. The last known
+      price of USDA is 0.02029755 USD and is down -0.39 over the last 24 hours. It
+      is currently trading on 4 active market(s) with $202.95 traded over the last
+      24 hours. More information can be found at https://usda.cc/en.
+    logoURI: null
+    name: USDA
+    symbol: USDA
+    type: null

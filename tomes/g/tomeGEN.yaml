@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DAOstack
+    symbol: GEN
+    type: null

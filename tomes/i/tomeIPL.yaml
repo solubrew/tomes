@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80'
+    chainId: null
+    decimals: null
+    description: VouchForMe (IPL) is a cryptocurrency and operates on the Ethereum
+      platform. VouchForMe has a current supply of 300,000,000 with 243,000,000 in
+      circulation. The last known price of VouchForMe is 0.00076271 USD and is up
+      32.95 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $23,892.48 traded over the last 24 hours. More information can be found
+      at https://vouchforme.co/.
+    logoURI: null
+    name: VouchForMe
+    symbol: IPL
+    type: null

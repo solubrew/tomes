@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x93f54091E83614ED553b31833cf24DbCd0952428'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Surf Coin
+    symbol: SURF
+    type: null

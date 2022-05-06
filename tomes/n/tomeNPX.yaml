@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x28b5E12CcE51f15594B0b91d5b5AdaA70F684a02'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: NapoleonX Token
+    symbol: NPX
+    type: null

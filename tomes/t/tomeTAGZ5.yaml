@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4d0425e47ee2d16b94c036715dfcb52a0cebc4dc'
+    chainId: null
+    decimals: null
+    description: TAGZ5 (TAGZ5) is a cryptocurrency and operates on the Ethereum platform.
+      TAGZ5 has a current supply of 500,000,000 with 385,097,302.0786052 in circulation.
+      The last known price of TAGZ5 is 0.0001661 USD and is up 5.17 over the last
+      24 hours. More information can be found at http://tagz5.com.
+    logoURI: null
+    name: TAGZ5
+    symbol: TAGZ5
+    type: null

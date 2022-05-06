@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x256845e721c0c46d54e6afbd4fa3b52cb72353ea'
+    chainId: null
+    decimals: null
+    description: UniDollar (UNIUSD) is a cryptocurrency and operates on the Ethereum
+      platform. UniDollar has a current supply of 125,000,000 with 0 in circulation.
+      The last known price of UniDollar is 0.00024893 USD and is down -1.07 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://unidollar.network.
+    logoURI: null
+    name: UniDollar
+    symbol: UNIUSD
+    type: null

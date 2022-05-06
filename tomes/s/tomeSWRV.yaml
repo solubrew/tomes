@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb8baa0e4287890a5f79863ab62b7f175cecbd433'
+    chainId: null
+    decimals: null
+    description: Swerve (SWRV) is a cryptocurrency and operates on the Ethereum platform.
+      Swerve has a current supply of 10,413,520.65948797 with 8,563,598.11560766 in
+      circulation. The last known price of Swerve is 0.80450106 USD and is up 3.96
+      over the last 24 hours. It is currently trading on 40 active market(s) with
+      $3,070,989.34 traded over the last 24 hours. More information can be found at
+      https://swerve.fi/.
+    logoURI: null
+    name: Swerve
+    symbol: SWRV
+    type: null

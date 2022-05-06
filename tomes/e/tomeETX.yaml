@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb33a7597d65f8d823b71fC6e3b6A5039298ffD23'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Etherneum
+    symbol: ETX
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x048fe49be32adfc9ed68c37d32b5ec9df17b3603'
+    chainId: null
+    decimals: null
+    description: Skrumble Network (SKM) is a cryptocurrency and operates on the Ethereum
+      platform. Skrumble Network has a current supply of 1,500,000,000 with 1,021,680,996.3403538
+      in circulation. The last known price of Skrumble Network is 0.00251273 USD and
+      is up 8.62 over the last 24 hours. It is currently trading on 20 active market(s)
+      with $1,336,315.96 traded over the last 24 hours. More information can be found
+      at https://skrumble.network/.
+    logoURI: null
+    name: Skrumble Network
+    symbol: SKM
+    type: null

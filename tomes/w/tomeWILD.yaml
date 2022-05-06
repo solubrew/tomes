@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD3C00772B24D997A812249ca637a921e81357701'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: WILD Token
+    symbol: WILD
+    type: null

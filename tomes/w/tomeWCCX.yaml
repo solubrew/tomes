@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x21686F8ce003a95c99aCd297E302FAACf742F7d4'
+    chainId: null
+    decimals: null
+    description: Wrapped Conceal (WCCX) is a cryptocurrency and operates on the Ethereum
+      platform. Wrapped Conceal has a current supply of 281,547 with 0 in circulation.
+      The last known price of Wrapped Conceal is 0.27666199 USD and is up 2.97 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://sale.conceal.cloud/home.
+    logoURI: null
+    name: Wrapped Conceal
+    symbol: WCCX
+    type: null

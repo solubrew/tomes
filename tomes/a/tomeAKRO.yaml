@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Akropolis
+    symbol: AKRO
+    type: null

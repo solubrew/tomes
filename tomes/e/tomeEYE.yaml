@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x155ff1A85F440EE0A382eA949f24CE4E0b751c65'
+    chainId: null
+    decimals: null
+    description: Behodler (EYE) is a cryptocurrency and operates on the Ethereum platform.
+      Behodler has a current supply of 10,000,000 with 0 in circulation. The last
+      known price of Behodler is 0.01858035 USD and is up 4.33 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $1,457.23 traded over the
+      last 24 hours. More information can be found at https://behodler.io/.
+    logoURI: null
+    name: Behodler
+    symbol: EYE
+    type: null

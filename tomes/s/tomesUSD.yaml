@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0cBE2dF57CA9191B64a7Af3baa3F946fa7Df2F25'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Synth sUSD
+    symbol: sUSD
+    type: null

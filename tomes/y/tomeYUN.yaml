@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x02b3c88b805F1C6982E38eA1D40A1d83F159C3d4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Yun Planet
+    symbol: YUN
+    type: null

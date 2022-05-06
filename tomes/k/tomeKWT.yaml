@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0500461af1EB8078203baE4886652DCe18E7Ec20'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: KWT COIN
+    symbol: KWT
+    type: null

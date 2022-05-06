@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8'
+    chainId: null
+    decimals: null
+    description: Sentivate (SNTVT) is a cryptocurrency and operates on the Ethereum
+      platform. Sentivate has a current supply of 4,200,000,000 with 3,428,244,537.5129123
+      in circulation. The last known price of Sentivate is 0.00307639 USD and is down
+      -7.88 over the last 24 hours. It is currently trading on 9 active market(s)
+      with $125,201.59 traded over the last 24 hours. More information can be found
+      at https://sentivate.com.
+    logoURI: null
+    name: Sentivate
+    symbol: SNTVT
+    type: null

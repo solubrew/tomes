@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1ba05ae30b4bbeb16be6951a709095ad21e3b6fb'
+    chainId: null
+    decimals: null
+    description: United Token (UTED) is a cryptocurrency and operates on the Ethereum
+      platform. United Token has a current supply of 0. The last known price of United
+      Token is 0.01432705 USD and is down -6.36 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $55,618.23 traded over the last 24 hours.
+      More information can be found at https://unitedtoken.eu.
+    logoURI: null
+    name: United Token
+    symbol: UTED
+    type: null

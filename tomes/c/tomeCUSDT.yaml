@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9'
+    chainId: null
+    decimals: null
+    description: Compound USDT (CUSDT) is a cryptocurrency and operates on the Ethereum
+      platform. Compound USDT has a current supply of 4,558,972,537 with 0 in circulation.
+      The last known price of Compound USDT is 0.02043051 USD and is up 0.02 over
+      the last 24 hours. It is currently trading on 5 active market(s) with $968,588.54
+      traded over the last 24 hours. More information can be found at https://compound.finance/.
+    logoURI: null
+    name: Compound USDT
+    symbol: CUSDT
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x13A399Fe6C5B38b247e1477016F5fc7C3F6B3Ccb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GozePayToken
+    symbol: GZPT
+    type: null

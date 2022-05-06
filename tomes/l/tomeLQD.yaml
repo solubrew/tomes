@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4'
+    chainId: null
+    decimals: null
+    description: Liquidity Network (LQD) is a cryptocurrency and operates on the Ethereum
+      platform. Liquidity Network has a current supply of 100,000,000 with 53,334,645.46788763
+      in circulation. The last known price of Liquidity Network is 0.00557898 USD
+      and is up 0.33 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $54,363.29 traded over the last 24 hours. More information can be found
+      at https://liquidity.network/.
+    logoURI: null
+    name: Liquidity Network
+    symbol: LQD
+    type: null

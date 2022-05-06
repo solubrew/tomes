@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA2B14f0E0986d2733B01808491536F923554c903'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ALMEEGRAM
+    symbol: ALMG
+    type: null

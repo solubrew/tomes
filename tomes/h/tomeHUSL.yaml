@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x56be94d29e1125d2d61d06629c1b251d72c1b3b3'
+    chainId: null
+    decimals: null
+    description: The Hustle App (HUSL) is a cryptocurrency and operates on the Ethereum
+      platform. The Hustle App has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of The Hustle App is 0.00019334 USD and is down -0.03 over
+      the last 24 hours. It is currently trading on 5 active market(s) with $178.85
+      traded over the last 24 hours. More information can be found at https://www.hustletoken.org.
+    logoURI: null
+    name: The Hustle App
+    symbol: HUSL
+    type: null

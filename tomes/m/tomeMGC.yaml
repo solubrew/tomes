@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9'
+    chainId: null
+    decimals: null
+    description: MGC Token (MGC) is a cryptocurrency and operates on the Ethereum
+      platform. MGC Token has a current supply of 600,000,000 with 0 in circulation.
+      The last known price of MGC Token is 0.00179482 USD and is down -17.24 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $2,523.93
+      traded over the last 24 hours. More information can be found at http://www.mgctoken.io/.
+    logoURI: null
+    name: MGC Token
+    symbol: MGC
+    type: null

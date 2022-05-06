@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd82bb924a1707950903e2c0a619824024e254cd1'
+    chainId: null
+    decimals: null
+    description: DAOFi (DAOFI) is a cryptocurrency and operates on the Ethereum platform.
+      DAOFi has a current supply of 100,000,000 with 0 in circulation. The last known
+      price of DAOFi is 0.14206982 USD and is down -5.04 over the last 24 hours. More
+      information can be found at https://daofi.finance/.
+    logoURI: null
+    name: DAOFi
+    symbol: DAOFI
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6ec8a24cabdc339a06a172f8223ea557055adaa5'
+    chainId: null
+    decimals: null
+    description: Genaro Network (GNX) is a cryptocurrency and operates on the Ethereum
+      platform. Users are able to generate GNX through the process of mining. Genaro
+      Network has a current supply of 650,000,000 with 258,934,740.4841579 in circulation.
+      The last known price of Genaro Network is 0.01406519 USD and is down -3.65 over
+      the last 24 hours. It is currently trading on 16 active market(s) with $625,185.90
+      traded over the last 24 hours. More information can be found at https://genaro.network/.
+    logoURI: null
+    name: Genaro Network
+    symbol: GNX
+    type: null

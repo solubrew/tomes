@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669'
+    chainId: null
+    decimals: null
+    description: yffi finance (YFFI) is a cryptocurrency and operates on the Ethereum
+      platform. yffi finance has a current supply of 0. The last known price of yffi
+      finance is 6.18844328 USD and is up 11.35 over the last 24 hours. It is currently
+      trading on 12 active market(s) with $194,865.62 traded over the last 24 hours.
+      More information can be found at https://www.yffi.finance/.
+    logoURI: null
+    name: yffi finance
+    symbol: YFFI
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2baac9330cf9ac479d819195794d79ad0c7616e3'
+    chainId: null
+    decimals: null
+    description: adbank (ADB) is a cryptocurrency and operates on the Ethereum platform.
+      adbank has a current supply of 1,000,000,000 with 810,090,210.8358077 in circulation.
+      The last known price of adbank is 0.00088783 USD and is up 7.85 over the last
+      24 hours. It is currently trading on 2 active market(s) with $2,501.86 traded
+      over the last 24 hours. More information can be found at https://adbank.network/.
+    logoURI: null
+    name: adbank
+    symbol: ADB
+    type: null

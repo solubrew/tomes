@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8e3aEb75392ca824d55479CaE07f7f0B765743DD'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MoneyFold Euro
+    symbol: EUR
+    type: null

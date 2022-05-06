@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2167FB82309CF76513E83B25123f8b0559d6b48f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LION
+    symbol: LION
+    type: null

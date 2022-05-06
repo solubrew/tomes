@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7'
+    chainId: null
+    decimals: null
+    description: SUKU (SUKU) is a cryptocurrency and operates on the Ethereum platform.
+      SUKU has a current supply of 1,500,000,000 with 80,526,526.04724407 in circulation.
+      The last known price of SUKU is 0.13902861 USD and is down -1.28 over the last
+      24 hours. It is currently trading on 6 active market(s) with $2,074.89 traded
+      over the last 24 hours. More information can be found at https://www.suku.world/.
+    logoURI: null
+    name: SUKU
+    symbol: SUKU
+    type: null

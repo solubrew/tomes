@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1df6f1bb7454e5e4ba3bca882d3148fbf9b5697a'
+    chainId: null
+    decimals: null
+    description: Yfscience (YFSI) is a cryptocurrency and operates on the Ethereum
+      platform. Yfscience has a current supply of 31,415 with 7,045.98072603 in circulation.
+      The last known price of Yfscience is 8.27463273 USD and is up 13.72 over the
+      last 24 hours. It is currently trading on 4 active market(s) with $3,717.41
+      traded over the last 24 hours. More information can be found at https://yfscience.org/.
+    logoURI: null
+    name: Yfscience
+    symbol: YFSI
+    type: null

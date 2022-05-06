@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9235bda06b8807161b8fbb1e102cb654555b212f'
+    chainId: null
+    decimals: null
+    description: Feellike (FLL) is a cryptocurrency and operates on the Ethereum platform.
+      Feellike has a current supply of 10,068,890.838 with 1,785,468.225 in circulation.
+      The last known price of Feellike is 0.08004754 USD and is down -0.01 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $26.26 traded
+      over the last 24 hours. More information can be found at https://feelliketimetraveler.com/.
+    logoURI: null
+    name: Feellike
+    symbol: FLL
+    type: null

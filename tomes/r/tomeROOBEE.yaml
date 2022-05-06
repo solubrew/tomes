@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa31b1767e09f842ecfd4bc471fe44f830e3891aa'
+    chainId: null
+    decimals: null
+    description: ROOBEE (ROOBEE) is a cryptocurrency and operates on the Ethereum
+      platform. ROOBEE has a current supply of 5,400,000,000 with 2,107,791,616.4438
+      in circulation. The last known price of ROOBEE is 0.00269322 USD and is down
+      -1.87 over the last 24 hours. It is currently trading on 9 active market(s)
+      with $197,676.78 traded over the last 24 hours. More information can be found
+      at https://roobee.io/.
+    logoURI: null
+    name: ROOBEE
+    symbol: ROOBEE
+    type: null

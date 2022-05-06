@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26'
+    chainId: null
+    decimals: null
+    description: Measurable Data Token (MDT) is a cryptocurrency and operates on the
+      Ethereum platform. Measurable Data Token has a current supply of 1,000,000,000
+      with 659,790,346 in circulation. The last known price of Measurable Data Token
+      is 0.01793404 USD and is up 0.49 over the last 24 hours. It is currently trading
+      on 22 active market(s) with $403,948.05 traded over the last 24 hours. More
+      information can be found at http://mdt.io/.
+    logoURI: null
+    name: Measurable Data Token
+    symbol: MDT
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: KickToken
+    symbol: KICK
+    type: null

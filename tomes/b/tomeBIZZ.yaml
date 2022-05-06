@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7a8ca2f815a260660158a38c34ca321a3605ecfe'
+    chainId: null
+    decimals: null
+    description: BIZZCOIN (BIZZ) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. BIZZCOIN has a current supply of 320,000,000 with
+      4,507,789.13850598 in circulation. The last known price of BIZZCOIN is 0.97269833
+      USD and is up 0.14 over the last 24 hours. It is currently trading on 7 active
+      market(s) with $124,785.79 traded over the last 24 hours. More information can
+      be found at https://bizzcoin.com.
+    logoURI: null
+    name: BIZZCOIN
+    symbol: BIZZ
+    type: null

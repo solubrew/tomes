@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5fdB2B0C56Afa73B8ca2228e6aB92Be90325961d'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: SLOTIE
+    type: null

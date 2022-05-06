@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5c437a92e1c60570A43BeD78EB3f9E0EA5121B32'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MetaCartel
+    symbol: META
+    type: null

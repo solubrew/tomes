@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE0502C70e3FeC1A33d2e0760a7A35735A3a6bC8f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GrounderCoin
+    symbol: CRCN
+    type: null

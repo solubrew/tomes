@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xDF2C7238198Ad8B389666574f2d8bc411A4b7428'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Mainframe Token
+    symbol: MFT
+    type: null

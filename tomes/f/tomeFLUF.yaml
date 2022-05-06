@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCcc441ac31f02cD96C153DB6fd5Fe0a2F4e6A68d'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: FLUF
+    type: null

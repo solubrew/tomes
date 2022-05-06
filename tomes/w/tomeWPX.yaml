@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb3BACe433288645114FE8e8aA91F87659CBF665b'
+    chainId: null
+    decimals: null
+    description: Wallet Plus X (WPX) is a cryptocurrency and operates on the Ethereum
+      platform. Wallet Plus X has a current supply of 0. The last known price of Wallet
+      Plus X is 0.00024171 USD and is up 0.00 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $277.65 traded over the last 24 hours. More
+      information can be found at https://wplus.io/.
+    logoURI: null
+    name: Wallet Plus X
+    symbol: WPX
+    type: null

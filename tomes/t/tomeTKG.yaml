@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x48B4a529915D8F19452248c3D2F825786F6C8D2A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TokenGo
+    symbol: TKG
+    type: null

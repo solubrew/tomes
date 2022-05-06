@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf6923F7d96fc22c4b8010a865e41cF7edfB6379C'
+    chainId: null
+    decimals: null
+    description: IOOX System (IOOX) is a cryptocurrency and operates on the Ethereum
+      platform. IOOX System has a current supply of 10,000,000,000 with 0 in circulation.
+      The last known price of IOOX System is 0.00235533 USD and is down -40.70 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $1.85
+      traded over the last 24 hours. More information can be found at https://www.ioox.me/.
+    logoURI: null
+    name: IOOX System
+    symbol: IOOX
+    type: null

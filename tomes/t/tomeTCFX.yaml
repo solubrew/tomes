@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x36dCffe069a3F2878Fab2A46D81e83D462d0cBF7'
+    chainId: null
+    decimals: null
+    description: Tcbcoin (TCFX) is a cryptocurrency and operates on the Ethereum platform.
+      Tcbcoin has a current supply of 50,000,000 with 0 in circulation. The last known
+      price of Tcbcoin is 6.28478489 USD and is up 11.05 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $705,971.79 traded over the
+      last 24 hours. More information can be found at https://tcbtrade.com/.
+    logoURI: null
+    name: Tcbcoin
+    symbol: TCFX
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x02C4C78C462E32cCa4a90Bc499bF411Fb7bc6aFB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: InvestDigital Token
+    symbol: IDT
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xac4d22e40bf0b8ef4750a99ed4e935b99a42685e'
+    chainId: null
+    decimals: null
+    description: Aeryus (AER) is a cryptocurrency and operates on the Ethereum platform.
+      Aeryus has a current supply of 50,000,000.0001 with 12,292,955.0501 in circulation.
+      The last known price of Aeryus is 0.00100351 USD and is up 4.26 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://aeryus.com/.
+    logoURI: null
+    name: Aeryus
+    symbol: AER
+    type: null

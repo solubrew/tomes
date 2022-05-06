@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb0a0a070640b450eb136dc377208469ee4f49fbc'
+    chainId: null
+    decimals: null
+    description: Future1coin (F1C) is a cryptocurrency and operates on the Ethereum
+      platform. Future1coin has a current supply of 300,000,000 with 0 in circulation.
+      The last known price of Future1coin is 0.00017093 USD and is down -1.00 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $5,394.84
+      traded over the last 24 hours. More information can be found at https://future1coin.com/.
+    logoURI: null
+    name: Future1coin
+    symbol: F1C
+    type: null

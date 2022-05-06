@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb19aAe54d4eE672348D749e98cf90C584EF1B1BA'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Generic Altcoin
+    symbol: GA
+    type: null

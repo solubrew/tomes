@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x38bC89cF1f634C71896620bcD807Af235cBdEcd1'
+    chainId: null
+    decimals: null
+    description: QUEENBEE (QBZ) is a cryptocurrency and operates on the Ethereum platform.
+      QUEENBEE has a current supply of 8,000,000,000 with 0 in circulation. The last
+      known price of QUEENBEE is 0.00646612 USD and is down -0.12 over the last 24
+      hours. It is currently trading on 2 active market(s) with $181,546.93 traded
+      over the last 24 hours. More information can be found at https://queenbeecompany.io.
+    logoURI: null
+    name: QUEENBEE
+    symbol: QBZ
+    type: null

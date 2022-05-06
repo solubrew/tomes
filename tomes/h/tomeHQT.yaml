@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3e1d5a855ad9d948373ae68e4fe1f094612b1322'
+    chainId: null
+    decimals: null
+    description: HyperQuant (HQT) is a cryptocurrency and operates on the Ethereum
+      platform. HyperQuant has a current supply of 100,000,000. The last known price
+      of HyperQuant is 0.00025055 USD and is up 54.47 over the last 24 hours. It is
+      currently trading on 3 active market(s) with $4,801.58 traded over the last
+      24 hours. More information can be found at https://hyperquant.net.
+    logoURI: null
+    name: HyperQuant
+    symbol: HQT
+    type: null

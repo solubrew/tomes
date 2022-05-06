@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfc29b6e626b67776675fff55d5bc0452d042f434'
+    chainId: null
+    decimals: null
+    description: BHEX Token (BHT) is a cryptocurrency and operates on the Ethereum
+      platform. BHEX Token has a current supply of 1,357,691,032.1116323 with 195,639,532.11163217
+      in circulation. The last known price of BHEX Token is 0.13803513 USD and is
+      up 0.95 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $58,953.33 traded over the last 24 hours. More information can be found
+      at https://www.hbtc.com/.
+    logoURI: null
+    name: BHEX Token
+    symbol: BHT
+    type: null

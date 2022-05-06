@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3e522d144814bd6149c1f3e0c6cd19d0941372ac'
+    chainId: null
+    decimals: null
+    description: Goldblock (GBK) is a cryptocurrency and operates on the Ethereum
+      platform. Goldblock has a current supply of 0. The last known price of Goldblock
+      is 0.01892161 USD and is down -0.38 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $33,090.02 traded over the last 24 hours.
+      More information can be found at https://goldblockeng.imweb.me/.
+    logoURI: null
+    name: Goldblock
+    symbol: GBK
+    type: null

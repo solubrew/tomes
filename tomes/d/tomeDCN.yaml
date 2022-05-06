@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x621F61444A000b38aA467f585DACFADF3F976F75'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Dentacoin
+    symbol: DCN
+    type: null

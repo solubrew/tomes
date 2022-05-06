@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x630d98424efe0ea27fb1b3ab7741907dffeaad78'
+    chainId: null
+    decimals: null
+    description: PEAKDEFI (PEAK) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. PEAKDEFI has a current supply of 125,987,707 with
+      40,158,674 in circulation. The last known price of PEAKDEFI is 0.25497916 USD
+      and is up 7.51 over the last 24 hours. It is currently trading on 7 active market(s)
+      with $76,519.59 traded over the last 24 hours. More information can be found
+      at https://marketpeak.com/.
+    logoURI: null
+    name: PEAKDEFI
+    symbol: PEAK
+    type: null

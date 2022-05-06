@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x763186eb8d4856d536ed4478302971214febc6a9'
+    chainId: null
+    decimals: null
+    description: BetterBetting (BETR) is a cryptocurrency and operates on the Ethereum
+      platform. BetterBetting has a current supply of 300,585,863.0178498 with 285,140,472.3248034
+      in circulation. The last known price of BetterBetting is 0.00048785 USD and
+      is up 3.91 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://www.betterbetting.org/.
+    logoURI: null
+    name: BetterBetting
+    symbol: BETR
+    type: null

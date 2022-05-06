@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x521f9C7505005CFA19A8E5786a9c3c9c9F5e6f42'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: WIZARDS
+    type: null

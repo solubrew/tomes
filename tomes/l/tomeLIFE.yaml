@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfF18DBc487b4c2E3222d115952bABfDa8BA52F5F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PureLifeCoin
+    symbol: LIFE
+    type: null

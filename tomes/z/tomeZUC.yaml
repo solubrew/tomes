@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5B7e386b636ABFf1E83FC7101C33282AcBa8E1a5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Zeuxcoin
+    symbol: ZUC
+    type: null

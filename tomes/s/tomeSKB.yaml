@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4af328c52921706dcb739f25786210499169afe6'
+    chainId: null
+    decimals: null
+    description: Sakura Bloom (SKB) is a cryptocurrency and operates on the Ethereum
+      platform. Sakura Bloom has a current supply of 6,000,000,000 with 2,582,965,294.29
+      in circulation. The last known price of Sakura Bloom is 0.00013733 USD and is
+      up 3.01 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $22,139.68 traded over the last 24 hours. More information can be found
+      at https://www.skb-coin.jp/en/.
+    logoURI: null
+    name: Sakura Bloom
+    symbol: SKB
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1c48f86ae57291f7686349f12601910bd8d470bb'
+    chainId: null
+    decimals: null
+    description: USDK (USDK) is a cryptocurrency and operates on the Ethereum platform.
+      USDK has a current supply of 28,600,072. The last known price of USDK is 1.00113261
+      USD and is up 0.05 over the last 24 hours. It is currently trading on 38 active
+      market(s) with $51,763,552.36 traded over the last 24 hours. More information
+      can be found at https://www.oklink.com/.
+    logoURI: null
+    name: USDK
+    symbol: USDK
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8a64c0Bd7146710Aa5C2773365Bb620FaF11BEd4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PHTTOKENX
+    symbol: PHTTX
+    type: null

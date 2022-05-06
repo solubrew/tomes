@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e'
+    chainId: null
+    decimals: null
+    description: CRYPTOBUCKS (CBUCKS) is a cryptocurrency and operates on the Ethereum
+      platform. CRYPTOBUCKS has a current supply of 8,534,139,361.3 with 3,932,014,866.54
+      in circulation. The last known price of CRYPTOBUCKS is 0.00050036 USD and is
+      down -94.00 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://www.cryptobuckslimited.com/.
+    logoURI: null
+    name: CRYPTOBUCKS
+    symbol: CBUCKS
+    type: null

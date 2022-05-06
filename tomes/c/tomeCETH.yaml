@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3d166dd13dfdca66879bdd45dc224d07c8855cdb'
+    chainId: null
+    decimals: null
+    description: None
+    logoURI: null
+    name: CreaEther
+    symbol: CETH
+    type: null

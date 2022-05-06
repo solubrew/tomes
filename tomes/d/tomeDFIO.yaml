@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff'
+    chainId: null
+    decimals: null
+    description: DeFi Omega (DFIO) is a cryptocurrency and operates on the Ethereum
+      platform. DeFi Omega has a current supply of 0. The last known price of DeFi
+      Omega is 1.53112841 USD and is up 3.67 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $7,722.63 traded over the last 24 hours.
+      More information can be found at https://defiomega.com/.
+    logoURI: null
+    name: DeFi Omega
+    symbol: DFIO
+    type: null

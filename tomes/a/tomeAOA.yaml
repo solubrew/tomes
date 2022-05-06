@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9ab165D795019b6d8B3e971DdA91071421305e5a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Aurora
+    symbol: AOA
+    type: null

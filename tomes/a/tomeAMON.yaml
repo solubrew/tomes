@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x00059ae69c1622a7542edc15e8d17b060fe307b6'
+    chainId: null
+    decimals: null
+    description: AmonD (AMON) is a cryptocurrency and operates on the Ethereum platform.
+      AmonD has a current supply of 7,600,000,000 with 792,527,066.8505 in circulation.
+      The last known price of AmonD is 0.00138393 USD and is up 0.00 over the last
+      24 hours. It is currently trading on 3 active market(s) with $4,331.88 traded
+      over the last 24 hours. More information can be found at https://www.amond.cc/.
+    logoURI: null
+    name: AmonD
+    symbol: AMON
+    type: null

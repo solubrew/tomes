@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5beabaebb3146685dd74176f68a0721f91297d37'
+    chainId: null
+    decimals: null
+    description: Bounce Token (BOT) is a cryptocurrency and operates on the Ethereum
+      platform. Bounce Token has a current supply of 100,000 with 26,489 in circulation.
+      The last known price of Bounce Token is 454.1566007 USD and is up 0.24 over
+      the last 24 hours. It is currently trading on 12 active market(s) with $1,543,133.07
+      traded over the last 24 hours. More information can be found at https://bounce.finance/.
+    logoURI: null
+    name: Bounce Token
+    symbol: BOT
+    type: null

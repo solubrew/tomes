@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb9EF770B6A5e12E45983C5D80545258aA38F3B78'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 0chain
+    symbol: ZCN
+    type: null

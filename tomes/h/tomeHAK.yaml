@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Shaka
+    symbol: HAK
+    type: null

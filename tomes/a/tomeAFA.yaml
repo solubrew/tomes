@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfB48E0DEa837f9438309a7e9F0cFe7EE3353A84e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Africahead Ipparts
+    symbol: AFA
+    type: null

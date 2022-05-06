@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7107F8D12CaAc33F1c326337378E72aE1eAc460A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PTK Swansons Vision
+    symbol: PTK:SV
+    type: null

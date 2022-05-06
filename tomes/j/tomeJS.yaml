@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5046E860ff274fb8c66106B0Ffb8155849fB0787'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: JavaScript
+    symbol: JS
+    type: null

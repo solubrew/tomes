@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCBd185558e2a1aD9DEce293AEe09A2785C047d92'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SToken
+    symbol: STKN
+    type: null

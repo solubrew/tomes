@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2'
+    chainId: null
+    decimals: null
+    description: PayAccept (PAYT) is a cryptocurrency and operates on the Ethereum
+      platform. PayAccept has a current supply of 0. The last known price of PayAccept
+      is 0.05493798 USD and is up 5.90 over the last 24 hours. It is currently trading
+      on 3 active market(s) with $249,565.67 traded over the last 24 hours. More information
+      can be found at https://www.payaccept.net.
+    logoURI: null
+    name: PayAccept
+    symbol: PAYT
+    type: null

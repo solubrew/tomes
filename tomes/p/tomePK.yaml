@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x63057c7D97d99c485c534bBD0d40C5B3EeC0B4Fc'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Pak Token
+    symbol: PK
+    type: null

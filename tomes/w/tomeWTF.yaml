@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0501e7a02c285b9b520fdbf1badc74ae931ad75d'
+    chainId: null
+    decimals: null
+    description: Walnut.finance (WTF) is a cryptocurrency and operates on the Ethereum
+      platform. Walnut.finance has a current supply of 0. The last known price of
+      Walnut.finance is 0.25393004 USD and is up 2.64 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $27.82 traded over the last 24
+      hours. More information can be found at https://walnut.finance/.
+    logoURI: null
+    name: Walnut.finance
+    symbol: WTF
+    type: null

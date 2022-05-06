@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd9d01d4cb824219a8f482a0fad479cb971fd0628'
+    chainId: null
+    decimals: null
+    description: EnterCoin (ENTRC) is a cryptocurrency and operates on the Ethereum
+      platform. EnterCoin has a current supply of 6,000,000 with 5,696,850.1 in circulation.
+      The last known price of EnterCoin is 0.01396272 USD and is up 57.23 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $31.49 traded
+      over the last 24 hours. More information can be found at https://entercoin.net.
+    logoURI: null
+    name: EnterCoin
+    symbol: ENTRC
+    type: null

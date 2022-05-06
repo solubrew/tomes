@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x115eC79F1de567eC68B7AE7eDA501b406626478e'
+    chainId: null
+    decimals: null
+    description: Carry (CRE) is a cryptocurrency and operates on the Ethereum platform.
+      Carry has a current supply of 7,632,434,879.743591 with 6,144,707,398.669529
+      in circulation. The last known price of Carry is 0.00202852 USD and is up 3.47
+      over the last 24 hours. It is currently trading on 11 active market(s) with
+      $2,386,080.55 traded over the last 24 hours. More information can be found at
+      https://carryprotocol.io/.
+    logoURI: null
+    name: Carry
+    symbol: CRE
+    type: null

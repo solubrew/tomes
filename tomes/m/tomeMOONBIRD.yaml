@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x23581767a106ae21c074b2276D25e5C3e136a68b'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: MOONBIRD
+    type: null

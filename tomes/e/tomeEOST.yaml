@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x87210f1D3422BA75B6C40C63C78d79324daBcd55'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EOS TRUST
+    symbol: EOST
+    type: null

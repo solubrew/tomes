@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0D3c6FC650Ba00D0757b0A418ECb5a027DAc2F42'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Nodewaste
+    symbol: NDW
+    type: null

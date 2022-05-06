@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe690C40835Cf3717160130E37C46044181cF72dD'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ethele Wood
+    symbol: EEWO
+    type: null

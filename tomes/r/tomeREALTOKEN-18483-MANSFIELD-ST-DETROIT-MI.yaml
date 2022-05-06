@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB1d42642C6DA784A5498180FDC64DF8f8F2bB773'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: RealToken 18483 Mansfield Street Detroit MI
+    symbol: REALTOKEN-18483-MANSFIELD-ST-DETROIT-MI
+    type: null

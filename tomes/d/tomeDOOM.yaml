@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA4F9CEC920cA520a7FEB2c3A63050e08967bc111'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Doom
+    symbol: DOOM
+    type: null

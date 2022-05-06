@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2fe39f22eac6d3c1c86dd9d143640ebb94609fce'
+    chainId: null
+    decimals: null
+    description: JD Coin (JDC) is a cryptocurrency and operates on the Ethereum platform.
+      JD Coin has a current supply of 84,000,000 with 44,651,792.63885235 in circulation.
+      The last known price of JD Coin is 0.30029556 USD and is up 36.67 over the last
+      24 hours. It is currently trading on 8 active market(s) with $208,052.13 traded
+      over the last 24 hours. More information can be found at https://www.jdcoin.us.
+    logoURI: null
+    name: JD Coin
+    symbol: JDC
+    type: null

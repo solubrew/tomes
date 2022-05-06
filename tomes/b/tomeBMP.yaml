@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x01b23286ff60a543ec29366ae8d6b6274ca20541'
+    chainId: null
+    decimals: null
+    description: Brother Music Platform (BMP) is a cryptocurrency and operates on
+      the Ethereum platform. Brother Music Platform has a current supply of 0. The
+      last known price of Brother Music Platform is 0.04412661 USD and is down -2.35
+      over the last 24 hours. It is currently trading on 2 active market(s) with $1,378,153.10
+      traded over the last 24 hours. More information can be found at https://bmpbrave.com/.
+    logoURI: null
+    name: Brother Music Platform
+    symbol: BMP
+    type: null

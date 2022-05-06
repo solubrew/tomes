@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf5B15fEfa638849294DB2A836433EcA4f7429f6f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ben Token Ving
+    symbol: BTV
+    type: null

@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: DOODLE
+    type: null

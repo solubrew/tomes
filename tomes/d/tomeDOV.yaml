@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xac3211a5025414af2866ff09c23fc18bc97e79b1'
+    chainId: null
+    decimals: null
+    description: Dovu (DOV) is a cryptocurrency and operates on the Ethereum platform.
+      Dovu has a current supply of 963,761,390.35 with 462,962,517.3446828 in circulation.
+      The last known price of Dovu is 0.00043645 USD and is up 1.76 over the last
+      24 hours. It is currently trading on 2 active market(s) with $44.15 traded over
+      the last 24 hours. More information can be found at https://dovu.io/.
+    logoURI: null
+    name: Dovu
+    symbol: DOV
+    type: null

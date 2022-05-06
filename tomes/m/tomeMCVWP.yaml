@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x13606094649143aE6c2E4F6b8F37726aae37f9d5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MCV Whitepaper v1
+    symbol: MCVWP
+    type: null

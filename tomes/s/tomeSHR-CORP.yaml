@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1fF4F9AE17C706afCaa5E96ca7f04A92dD9aA7a6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Shinra-Corp
+    symbol: SHR-CORP
+    type: null

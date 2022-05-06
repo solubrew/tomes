@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509'
+    chainId: null
+    decimals: null
+    description: UniPower (POWER) is a cryptocurrency and operates on the Ethereum
+      platform. UniPower has a current supply of 1,000,000 with 0 in circulation.
+      The last known price of UniPower is 0.82989397 USD and is up 3.38 over the last
+      24 hours. It is currently trading on 2 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://unipower.network.
+    logoURI: null
+    name: UniPower
+    symbol: POWER
+    type: null

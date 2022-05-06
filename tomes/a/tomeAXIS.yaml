@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xecc0f1f860a82ab3b442382d93853c02d6384389'
+    chainId: null
+    decimals: null
+    description: Axis DeFi (AXIS) is a cryptocurrency and operates on the Ethereum
+      platform. Axis DeFi has a current supply of 24,000,000 with 2,084,401 in circulation.
+      The last known price of Axis DeFi is 0.57532326 USD and is down -0.97 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $13,382.88
+      traded over the last 24 hours. More information can be found at https://axisdefi.com.
+    logoURI: null
+    name: Axis DeFi
+    symbol: AXIS
+    type: null

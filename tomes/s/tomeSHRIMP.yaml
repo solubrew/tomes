@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x38c4102d11893351ced7ef187fcf43d33eb1abe6'
+    chainId: null
+    decimals: null
+    description: Shrimp Finance (SHRIMP) is a cryptocurrency and operates on the Ethereum
+      platform. Shrimp Finance has a current supply of 269,213 with 0 in circulation.
+      The last known price of Shrimp Finance is 0.226351 USD and is up 1.02 over the
+      last 24 hours. More information can be found at https://shrimp.finance/.
+    logoURI: null
+    name: Shrimp Finance
+    symbol: SHRIMP
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA7E0719a65128b2f6cDbc86096753Ff7d5962106'
+    chainId: null
+    decimals: null
+    description: PicaArtMoney (PICA) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. PicaArtMoney has a current supply of 0. The last known
+      price of PicaArtMoney is 0.04699826 USD and is up 12.55 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $128,759.79 traded over the
+      last 24 hours. More information can be found at http://www.picaproject.co.kr/main.php.
+    logoURI: null
+    name: PicaArtMoney
+    symbol: PICA
+    type: null

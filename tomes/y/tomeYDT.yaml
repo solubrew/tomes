@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa28bB880D056a6A6e0d7dA4Ffb2d67225c23f008'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DevonToken
+    symbol: YDT
+    type: null

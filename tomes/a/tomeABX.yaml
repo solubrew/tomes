@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x49ceB57714000F18F3749Cf2D130E135F9c473A4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ASOBI COIN
+    symbol: ABX
+    type: null

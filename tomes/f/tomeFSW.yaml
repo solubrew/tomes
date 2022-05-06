@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfffffffff15abf397da76f1dcc1a1604f45126db'
+    chainId: null
+    decimals: null
+    description: Falconswap (FSW) is a cryptocurrency and operates on the Ethereum
+      platform. Falconswap has a current supply of 100,000,000 with 0 in circulation.
+      The last known price of Falconswap is 0.07282643 USD and is down -2.27 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $186,942.81
+      traded over the last 24 hours. More information can be found at https://falconswap.com.
+    logoURI: null
+    name: Falconswap
+    symbol: FSW
+    type: null

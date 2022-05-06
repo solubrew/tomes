@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x745fc083F4336a4151c76De9f598e0F67991c3Fa'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: MEMS
+    type: null

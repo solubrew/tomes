@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2e2e0a28f6585e895dd646a363bae29b77b88a31'
+    chainId: null
+    decimals: null
+    description: Volume Network (VOL) is a cryptocurrency and operates on the Ethereum
+      platform. Volume Network has a current supply of 10,000,000,000 with 0 in circulation.
+      The last known price of Volume Network is 0.00009998 USD and is down -0.08 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://volumenetwork.io/.
+    logoURI: null
+    name: Volume Network
+    symbol: VOL
+    type: null

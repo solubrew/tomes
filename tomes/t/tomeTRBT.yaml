@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7031ab87dcc46818806ec07af46fa8c2ad2a2bfc'
+    chainId: null
+    decimals: null
+    description: Tribute (TRBT) is a cryptocurrency and operates on the Ethereum platform.
+      Tribute has a current supply of 0. The last known price of Tribute is 0.76691041
+      USD and is up 2.49 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $224.42 traded over the last 24 hours. More information can be
+      found at https://tributedefi.com/.
+    logoURI: null
+    name: Tribute
+    symbol: TRBT
+    type: null

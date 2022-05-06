@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x13f25cd52b21650caa8225C9942337d914C9B030'
+    chainId: null
+    decimals: null
+    description: RealChain (RCT) is a cryptocurrency and operates on the Ethereum
+      platform. RealChain has a current supply of 1,000,000,000 with 510,336,056.0966482
+      in circulation. The last known price of RealChain is 0.00015527 USD and is down
+      -10.76 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $25.06 traded over the last 24 hours. More information can be found at
+      http://rcfund.org/.
+    logoURI: null
+    name: RealChain
+    symbol: RCT
+    type: null

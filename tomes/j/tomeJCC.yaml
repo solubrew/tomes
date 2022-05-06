@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xea7aa1edd21735a5ab05ee3e90869016191e274e'
+    chainId: null
+    decimals: null
+    description: junca Cash (JCC) is a cryptocurrency and operates on the Ethereum
+      platform. junca Cash has a current supply of 130,000,000 with 0 in circulation.
+      The last known price of junca Cash is 0.03542174 USD and is up 4.43 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $337.79 traded
+      over the last 24 hours. More information can be found at https://junca-cash.world/.
+    logoURI: null
+    name: junca Cash
+    symbol: JCC
+    type: null

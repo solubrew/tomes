@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x03ec7bb59be036870ef696a2abf124f496d6735a'
+    chainId: null
+    decimals: null
+    description: Sancoj (SANC) is a cryptocurrency and operates on the Ethereum platform.
+      Sancoj has a current supply of 0. The last known price of Sancoj is 0.00001768
+      USD and is down -28.51 over the last 24 hours. It is currently trading on 3
+      active market(s) with $226.61 traded over the last 24 hours. More information
+      can be found at http://sancoj.com/.
+    logoURI: null
+    name: Sancoj
+    symbol: SANC
+    type: null

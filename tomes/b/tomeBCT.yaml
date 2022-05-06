@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9642c1B4f9e2d1849A1aB7820F9c18C5Cd25Fc54'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DESKTOP-RQHA0VM
+    symbol: BCT
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a'
+    chainId: null
+    decimals: null
+    description: S4FE (S4F) is a cryptocurrency and operates on the Ethereum platform.
+      S4FE has a current supply of 1,000,000,000 with 895,310,762 in circulation.
+      The last known price of S4FE is 0.03033107 USD and is down -6.96 over the last
+      24 hours. It is currently trading on 10 active market(s) with $2,406,020.85
+      traded over the last 24 hours. More information can be found at www.s4fe.org.
+    logoURI: null
+    name: S4FE
+    symbol: S4F
+    type: null

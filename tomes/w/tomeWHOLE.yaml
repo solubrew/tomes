@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe6179bb571d2d69837be731da88c76e377ec4738'
+    chainId: null
+    decimals: null
+    description: wormhole.finance (WHOLE) is a cryptocurrency and operates on the
+      Ethereum platform. wormhole.finance has a current supply of 92,877 with 0 in
+      circulation. The last known price of wormhole.finance is 1.24635533 USD and
+      is up 1.17 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $2,923.27 traded over the last 24 hours. More information can be found
+      at https://wormhole.finance/.
+    logoURI: null
+    name: wormhole.finance
+    symbol: WHOLE
+    type: null

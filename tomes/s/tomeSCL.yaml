@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8'
+    chainId: null
+    decimals: null
+    description: Sociall (SCL) is a cryptocurrency and operates on the Ethereum platform.
+      Sociall has a current supply of 16,714,019.6643. The last known price of Sociall
+      is 0.01083796 USD and is down -3.45 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $0.00 traded over the last 24 hours. More
+      information can be found at https://sociall.io.
+    logoURI: null
+    name: Sociall
+    symbol: SCL
+    type: null

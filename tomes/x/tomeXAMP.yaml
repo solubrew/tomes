@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27'
+    chainId: null
+    decimals: null
+    description: Antiample (XAMP) is a cryptocurrency and operates on the Ethereum
+      platform. Antiample has a current supply of 543,553,830.461 with 465,929,910.461
+      in circulation. The last known price of Antiample is 0.00088756 USD and is up
+      2.90 over the last 24 hours. It is currently trading on 4 active market(s) with
+      $61.76 traded over the last 24 hours. More information can be found at https://www.antiample.org/.
+    logoURI: null
+    name: Antiample
+    symbol: XAMP
+    type: null

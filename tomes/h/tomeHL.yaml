@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xDfF991Af459d05175B3bb766b950aFC697B68dF0'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HotLove
+    symbol: HL
+    type: null

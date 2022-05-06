@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8b79656FC38a04044E495e22fAD747126ca305C4'
+    chainId: null
+    decimals: null
+    description: AgaveCoin (AGVC) is a cryptocurrency and operates on the Ethereum
+      platform. AgaveCoin has a current supply of 35,000,000,000 with 390,619,593
+      in circulation. The last known price of AgaveCoin is 0.06313988 USD and is up
+      3.50 over the last 24 hours. It is currently trading on 8 active market(s) with
+      $20,406.52 traded over the last 24 hours. More information can be found at https://agavecoin.io/.
+    logoURI: null
+    name: AgaveCoin
+    symbol: AGVC
+    type: null

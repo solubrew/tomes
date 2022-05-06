@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF6B55acBBC49f4524Aa48D19281A9A77c54DE10f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: WOLK TOKEN
+    symbol: WLK
+    type: null

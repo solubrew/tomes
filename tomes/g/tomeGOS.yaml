@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd2bfec3f80b7d966d7657a2ecc5982ee2f49336a'
+    chainId: null
+    decimals: null
+    description: Gosama (GOS) is a cryptocurrency and operates on the Ethereum platform.
+      Gosama has a current supply of 200,000,000 with 0 in circulation. The last known
+      price of Gosama is 0.34703985 USD and is up 0.00 over the last 24 hours. More
+      information can be found at https://gosama.io/.
+    logoURI: null
+    name: Gosama
+    symbol: GOS
+    type: null

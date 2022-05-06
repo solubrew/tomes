@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x81995ff7aee5c780192b47e0b42a7a86692d1415'
+    chainId: null
+    decimals: null
+    description: SpeedCash (SCS) is a cryptocurrency and operates on the Ethereum
+      platform. SpeedCash has a current supply of 587,545 with 574,745 in circulation.
+      The last known price of SpeedCash is 0.01590129 USD and is up 1.35 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at http://www.scash.ml/.
+    logoURI: null
+    name: SpeedCash
+    symbol: SCS
+    type: null

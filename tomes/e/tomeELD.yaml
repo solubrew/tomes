@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x796e47b85a0d759f300f1de96a3583004235d4d8'
+    chainId: null
+    decimals: null
+    description: Electrum Dark (ELD) is a cryptocurrency and operates on the Ethereum
+      platform. Electrum Dark has a current supply of 3,900,000 with 3,899,312.2 in
+      circulation. The last known price of Electrum Dark is 0.00057911 USD and is
+      down -39.12 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $34.99 traded over the last 24 hours. More information can be found at
+      https://electrumdark.com.
+    logoURI: null
+    name: Electrum Dark
+    symbol: ELD
+    type: null

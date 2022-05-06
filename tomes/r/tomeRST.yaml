@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA17d1bF14802e0EEc8F84b3b8B638A9402D60e9e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: REGA Risk Sharing Token
+    symbol: RST
+    type: null

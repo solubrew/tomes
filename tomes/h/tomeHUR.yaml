@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcdb7ecfd3403eef3882c65b761ef9b5054890a47'
+    chainId: null
+    decimals: null
+    description: Hurify (HUR) is a cryptocurrency and operates on the Ethereum platform.
+      Hurify has a current supply of 273,325,000 with 241,464,943.01437867 in circulation.
+      The last known price of Hurify is 0.00030312 USD and is up 5.17 over the last
+      24 hours. More information can be found at https://hurify.co.
+    logoURI: null
+    name: Hurify
+    symbol: HUR
+    type: null

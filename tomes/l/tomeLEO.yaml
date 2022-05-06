@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bitfinex LEO Token
+    symbol: LEO
+    type: null

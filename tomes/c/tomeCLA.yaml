@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF7269a10E85d4aa8282529516cf86847748Da2Bf'
+    chainId: null
+    decimals: null
+    description: Candela Coin (CLA) is a cryptocurrency and operates on the Ethereum
+      platform. Candela Coin has a current supply of 0. The last known price of Candela
+      Coin is 0.00025651 USD and is up 3.02 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $5.97 traded over the last 24 hours. More
+      information can be found at https://www.candelacoin.com/.
+    logoURI: null
+    name: Candela Coin
+    symbol: CLA
+    type: null

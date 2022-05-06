@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x515d7e9d75e2b76db60f8a051cd890eba23286bc'
+    chainId: null
+    decimals: null
+    description: Governor DAO (GDAO) is a cryptocurrency and operates on the Ethereum
+      platform. Governor DAO has a current supply of 3,000,000 with 0 in circulation.
+      The last known price of Governor DAO is 2.18267162 USD and is up 1.13 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $203,513.57
+      traded over the last 24 hours. More information can be found at https://governordao.org/.
+    logoURI: null
+    name: Governor DAO
+    symbol: GDAO
+    type: null

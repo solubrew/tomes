@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4fe83213d56308330ec302a8bd641f1d0113a4cc'
+    chainId: null
+    decimals: null
+    description: NuCypher (NU) is a cryptocurrency and operates on the Ethereum platform.
+      NuCypher has a current supply of 1,043,813,471.4233737 with 377,250,000 in circulation.
+      The last known price of NuCypher is 0.29584579 USD and is up 11.10 over the
+      last 24 hours. It is currently trading on 18 active market(s) with $120,759,568.04
+      traded over the last 24 hours. More information can be found at https://nucypher.com.
+    logoURI: null
+    name: NuCypher
+    symbol: NU
+    type: null

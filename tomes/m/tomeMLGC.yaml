@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4534492034a2cd3eab34c8f357cd139c95b09f52'
+    chainId: null
+    decimals: null
+    description: Marshal Lion Group Coin (MLGC) is a cryptocurrency and operates on
+      the Ethereum platform. Marshal Lion Group Coin has a current supply of 120,000,000
+      with 0 in circulation. The last known price of Marshal Lion Group Coin is 0.05742535
+      USD and is up 1.31 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $0.00 traded over the last 24 hours. More information can be
+      found at https://mlgc.io/.
+    logoURI: null
+    name: Marshal Lion Group Coin
+    symbol: MLGC
+    type: null

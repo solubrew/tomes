@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x24EbfC20Bb2e1dAADd98d28341ab37D0c154f4Cb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: COOS
+    symbol: COOS
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x70861e862E1Ac0C96f853C8231826e469eAd37B1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DOS Network Token
+    symbol: DOS
+    type: null

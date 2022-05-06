@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe69968DD1913f135F3B28Ed81d9a02368204BD66'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DONpia
+    symbol: DON
+    type: null

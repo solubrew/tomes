@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe96f2c381e267a96c29bbb8ab05ab7d3527b45ab'
+    chainId: null
+    decimals: null
+    description: SatoExchange Token (SATX) is a cryptocurrency launched in 2018and
+      operates on the Ethereum platform. SatoExchange Token has a current supply of
+      238,030,642 with 0 in circulation. The last known price of SatoExchange Token
+      is 0.0013621 USD and is down -9.39 over the last 24 hours. It is currently trading
+      on 10 active market(s) with $5,611.75 traded over the last 24 hours. More information
+      can be found at https://www.satoexchange.com/SATX.
+    logoURI: null
+    name: SatoExchange Token
+    symbol: SATX
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x16f812be7fff02caf662b85d5d58a5da6572d4df'
+    chainId: null
+    decimals: null
+    description: United Traders Token (UTT) is a cryptocurrency and operates on the
+      Ethereum platform. United Traders Token has a current supply of 69,403,130.9798553
+      with 37,548,998.7798553 in circulation. The last known price of United Traders
+      Token is 0.14242646 USD and is up 15.87 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $694.84 traded over the last 24 hours. More
+      information can be found at https://uttoken.io/.
+    logoURI: null
+    name: United Traders Token
+    symbol: UTT
+    type: null

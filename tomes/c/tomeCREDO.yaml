@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be'
+    chainId: null
+    decimals: null
+    description: Credo (CREDO) is a cryptocurrency and operates on the Ethereum platform.
+      Credo has a current supply of 1,374,729,257 with 549,891,702.891 in circulation.
+      The last known price of Credo is 0.00595689 USD and is up 2.83 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://bitbounce.com/credo.
+    logoURI: null
+    name: Credo
+    symbol: CREDO
+    type: null

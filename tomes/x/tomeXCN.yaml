@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x748bab4b67948196aec77eE76526CE215b5Eb63B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: XCOIN
+    symbol: XCN
+    type: null

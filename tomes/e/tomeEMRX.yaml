@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774'
+    chainId: null
+    decimals: null
+    description: Emirex Token (EMRX) is a cryptocurrency and operates on the Ethereum
+      platform. Emirex Token has a current supply of 500,000,000 with 27,008,735 in
+      circulation. The last known price of Emirex Token is 0.21457788 USD and is down
+      -2.55 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $703,219.20 traded over the last 24 hours. More information can be found
+      at https://emrx.emirex.com/.
+    logoURI: null
+    name: Emirex Token
+    symbol: EMRX
+    type: null

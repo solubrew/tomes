@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeaf61FC150CD5c3BeA75744e830D916E60EA5A9F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Typerium
+    symbol: TYPE
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbd434a09191d401da3283a5545bb3515d033b8c4'
+    chainId: null
+    decimals: null
+    description: GoldFinX (GIX) is a cryptocurrency launched in 2017and operates on
+      the Ethereum platform. GoldFinX has a current supply of 0. The last known price
+      of GoldFinX is 3.30058901 USD and is down -1.27 over the last 24 hours. It is
+      currently trading on 8 active market(s) with $59,161.82 traded over the last
+      24 hours. More information can be found at https://goldfinx.com/.
+    logoURI: null
+    name: GoldFinX
+    symbol: GIX
+    type: null

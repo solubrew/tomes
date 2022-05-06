@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcecede5a20645eac6ca2032eeeb1063572d63c29'
+    chainId: null
+    decimals: null
+    description: P2P Global Network (P2PX) is a cryptocurrency and operates on the
+      Ethereum platform. P2P Global Network has a current supply of 100,000,000 with
+      43,579,999 in circulation. The last known price of P2P Global Network is 0.00002986
+      USD and is up 2.97 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $0.00 traded over the last 24 hours. More information can be
+      found at https://www.p2pglobal.io.
+    logoURI: null
+    name: P2P Global Network
+    symbol: P2PX
+    type: null

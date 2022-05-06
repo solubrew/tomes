@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd234bf2410a0009df9c3c63b610c09738f18ccd7'
+    chainId: null
+    decimals: null
+    description: Dynamic Trading Rights (DTR) is a cryptocurrency and operates on
+      the Ethereum platform. Dynamic Trading Rights has a current supply of 2,000,000,000
+      with 1,623,057,143 in circulation. The last known price of Dynamic Trading Rights
+      is 0.01445138 USD and is down -2.43 over the last 24 hours. It is currently
+      trading on 7 active market(s) with $77,335.41 traded over the last 24 hours.
+      More information can be found at http://www.tokens.net/.
+    logoURI: null
+    name: Dynamic Trading Rights
+    symbol: DTR
+    type: null

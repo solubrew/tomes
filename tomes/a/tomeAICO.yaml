@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE7FB3559358A99df54466d0350e4aD6DC7093da3'
+    chainId: null
+    decimals: null
+    description: AICON (AICO) is a cryptocurrency and operates on the Ethereum platform.
+      AICON has a current supply of 500,000,000 with 0 in circulation. The last known
+      price of AICON is 0.12178582 USD and is down -8.52 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $16,215.37 traded over the last
+      24 hours.
+    logoURI: null
+    name: AICON
+    symbol: AICO
+    type: null

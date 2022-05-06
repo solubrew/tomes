@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xca2796f9f61dc7b238aab043971e49c6164df375'
+    chainId: null
+    decimals: null
+    description: YGGDRASH (YEED) is a cryptocurrency and operates on the Ethereum
+      platform. YGGDRASH has a current supply of 10,000,000,000 with 5,447,415,594.35
+      in circulation. The last known price of YGGDRASH is 0.00013066 USD and is up
+      7.14 over the last 24 hours. It is currently trading on 6 active market(s) with
+      $57,499.60 traded over the last 24 hours. More information can be found at https://yggdrash.io.
+    logoURI: null
+    name: YGGDRASH
+    symbol: YEED
+    type: null

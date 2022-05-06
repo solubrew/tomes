@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x38f7cd43662d1cff4cc3c2c4b749f7cfed1d1db3'
+    chainId: null
+    decimals: null
+    description: Neeva Defi (NVA) is a cryptocurrency and operates on the Ethereum
+      platform. Neeva Defi has a current supply of 1,000,000 with 0 in circulation.
+      The last known price of Neeva Defi is 91.75748153 USD and is down -6.79 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $546.55
+      traded over the last 24 hours. More information can be found at https://neevadefi.com/.
+    logoURI: null
+    name: Neeva Defi
+    symbol: NVA
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x49d09cda1deb8a1680f1270c5ed15218fc4b18f0'
+    chainId: null
+    decimals: null
+    description: OVCODE (OVC) is a cryptocurrency and operates on the Ethereum platform.
+      OVCODE has a current supply of 83,875,000 with 44,070,638 in circulation. The
+      last known price of OVCODE is 0.01194365 USD and is up 2.97 over the last 24
+      hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://ovcode.com.
+    logoURI: null
+    name: OVCODE
+    symbol: OVC
+    type: null

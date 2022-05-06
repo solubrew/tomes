@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x54b8c98268da0055971652a95f2bfd3a9349a38c'
+    chainId: null
+    decimals: null
+    description: Printer.Finance (PRINT) is a cryptocurrency and operates on the Ethereum
+      platform. Printer.Finance has a current supply of 0. The last known price of
+      Printer.Finance is 55.25610312 USD and is up 3.05 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $59.32 traded over the last
+      24 hours. More information can be found at https://printer.finance/.
+    logoURI: null
+    name: Printer.Finance
+    symbol: PRINT
+    type: null

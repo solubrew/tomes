@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9b62Ec1453cEa5Dde760AAf662048cA6eEB66E7f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ethereum Cell Network
+    symbol: eCell
+    type: null

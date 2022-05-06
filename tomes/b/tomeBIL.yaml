@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x34833001D99851B85729606f241ca872d1A1e461'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BIL Coin
+    symbol: BIL
+    type: null

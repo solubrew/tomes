@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x22d45E9ED7a1e97eEf14242fA5C9e3b0466B04Db'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ARICOIN
+    symbol: ARI
+    type: null

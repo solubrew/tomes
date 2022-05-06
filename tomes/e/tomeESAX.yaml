@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA7B87611a9577Cb8AD3f9b1e85E7884933603405'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ESAX Token
+    symbol: ESAX
+    type: null

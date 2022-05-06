@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x94373d40135604ce50083Ff282250A9033761E53'
+    chainId: null
+    decimals: null
+    description: YFIA (YFIA) is a cryptocurrency and operates on the Ethereum platform.
+      YFIA has a current supply of 35,000,000 with 0 in circulation. The last known
+      price of YFIA is 1.5740369 USD and is down -16.47 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $460,302.30 traded over the
+      last 24 hours. More information can be found at https://yfia.io/.
+    logoURI: null
+    name: YFIA
+    symbol: YFIA
+    type: null

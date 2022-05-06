@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x73c9275c3a2dd84b5741fd59aebf102c91eb033f'
+    chainId: null
+    decimals: null
+    description: Bitball Treasure (BTRS) is a cryptocurrency and operates on the Ethereum
+      platform. Bitball Treasure has a current supply of 1,000,000 with 450,000 in
+      circulation. The last known price of Bitball Treasure is 392.951839 USD and
+      is up 269.15 over the last 24 hours. It is currently trading on 9 active market(s)
+      with $57.78 traded over the last 24 hours. More information can be found at
+      https://www.bitball-btb.com/.
+    logoURI: null
+    name: Bitball Treasure
+    symbol: BTRS
+    type: null

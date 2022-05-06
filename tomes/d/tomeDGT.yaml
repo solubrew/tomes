@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8b9C35C79AF5319C70dd9A3E3850F368822ED64E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Dogetoken
+    symbol: DGT
+    type: null

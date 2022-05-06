@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x75231f58b43240c9718dd58b4967c5114342a86c'
+    chainId: null
+    decimals: null
+    description: OKB (OKB) is a cryptocurrency and operates on the Ethereum platform.
+      OKB has a current supply of 300,000,000 with 60,000,000 in circulation. The
+      last known price of OKB is 5.14413265 USD and is up 0.83 over the last 24 hours.
+      It is currently trading on 61 active market(s) with $51,315,559.62 traded over
+      the last 24 hours. More information can be found at https://www.okex.com/.
+    logoURI: null
+    name: OKB
+    symbol: OKB
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x97fb6fc2ad532033af97043b563131c5204f8a35'
+    chainId: null
+    decimals: null
+    description: Plus-Coin (NPLC) is a cryptocurrency and operates on the Ethereum
+      platform. Plus-Coin has a current supply of 900,000,000 with 469,946,471.44931793
+      in circulation. The last known price of Plus-Coin is 0.00006231 USD and is up
+      3.08 over the last 24 hours. It is currently trading on 2 active market(s) with
+      $8.50 traded over the last 24 hours. More information can be found at https://www.plus-coin.com/en/.
+    logoURI: null
+    name: Plus-Coin
+    symbol: NPLC
+    type: null

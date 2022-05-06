@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x10307C92C84903DDa982151ec01A196517900652'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: VoomDex Coin
+    symbol: VOD
+    type: null

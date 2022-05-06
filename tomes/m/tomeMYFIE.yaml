@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCb529Ae44941500dEd968Baf9617dDeCacc6FB87'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Monetize Your Selfie
+    symbol: MYFIE
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBC46D9961A3932f7D6b64abfdeC80C1816C4B835'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LiteXToken
+    symbol: LXT
+    type: null

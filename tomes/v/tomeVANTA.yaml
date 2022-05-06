@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfdf574766ba1a96a553e175aeffa85ad78063f0b'
+    chainId: null
+    decimals: null
+    description: Vanta Network (VANTA) is a cryptocurrency and operates on the Ethereum
+      platform. Vanta Network has a current supply of 4,596,961,798 with 1,850,678,705.301
+      in circulation. The last known price of Vanta Network is 0.00007474 USD and
+      is up 5.17 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://vanta.network.
+    logoURI: null
+    name: Vanta Network
+    symbol: VANTA
+    type: null

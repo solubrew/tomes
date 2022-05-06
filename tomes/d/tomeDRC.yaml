@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb78b3320493a4efaa1028130c5ba26f0b6085ef8'
+    chainId: null
+    decimals: null
+    description: Dracula Token (DRC) is a cryptocurrency and operates on the Ethereum
+      platform. Dracula Token has a current supply of 9,660,546 with 9,360,910 in
+      circulation. The last known price of Dracula Token is 0.02681059 USD and is
+      up 14.59 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $16,714.43 traded over the last 24 hours. More information can be found
+      at https://dracula.sucks/.
+    logoURI: null
+    name: Dracula Token
+    symbol: DRC
+    type: null

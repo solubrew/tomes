@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe7D3e4413E29ae35B0893140F4500965c74365e5'
+    chainId: null
+    decimals: null
+    description: TraDove B2BCoin (BBC) is a cryptocurrency and operates on the Ethereum
+      platform. TraDove B2BCoin has a current supply of 1,000,000,000 with 500,000,000
+      in circulation. The last known price of TraDove B2BCoin is 0.00171568 USD and
+      is up 52.22 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $14,733.05 traded over the last 24 hours. More information can be found
+      at https://www.tradove.com/b2bcoin.
+    logoURI: null
+    name: TraDove B2BCoin
+    symbol: BBC
+    type: null

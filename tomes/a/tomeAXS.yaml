@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf5d669627376ebd411e34b98f19c868c8aba5ada'
+    chainId: null
+    decimals: null
+    description: Axie Infinity (AXS) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. Axie Infinity has a current supply of 270,000,000
+      with 53,500,010 in circulation. The last known price of Axie Infinity is 0.45978664
+      USD and is down -9.13 over the last 24 hours. It is currently trading on 15
+      active market(s) with $5,693,473.72 traded over the last 24 hours. More information
+      can be found at https://axieinfinity.com/.
+    logoURI: null
+    name: Axie Infinity
+    symbol: AXS
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93'
+    chainId: null
+    decimals: null
+    description: Alpha Quark Token (AQT) is a cryptocurrency and operates on the Ethereum
+      platform. Alpha Quark Token has a current supply of 30,000,000 with 1,482,945
+      in circulation. The last known price of Alpha Quark Token is 2.63864724 USD
+      and is up 3.60 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $5,604,522.60 traded over the last 24 hours. More information can be found
+      at https://alphaquark.io/.
+    logoURI: null
+    name: Alpha Quark Token
+    symbol: AQT
+    type: null

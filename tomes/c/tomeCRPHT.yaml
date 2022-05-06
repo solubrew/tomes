@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcd7D0042FDb92F3dDE312aa61AF084953Aa914ee'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Crypthealth
+    symbol: CRPHT
+    type: null

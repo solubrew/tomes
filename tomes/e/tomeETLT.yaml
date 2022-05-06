@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x54eFeC15D08428C7Ba31f8F085D4860EE6e38313'
+    chainId: null
+    decimals: null
+    description: Ethereum Lightning (ETLT) is a cryptocurrency launched in 2020and
+      operates on the Ethereum platform. Ethereum Lightning has a current supply of
+      100,000,000 with 0 in circulation. The last known price of Ethereum Lightning
+      is 8.32772468 USD and is down -0.72 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $727,426.83 traded over the last 24 hours.
+      More information can be found at http://ethereumlightning.net/.
+    logoURI: null
+    name: Ethereum Lightning
+    symbol: ETLT
+    type: null

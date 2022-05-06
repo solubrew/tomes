@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE5a3229CCb22b6484594973A03a3851dCd948756'
+    chainId: null
+    decimals: null
+    description: Receive Access Ecosystem (RAE) is a cryptocurrency and operates on
+      the Ethereum platform. Receive Access Ecosystem has a current supply of 2,456,932
+      with 0 in circulation. The last known price of Receive Access Ecosystem is 1.14283051
+      USD and is up 3.65 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $6,609.75 traded over the last 24 hours. More information can
+      be found at https://raetoken.org.
+    logoURI: null
+    name: Receive Access Ecosystem
+    symbol: RAE
+    type: null

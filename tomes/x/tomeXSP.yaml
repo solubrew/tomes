@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9b06d48e0529ecf05905ff52dd426ebec0ea3011'
+    chainId: null
+    decimals: null
+    description: XSwap (XSP) is a cryptocurrency and operates on the Ethereum platform.
+      XSwap has a current supply of 67,611,421 with 0 in circulation. The last known
+      price of XSwap is 0.0000419 USD and is down -5.62 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $2,390.70 traded over the last
+      24 hours. More information can be found at https://xswap.app/.
+    logoURI: null
+    name: XSwap
+    symbol: XSP
+    type: null

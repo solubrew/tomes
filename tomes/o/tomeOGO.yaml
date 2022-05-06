@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Origo
+    symbol: OGO
+    type: null

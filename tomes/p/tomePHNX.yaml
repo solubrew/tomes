@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7'
+    chainId: null
+    decimals: null
+    description: PhoenixDAO (PHNX) is a cryptocurrency and operates on the Ethereum
+      platform. PhoenixDAO has a current supply of 110,000,000 with 46,897,138.88443257
+      in circulation. The last known price of PhoenixDAO is 0.01768241 USD and is
+      down -0.47 over the last 24 hours. It is currently trading on 7 active market(s)
+      with $75,762.60 traded over the last 24 hours. More information can be found
+      at https://phoenixdao.io.
+    logoURI: null
+    name: PhoenixDAO
+    symbol: PHNX
+    type: null

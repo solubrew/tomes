@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x44197a4c44d6a059297caf6be4f7e172bd56caaf'
+    chainId: null
+    decimals: null
+    description: ELTCOIN (ELTCOIN) is a cryptocurrency and operates on the Ethereum
+      platform. ELTCOIN has a current supply of 100,000,000 with 90,000,000 in circulation.
+      The last known price of ELTCOIN is 0.00057865 USD and is up 5.15 over the last
+      24 hours. It is currently trading on 2 active market(s) with $3,606.72 traded
+      over the last 24 hours. More information can be found at https://www.eltcoin.tech/.
+    logoURI: null
+    name: ELTCOIN
+    symbol: ELTCOIN
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0cB20b77AdBe5cD58fCeCc4F4069D04b327862e5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Mystery Ghost Token
+    symbol: MGT
+    type: null

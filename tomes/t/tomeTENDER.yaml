@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaaDc2D4261199ce24A4B0a57370c4FCf43BB60aa'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: TENDER
+    type: null

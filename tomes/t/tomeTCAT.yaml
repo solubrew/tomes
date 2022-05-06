@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaff84e86d72edb971341a6a66eb2da209446fa14'
+    chainId: null
+    decimals: null
+    description: The Currency Analytics (TCAT) is a cryptocurrency and operates on
+      the Ethereum platform. The Currency Analytics has a current supply of 400,000,000
+      with 138,324,745.07918268 in circulation. The last known price of The Currency
+      Analytics is 0.00069796 USD and is down -13.29 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $17.00 traded over the last 24
+      hours. More information can be found at https://thecurrencyanalytics.com/tcat-token/.
+    logoURI: null
+    name: The Currency Analytics
+    symbol: TCAT
+    type: null

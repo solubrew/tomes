@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x261EfCdD24CeA98652B9700800a13DfBca4103fF'
+    chainId: null
+    decimals: null
+    description: sXAU (SXAU) is a cryptocurrency and operates on the Ethereum platform.
+      sXAU has a current supply of 225.36884553 with 0 in circulation. The last known
+      price of sXAU is 2,194.9707941 USD and is up 19.45 over the last 24 hours. It
+      is currently trading on 2 active market(s) with $0.00 traded over the last 24
+      hours. More information can be found at https://www.synthetix.io/tokens/.
+    logoURI: null
+    name: sXAU
+    symbol: SXAU
+    type: null

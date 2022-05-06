@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6096d2460cf5177e40b515223428dc005ad35123'
+    chainId: null
+    decimals: null
+    description: Precium (PCM) is a cryptocurrency and operates on the Ethereum platform.
+      Precium has a current supply of 750,000,000 with 747,525,000 in circulation.
+      The last known price of Precium is 0.01106382 USD and is up 11.86 over the last
+      24 hours. It is currently trading on 3 active market(s) with $2,577,249.11 traded
+      over the last 24 hours. More information can be found at https://precium.io.
+    logoURI: null
+    name: Precium
+    symbol: PCM
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x910524678C0B1B23FFB9285a81f99C29C11CBaEd'
+    chainId: null
+    decimals: null
+    description: Azuki (AZUKI) is a cryptocurrency and operates on the Ethereum platform.
+      Azuki has a current supply of 2,136,358 with 0 in circulation. The last known
+      price of Azuki is 0.17315654 USD and is down -1.04 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $8,474.27 traded over the last
+      24 hours. More information can be found at https://dokidoki.finance/.
+    logoURI: null
+    name: Azuki
+    symbol: AZUKI
+    type: null

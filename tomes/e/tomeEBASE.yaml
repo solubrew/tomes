@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x86FADb80d8D2cff3C3680819E4da99C10232Ba0F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EURBASE Stablecoin
+    symbol: EBASE
+    type: null

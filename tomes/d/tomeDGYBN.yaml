@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcC050E357141b968742B23E12F0954c57506a204'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DoggyBuddyCoin
+    symbol: DGYBN
+    type: null

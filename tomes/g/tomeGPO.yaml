@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5cf501e64786444e025c5b24025f98399538ea5d'
+    chainId: null
+    decimals: null
+    description: Galaxy Pool Coin (GPO) is a cryptocurrency and operates on the Ethereum
+      platform. Galaxy Pool Coin has a current supply of 0. The last known price of
+      Galaxy Pool Coin is 0.03989097 USD and is up 0.31 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $111,731.15 traded over the
+      last 24 hours. More information can be found at https://galaxypool.top/.
+    logoURI: null
+    name: Galaxy Pool Coin
+    symbol: GPO
+    type: null

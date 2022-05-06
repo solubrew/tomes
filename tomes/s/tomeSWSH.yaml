@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3ac2AB91dDF57e2385089202Ca221C360CED0062'
+    chainId: null
+    decimals: null
+    description: SwapShip (SWSH) is a cryptocurrency and operates on the Ethereum
+      platform. SwapShip has a current supply of 22,000 with 0 in circulation. The
+      last known price of SwapShip is 1.28231148 USD and is down -2.67 over the last
+      24 hours. It is currently trading on 1 active market(s) with $247.17 traded
+      over the last 24 hours. More information can be found at https://www.swapship.finance/.
+    logoURI: null
+    name: SwapShip
+    symbol: SWSH
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1C83501478f1320977047008496DACBD60Bb15ef'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DigitexFutures
+    symbol: DGTX
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0'
+    chainId: null
+    decimals: null
+    description: dForce (DF) is a cryptocurrency and operates on the Ethereum platform.
+      dForce has a current supply of 999,955,003.4085332 with 103,346,003.40853317
+      in circulation. The last known price of dForce is 0.09087771 USD and is up 2.31
+      over the last 24 hours. It is currently trading on 19 active market(s) with
+      $671,344.99 traded over the last 24 hours. More information can be found at
+      https://dforce.network/.
+    logoURI: null
+    name: dForce
+    symbol: DF
+    type: null

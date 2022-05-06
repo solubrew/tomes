@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x07E38769E25630B2D433176495cDF627Ec42B472'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Soviet War Bonds - Stakewar.com Round 1
+    symbol: SU1
+    type: null

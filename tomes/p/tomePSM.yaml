@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1a66e09f7dccc10eae46e27cfa6b8d44a50df1e7'
+    chainId: null
+    decimals: null
+    description: PRASM (PSM) is a cryptocurrency and operates on the Ethereum platform.
+      PRASM has a current supply of 4,000,000,000 with 2,249,193,826.6001563 in circulation.
+      The last known price of PRASM is 0.00000766 USD and is down -76.16 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $0.18 traded
+      over the last 24 hours. More information can be found at http://prasm.io/.
+    logoURI: null
+    name: PRASM
+    symbol: PSM
+    type: null

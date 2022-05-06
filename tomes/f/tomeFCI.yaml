@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x050cbFF7BFf0432b6096DD15CD9499913dDF8E23'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FUTUREGOLDCOIN
+    symbol: FCI
+    type: null

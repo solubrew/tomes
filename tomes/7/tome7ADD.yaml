@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEd36482c7F8E5850e91aC0Cf6BF2130A1aA2DF92'
+    chainId: null
+    decimals: null
+    description: HoldToWin (7ADD) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. HoldToWin has a current supply of 0. The last known
+      price of HoldToWin is 0.95132679 USD and is down -1.28 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $1,829.04 traded over the
+      last 24 hours. More information can be found at https://holdtowin.eth.link.
+    logoURI: null
+    name: HoldToWin
+    symbol: 7ADD
+    type: null

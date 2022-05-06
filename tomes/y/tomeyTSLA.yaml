@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5322a3556f979ce2180b30e689a9436fddcb1021'
+    chainId: null
+    decimals: null
+    description: yTSLA Finance (yTSLA) is a cryptocurrency and operates on the Ethereum
+      platform. yTSLA Finance has a current supply of 111,111 with 104,403.97675654
+      in circulation. The last known price of yTSLA Finance is 2.29274063 USD and
+      is up 20.09 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $71,632.44 traded over the last 24 hours. More information can be found
+      at https://ytsla.finance/.
+    logoURI: null
+    name: yTSLA Finance
+    symbol: yTSLA
+    type: null

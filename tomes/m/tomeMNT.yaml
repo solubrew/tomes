@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x310da5e1e61cd9d6eced092f085941089267e71e'
+    chainId: null
+    decimals: null
+    description: Money Token (MNT) is a cryptocurrency and operates on the Ethereum
+      platform. Money Token has a current supply of 1,000,000 with 0 in circulation.
+      The last known price of Money Token is 0.0244298 USD and is up 2.83 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://moneytoken.xyz.
+    logoURI: null
+    name: Money Token
+    symbol: MNT
+    type: null

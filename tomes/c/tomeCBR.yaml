@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xea4afD1C685AC4D33428fa583C2ABE49AaF31Aa9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Crypto Rewards Global
+    symbol: CBR
+    type: null

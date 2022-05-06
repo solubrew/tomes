@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x420412e765bfa6d85aaac94b4f7b708c89be2e2b'
+    chainId: null
+    decimals: null
+    description: Brazilian Digital Token (BRZ) is a cryptocurrency and operates on
+      the Ethereum platform. Brazilian Digital Token has a current supply of 1,702,010.2
+      with 0 in circulation. The last known price of Brazilian Digital Token is 0.18471106
+      USD and is up 1.40 over the last 24 hours. It is currently trading on 6 active
+      market(s) with $728,894.82 traded over the last 24 hours. More information can
+      be found at https://www.brztoken.io/.
+    logoURI: null
+    name: Brazilian Digital Token
+    symbol: BRZ
+    type: null

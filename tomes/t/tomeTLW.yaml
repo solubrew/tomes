@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x06f3cdabae564b0546529b4dd8fef1bcd4235753'
+    chainId: null
+    decimals: null
+    description: TILWIKI (TLW) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. TILWIKI has a current supply of 170,480 with 0 in circulation.
+      The last known price of TILWIKI is 2.69107124 USD and is down -6.42 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $802.61 traded
+      over the last 24 hours. More information can be found at https://tilwiki.com.
+    logoURI: null
+    name: TILWIKI
+    symbol: TLW
+    type: null

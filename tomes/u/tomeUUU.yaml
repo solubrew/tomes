@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3543638ed4a9006e4840b105944271bcea15605d'
+    chainId: null
+    decimals: null
+    description: U Network (UUU) is a cryptocurrency and operates on the Ethereum
+      platform. U Network has a current supply of 10,000,000,000 with 6,994,600,000
+      in circulation. The last known price of U Network is 0.00039569 USD and is down
+      -2.44 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $488,031.35 traded over the last 24 hours. More information can be found
+      at https://u.network/.
+    logoURI: null
+    name: U Network
+    symbol: UUU
+    type: null

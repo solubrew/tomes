@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x49614661737efbfc6a102efaeefdc8e197f7cc0e'
+    chainId: null
+    decimals: null
+    description: Escroco Emerald (ESCE) is a cryptocurrency and operates on the Ethereum
+      platform. Escroco Emerald has a current supply of 1,000,000,000 with 900,000,000
+      in circulation. The last known price of Escroco Emerald is 0.00009869 USD and
+      is up 1.35 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://escroco.net.
+    logoURI: null
+    name: Escroco Emerald
+    symbol: ESCE
+    type: null

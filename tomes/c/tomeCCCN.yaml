@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD11aa2D9342c2B48259F8aa9061c7541D6bA018C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Century Crypto Coin
+    symbol: CCCN
+    type: null

@@ -1,0 +1,15 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x36774FBcA6B17325947CB208F77b4871ac7b6217'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Major US stock market tracking index, redeemable for DAI at expiration on
+      15 May, 2019
+    symbol: USStocks
+    type: null

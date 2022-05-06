@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5D0fa08AEb173AdE44B0Cf7F31d506D8E04f0ac8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 360APP
+    symbol: DAPP
+    type: null

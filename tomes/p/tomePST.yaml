@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec'
+    chainId: null
+    decimals: null
+    description: Primas (PST) is a cryptocurrency and operates on the Ethereum platform.
+      Primas has a current supply of 101,342,465.753 with 52,692,564.7534 in circulation.
+      The last known price of Primas is 0.0162208 USD and is down -0.17 over the last
+      24 hours. It is currently trading on 7 active market(s) with $2,476,231.00 traded
+      over the last 24 hours. More information can be found at https://primas.io/.
+    logoURI: null
+    name: Primas
+    symbol: PST
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7703C35CfFdC5CDa8D27aa3df2F9ba6964544b6e'
+    chainId: null
+    decimals: null
+    description: Pylon Network (PYLNT) is a cryptocurrency and operates on the Ethereum
+      platform. Pylon Network has a current supply of 633,858.31134649 with 582,010.41084649
+      in circulation. The last known price of Pylon Network is 1.2810884 USD and is
+      up 48.55 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $7,970.62 traded over the last 24 hours. More information can be found
+      at https://pylon-network.org/.
+    logoURI: null
+    name: Pylon Network
+    symbol: PYLNT
+    type: null

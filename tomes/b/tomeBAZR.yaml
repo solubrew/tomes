@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8dbeBdCa0f66B3532f7613E9606FaEe19030d3F9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bazeries
+    symbol: BAZR
+    type: null

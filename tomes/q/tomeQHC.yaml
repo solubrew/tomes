@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5df94780f00140FE72d239D0D261f7797E3Fbd1B'
+    chainId: null
+    decimals: null
+    description: QChi Chain (QHC) is a cryptocurrency and operates on the Ethereum
+      platform. QChi Chain has a current supply of 9,200,000,000 with 0 in circulation.
+      The last known price of QChi Chain is 0.0074501 USD and is up 2.03 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $103,421.35
+      traded over the last 24 hours. More information can be found at https://www.qchichain.com/.
+    logoURI: null
+    name: QChi Chain
+    symbol: QHC
+    type: null

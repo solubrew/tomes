@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Spectre.ai D-Token
+    symbol: SXDT
+    type: null

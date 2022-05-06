@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3142dad33b1c6e1371d8627365f2ee2095eb6b37'
+    chainId: null
+    decimals: null
+    description: Hauteclere Shards (HAUT) is a cryptocurrency and operates on the
+      Ethereum platform. Hauteclere Shards has a current supply of 50,000 with 0 in
+      circulation. The last known price of Hauteclere Shards is 1.37383136 USD and
+      is down -2.94 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $360.34 traded over the last 24 hours. More information can be found at
+      https://www.niftex.com/launches/details/HAUT.
+    logoURI: null
+    name: Hauteclere Shards
+    symbol: HAUT
+    type: null

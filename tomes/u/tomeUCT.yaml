@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518'
+    chainId: null
+    decimals: null
+    description: Ubique Chain Of Things (UCT) is a cryptocurrency and operates on
+      the Ethereum platform. Ubique Chain Of Things has a current supply of 1,050,000,000
+      with 0 in circulation. The last known price of Ubique Chain Of Things is 0.00337748
+      USD and is down -7.03 over the last 24 hours. It is currently trading on 6 active
+      market(s) with $52.63 traded over the last 24 hours. More information can be
+      found at http://uct.foundation/.
+    logoURI: null
+    name: Ubique Chain Of Things
+    symbol: UCT
+    type: null

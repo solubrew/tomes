@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x36151737b45017234e9570cf9a1cac97138953c2'
+    chainId: null
+    decimals: null
+    description: NOIZ (NOIZ) is a cryptocurrency and operates on the Ethereum platform.
+      NOIZ has a current supply of 400,000,000 with 0 in circulation. The last known
+      price of NOIZ is 0.01094113 USD and is up 24.13 over the last 24 hours. It is
+      currently trading on 2 active market(s) with $1,588.64 traded over the last
+      24 hours. More information can be found at https://noizchain.com/.
+    logoURI: null
+    name: NOIZ
+    symbol: NOIZ
+    type: null

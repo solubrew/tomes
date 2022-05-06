@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC76FB75950536d98FA62ea968E1D6B45ffea2A55'
+    chainId: null
+    decimals: null
+    description: Unit Protocol (COL) is a cryptocurrency and operates on the Ethereum
+      platform. Unit Protocol has a current supply of 200,000,000,000 with 0 in circulation.
+      The last known price of Unit Protocol is 0.00079896 USD and is up 14.40 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $6,665.27
+      traded over the last 24 hours. More information can be found at https://unit.xyz/.
+    logoURI: null
+    name: Unit Protocol
+    symbol: COL
+    type: null

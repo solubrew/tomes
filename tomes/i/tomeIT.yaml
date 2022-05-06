@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x73d7e1dcfac94282dfda16c8f369b488580f7408'
+    chainId: null
+    decimals: null
+    description: IDCM Token (IT) is a cryptocurrency and operates on the Ethereum
+      platform. IDCM Token has a current supply of 0. The last known price of IDCM
+      Token is 0.00013715 USD and is down -1.45 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $78.17 traded over the last 24 hours. More
+      information can be found at https://www.idcm.io.
+    logoURI: null
+    name: IDCM Token
+    symbol: IT
+    type: null

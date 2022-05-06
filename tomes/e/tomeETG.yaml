@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x28c8d01ff633ea9cd8fc6a451d7457889e698de6'
+    chainId: null
+    decimals: null
+    description: Ethereum Gold (ETG) is a cryptocurrency and operates on the Ethereum
+      platform. Ethereum Gold has a current supply of 24,000,000 with 20,199,973 in
+      circulation. The last known price of Ethereum Gold is 0.01186841 USD and is
+      down -15.12 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $8,696.15 traded over the last 24 hours. More information can be found
+      at https://www.etgproject.org/.
+    logoURI: null
+    name: Ethereum Gold
+    symbol: ETG
+    type: null

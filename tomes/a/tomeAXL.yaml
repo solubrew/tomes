@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4fac0ccd9e2ed9fd462d42b66fb81ba9a1f6f25e'
+    chainId: null
+    decimals: null
+    description: Axial Entertainment Digital Asset (AXL) is a cryptocurrency and operates
+      on the Ethereum platform. Axial Entertainment Digital Asset has a current supply
+      of 380,000,000 with 0 in circulation. The last known price of Axial Entertainment
+      Digital Asset is 0.00442543 USD and is up 0.33 over the last 24 hours. It is
+      currently trading on 2 active market(s) with $161,662.10 traded over the last
+      24 hours. More information can be found at http://axl.team.
+    logoURI: null
+    name: Axial Entertainment Digital Asset
+    symbol: AXL
+    type: null

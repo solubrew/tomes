@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x43E41E7129d46A2B8601d2e4331342609E058357'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Lydian Lion Token
+    symbol: LLion
+    type: null

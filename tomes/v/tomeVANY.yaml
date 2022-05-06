@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4edd66235349e353eb8cb8e40596599644bfe91c'
+    chainId: null
+    decimals: null
+    description: Vanywhere (VANY) is a cryptocurrency and operates on the Ethereum
+      platform. Vanywhere has a current supply of 800,000,000 with 0 in circulation.
+      The last known price of Vanywhere is 0.00083975 USD and is up 24.62 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $7.21 traded
+      over the last 24 hours. More information can be found at https://vanywhere.com/.
+    logoURI: null
+    name: Vanywhere
+    symbol: VANY
+    type: null

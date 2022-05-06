@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x515bA0a2E286AF10115284F151cF398688A69170'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TenX Token
+    symbol: TENX
+    type: null

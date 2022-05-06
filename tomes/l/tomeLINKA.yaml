@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x578b49c45961f98d8df92854b53f1641af0a5036'
+    chainId: null
+    decimals: null
+    description: LINKA (LINKA) is a cryptocurrency and operates on the Ethereum platform.
+      LINKA has a current supply of 2,000,000,000 with 694,150,020 in circulation.
+      The last known price of LINKA is 0.00383976 USD and is down -1.78 over the last
+      24 hours. It is currently trading on 4 active market(s) with $101,231.36 traded
+      over the last 24 hours. More information can be found at https://www.linka.io/.
+    logoURI: null
+    name: LINKA
+    symbol: LINKA
+    type: null

@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x869b1f57380ae501d387b19262efd3c0eb7501b0'
+    chainId: null
+    decimals: null
+    description: Oxycoin (OXY) is a cryptocurrency and operates on the Ethereum platform.
+      Oxycoin has a current supply of 1,122,382,283.37 with 931,894,857.058185 in
+      circulation. The last known price of Oxycoin is 0.00010526 USD and is up 0.00
+      over the last 24 hours. More information can be found at https://oxycoin.io/.
+    logoURI: null
+    name: Oxycoin
+    symbol: OXY
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4'
+    chainId: null
+    decimals: null
+    description: PiplCoin (PIPL) is a cryptocurrency and operates on the Ethereum
+      platform. PiplCoin has a current supply of 7,329,758,708.0568285 with 172,536,808.87315345
+      in circulation. The last known price of PiplCoin is 0.00191418 USD and is up
+      12.57 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $3.19 traded over the last 24 hours. More information can be found at https://piplcoin.com/.
+    logoURI: null
+    name: PiplCoin
+    symbol: PIPL
+    type: null

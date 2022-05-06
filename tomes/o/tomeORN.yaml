@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a'
+    chainId: null
+    decimals: null
+    description: Orion Protocol (ORN) is a cryptocurrency and operates on the Ethereum
+      platform. Orion Protocol has a current supply of 100,000,000 with 12,637,600
+      in circulation. The last known price of Orion Protocol is 3.33904809 USD and
+      is up 6.26 over the last 24 hours. It is currently trading on 18 active market(s)
+      with $7,311,607.83 traded over the last 24 hours. More information can be found
+      at https://www.orionprotocol.io/orn.
+    logoURI: null
+    name: Orion Protocol
+    symbol: ORN
+    type: null

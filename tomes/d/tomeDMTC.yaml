@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76'
+    chainId: null
+    decimals: null
+    description: Demeter Chain (DMTC) is a cryptocurrency and operates on the Ethereum
+      platform. Demeter Chain has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of Demeter Chain is 0.01720783 USD and is down -19.51 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $65.35
+      traded over the last 24 hours. More information can be found at https://dmtc.io/.
+    logoURI: null
+    name: Demeter Chain
+    symbol: DMTC
+    type: null

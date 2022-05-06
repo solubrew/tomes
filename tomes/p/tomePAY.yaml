@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB97048628DB6B661D4C2aA833e95Dbe1A905B280'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TenX Pay Token
+    symbol: PAY
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x64FaB8AfF039ED05259d1c2aF729b70c8002C661'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Konsta token
+    symbol: KNS
+    type: null

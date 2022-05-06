@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe7D7b37e72510309Db27C460378f957B1B04Bd5d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: empowr
+    symbol: EMPR
+    type: null

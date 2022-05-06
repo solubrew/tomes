@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xedd8da5c20eb014e550008df3304213dde5e29f0'
+    chainId: null
+    decimals: null
+    description: Mars Network (MARS) is a cryptocurrency and operates on the Ethereum
+      platform. Mars Network has a current supply of 0. The last known price of Mars
+      Network is 0.44817698 USD and is down -2.20 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $2,006,938.85 traded over the last 24 hours.
+      More information can be found at http://marsnetwork.io/.
+    logoURI: null
+    name: Mars Network
+    symbol: MARS
+    type: null

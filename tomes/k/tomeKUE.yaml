@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdf1338fbafe7af1789151627b886781ba556ef9a'
+    chainId: null
+    decimals: null
+    description: Kuende (KUE) is a cryptocurrency and operates on the Ethereum platform.
+      Kuende has a current supply of 3,013,984,637 with 893,470,232.8203263 in circulation.
+      The last known price of Kuende is 0.00018009 USD and is down -0.68 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $143.55 traded
+      over the last 24 hours. More information can be found at https://kuende.com/.
+    logoURI: null
+    name: Kuende
+    symbol: KUE
+    type: null

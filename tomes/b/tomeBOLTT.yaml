@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x688478f003b8d0f10b8af2122bf20378555ef958'
+    chainId: null
+    decimals: null
+    description: Boltt Coin  (BOLTT) is a cryptocurrency and operates on the Ethereum
+      platform. Boltt Coin  has a current supply of 170,000,000 with 0 in circulation.
+      The last known price of Boltt Coin  is 0.01212995 USD and is up -0.00 over the
+      last 24 hours. It is currently trading on 4 active market(s) with $59.65 traded
+      over the last 24 hours. More information can be found at https://bolttcoin.io/.
+    logoURI: null
+    name: 'Boltt Coin '
+    symbol: BOLTT
+    type: null

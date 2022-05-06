@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x763F8B4fB067190e739Ed6ACB12F40f2F3890840'
+    chainId: null
+    decimals: null
+    description: Digex (DIGEX) is a cryptocurrency and operates on the Ethereum platform.
+      Digex has a current supply of 21,000,000,000 with 0 in circulation. The last
+      known price of Digex is 0.00093858 USD and is up 10.62 over the last 24 hours.
+      It is currently trading on 8 active market(s) with $14,570.11 traded over the
+      last 24 hours. More information can be found at https://digex.io/.
+    logoURI: null
+    name: Digex
+    symbol: DIGEX
+    type: null

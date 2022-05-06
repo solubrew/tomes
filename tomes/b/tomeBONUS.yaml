@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x030c32c1190CBF077E5eE67ED19572c558e43AE4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BitBonus
+    symbol: BONUS
+    type: null

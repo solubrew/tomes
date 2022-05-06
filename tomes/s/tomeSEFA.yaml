@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x27201232579491Ce9b116Ac6F37D354Cc723A2f3'
+    chainId: null
+    decimals: null
+    description: MESEFA (SEFA) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. MESEFA has a current supply of 963,000,000 with 430,655
+      in circulation. The last known price of MESEFA is 0.15208804 USD and is down
+      -28.64 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $9,280.23 traded over the last 24 hours. More information can be found
+      at https://mesefa.com.
+    logoURI: null
+    name: MESEFA
+    symbol: SEFA
+    type: null

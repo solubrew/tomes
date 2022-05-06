@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x69692D3345010a207b759a7D1af6fc7F38b35c5E'
+    chainId: null
+    decimals: null
+    description: CHADS VC (CHADS) is a cryptocurrency and operates on the Ethereum
+      platform. CHADS VC has a current supply of 67,951,462.6521 with 0 in circulation.
+      The last known price of CHADS VC is 0.02791391 USD and is up 1.53 over the last
+      24 hours. It is currently trading on 1 active market(s) with $6,072.08 traded
+      over the last 24 hours. More information can be found at https://chads.vc.
+    logoURI: null
+    name: CHADS VC
+    symbol: CHADS
+    type: null

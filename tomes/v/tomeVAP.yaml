@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9EA085bc45639372e7389e5C5069a86cAC5a03bF'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Vaporware
+    symbol: VAP
+    type: null

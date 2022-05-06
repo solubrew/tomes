@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x56cdbbeec9828962cecb3f1b69517d430295d952'
+    chainId: null
+    decimals: null
+    description: Davecoin (DDTG) is a cryptocurrency and operates on the Ethereum
+      platform. Davecoin has a current supply of 116,238,001 with 0 in circulation.
+      The last known price of Davecoin is 0.01156846 USD and is down -3.58 over the
+      last 24 hours. More information can be found at https://davecoin.money/.
+    logoURI: null
+    name: Davecoin
+    symbol: DDTG
+    type: null

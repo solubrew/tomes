@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe541b34f73a4789a033a962ad43655221b4e516e'
+    chainId: null
+    decimals: null
+    description: Creatanium (CMB) is a cryptocurrency and operates on the Ethereum
+      platform. Creatanium has a current supply of 2,000,000,000 with 0 in circulation.
+      The last known price of Creatanium is 0 USD and is up 0.00 over the last 24
+      hours. More information can be found at https://www.plmp-fintech.com.sg/.
+    logoURI: null
+    name: Creatanium
+    symbol: CMB
+    type: null

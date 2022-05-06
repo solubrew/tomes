@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4d8976176276901bCBDD728a0260870379Af2034'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TokenBTC
+    symbol: TKBTC
+    type: null

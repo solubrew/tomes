@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8bf92cad232f72a7c61eb42e9185e8d0ea470f6b'
+    chainId: null
+    decimals: null
+    description: Smpl foundation (SMPL) is a cryptocurrency and operates on the Ethereum
+      platform. Smpl foundation has a current supply of 0. The last known price of
+      Smpl foundation is 37.52919653 USD and is down -1.38 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $13.34 traded over the last
+      24 hours. More information can be found at https://smplfoundation.com/.
+    logoURI: null
+    name: Smpl foundation
+    symbol: SMPL
+    type: null

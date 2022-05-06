@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8F8e787989BC652eeA01A6C88a19f0f379BDF4FD'
+    chainId: null
+    decimals: null
+    description: Helex (HLX) is a cryptocurrency and operates on the Ethereum platform.
+      Helex has a current supply of 5,000,000 with 70,159.8009 in circulation. The
+      last known price of Helex is 0.16784505 USD and is up 0.26 over the last 24
+      hours. It is currently trading on 2 active market(s) with $3,500.97 traded over
+      the last 24 hours. More information can be found at https://helex.world.
+    logoURI: null
+    name: Helex
+    symbol: HLX
+    type: null

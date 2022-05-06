@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f'
+    chainId: null
+    decimals: null
+    description: PlatonCoin (PLTC) is a cryptocurrency and operates on the Ethereum
+      platform. PlatonCoin has a current supply of 300,000,000 with 25,119,145.14252554
+      in circulation. The last known price of PlatonCoin is 0.38283566 USD and is
+      up 1.31 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $6,396.61 traded over the last 24 hours. More information can be found
+      at https://platonfinance.com.
+    logoURI: null
+    name: PlatonCoin
+    symbol: PLTC
+    type: null

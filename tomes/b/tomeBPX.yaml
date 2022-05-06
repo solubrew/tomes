@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222'
+    chainId: null
+    decimals: null
+    description: Bispex (BPX) is a cryptocurrency and operates on the Ethereum platform.
+      Bispex has a current supply of 40,000,000,000 with 0 in circulation. The last
+      known price of Bispex is 0.00097556 USD and is up 0.09 over the last 24 hours.
+      It is currently trading on 6 active market(s) with $7,606.94 traded over the
+      last 24 hours. More information can be found at https://bispex.com.
+    logoURI: null
+    name: Bispex
+    symbol: BPX
+    type: null

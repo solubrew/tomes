@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf08c68bd5f4194d994fd70726746bf529ee5a617'
+    chainId: null
+    decimals: null
+    description: ThoreNext (THX) is a cryptocurrency and operates on the Ethereum
+      platform. ThoreNext has a current supply of 210,000,000 with 47,950,305 in circulation.
+      The last known price of ThoreNext is 0.38674881 USD and is down -11.28 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $3,973.65
+      traded over the last 24 hours. More information can be found at https://www.thorenext.com/.
+    logoURI: null
+    name: ThoreNext
+    symbol: THX
+    type: null

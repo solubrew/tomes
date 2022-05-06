@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF661D58cfE893993b11D53d11148c4650590C692'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: MNLTHRVLD
+    type: null

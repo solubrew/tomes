@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x058a144951e062FC14f310057D2Fd9ef0Cf5095b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PoWH3D Extended
+    symbol: P3X
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBb1f24C0c1554b9990222f036b0AaD6Ee4CAec29'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CryptoSoul
+    symbol: SOUL
+    type: null

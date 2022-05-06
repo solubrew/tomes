@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2567c677473d110d75a8360c35309e63b1d52429'
+    chainId: null
+    decimals: null
+    description: ShareX (SEXC) is a cryptocurrency and operates on the Ethereum platform.
+      ShareX has a current supply of 1,000,000,000 with 645,515,075.327001 in circulation.
+      The last known price of ShareX is 0.00002944 USD and is up 0.00 over the last
+      24 hours. More information can be found at https://sharex.vc/.
+    logoURI: null
+    name: ShareX
+    symbol: SEXC
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd'
+    chainId: null
+    decimals: null
+    description: Hakka.Finance (HAKKA) is a cryptocurrency and operates on the Ethereum
+      platform. Hakka.Finance has a current supply of 635,982,513 with 138,822,904.2813424
+      in circulation. The last known price of Hakka.Finance is 0.07753602 USD and
+      is up 26.23 over the last 24 hours. It is currently trading on 14 active market(s)
+      with $1,356,043.57 traded over the last 24 hours. More information can be found
+      at https://hakka.finance/.
+    logoURI: null
+    name: Hakka.Finance
+    symbol: HAKKA
+    type: null

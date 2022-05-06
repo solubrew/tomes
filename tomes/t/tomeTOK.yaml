@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1d2a5d15bF491c4c3AC69Fba9F7eA193de39Fdd6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TOKEN NAME
+    symbol: TOK
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcf33Eb02227255c45F595727Dbb24cE16afc36A2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Luxury Yacht Coin
+    symbol: YHTS
+    type: null

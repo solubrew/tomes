@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE4E2DAf5F7F0C1c35DF922C5d9340913EDECC8e8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Mnoer
+    symbol: MNR
+    type: null

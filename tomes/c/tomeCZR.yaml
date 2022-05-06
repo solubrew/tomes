@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0223fc70574214f65813fe336d870ac47e147fae'
+    chainId: null
+    decimals: null
+    description: CanonChain (CZR) is a cryptocurrency and operates on the Ethereum
+      platform. CanonChain has a current supply of 1,618,033,988 with 582,212,719.2777778
+      in circulation. The last known price of CanonChain is 0.00119309 USD and is
+      up 3.02 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at http://www.canonchain.com/.
+    logoURI: null
+    name: CanonChain
+    symbol: CZR
+    type: null

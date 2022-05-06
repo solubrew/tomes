@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe75ad3aab14e4b0df8c5da4286608dabb21bd864'
+    chainId: null
+    decimals: null
+    description: Acute Angle Cloud (AAC) is a cryptocurrency and operates on the Ethereum
+      platform. Acute Angle Cloud has a current supply of 1,000,000,000 with 250,000,000
+      in circulation. The last known price of Acute Angle Cloud is 0.01148951 USD
+      and is up 1.68 over the last 24 hours. It is currently trading on 9 active market(s)
+      with $453,144.38 traded over the last 24 hours. More information can be found
+      at http://acuteangle.com/.
+    logoURI: null
+    name: Acute Angle Cloud
+    symbol: AAC
+    type: null

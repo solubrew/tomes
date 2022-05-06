@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb6f43025b29196af2dddd69b0a58afba079cd600'
+    chainId: null
+    decimals: null
+    description: Intelligent Investment Chain (IIC) is a cryptocurrency and operates
+      on the Ethereum platform. Intelligent Investment Chain has a current supply
+      of 21,000,000,000 with 0 in circulation. The last known price of Intelligent
+      Investment Chain is 0.00009842 USD and is up 3.64 over the last 24 hours. It
+      is currently trading on 5 active market(s) with $161,548.49 traded over the
+      last 24 hours. More information can be found at http://www.iichain.io/.
+    logoURI: null
+    name: Intelligent Investment Chain
+    symbol: IIC
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3AeF8e803BD9be47e69b9f36487748d30D940b96'
+    chainId: null
+    decimals: null
+    description: Vesta Protocol (VESTA) is a cryptocurrency and operates on the Ethereum
+      platform. Vesta Protocol has a current supply of 0. The last known price of
+      Vesta Protocol is 0.00005492 USD and is up 3.37 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $5.96 traded over the last 24 hours.
+      More information can be found at https://vtp.network.
+    logoURI: null
+    name: Vesta Protocol
+    symbol: VESTA
+    type: null

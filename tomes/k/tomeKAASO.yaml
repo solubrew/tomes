@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf6bf74a97d78f2242376769ef1e79885cf1f0c1c'
+    chainId: null
+    decimals: null
+    description: KAASO (KAASO) is a cryptocurrency and operates on the Ethereum platform.
+      KAASO has a current supply of 120,000,000 with 117,599,999 in circulation. The
+      last known price of KAASO is 0.00009548 USD and is up 2.99 over the last 24
+      hours. It is currently trading on 2 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://kaaso.com.
+    logoURI: null
+    name: KAASO
+    symbol: KAASO
+    type: null

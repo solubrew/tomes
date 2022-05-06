@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdff3d1347187A0a1f225707B710010B10e6f3084'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: NUBEE
+    symbol: NBE
+    type: null

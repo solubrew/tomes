@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2505A3C035291C05cb78cb43cff39564637E1DD9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EVEN
+    symbol: EVEN
+    type: null

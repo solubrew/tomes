@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x09843b9137fc5935b7f3832152f9074db5d2d1ee'
+    chainId: null
+    decimals: null
+    description: YFI3.money (YFI3) is a cryptocurrency launched in 1970and operates
+      on the Ethereum platform. YFI3.money has a current supply of 0. The last known
+      price of YFI3.money is 34.55332019 USD and is up 3.77 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $34,649.34 traded over the
+      last 24 hours. More information can be found at https://yfi3.money/.
+    logoURI: null
+    name: YFI3.money
+    symbol: YFI3
+    type: null

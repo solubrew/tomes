@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd194E4F96d102D834B617226E90f89b83b17bA9D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Token Factory Switzerland Ltd | 7H3M-9XPG-T
+    symbol: TOKENFACTORY
+    type: null

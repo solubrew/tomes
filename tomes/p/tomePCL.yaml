@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0f02e27745e3b6e9e1310d19469e2b5d7b5ec99a'
+    chainId: null
+    decimals: null
+    description: Peculium (PCL) is a cryptocurrency and operates on the Ethereum platform.
+      Peculium has a current supply of 2,206,029,269.2890034 with 2,039,325,377.2890034
+      in circulation. The last known price of Peculium is 0.00200482 USD and is down
+      -8.08 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $6,133.25 traded over the last 24 hours. More information can be found
+      at http://peculium.io.
+    logoURI: null
+    name: Peculium
+    symbol: PCL
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x79c4e3d3cD2F6418cb60A1eb777e281B2C8795e6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Dragon City Token
+    symbol: DCT
+    type: null

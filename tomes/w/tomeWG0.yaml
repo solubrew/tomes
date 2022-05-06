@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa10740ff9FF6852eac84cdcfF9184e1D6d27C057'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Wrapped Gen 0
+    symbol: WG0
+    type: null

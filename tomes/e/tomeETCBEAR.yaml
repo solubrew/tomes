@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA340f0937a8c00DB11C83Cc16CEC12310160F0b6'
+    chainId: null
+    decimals: null
+    description: 3X Short Ethereum Classic Token (ETCBEAR) is a cryptocurrency and
+      operates on the Ethereum platform. 3X Short Ethereum Classic Token has a current
+      supply of 2,331.55979244 with 0 in circulation. The last known price of 3X Short
+      Ethereum Classic Token is 2.622 USD and is down -7.74 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $67.81 traded over the last
+      24 hours. More information can be found at https://ftx.com/tokens/ETCBEAR.
+    logoURI: null
+    name: 3X Short Ethereum Classic Token
+    symbol: ETCBEAR
+    type: null

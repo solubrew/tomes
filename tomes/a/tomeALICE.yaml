@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8aa18921bC476F0A69e6C376e28C34b993E0b106'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Alice
+    symbol: ALICE
+    type: null

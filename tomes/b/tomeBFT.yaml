@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f'
+    chainId: null
+    decimals: null
+    description: BnkToTheFuture (BFT) is a cryptocurrency and operates on the Ethereum
+      platform. BnkToTheFuture has a current supply of 1,000,000,000 with 729,969,999.3247391
+      in circulation. The last known price of BnkToTheFuture is 0.00812338 USD and
+      is down -5.88 over the last 24 hours. It is currently trading on 10 active market(s)
+      with $712,148.87 traded over the last 24 hours. More information can be found
+      at https://bf-token.bnktothefuture.com/#!/.
+    logoURI: null
+    name: BnkToTheFuture
+    symbol: BFT
+    type: null

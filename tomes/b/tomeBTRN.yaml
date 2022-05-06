@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x03c780cd554598592b97b7256ddaad759945b125'
+    chainId: null
+    decimals: null
+    description: Biotron (BTRN) is a cryptocurrency and operates on the Ethereum platform.
+      Biotron has a current supply of 411,092,461 with 65,965,770.89726543 in circulation.
+      The last known price of Biotron is 0.00038284 USD and is up 1.31 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://biotron.io/.
+    logoURI: null
+    name: Biotron
+    symbol: BTRN
+    type: null

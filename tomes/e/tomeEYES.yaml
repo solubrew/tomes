@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2dca19e944453e46d9130950ca135461b3bc0c30'
+    chainId: null
+    decimals: null
+    description: EYES Protocol (EYES) is a cryptocurrency and operates on the Ethereum
+      platform. EYES Protocol has a current supply of 9,980,000,000 with 0 in circulation.
+      The last known price of EYES Protocol is 0.00421589 USD and is up 17.45 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $3,330.22
+      traded over the last 24 hours. More information can be found at https://www.eyesprotocol.io/en.
+    logoURI: null
+    name: EYES Protocol
+    symbol: EYES
+    type: null

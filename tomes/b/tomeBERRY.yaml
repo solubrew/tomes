@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c'
+    chainId: null
+    decimals: null
+    description: Rentberry (BERRY) is a cryptocurrency and operates on the Ethereum
+      platform. Rentberry has a current supply of 301,473,027.68713224 with 301,431,306.9919926
+      in circulation. The last known price of Rentberry is 0.00048621 USD and is up
+      10.40 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $1.51 traded over the last 24 hours. More information can be found at https://ico.rentberry.com/.
+    logoURI: null
+    name: Rentberry
+    symbol: BERRY
+    type: null

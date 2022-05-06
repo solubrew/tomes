@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9a1bf361798ef6538ccb8137ea900c4d4b48ca3d'
+    chainId: null
+    decimals: null
+    description: Connectome (CNTM) is a cryptocurrency and operates on the Ethereum
+      platform. Connectome has a current supply of 1,213,183 with 1,210,675 in circulation.
+      The last known price of Connectome is 1.20050285 USD and is up 0.22 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $2,496,767.59
+      traded over the last 24 hours. More information can be found at https://connectome.to/.
+    logoURI: null
+    name: Connectome
+    symbol: CNTM
+    type: null

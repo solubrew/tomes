@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x86C10D10ECa1Fca9DAF87a279ABCcabe0063F247'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: PETS
+    type: null

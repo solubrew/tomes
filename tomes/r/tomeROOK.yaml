@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfa5047c9c78b8877af97bdcb85db743fd7313d4a'
+    chainId: null
+    decimals: null
+    description: KeeperDAO (ROOK) is a cryptocurrency and operates on the Ethereum
+      platform. KeeperDAO has a current supply of 1,000,000 with 36,430 in circulation.
+      The last known price of KeeperDAO is 99.06418023 USD and is down -1.61 over
+      the last 24 hours. It is currently trading on 6 active market(s) with $1,647,518.39
+      traded over the last 24 hours. More information can be found at https://app.keeperdao.com/.
+    logoURI: null
+    name: KeeperDAO
+    symbol: ROOK
+    type: null

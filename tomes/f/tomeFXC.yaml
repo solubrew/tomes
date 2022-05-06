@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4a57E687b9126435a9B19E4A802113e266AdeBde'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Flexacoin
+    symbol: FXC
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x46b9ad944d1059450da1163511069c718f699d31'
+    chainId: null
+    decimals: null
+    description: Credits (CS) is a cryptocurrency and operates on the Ethereum platform.
+      Credits has a current supply of 249,471,071.20999 with 249,368,300.130422 in
+      circulation. The last known price of Credits is 0.01300309 USD and is up 2.63
+      over the last 24 hours. It is currently trading on 8 active market(s) with $10,915.40
+      traded over the last 24 hours. More information can be found at https://credits.com/en.
+    logoURI: null
+    name: Credits
+    symbol: CS
+    type: null

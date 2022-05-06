@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b'
+    chainId: null
+    decimals: null
+    description: iEthereum (IETH) is a cryptocurrency and operates on the Ethereum
+      platform. iEthereum has a current supply of 18,000,000. The last known price
+      of iEthereum is 0.09575098 USD and is up 1.42 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $0.00 traded over the last 24 hours.
+      More information can be found at http://iethereum.trade/.
+    logoURI: null
+    name: iEthereum
+    symbol: IETH
+    type: null

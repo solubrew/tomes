@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcB8d1260F9c92A3A545d409466280fFdD7AF7042'
+    chainId: null
+    decimals: null
+    description: NFT (NFT) is a cryptocurrency and operates on the Ethereum platform.
+      NFT has a current supply of 88,888,888 with 0 in circulation. The last known
+      price of NFT is 0.12822644 USD and is up 4.93 over the last 24 hours. More information
+      can be found at https://www.blockparty.co/.
+    logoURI: null
+    name: NFT
+    symbol: NFT
+    type: null

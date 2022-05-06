@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xAc1d236b6B92c69Ad77bAB61DB605A09d9D8eC40'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Stop SCOTT
+    symbol: SCOTT
+    type: null

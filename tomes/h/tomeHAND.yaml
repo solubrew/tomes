@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x48C1B2f3eFA85fbafb2ab951bF4Ba860a08cdBB7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ShowHand
+    symbol: HAND
+    type: null

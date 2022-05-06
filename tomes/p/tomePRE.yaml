@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x30765406d51091Ed78ff13C107731Daf3Be5EF16'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Premine
+    symbol: PRE
+    type: null

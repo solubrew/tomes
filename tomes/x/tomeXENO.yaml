@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdf2705d4368cd2ee3bbff73594ae47244064dffb'
+    chainId: null
+    decimals: null
+    description: Xenoverse (XENO) is a cryptocurrency and operates on the Ethereum
+      platform. Xenoverse has a current supply of 1,000,000,000 with 5,336,725.14755988
+      in circulation. The last known price of Xenoverse is 0.00390787 USD and is down
+      -2.51 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://xenoverse.io/.
+    logoURI: null
+    name: Xenoverse
+    symbol: XENO
+    type: null

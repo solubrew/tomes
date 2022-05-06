@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x667102BD3413bFEaa3Dffb48fa8288819E480a88'
+    chainId: null
+    decimals: null
+    description: Tokenize Xchange (TKX) is a cryptocurrency and operates on the Ethereum
+      platform. Tokenize Xchange has a current supply of 100,000,000 with 0 in circulation.
+      The last known price of Tokenize Xchange is 1.7484762 USD and is up 0.34 over
+      the last 24 hours. It is currently trading on 4 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://ico.tokenize.exchange/.
+    logoURI: null
+    name: Tokenize Xchange
+    symbol: TKX
+    type: null

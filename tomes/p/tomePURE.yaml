@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2904b9b16652d7d0408eccfa23a19d4a3358230f'
+    chainId: null
+    decimals: null
+    description: Puriever (PURE) is a cryptocurrency and operates on the Ethereum
+      platform. Puriever has a current supply of 1,200,000,000 with 0 in circulation.
+      The last known price of Puriever is 1.44197103 USD and is down -0.39 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $366,559.37
+      traded over the last 24 hours. More information can be found at https://puriever.com.
+    logoURI: null
+    name: Puriever
+    symbol: PURE
+    type: null

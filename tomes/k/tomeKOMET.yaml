@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6cfb6df56bbdb00226aeffcdb2cd1fe8da1abda7'
+    chainId: null
+    decimals: null
+    description: Komet (KOMET) is a cryptocurrency and operates on the Ethereum platform.
+      Komet has a current supply of 30,000 with 0 in circulation. The last known price
+      of Komet is 57.45340782 USD and is down -14.65 over the last 24 hours. It is
+      currently trading on 2 active market(s) with $207,502.19 traded over the last
+      24 hours. More information can be found at https://komet.finance.
+    logoURI: null
+    name: Komet
+    symbol: KOMET
+    type: null

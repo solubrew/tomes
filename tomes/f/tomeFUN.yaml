@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FunFair
+    symbol: FUN
+    type: null

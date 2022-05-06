@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe277ac35f9d327a670c1a3f3eec80a83022431e4'
+    chainId: null
+    decimals: null
+    description: PolypuX (PUX) is a cryptocurrency and operates on the Ethereum platform.
+      PolypuX has a current supply of 80,000,000 with 40,000,000 in circulation. The
+      last known price of PolypuX is 0.002719 USD and is down -1.27 over the last
+      24 hours. It is currently trading on 3 active market(s) with $849.17 traded
+      over the last 24 hours. More information can be found at https://www.polypux.com.
+    logoURI: null
+    name: PolypuX
+    symbol: PUX
+    type: null

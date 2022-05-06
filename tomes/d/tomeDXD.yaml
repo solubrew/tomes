@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa1d65e8fb6e87b60feccbc582f7f97804b725521'
+    chainId: null
+    decimals: null
+    description: DXdao (DXD) is a cryptocurrency and operates on the Ethereum platform.
+      DXdao has a current supply of 122,932.74303916 with 0 in circulation. The last
+      known price of DXdao is 171.09281272 USD and is up 1.63 over the last 24 hours.
+      It is currently trading on 24 active market(s) with $1,080,080.20 traded over
+      the last 24 hours. More information can be found at https://dxdao.eth.link.
+    logoURI: null
+    name: DXdao
+    symbol: DXD
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x264Dc2DedCdcbb897561A57CBa5085CA416fb7b4'
+    chainId: null
+    decimals: null
+    description: QunQun (QUN) is a cryptocurrency and operates on the Ethereum platform.
+      QunQun has a current supply of 1,557,000,000 with 729,777,775.1057 in circulation.
+      The last known price of QunQun is 0.00482606 USD and is down -26.21 over the
+      last 24 hours. It is currently trading on 9 active market(s) with $770,160.04
+      traded over the last 24 hours. More information can be found at https://qunqun.io/.
+    logoURI: null
+    name: QunQun
+    symbol: QUN
+    type: null

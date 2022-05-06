@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: OCMONK
+    type: null

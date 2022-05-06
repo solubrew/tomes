@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xca1207647ff814039530d7d35df0e1dd2e91fa84'
+    chainId: null
+    decimals: null
+    description: dHedge DAO (DHT) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. dHedge DAO has a current supply of 100,000,000 with
+      0 in circulation. The last known price of dHedge DAO is 1.63019756 USD and is
+      up 11.73 over the last 24 hours. It is currently trading on 10 active market(s)
+      with $1,033,805.72 traded over the last 24 hours. More information can be found
+      at https://www.dhedge.org/.
+    logoURI: null
+    name: dHedge DAO
+    symbol: DHT
+    type: null

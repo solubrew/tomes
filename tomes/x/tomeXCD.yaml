@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xca00bc15f67ebea4b20dfaaa847cace113cc5501'
+    chainId: null
+    decimals: null
+    description: CapdaxToken (XCD) is a cryptocurrency and operates on the Ethereum
+      platform. CapdaxToken has a current supply of 2,500,000,000 with 0 in circulation.
+      The last known price of CapdaxToken is 0.00680975 USD and is up 5.17 over the
+      last 24 hours. More information can be found at https://www.capdax.com/.
+    logoURI: null
+    name: CapdaxToken
+    symbol: XCD
+    type: null

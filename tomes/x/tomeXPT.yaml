@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x08aa0ed0040736dd28d4c8b16ab453b368248d19'
+    chainId: null
+    decimals: null
+    description: Cryptobuyer (XPT) is a cryptocurrency launched in 2015and operates
+      on the Ethereum platform. Cryptobuyer has a current supply of 155,254,440 with
+      57,117,913.40671041 in circulation. The last known price of Cryptobuyer is 0.03142012
+      USD and is up 12.98 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $23,531.51 traded over the last 24 hours. More information can
+      be found at https://cryptobuyer.io/.
+    logoURI: null
+    name: Cryptobuyer
+    symbol: XPT
+    type: null

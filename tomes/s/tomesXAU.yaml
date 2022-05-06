@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe05D803fa0c5832Fa2262465290abB25d6C2bFA3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Synth sXAU
+    symbol: sXAU
+    type: null

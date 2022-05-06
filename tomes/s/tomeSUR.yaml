@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf'
+    chainId: null
+    decimals: null
+    description: Suretly (SUR) is a cryptocurrency and operates on the Ethereum platform.
+      Suretly has a current supply of 235,535.436. The last known price of Suretly
+      is 0.38722853 USD and is down -3.14 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $2,785.13 traded over the last 24 hours.
+      More information can be found at https://surco.in.
+    logoURI: null
+    name: Suretly
+    symbol: SUR
+    type: null

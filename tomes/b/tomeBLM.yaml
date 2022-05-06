@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2722690a68f97E3361b958eb0b1DEdf39190f6AD'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Blume Token
+    symbol: BLM
+    type: null

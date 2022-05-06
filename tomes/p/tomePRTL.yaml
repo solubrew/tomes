@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF01d7939441a3b1B108C70A28DcD99c6A98aD4b4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Partial Coin
+    symbol: PRTL
+    type: null

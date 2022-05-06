@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2eDf094dB69d6Dcd487f1B3dB9febE2eeC0dd4c5'
+    chainId: null
+    decimals: null
+    description: ZeroSwap (ZEE) is a cryptocurrency and operates on the Ethereum platform.
+      ZeroSwap has a current supply of 100,000,000 with 0 in circulation. The last
+      known price of ZeroSwap is 0.0560646 USD and is down -4.59 over the last 24
+      hours. It is currently trading on 3 active market(s) with $377,279.42 traded
+      over the last 24 hours. More information can be found at https://zeroswap.io/.
+    logoURI: null
+    name: ZeroSwap
+    symbol: ZEE
+    type: null

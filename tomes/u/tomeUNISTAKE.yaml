@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9ed8e7c9604790f7ec589f99b94361d8aab64e5e'
+    chainId: null
+    decimals: null
+    description: Unistake (UNISTAKE) is a cryptocurrency and operates on the Ethereum
+      platform. Unistake has a current supply of 0. The last known price of Unistake
+      is 0.00823711 USD and is down -5.84 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $15,616.08 traded over the last 24 hours.
+      More information can be found at https://unistake.finance/.
+    logoURI: null
+    name: Unistake
+    symbol: UNISTAKE
+    type: null

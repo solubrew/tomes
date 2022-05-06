@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe0c6CE3e73029F201e5C0Bedb97F67572A93711C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ETHplode
+    symbol: ETHPLO
+    type: null

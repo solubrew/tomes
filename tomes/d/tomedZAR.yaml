@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x45d918e17E30872d7C1CcBaab4a0813Ed0360e46'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Digital Rand
+    symbol: dZAR
+    type: null

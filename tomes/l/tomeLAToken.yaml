@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LAToken
+    symbol: LAToken
+    type: null

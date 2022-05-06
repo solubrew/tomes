@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xebf4ca5319f406602eeff68da16261f1216011b5'
+    chainId: null
+    decimals: null
+    description: Yobit Token (YO) is a cryptocurrency and operates on the Ethereum
+      platform. Yobit Token has a current supply of 17,000 with 0 in circulation.
+      The last known price of Yobit Token is 2,410.660296 USD and is up 2.04 over
+      the last 24 hours. It is currently trading on 5 active market(s) with $2,323,086.53
+      traded over the last 24 hours. More information can be found at https://yobit.net/en/trade/YO/BTC.
+    logoURI: null
+    name: Yobit Token
+    symbol: YO
+    type: null

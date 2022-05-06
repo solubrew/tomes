@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6'
+    chainId: null
+    decimals: null
+    description: UnFederalReserve (ERSDL) is a cryptocurrency and operates on the
+      Ethereum platform. UnFederalReserve has a current supply of 306,598,539 with
+      0 in circulation. The last known price of UnFederalReserve is 0.01968324 USD
+      and is down -6.83 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $189,170.94 traded over the last 24 hours. More information can
+      be found at https://www.unfederalreserve.com.
+    logoURI: null
+    name: UnFederalReserve
+    symbol: ERSDL
+    type: null

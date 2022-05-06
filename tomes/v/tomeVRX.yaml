@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6D5CEb96307691e697623e08BE57BCb4312402d3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Verixeum
+    symbol: VRX
+    type: null

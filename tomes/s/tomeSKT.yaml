@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA7c8d7a1C894E51dbB7c680B5B1dBdc845BFbDAB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SpeedKingToken
+    symbol: SKT
+    type: null

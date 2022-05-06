@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa74476443119A942dE498590Fe1f2454d7D4aC0d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Golem Network Token
+    symbol: GNT
+    type: null

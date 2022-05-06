@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9cd39da8f25ec50cf2ee260e464ac23ea23f6bb0'
+    chainId: null
+    decimals: null
+    description: Toshify.finance (YFT) is a cryptocurrency and operates on the Ethereum
+      platform. Toshify.finance has a current supply of 0. The last known price of
+      Toshify.finance is 5.66260531 USD and is down -10.87 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $27,962.15 traded over the
+      last 24 hours. More information can be found at https://toshify.finance.
+    logoURI: null
+    name: Toshify.finance
+    symbol: YFT
+    type: null

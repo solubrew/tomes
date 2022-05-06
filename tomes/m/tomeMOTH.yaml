@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x935133F60581f244d34E03F0e28EBD956F819Bdc'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Crypto MOTH
+    symbol: MOTH
+    type: null

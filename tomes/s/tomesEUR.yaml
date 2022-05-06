@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD71eCFF9342A5Ced620049e616c5035F1dB98620'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Synth sEUR
+    symbol: sEUR
+    type: null

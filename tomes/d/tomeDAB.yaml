@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5e7ebea68ab05198f771d77a875480314f1d0aae'
+    chainId: null
+    decimals: null
+    description: DABANKING (DAB) is a cryptocurrency and operates on the Ethereum
+      platform. DABANKING has a current supply of 199,936,930.05756614 with 5,118,931.7211517
+      in circulation. The last known price of DABANKING is 0.01431689 USD and is down
+      -23.73 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $829.20 traded over the last 24 hours. More information can be found at
+      https://dabanking.io/.
+    logoURI: null
+    name: DABANKING
+    symbol: DAB
+    type: null

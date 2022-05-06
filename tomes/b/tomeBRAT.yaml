@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891'
+    chainId: null
+    decimals: null
+    description: BROTHER (BRAT) is a cryptocurrency and operates on the Ethereum platform.
+      BROTHER has a current supply of 1,000,000,000 with 160,000,000 in circulation.
+      The last known price of BROTHER is 0.0001299 USD and is up 1.44 over the last
+      24 hours. More information can be found at http://bro-consortium.io/.
+    logoURI: null
+    name: BROTHER
+    symbol: BRAT
+    type: null

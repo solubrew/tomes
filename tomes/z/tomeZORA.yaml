@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6'
+    chainId: null
+    decimals: null
+    description: Zoracles (ZORA) is a cryptocurrency and operates on the Ethereum
+      platform. Zoracles has a current supply of 10,000 with 0 in circulation. The
+      last known price of Zoracles is 873.900521 USD and is down -10.50 over the last
+      24 hours. It is currently trading on 2 active market(s) with $3,164,427.47 traded
+      over the last 24 hours. More information can be found at https://zoracles.com.
+    logoURI: null
+    name: Zoracles
+    symbol: ZORA
+    type: null

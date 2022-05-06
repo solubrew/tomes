@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xAdD27120B57d9bD0CEA29876168A01E3E904131e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: POV Crypto
+    symbol: POV
+    type: null

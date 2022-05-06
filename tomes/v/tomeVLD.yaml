@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x922aC473A3cC241fD3a0049Ed14536452D58D73c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: VALID
+    symbol: VLD
+    type: null

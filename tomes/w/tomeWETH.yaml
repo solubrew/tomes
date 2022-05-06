@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Wrapped Ether
+    symbol: WETH
+    type: null

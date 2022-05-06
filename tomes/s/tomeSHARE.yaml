@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d'
+    chainId: null
+    decimals: null
+    description: Seigniorage Shares (SHARE) is a cryptocurrency and operates on the
+      Ethereum platform. Seigniorage Shares has a current supply of 0. The last known
+      price of Seigniorage Shares is 0.21063961 USD and is up 228.73 over the last
+      24 hours. It is currently trading on 1 active market(s) with $1,258,959.39 traded
+      over the last 24 hours. More information can be found at https://dollarprotocol.com/.
+    logoURI: null
+    name: Seigniorage Shares
+    symbol: SHARE
+    type: null

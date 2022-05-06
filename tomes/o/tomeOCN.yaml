@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4092678e4E78230F46A1534C0fbc8fA39780892B'
+    chainId: null
+    decimals: null
+    description: Odyssey (OCN) is a cryptocurrency and operates on the Ethereum platform.
+      Odyssey has a current supply of 10,000,000,000 with 6,617,297,214.956011 in
+      circulation. The last known price of Odyssey is 0.00027361 USD and is up 0.61
+      over the last 24 hours. It is currently trading on 16 active market(s) with
+      $159,887.24 traded over the last 24 hours. More information can be found at
+      http://www.ocnex.net/.
+    logoURI: null
+    name: Odyssey
+    symbol: OCN
+    type: null

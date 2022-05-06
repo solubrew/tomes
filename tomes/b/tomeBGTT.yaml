@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7a545Ed3863221A974F327199Ac22F7f12535F11'
+    chainId: null
+    decimals: null
+    description: Baguette Token (BGTT) is a cryptocurrency and operates on the Ethereum
+      platform. Baguette Token has a current supply of 50,000,000 with 15,577,779
+      in circulation. The last known price of Baguette Token is 0.00356488 USD and
+      is down -41.43 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $64.24 traded over the last 24 hours. More information can be found at
+      https://baguettetoken.com.
+    logoURI: null
+    name: Baguette Token
+    symbol: BGTT
+    type: null

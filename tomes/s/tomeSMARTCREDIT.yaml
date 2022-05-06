@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x72e9d9038ce484ee986fea183f8d8df93f9ada13'
+    chainId: null
+    decimals: null
+    description: SmartCredit Token (SMARTCREDIT) is a cryptocurrency and operates
+      on the Ethereum platform. SmartCredit Token has a current supply of 25,000,000
+      with 1,106,625 in circulation. The last known price of SmartCredit Token is
+      1.90622687 USD and is down -8.78 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $534,334.80 traded over the last 24 hours. More information
+      can be found at https://smartcredit.io/.
+    logoURI: null
+    name: SmartCredit Token
+    symbol: SMARTCREDIT
+    type: null

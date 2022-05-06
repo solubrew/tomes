@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1e66008a24a486456a796e0c771fdc0cdf43cad9'
+    chainId: null
+    decimals: null
+    description: Stellar Classic (XLMX) is a cryptocurrency and operates on the Ethereum
+      platform. Stellar Classic has a current supply of 3,450,990,960 with 830,961,564.61081
+      in circulation. The last known price of Stellar Classic is 0.0000418 USD and
+      is up 2.97 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at http://stellar-classics.com/.
+    logoURI: null
+    name: Stellar Classic
+    symbol: XLMX
+    type: null

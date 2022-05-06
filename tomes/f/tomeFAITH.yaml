@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE531642e9bb5d027E9C20E03284287B97919a9a5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FaithCoin
+    symbol: FAITH
+    type: null

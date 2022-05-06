@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x923108a439C4e8C2315c4f6521E5cE95B44e9B4c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Devery.io
+    symbol: EVE
+    type: null

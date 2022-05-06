@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBA50933C268F567BDC86E1aC131BE072C6B0b71a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ARPA Token
+    symbol: ARPA
+    type: null

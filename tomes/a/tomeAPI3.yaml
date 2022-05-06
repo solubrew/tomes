@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0b38210ea11411557c13457D4dA7dC6ea731B88a'
+    chainId: null
+    decimals: null
+    description: API3 (API3) is a cryptocurrency and operates on the Ethereum platform.
+      API3 has a current supply of 100,000,000 with 13,847,549 in circulation. The
+      last known price of API3 is 2.26092092 USD and is down -0.35 over the last 24
+      hours. It is currently trading on 15 active market(s) with $11,976,721.46 traded
+      over the last 24 hours. More information can be found at https://api3.org/.
+    logoURI: null
+    name: API3
+    symbol: API3
+    type: null

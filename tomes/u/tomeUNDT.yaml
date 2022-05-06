@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7C6C3b4e91923F080d6CC847A68d7330400a95d7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Union Network Dollar Token
+    symbol: UNDT
+    type: null

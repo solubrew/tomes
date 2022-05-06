@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcE13aBCE0DB5A8224616ef24D3979d466F19CF90'
+    chainId: null
+    decimals: null
+    description: REBIT (KEYT) is a cryptocurrency and operates on the Ethereum platform.
+      REBIT has a current supply of 2,200,000,000 with 0 in circulation. The last
+      known price of REBIT is 0.05603295 USD and is up 11.30 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $29,267.48 traded over the
+      last 24 hours. More information can be found at https://rebitai.com.
+    logoURI: null
+    name: REBIT
+    symbol: KEYT
+    type: null

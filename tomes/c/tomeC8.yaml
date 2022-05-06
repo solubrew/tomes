@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d'
+    chainId: null
+    decimals: null
+    description: Carboneum [C8] Token (C8) is a cryptocurrency and operates on the
+      Ethereum platform. Carboneum [C8] Token has a current supply of 131,456,405.8707442
+      with 51,709,306.13007049 in circulation. The last known price of Carboneum [C8]
+      Token is 0 USD and is up 0.00 over the last 24 hours. More information can be
+      found at https://www.carboneum.io.
+    logoURI: null
+    name: Carboneum [C8] Token
+    symbol: C8
+    type: null

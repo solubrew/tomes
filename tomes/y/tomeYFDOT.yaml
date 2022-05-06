@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2e6539edc3b76f1e21b71d214527faba875f70f3'
+    chainId: null
+    decimals: null
+    description: Yearn Finance DOT (YFDOT) is a cryptocurrency and operates on the
+      Ethereum platform. Yearn Finance DOT has a current supply of 18,493.75 with
+      0 in circulation. The last known price of Yearn Finance DOT is 63.73889219 USD
+      and is down -5.06 over the last 24 hours. It is currently trading on 4 active
+      market(s) with $34,866.16 traded over the last 24 hours. More information can
+      be found at https://yfdot.finance/.
+    logoURI: null
+    name: Yearn Finance DOT
+    symbol: YFDOT
+    type: null

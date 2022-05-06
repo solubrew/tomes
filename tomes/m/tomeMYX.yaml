@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2129fF6000b95A973236020BCd2b2006B0D8E019'
+    chainId: null
+    decimals: null
+    description: MYX Network (MYX) is a cryptocurrency and operates on the Ethereum
+      platform. MYX Network has a current supply of 973,706,026 with 0 in circulation.
+      The last known price of MYX Network is 0.00039507 USD and is down -5.32 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $7,431.77
+      traded over the last 24 hours. More information can be found at https://myx.network.
+    logoURI: null
+    name: MYX Network
+    symbol: MYX
+    type: null

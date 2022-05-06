@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9135D92e3A34e2A94e4474B74b9DC2d51118eeD5'
+    chainId: null
+    decimals: null
+    description: Ulgen Hash Power (UHP) is a cryptocurrency and operates on the Ethereum
+      platform. Ulgen Hash Power has a current supply of 2,100,000,000 with 0 in circulation.
+      The last known price of Ulgen Hash Power is 0.03054778 USD and is up 12.00 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $26,610.39
+      traded over the last 24 hours. More information can be found at https://ulgenhashpower.com/.
+    logoURI: null
+    name: Ulgen Hash Power
+    symbol: UHP
+    type: null

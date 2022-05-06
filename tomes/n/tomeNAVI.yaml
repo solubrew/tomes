@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x588047365df5ba589f923604aac23d673555c623'
+    chainId: null
+    decimals: null
+    description: Naviaddress (NAVI) is a cryptocurrency and operates on the Ethereum
+      platform. Naviaddress has a current supply of 1,000,000,000 with 242,550,845.354
+      in circulation. The last known price of Naviaddress is 0.00024794 USD and is
+      down -4.31 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $9,356.81 traded over the last 24 hours. More information can be found
+      at https://naviaddress.com/.
+    logoURI: null
+    name: Naviaddress
+    symbol: NAVI
+    type: null

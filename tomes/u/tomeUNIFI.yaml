@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0ef3b2024ae079e6dbc2b37435ce30d2731f0101'
+    chainId: null
+    decimals: null
+    description: UNIFI DeFi (UNIFI) is a cryptocurrency and operates on the Ethereum
+      platform. UNIFI DeFi has a current supply of 178,081,919 with 0 in circulation.
+      The last known price of UNIFI DeFi is 0.00911732 USD and is down -9.81 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $64,983.06
+      traded over the last 24 hours.
+    logoURI: null
+    name: UNIFI DeFi
+    symbol: UNIFI
+    type: null

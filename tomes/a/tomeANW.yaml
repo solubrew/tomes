@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7dbdd9dafdc4c1c03d67925a4f85daa398af32b0'
+    chainId: null
+    decimals: null
+    description: Anchor Neural World (ANW) is a cryptocurrency and operates on the
+      Ethereum platform. Anchor Neural World has a current supply of 1,000,000,000
+      with 81,155,033.2394002 in circulation. The last known price of Anchor Neural
+      World is 0.12067869 USD and is up 2.35 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $2,946,089.62 traded over the last 24 hours.
+      More information can be found at https://an-va.com/.
+    logoURI: null
+    name: Anchor Neural World
+    symbol: ANW
+    type: null

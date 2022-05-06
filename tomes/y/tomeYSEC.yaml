@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeea9aE787f3A620072d13b2cdC8cabFFb9c0aB96'
+    chainId: null
+    decimals: null
+    description: Yearn Secure (YSEC) is a cryptocurrency and operates on the Ethereum
+      platform. Yearn Secure has a current supply of 1,000,000 with 0 in circulation.
+      The last known price of Yearn Secure is 0.49322981 USD and is down -3.12 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $365.79
+      traded over the last 24 hours. More information can be found at https://ysec.finance.
+    logoURI: null
+    name: Yearn Secure
+    symbol: YSEC
+    type: null

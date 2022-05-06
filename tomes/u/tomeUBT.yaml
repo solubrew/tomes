@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: UniBright
+    symbol: UBT
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ABYSS
+    symbol: ABYSS
+    type: null

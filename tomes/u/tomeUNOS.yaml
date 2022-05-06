@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd18A8abED9274eDBEace4B12D86A8633283435Da'
+    chainId: null
+    decimals: null
+    description: UnoSwap (UNOS) is a cryptocurrency and operates on the Ethereum platform.
+      UnoSwap has a current supply of 0. The last known price of UnoSwap is 1.02790402
+      USD and is down -17.86 over the last 24 hours. It is currently trading on 2
+      active market(s) with $8,288.06 traded over the last 24 hours. More information
+      can be found at https://unos.finance/.
+    logoURI: null
+    name: UnoSwap
+    symbol: UNOS
+    type: null

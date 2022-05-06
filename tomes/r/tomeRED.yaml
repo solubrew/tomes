@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f'
+    chainId: null
+    decimals: null
+    description: RED (RED) is a cryptocurrency and operates on the Ethereum platform.
+      RED has a current supply of 200,000,000 with 130,000,009.3 in circulation. The
+      last known price of RED is 0.00193114 USD and is down -28.69 over the last 24
+      hours. It is currently trading on 3 active market(s) with $1,845.09 traded over
+      the last 24 hours. More information can be found at https://ico.red-lang.org/.
+    logoURI: null
+    name: RED
+    symbol: RED
+    type: null

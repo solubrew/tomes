@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb1c1cb8c7c1992dba24e628bf7d38e71dad46aeb'
+    chainId: null
+    decimals: null
+    description: Cloudbric (CLB) is a cryptocurrency and operates on the Ethereum
+      platform. Cloudbric has a current supply of 989,556,846 with 574,137,788.7154431
+      in circulation. The last known price of Cloudbric is 0.00317875 USD and is up
+      10.18 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $9,745.29 traded over the last 24 hours. More information can be found
+      at https://www.cloudbric.io.
+    logoURI: null
+    name: Cloudbric
+    symbol: CLB
+    type: null

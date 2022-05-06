@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x20e5745fc02d667d9a57Dede8ACb22B96E9aC45d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Insula Smart Relay Token
+    symbol: ISLAUSDB
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8c9e4cf756b9d01d791b95bc2d0913ef2bf03784'
+    chainId: null
+    decimals: null
+    description: Aerotoken (AET) is a cryptocurrency and operates on the Ethereum
+      platform. Aerotoken has a current supply of 500,000 with 0 in circulation. The
+      last known price of Aerotoken is 0.01457163 USD and is down -4.86 over the last
+      24 hours. It is currently trading on 6 active market(s) with $6.59 traded over
+      the last 24 hours. More information can be found at https://aerotoken.org.
+    logoURI: null
+    name: Aerotoken
+    symbol: AET
+    type: null

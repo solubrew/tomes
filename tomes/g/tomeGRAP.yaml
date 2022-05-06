@@ -1,0 +1,16 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB'
+    chainId: null
+    decimals: null
+    description: GRAP (GRAP) is a cryptocurrency and operates on the Ethereum platform.
+      GRAP has a current supply of 0. The last known price of GRAP is 0.05360367 USD
+      and is up 4.93 over the last 24 hours. More information can be found at https://grap.finance/#/.
+    logoURI: null
+    name: GRAP
+    symbol: GRAP
+    type: null

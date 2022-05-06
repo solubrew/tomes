@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1e3a2446c729d34373b87fd2c9cbb39a93198658'
+    chainId: null
+    decimals: null
+    description: DeFi Nation Signals DAO (DSD) is a cryptocurrency and operates on
+      the Ethereum platform. DeFi Nation Signals DAO has a current supply of 0. The
+      last known price of DeFi Nation Signals DAO is 0.48861666 USD and is up 3.48
+      over the last 24 hours. It is currently trading on 2 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://joindefination.com/.
+    logoURI: null
+    name: DeFi Nation Signals DAO
+    symbol: DSD
+    type: null

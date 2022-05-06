@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x53378825d95281737914a8a2ac0e5a9304ae5ed7'
+    chainId: null
+    decimals: null
+    description: Samurai (SAM) is a cryptocurrency and operates on the Ethereum platform.
+      Samurai has a current supply of 30,000 with 0 in circulation. The last known
+      price of Samurai is 3.36080113 USD and is down -3.47 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $171.03 traded over the last
+      24 hours. More information can be found at https://samuraiswap.org/.
+    logoURI: null
+    name: Samurai
+    symbol: SAM
+    type: null

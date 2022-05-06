@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8377ee6d3545Bc6ff1425ee3015DC648B149C7B2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ProChain
+    symbol: PRO
+    type: null

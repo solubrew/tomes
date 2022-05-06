@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd5f788ca0de8f17cbde1d1e35aa8f005a87fa00b'
+    chainId: null
+    decimals: null
+    description: Shivers (SHVR) is a cryptocurrency and operates on the Ethereum platform.
+      Shivers has a current supply of 200,000,000 with 54,453,298.39102205 in circulation.
+      The last known price of Shivers is 0.00019158 USD and is up 1.39 over the last
+      24 hours. It is currently trading on 1 active market(s) with $1.92 traded over
+      the last 24 hours. More information can be found at http://shivers.io.
+    logoURI: null
+    name: Shivers
+    symbol: SHVR
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1Cdca6811e2ef23D6099d09D2754211d3c7b5aF1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CyberTronChain
+    symbol: CTC
+    type: null

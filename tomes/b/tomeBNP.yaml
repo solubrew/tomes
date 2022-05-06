@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4'
+    chainId: null
+    decimals: null
+    description: BenePit Protocol (BNP) is a cryptocurrency and operates on the Ethereum
+      platform. BenePit Protocol has a current supply of 30,000,000,000 with 0 in
+      circulation. The last known price of BenePit Protocol is 0.00006469 USD and
+      is up 7.92 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $17,231.75 traded over the last 24 hours. More information can be found
+      at https://benepit.io.
+    logoURI: null
+    name: BenePit Protocol
+    symbol: BNP
+    type: null

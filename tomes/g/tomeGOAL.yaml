@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7B69B78Cc7fee48202C208609ae6d1F78Ce42E13'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GOAL Bonanza
+    symbol: GOAL
+    type: null

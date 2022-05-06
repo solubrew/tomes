@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0DcfD6d0A85cC8F35FE507fed1DbA4318BaE8Df3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AAJ
+    symbol: AAJ
+    type: null

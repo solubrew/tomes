@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802'
+    chainId: null
+    decimals: null
+    description: Robonomics Web Services (RWS) is a cryptocurrency and operates on
+      the Ethereum platform. Robonomics Web Services has a current supply of 100 with
+      0 in circulation. The last known price of Robonomics Web Services is 50,948.65276701
+      USD and is up 12.56 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $23,965.33 traded over the last 24 hours. More information can
+      be found at https://robonomics.network.
+    logoURI: null
+    name: Robonomics Web Services
+    symbol: RWS
+    type: null

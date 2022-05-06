@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x84fE25f3921f3426395c883707950d0c00367576'
+    chainId: null
+    decimals: null
+    description: Insight Protocol (INX) is a cryptocurrency and operates on the Ethereum
+      platform. Insight Protocol has a current supply of 2,000,000,000 with 157,359,213.0000003
+      in circulation. The last known price of Insight Protocol is 0.00917228 USD and
+      is up 5.55 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $468,366.75 traded over the last 24 hours. More information can be found
+      at https://inxprotocol.io/en.
+    logoURI: null
+    name: Insight Protocol
+    symbol: INX
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE5101F5707F008b1D282b79FB8e1D3fB83cC78EC'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Master Resell Rights
+    symbol: MRR
+    type: null

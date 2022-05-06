@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF6290E6A5FF844A54108297224eCAe59F2325d22'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 'CryptoGambler '
+    symbol: CPG
+    type: null

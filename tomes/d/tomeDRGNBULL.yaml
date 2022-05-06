@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3335f16AF9008bFd32f1eE6C2Be5d4f84FA0b9da'
+    chainId: null
+    decimals: null
+    description: 3X Long Dragon Index Token (DRGNBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Long Dragon Index Token has a current supply of
+      117.4340361 with 0 in circulation. The last known price of 3X Long Dragon Index
+      Token is 341.8 USD and is up 7.99 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $289.06 traded over the last 24 hours. More information
+      can be found at https://ftx.com/tokens/DRGNBULL.
+    logoURI: null
+    name: 3X Long Dragon Index Token
+    symbol: DRGNBULL
+    type: null

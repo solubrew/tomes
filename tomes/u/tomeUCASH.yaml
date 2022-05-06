@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x92e52a1a235d9a103d970901066ce910aacefd37'
+    chainId: null
+    decimals: null
+    description: UNIVERSAL CASH (UCASH) is a cryptocurrency and operates on the Ethereum
+      platform. UNIVERSAL CASH has a current supply of 21,000,000,000 with 10,351,944,440.938
+      in circulation. The last known price of UNIVERSAL CASH is 0.00010381 USD and
+      is up 5.17 over the last 24 hours. More information can be found at https://u.cash.
+    logoURI: null
+    name: UNIVERSAL CASH
+    symbol: UCASH
+    type: null

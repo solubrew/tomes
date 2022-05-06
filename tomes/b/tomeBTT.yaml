@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x36CD54B05B82156e454d690Af1d392a27aF41C94'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bethon Token
+    symbol: BTT
+    type: null

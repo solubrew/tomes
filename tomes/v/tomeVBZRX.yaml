@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb72b31907c1c95f3650b64b2469e08edacee5e8f'
+    chainId: null
+    decimals: null
+    description: bZx Vesting Token (VBZRX) is a cryptocurrency and operates on the
+      Ethereum platform. bZx Vesting Token has a current supply of 889,389,933 with
+      0 in circulation. The last known price of bZx Vesting Token is 0.04939941 USD
+      and is down -20.18 over the last 24 hours. It is currently trading on 4 active
+      market(s) with $35,484.82 traded over the last 24 hours. More information can
+      be found at https://bzx.network/.
+    logoURI: null
+    name: bZx Vesting Token
+    symbol: VBZRX
+    type: null

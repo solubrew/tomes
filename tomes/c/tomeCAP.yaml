@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x43044f861ec040DB59A7e324c40507adDb673142'
+    chainId: null
+    decimals: null
+    description: Cap (CAP) is a cryptocurrency and operates on the Ethereum platform.
+      Cap has a current supply of 100,000 with 0 in circulation. The last known price
+      of Cap is 176.91216532 USD and is up 20.37 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $262,631.72 traded over the last 24 hours.
+      More information can be found at http://cap.eth.link/.
+    logoURI: null
+    name: Cap
+    symbol: CAP
+    type: null

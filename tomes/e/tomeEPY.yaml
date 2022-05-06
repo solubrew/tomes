@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x50ee674689d75c0f88e8f83cfe8c4b69e8fd590d'
+    chainId: null
+    decimals: null
+    description: Emphy (EPY) is a cryptocurrency and operates on the Ethereum platform.
+      Emphy has a current supply of 15,375,000 with 7,915,124.68999661 in circulation.
+      The last known price of Emphy is 0.02635449 USD and is up 5.17 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://emphy.io/.
+    logoURI: null
+    name: Emphy
+    symbol: EPY
+    type: null

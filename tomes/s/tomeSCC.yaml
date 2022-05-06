@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x74FD51a98a4A1ECBeF8Cc43be801cce630E260Bd'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SiaCashCoin
+    symbol: SCC
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6226caa1857afbc6dfb6ca66071eb241228031a1'
+    chainId: null
+    decimals: null
+    description: LinkArt (LAR) is a cryptocurrency and operates on the Ethereum platform.
+      LinkArt has a current supply of 10,000,000,000 with 0 in circulation. The last
+      known price of LinkArt is 0.00317104 USD and is up 13.60 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $573,172.11 traded over the
+      last 24 hours. More information can be found at http://linkart.io/.
+    logoURI: null
+    name: LinkArt
+    symbol: LAR
+    type: null

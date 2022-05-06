@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3A4b527dcd618cCea50aDb32B3369117e5442A2F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Zur Drafts by Zurcoin Core
+    symbol: ZUR-D
+    type: null

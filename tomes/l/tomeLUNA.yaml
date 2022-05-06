@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x92bF969865c80EDa082FD5D8b4E28da4d58e1C3a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Luna
+    symbol: LUNA
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671'
+    chainId: null
+    decimals: null
+    description: Numeraire (NMR) is a cryptocurrency and operates on the Ethereum
+      platform. Numeraire has a current supply of 10,974,651.32969957 with 4,448,687.07545366
+      in circulation. The last known price of Numeraire is 29.88106458 USD and is
+      down -5.38 over the last 24 hours. It is currently trading on 57 active market(s)
+      with $10,002,860.96 traded over the last 24 hours. More information can be found
+      at https://numer.ai/.
+    logoURI: null
+    name: Numeraire
+    symbol: NMR
+    type: null

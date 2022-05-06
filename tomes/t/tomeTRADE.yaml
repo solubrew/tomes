@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1'
+    chainId: null
+    decimals: null
+    description: ''
+    logoURI: null
+    name: Unitrade Token
+    symbol: TRADE
+    type: null

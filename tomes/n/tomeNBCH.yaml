@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB8efD711Ea26f236F9E49aFebD2Fe9d55F79b8BD'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: NewBItcash
+    symbol: NBCH
+    type: null

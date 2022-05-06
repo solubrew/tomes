@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x84679bc467DC6c2c40ab04538813AfF3796351f1'
+    chainId: null
+    decimals: null
+    description: Chonk (CHONK) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. Chonk has a current supply of 39,000 with 0 in circulation.
+      The last known price of Chonk is 4.25150098 USD and is up 1.99 over the last
+      24 hours. It is currently trading on 1 active market(s) with $10,064.14 traded
+      over the last 24 hours. More information can be found at https://www.chonker.finance/.
+    logoURI: null
+    name: Chonk
+    symbol: CHONK
+    type: null

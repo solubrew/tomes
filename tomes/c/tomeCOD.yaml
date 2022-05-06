@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf2CcD161F06d88479b50d4BedbAd9992DBdAfFdd'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Colendi Token
+    symbol: COD
+    type: null

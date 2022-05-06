@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9080e92296a176883aAB1d7d1B7e50BC055B0cAa'
+    chainId: null
+    decimals: null
+    description: YFI CREDITS GROUP (YFICG) is a cryptocurrency and operates on the
+      Ethereum platform. YFI CREDITS GROUP has a current supply of 0. The last known
+      price of YFI CREDITS GROUP is 0.41988721 USD and is up 109.83 over the last
+      24 hours. It is currently trading on 1 active market(s) with $551.32 traded
+      over the last 24 hours. More information can be found at http://yficredits.com.
+    logoURI: null
+    name: YFI CREDITS GROUP
+    symbol: YFICG
+    type: null

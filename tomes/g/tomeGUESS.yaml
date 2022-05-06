@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBDCFbf5C4D91Abc0bC9709C7286d00063c0e6F22'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GUESS
+    symbol: GUESS
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x89303500a7abfb178b274fd89f2469c264951e1f'
+    chainId: null
+    decimals: null
+    description: RefToken (REF) is a cryptocurrency and operates on the Ethereum platform.
+      RefToken has a current supply of 50,000,000 with 1,004,999.9994279 in circulation.
+      The last known price of RefToken is 0.21207687 USD and is up 5.17 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://reftoken.io/.
+    logoURI: null
+    name: RefToken
+    symbol: REF
+    type: null

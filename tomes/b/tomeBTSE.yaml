@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x666d875c600aa06ac1cf15641361dec3b00432ef'
+    chainId: null
+    decimals: null
+    description: BTSE (BTSE) is a cryptocurrency launched in 2020and operates on the
+      Ethereum platform. BTSE has a current supply of 165,904,711 with 4,354,711 in
+      circulation. The last known price of BTSE is 3.39781741 USD and is up 17.89
+      over the last 24 hours. It is currently trading on 4 active market(s) with $268,968.75
+      traded over the last 24 hours. More information can be found at https://www.btse.com.
+    logoURI: null
+    name: BTSE
+    symbol: BTSE
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2b04dadd412f7281d3ccabfb8425fd9c9e841588'
+    chainId: null
+    decimals: null
+    description: Leading Coin 4 Entrepreneurs (LC4) is a cryptocurrency and operates
+      on the Ethereum platform. Leading Coin 4 Entrepreneurs has a current supply
+      of 21,000,000 with 5,369,927.16162268 in circulation. The last known price of
+      Leading Coin 4 Entrepreneurs is 0.09379474 USD and is up 1.31 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://www.lc4foundation.org/.
+    logoURI: null
+    name: Leading Coin 4 Entrepreneurs
+    symbol: LC4
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x04f2e7221fdb1b52a68169b25793e51478ff0329'
+    chainId: null
+    decimals: null
+    description: Cappasity (CAPP) is a cryptocurrency and operates on the Ethereum
+      platform. Cappasity has a current supply of 663,271,024.72. The last known price
+      of Cappasity is 0.00048834 USD and is up 6.17 over the last 24 hours. It is
+      currently trading on 2 active market(s) with $1,921.01 traded over the last
+      24 hours. More information can be found at https://artoken.io/.
+    logoURI: null
+    name: Cappasity
+    symbol: CAPP
+    type: null

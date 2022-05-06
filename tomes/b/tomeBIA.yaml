@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x40d52577830e01aaefa80659aa90ee8b34685f4e'
+    chainId: null
+    decimals: null
+    description: Bilaxy Token (BIA) is a cryptocurrency and operates on the Ethereum
+      platform. Bilaxy Token has a current supply of 2,000,000,000 with 0 in circulation.
+      The last known price of Bilaxy Token is 0.00329562 USD and is up 13.98 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $723,244.44
+      traded over the last 24 hours. More information can be found at https://bilaxy.com/.
+    logoURI: null
+    name: Bilaxy Token
+    symbol: BIA
+    type: null

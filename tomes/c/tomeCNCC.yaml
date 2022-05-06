@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbe15c4Ebb73A67DDD94b83B237D2bdDe5a5079Ba'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Complete New Commerce Chain
+    symbol: CNCC
+    type: null

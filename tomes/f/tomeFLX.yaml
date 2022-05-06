@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB2aa6FB02Df17B61F615d078484A081083Df9621'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Flexible
+    symbol: FLX
+    type: null

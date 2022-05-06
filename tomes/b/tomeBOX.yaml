@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f'
+    chainId: null
+    decimals: null
+    description: ContentBox (BOX) is a cryptocurrency and operates on the Ethereum
+      platform. ContentBox has a current supply of 3,000,000,000 with 1,200,874,464.9999998
+      in circulation. The last known price of ContentBox is 0.00159485 USD and is
+      up 3.61 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $121,553.88 traded over the last 24 hours. More information can be found
+      at https://contentbox.one/.
+    logoURI: null
+    name: ContentBox
+    symbol: BOX
+    type: null

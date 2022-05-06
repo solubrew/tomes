@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x91Bc206F0a1fFBC399B4a20A41324eD1dAD2b718'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bullshit
+    symbol: BSH
+    type: null

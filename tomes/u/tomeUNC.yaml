@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf29e46887ffae92f1ff87dfe39713875da541373'
+    chainId: null
+    decimals: null
+    description: Unicrypt (UNC) is a cryptocurrency and operates on the Ethereum platform.
+      Unicrypt has a current supply of 1,000,000,000 with 0 in circulation. The last
+      known price of Unicrypt is 0.00943182 USD and is down -10.58 over the last 24
+      hours. It is currently trading on 2 active market(s) with $184,775.24 traded
+      over the last 24 hours. More information can be found at https://unicrypt.network/.
+    logoURI: null
+    name: Unicrypt
+    symbol: UNC
+    type: null

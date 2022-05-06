@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x28441eD6ebaAD179a2c10A0a5D46BF3f3Ace17dE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Clustersphere
+    symbol: CPE
+    type: null

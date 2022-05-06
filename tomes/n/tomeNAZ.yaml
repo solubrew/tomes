@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7723a1d7b939e0a49959363bf057ca57c7215e75'
+    chainId: null
+    decimals: null
+    description: Naz Coin (NAZ) is a cryptocurrency and operates on the Ethereum platform.
+      Naz Coin has a current supply of 0. The last known price of Naz Coin is 0.00007159
+      USD and is down -34.93 over the last 24 hours. It is currently trading on 3
+      active market(s) with $0.00 traded over the last 24 hours. More information
+      can be found at https://nazcoin.net/.
+    logoURI: null
+    name: Naz Coin
+    symbol: NAZ
+    type: null

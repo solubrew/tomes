@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb9EcEb9F717852Ad0D936B46155cB0c0f43cBE8E'
+    chainId: null
+    decimals: null
+    description: Ubiner (UBIN) is a cryptocurrency and operates on the Ethereum platform.
+      Ubiner has a current supply of 0. The last known price of Ubiner is 0.00048493
+      USD and is up 1.54 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $21,965.05 traded over the last 24 hours. More information can
+      be found at https://global.ubiner.com.
+    logoURI: null
+    name: Ubiner
+    symbol: UBIN
+    type: null

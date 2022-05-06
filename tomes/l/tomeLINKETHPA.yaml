@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x542156d51d10db5accb99f9db7e7c91b74e80a2c'
+    chainId: null
+    decimals: null
+    description: ETH/LINK Price Action Candlestick Set (LINKETHPA) is a cryptocurrency
+      and operates on the Ethereum platform. ETH/LINK Price Action Candlestick Set
+      has a current supply of 1,689.6172082 with 0 in circulation. The last known
+      price of ETH/LINK Price Action Candlestick Set is 592.09 USD and is up 2.90
+      over the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://www.tokensets.com/set/linkethpa.
+    logoURI: null
+    name: ETH/LINK Price Action Candlestick Set
+    symbol: LINKETHPA
+    type: null

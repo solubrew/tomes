@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf8c595d070d104377f58715ce2e6c93e49a87f3c'
+    chainId: null
+    decimals: null
+    description: DACC (DACC) is a cryptocurrency and operates on the Ethereum platform.
+      DACC has a current supply of 30,000,000,000 with 0 in circulation. The last
+      known price of DACC is 0.00014552 USD and is down -10.77 over the last 24 hours.
+      It is currently trading on 8 active market(s) with $40,935.48 traded over the
+      last 24 hours. More information can be found at http://www.dacc.co/.
+    logoURI: null
+    name: DACC
+    symbol: DACC
+    type: null

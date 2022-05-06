@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBAE235823D7255D9D48635cEd4735227244Cd583'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Staker
+    symbol: STR
+    type: null

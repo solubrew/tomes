@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x63bf0126c6c4d17bb33c362151759ec21b36537b'
+    chainId: null
+    decimals: null
+    description: Master Coin Point (MACPO) is a cryptocurrency and operates on the
+      Ethereum platform. Master Coin Point has a current supply of 0. The last known
+      price of Master Coin Point is 0.00638401 USD and is down -2.93 over the last
+      24 hours. It is currently trading on 2 active market(s) with $20.36 traded over
+      the last 24 hours. More information can be found at http://macpo.org/.
+    logoURI: null
+    name: Master Coin Point
+    symbol: MACPO
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f'
+    chainId: null
+    decimals: null
+    description: Gather (GTH) is a cryptocurrency and operates on the Ethereum platform.
+      Gather has a current supply of 400,000,000 with 0 in circulation. The last known
+      price of Gather is 0.03239905 USD and is up 6.26 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $31,727.68 traded over the last
+      24 hours. More information can be found at https://www.gather.network/.
+    logoURI: null
+    name: Gather
+    symbol: GTH
+    type: null

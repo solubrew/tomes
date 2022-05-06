@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x170b275ced089fffaebfe927f445a350ed9160dc'
+    chainId: null
+    decimals: null
+    description: OWNDATA (OWN) is a cryptocurrency and operates on the Ethereum platform.
+      OWNDATA has a current supply of 110,000,000,000 with 10,246,200,518.60152 in
+      circulation. The last known price of OWNDATA is 0.00011108 USD and is up 138.51
+      over the last 24 hours. It is currently trading on 1 active market(s) with $3.46
+      traded over the last 24 hours. More information can be found at https://owndata.network/.
+    logoURI: null
+    name: OWNDATA
+    symbol: OWN
+    type: null

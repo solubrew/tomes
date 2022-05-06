@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x555Ce61d7eAc3F772f60B2E8Dc6c272cA65d9323'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Argo Token
+    symbol: ARGO
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd35833f9255fb28cc6b91acb8a66ba6429d6ef5a'
+    chainId: null
+    decimals: null
+    description: HYPNOXYS (HYPX) is a cryptocurrency and operates on the Ethereum
+      platform. HYPNOXYS has a current supply of 41,650,000,000 with 19,928,534,801.19731
+      in circulation. The last known price of HYPNOXYS is 0 USD and is up 0.00 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://hypnoxys.com/.
+    logoURI: null
+    name: HYPNOXYS
+    symbol: HYPX
+    type: null

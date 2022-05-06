@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xecF3958d0f82291CA1FF6c9BDa8Eb3c50eE41cE3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Humanity
+    symbol: HUM
+    type: null

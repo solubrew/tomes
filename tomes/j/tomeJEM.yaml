@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x21cf09BC065082478Dcc9ccB5fd215A978Dc8d86'
+    chainId: null
+    decimals: null
+    description: Itchiro Games (JEM) is a cryptocurrency and operates on the Ethereum
+      platform. Itchiro Games has a current supply of 0. The last known price of Itchiro
+      Games is 128.96704788 USD and is down -7.15 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $97,824.61 traded over the last 24 hours.
+      More information can be found at https://itchiro.com/.
+    logoURI: null
+    name: Itchiro Games
+    symbol: JEM
+    type: null

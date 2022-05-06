@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Hut34 Entropy Token
+    symbol: ENTRP
+    type: null

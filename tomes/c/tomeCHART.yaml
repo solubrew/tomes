@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1d37986f252d0e349522ea6c3b98cb935495e63e'
+    chainId: null
+    decimals: null
+    description: ChartEx (CHART) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. ChartEx has a current supply of 250,000,000 with 19,999,999.99999996
+      in circulation. The last known price of ChartEx is 0.00801395 USD and is up
+      1.72 over the last 24 hours. It is currently trading on 1 active market(s) with
+      $11,469.46 traded over the last 24 hours. More information can be found at https://chartex.pro/.
+    logoURI: null
+    name: ChartEx
+    symbol: CHART
+    type: null

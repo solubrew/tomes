@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x171d750d42d661b62c277a6b486adb82348c3eca'
+    chainId: null
+    decimals: null
+    description: Omnitude (ECOM) is a cryptocurrency and operates on the Ethereum
+      platform. Omnitude has a current supply of 74,413,301.337384 with 64,813,301.337384
+      in circulation. The last known price of Omnitude is 0.00063238 USD and is down
+      -2.22 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $99,158.99 traded over the last 24 hours. More information can be found
+      at https://omnitude.tech/.
+    logoURI: null
+    name: Omnitude
+    symbol: ECOM
+    type: null

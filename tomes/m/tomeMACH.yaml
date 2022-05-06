@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB119Ce94D098C18fe380904c24e358bd887F00BE'
+    chainId: null
+    decimals: null
+    description: MACH Project (MACH) is a cryptocurrency and operates on the Ethereum
+      platform. MACH Project has a current supply of 200,000,000 with 0 in circulation.
+      The last known price of MACH Project is 0.0641378 USD and is up 1.48 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $1,838.03
+      traded over the last 24 hours. More information can be found at https://mymach.io.
+    logoURI: null
+    name: MACH Project
+    symbol: MACH
+    type: null

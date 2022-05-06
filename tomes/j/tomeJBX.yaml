@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x884e3902c4d5cfa86de4ace7a96aa91ebc25c0ff'
+    chainId: null
+    decimals: null
+    description: JBOX (JBX) is a cryptocurrency and operates on the Ethereum platform.
+      JBOX has a current supply of 200,000,000 with 0 in circulation. The last known
+      price of JBOX is 0.00727418 USD and is up 4.05 over the last 24 hours. It is
+      currently trading on 2 active market(s) with $49,712.85 traded over the last
+      24 hours. More information can be found at https://jboxcoin.org/.
+    logoURI: null
+    name: JBOX
+    symbol: JBX
+    type: null

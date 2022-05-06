@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2C82c73d5B34AA015989462b2948cd616a37641F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Spectre.ai U-Token
+    symbol: SXUT
+    type: null

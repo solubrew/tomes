@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3c4a3ffd813a107febd57b2f01bc344264d90fde'
+    chainId: null
+    decimals: null
+    description: EnergiToken (ETK) is a cryptocurrency and operates on the Ethereum
+      platform. EnergiToken has a current supply of 2,052,153,500 with 1,852,153,500
+      in circulation. The last known price of EnergiToken is 0.00010528 USD and is
+      up 1.31 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://energitoken.com.
+    logoURI: null
+    name: EnergiToken
+    symbol: ETK
+    type: null

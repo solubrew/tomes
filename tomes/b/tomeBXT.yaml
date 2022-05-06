@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x24d77c210a014b1e123a0878f6c903df74a2317b'
+    chainId: null
+    decimals: null
+    description: BITFXT COIN (BXT) is a cryptocurrency and operates on the Ethereum
+      platform. BITFXT COIN has a current supply of 20,000,000 with 0 in circulation.
+      The last known price of BITFXT COIN is 0.00197619 USD and is up 81.85 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $1,517.71
+      traded over the last 24 hours. More information can be found at https://bitfxt.com.
+    logoURI: null
+    name: BITFXT COIN
+    symbol: BXT
+    type: null

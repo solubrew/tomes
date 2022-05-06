@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa96f31f1c187c28980176c3a27ba7069f48abde4'
+    chainId: null
+    decimals: null
+    description: Ethereum Gold Project (ETGP) is a cryptocurrency and operates on
+      the Ethereum platform. Ethereum Gold Project has a current supply of 6,000,000,000
+      with 5,923,698,544.84001 in circulation. The last known price of Ethereum Gold
+      Project is 0.00001531 USD and is up 1.31 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $698.97 traded over the last 24 hours. More
+      information can be found at https://www.etgproject.org.
+    logoURI: null
+    name: Ethereum Gold Project
+    symbol: ETGP
+    type: null

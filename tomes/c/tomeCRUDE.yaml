@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9622e1B0ac29525441b02d192F20e9BaFb1A16B7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Oil Coin
+    symbol: CRUDE
+    type: null

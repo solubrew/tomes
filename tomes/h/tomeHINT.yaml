@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6ce21e5f5383c95691d243879a86a6025e0870c0'
+    chainId: null
+    decimals: null
+    description: Hintchain (HINT) is a cryptocurrency and operates on the Ethereum
+      platform. Hintchain has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of Hintchain is 0.00156938 USD and is up 0.06 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $33,086.56
+      traded over the last 24 hours. More information can be found at http://hintchain.io/.
+    logoURI: null
+    name: Hintchain
+    symbol: HINT
+    type: null

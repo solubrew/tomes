@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8b6dd24bcb2d0aea92c3abd4eb11103a5db6d714'
+    chainId: null
+    decimals: null
+    description: dXIOT (DXIOT) is a cryptocurrency and operates on the Ethereum platform.
+      dXIOT has a current supply of 0. The last known price of dXIOT is 1.26672431
+      USD and is down -10.23 over the last 24 hours. It is currently trading on 2
+      active market(s) with $5,303.26 traded over the last 24 hours. More information
+      can be found at https://xiotri.io.
+    logoURI: null
+    name: dXIOT
+    symbol: DXIOT
+    type: null

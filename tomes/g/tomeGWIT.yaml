@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x55D0Bb8D7e7fBf5B863C7923c4645FF83c3D0033'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Global Women Investment Token
+    symbol: GWIT
+    type: null

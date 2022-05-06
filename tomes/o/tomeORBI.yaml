@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9'
+    chainId: null
+    decimals: null
+    description: Orbicular (ORBI) is a cryptocurrency and operates on the Ethereum
+      platform. Orbicular has a current supply of 0. The last known price of Orbicular
+      is 0.00029038 USD and is down -3.86 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $259.97 traded over the last 24 hours. More
+      information can be found at https://orbicular.io/.
+    logoURI: null
+    name: Orbicular
+    symbol: ORBI
+    type: null

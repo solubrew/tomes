@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9ea20fbfaa44efbc60c6728fcdba17f01b7e04fe'
+    chainId: null
+    decimals: null
+    description: Torex (TOR) is a cryptocurrency and operates on the Ethereum platform.
+      Torex has a current supply of 100,000,000 with 0 in circulation. The last known
+      price of Torex is 0.00660197 USD and is up 0.43 over the last 24 hours. It is
+      currently trading on 2 active market(s) with $67.51 traded over the last 24
+      hours. More information can be found at https://torex.one/.
+    logoURI: null
+    name: Torex
+    symbol: TOR
+    type: null

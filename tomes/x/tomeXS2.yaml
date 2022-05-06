@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x448BD15AC18Ce6386c27914C14c18fd9148dF75f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: XS2 Token
+    symbol: XS2
+    type: null

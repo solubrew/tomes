@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x20ae0ca9d42e6ffeb1188f341a7d63450452def6'
+    chainId: null
+    decimals: null
+    description: Cipher (CPR) is a cryptocurrency and operates on the Ethereum platform.
+      Cipher has a current supply of 0. The last known price of Cipher is 0.00052094
+      USD and is up 83.38 over the last 24 hours. It is currently trading on 7 active
+      market(s) with $2,425.22 traded over the last 24 hours. More information can
+      be found at https://ciphercryptotech.org/.
+    logoURI: null
+    name: Cipher
+    symbol: CPR
+    type: null

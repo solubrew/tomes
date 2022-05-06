@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8e16df6b7631b3d781a94bE2260D1d4a96Cb565A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: JiuLove
+    symbol: JL
+    type: null

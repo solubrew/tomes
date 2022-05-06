@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1a3111d682A6719992Dbefa616541CAaC29991B8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ReyerCoin
+    symbol: RYC
+    type: null

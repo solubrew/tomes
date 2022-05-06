@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x10633216e7e8281e33c86f02bf8e565a635d9770'
+    chainId: null
+    decimals: null
+    description: Dvision Network (DVI) is a cryptocurrency and operates on the Ethereum
+      platform. Dvision Network has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of Dvision Network is 0.07737674 USD and is up 15.82 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $2,207,103.04
+      traded over the last 24 hours. More information can be found at https://dvision.network/.
+    logoURI: null
+    name: Dvision Network
+    symbol: DVI
+    type: null

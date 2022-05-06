@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x22f098F08c4eda4bE4ad6B4ba59866F3E98CEF92'
+    chainId: null
+    decimals: null
+    description: Force For Fast (FFF) is a cryptocurrency and operates on the Ethereum
+      platform. Force For Fast has a current supply of 0. The last known price of
+      Force For Fast is 0.00830892 USD and is up 13.44 over the last 24 hours. It
+      is currently trading on 2 active market(s) with $124,813.16 traded over the
+      last 24 hours. More information can be found at http://www.forceforfast.com/.
+    logoURI: null
+    name: Force For Fast
+    symbol: FFF
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x83869de76b9ad8125e22b857f519f001588c0f62'
+    chainId: null
+    decimals: null
+    description: EXMO Coin (EXM) is a cryptocurrency and operates on the Ethereum
+      platform. EXMO Coin has a current supply of 1,829,942,862.14 with 713,563,585.14
+      in circulation. The last known price of EXMO Coin is 0.00409469 USD and is up
+      1.25 over the last 24 hours. It is currently trading on 17 active market(s)
+      with $2,327.21 traded over the last 24 hours. More information can be found
+      at https://exmo.money/en/?v=1.
+    logoURI: null
+    name: EXMO Coin
+    symbol: EXM
+    type: null

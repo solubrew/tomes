@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe7750c38c9a10d877650c0d99d1717bb28a5c42e'
+    chainId: null
+    decimals: null
+    description: Ziktalk (ZIK) is a cryptocurrency and operates on the Ethereum platform.
+      Ziktalk has a current supply of 0. The last known price of Ziktalk is 0.00098641
+      USD and is up 2.81 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $12,759.26 traded over the last 24 hours. More information can
+      be found at https://www.ziktalk.com/.
+    logoURI: null
+    name: Ziktalk
+    symbol: ZIK
+    type: null

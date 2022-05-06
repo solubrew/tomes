@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x17e67d1cb4e349b9ca4bc3e17c7df2a397a7bb64'
+    chainId: null
+    decimals: null
+    description: Freyrchain (FREC) is a cryptocurrency and operates on the Ethereum
+      platform. Freyrchain has a current supply of 10,000,000,000 with 500,000,000
+      in circulation. The last known price of Freyrchain is 0.00363512 USD and is
+      up 0.00 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $16.61 traded over the last 24 hours. More information can be found at
+      http://www.freyrchain.org/.
+    logoURI: null
+    name: Freyrchain
+    symbol: FREC
+    type: null

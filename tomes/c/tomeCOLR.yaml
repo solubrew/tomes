@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3867EF780a3AFCF1201EF4F2acc6A46e3bd1eb88'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cryptovoxels Color
+    symbol: COLR
+    type: null

@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9'
+    chainId: null
+    decimals: null
+    description: ClearPoll (POLL) is a cryptocurrency and operates on the Ethereum
+      platform. ClearPoll has a current supply of 8,999,991.9 with 6,999,991 in circulation.
+      The last known price of ClearPoll is 0.00220822 USD and is up 1.44 over the
+      last 24 hours. More information can be found at https://clearpoll.com.
+    logoURI: null
+    name: ClearPoll
+    symbol: POLL
+    type: null

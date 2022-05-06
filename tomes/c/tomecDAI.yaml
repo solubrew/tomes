@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF5DCe57282A584D2746FaF1593d3121Fcac444dC'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Compound Dai
+    symbol: cDAI
+    type: null

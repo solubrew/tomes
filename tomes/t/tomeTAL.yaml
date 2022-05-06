@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x375A08cE3a460F20BbaFd282Be1E3579a2c31F41'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Thaler
+    symbol: TAL
+    type: null

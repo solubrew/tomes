@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6cbedec4f1ac9d874987d2769596544e0d9161ab'
+    chainId: null
+    decimals: null
+    description: DeepCloud AI (DEEP) is a cryptocurrency and operates on the Ethereum
+      platform. DeepCloud AI has a current supply of 200,000,000 with 0 in circulation.
+      The last known price of DeepCloud AI is 0.00073082 USD and is up 1.73 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $5,061.96
+      traded over the last 24 hours. More information can be found at https://www.deepcloudai.com/.
+    logoURI: null
+    name: DeepCloud AI
+    symbol: DEEP
+    type: null

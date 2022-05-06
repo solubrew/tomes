@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3f694635ab69b1b5e7f001de26892cc63ba94bad'
+    chainId: null
+    decimals: null
+    description: VARC (VARC) is a cryptocurrency and operates on the Ethereum platform.
+      VARC has a current supply of 2,500,000,000 with 0 in circulation. The last known
+      price of VARC is 0.00170374 USD and is down -3.76 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $1,978,007.01 traded over the
+      last 24 hours. More information can be found at https://www.varccoin.com/.
+    logoURI: null
+    name: VARC
+    symbol: VARC
+    type: null

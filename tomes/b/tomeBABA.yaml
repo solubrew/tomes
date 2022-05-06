@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB89A981A6bb48BBb723c524463D75AB166eCa035'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Synthetic Alibaba Equity Tokens
+    symbol: BABA
+    type: null

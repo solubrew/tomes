@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf2ddae89449b7d26309a5d54614b1fc99c608af5'
+    chainId: null
+    decimals: null
+    description: ASTA (ASTA) is a cryptocurrency and operates on the Ethereum platform.
+      ASTA has a current supply of 3,000,000,000 with 774,434,801 in circulation.
+      The last known price of ASTA is 0.0227591 USD and is down -5.42 over the last
+      24 hours. It is currently trading on 3 active market(s) with $2,615,280.16 traded
+      over the last 24 hours. More information can be found at http://www.astaplatform.com/.
+    logoURI: null
+    name: ASTA
+    symbol: ASTA
+    type: null

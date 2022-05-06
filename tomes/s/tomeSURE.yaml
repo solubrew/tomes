@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb5a4ac5b04e777230ba3381195eff6a60c3934f2'
+    chainId: null
+    decimals: null
+    description: inSure (SURE) is a cryptocurrency and operates on the Ethereum platform.
+      inSure has a current supply of 88,000,000,000 with 3,553,989,973.792415 in circulation.
+      The last known price of inSure is 0.00209918 USD and is up 83.94 over the last
+      24 hours. It is currently trading on 7 active market(s) with $8,512.18 traded
+      over the last 24 hours. More information can be found at https://insuretoken.net/.
+    logoURI: null
+    name: inSure
+    symbol: SURE
+    type: null

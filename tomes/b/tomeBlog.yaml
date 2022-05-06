@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa72158c0bfD7137F879E3F2b0A05C904c5517B24'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Blogcoin
+    symbol: Blog
+    type: null

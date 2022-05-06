@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7d8DafF6d70CEAd12c6f077048552Cf89130A2B1'
+    chainId: null
+    decimals: null
+    description: ARCS (ARX) is a cryptocurrency and operates on the Ethereum platform.
+      ARCS has a current supply of 20,000,000,000 with 0 in circulation. The last
+      known price of ARCS is 0.31711791 USD and is down -2.85 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $11,079.94 traded over the
+      last 24 hours. More information can be found at https://www.arcs-chain.com/.
+    logoURI: null
+    name: ARCS
+    symbol: ARX
+    type: null

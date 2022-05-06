@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01'
+    chainId: null
+    decimals: null
+    description: ProChain (PRA) is a cryptocurrency and operates on the Ethereum platform.
+      ProChain has a current supply of 100,000,000 with 50,000,000 in circulation.
+      The last known price of ProChain is 0.01000614 USD and is up 0.01 over the last
+      24 hours. It is currently trading on 2 active market(s) with $48.10 traded over
+      the last 24 hours. More information can be found at https://chain.pro/.
+    logoURI: null
+    name: ProChain
+    symbol: PRA
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106'
+    chainId: null
+    decimals: null
+    description: Mercurity Swap Protocol (MEE) is a cryptocurrency and operates on
+      the Ethereum platform. Mercurity Swap Protocol has a current supply of 0. The
+      last known price of Mercurity Swap Protocol is 36.61846307 USD and is up 2.91
+      over the last 24 hours. It is currently trading on 3 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://www.mercurity.finance/.
+    logoURI: null
+    name: Mercurity Swap Protocol
+    symbol: MEE
+    type: null

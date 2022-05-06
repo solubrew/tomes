@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x584bC13c7D411c00c01A62e8019472dE68768430'
+    chainId: null
+    decimals: null
+    description: Hegic (HEGIC) is a cryptocurrency and operates on the Ethereum platform.
+      Hegic has a current supply of 3,012,009,888 with 227,916,031 in circulation.
+      The last known price of Hegic is 0.22212039 USD and is up 1.63 over the last
+      24 hours. It is currently trading on 20 active market(s) with $1,970,184.28
+      traded over the last 24 hours. More information can be found at https://www.hegic.co/.
+    logoURI: null
+    name: Hegic
+    symbol: HEGIC
+    type: null

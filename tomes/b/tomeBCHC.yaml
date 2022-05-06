@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2ab05b915c30093679165bcdba9c26d8cd8bee99'
+    chainId: null
+    decimals: null
+    description: BitCherry (BCHC) is a cryptocurrency and operates on the Ethereum
+      platform. BitCherry has a current supply of 10,000,000,000 with 0 in circulation.
+      The last known price of BitCherry is 0.00438799 USD and is down -13.79 over
+      the last 24 hours. It is currently trading on 4 active market(s) with $28,101.88
+      traded over the last 24 hours. More information can be found at https://www.bitcherry.io.
+    logoURI: null
+    name: BitCherry
+    symbol: BCHC
+    type: null

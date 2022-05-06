@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x12DC767728105aA415Dd720DFBD0ea1d85841172'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ELDORADO TOKEN
+    symbol: ERD
+    type: null

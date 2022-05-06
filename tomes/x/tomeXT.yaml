@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xef65887a05415bf6316204b5ffb350d4d1a19bba'
+    chainId: null
+    decimals: null
+    description: ExtStock Token (XT) is a cryptocurrency and operates on the Ethereum
+      platform. ExtStock Token has a current supply of 1,000,000,000 with 601,588,624.9999998
+      in circulation. The last known price of ExtStock Token is 0.05806969 USD and
+      is down -6.05 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://extstock.com/.
+    logoURI: null
+    name: ExtStock Token
+    symbol: XT
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB414F8Ec2D14c64f37B1559CBE43746284514596'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Fitcash
+    symbol: FTH
+    type: null

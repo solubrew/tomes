@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xea38eaa3c86c8f9b751533ba2e562deb9acded40'
+    chainId: null
+    decimals: null
+    description: Etherparty (FUEL) is a cryptocurrency and operates on the Ethereum
+      platform. Etherparty has a current supply of 1,000,000,000. The last known price
+      of Etherparty is 0.00030018 USD and is down -24.75 over the last 24 hours. It
+      is currently trading on 3 active market(s) with $216.32 traded over the last
+      24 hours. More information can be found at https://etherparty.com/.
+    logoURI: null
+    name: Etherparty
+    symbol: FUEL
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd'
+    chainId: null
+    decimals: null
+    description: Gemini Dollar (GUSD) is a cryptocurrency and operates on the Ethereum
+      platform. Gemini Dollar has a current supply of 15,957,780.77. The last known
+      price of Gemini Dollar is 0.99786992 USD and is up 0.06 over the last 24 hours.
+      It is currently trading on 34 active market(s) with $4,715,710.05 traded over
+      the last 24 hours. More information can be found at https://gemini.com/dollar/.
+    logoURI: null
+    name: Gemini Dollar
+    symbol: GUSD
+    type: null

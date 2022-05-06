@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x41875C2332B0877cDFAA699B641402b7D4642c32'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FUTURAX
+    symbol: FTXT
+    type: null

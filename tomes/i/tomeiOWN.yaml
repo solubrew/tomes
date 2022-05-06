@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x555d051538c7a13712f1f590fa6b4c176ca4529f'
+    chainId: null
+    decimals: null
+    description: iOWN Token (iOWN) is a cryptocurrency launched in 2018and operates
+      on the Ethereum platform. iOWN Token has a current supply of 301,323,924 with
+      0 in circulation. The last known price of iOWN Token is 0.00976588 USD and is
+      down -16.12 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $4,334.29 traded over the last 24 hours. More information can be found
+      at https://www.iowntoken.com/.
+    logoURI: null
+    name: iOWN Token
+    symbol: iOWN
+    type: null

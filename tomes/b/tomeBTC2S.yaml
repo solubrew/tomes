@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x58E8A6C0e0B58Bca809F1fAEE01F1662C9FC460e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bitcoin2Secure
+    symbol: BTC2S
+    type: null

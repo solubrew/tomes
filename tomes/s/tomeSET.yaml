@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x07600a1AD0A5512786d4295D986417A6deF1611F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Simple ERC20 Token
+    symbol: SET
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3F382DbD960E3a9bbCeaE22651E88158d2791550'
+    chainId: null
+    decimals: null
+    description: Aavegotchi (GHST) is a cryptocurrency and operates on the Ethereum
+      platform. Aavegotchi has a current supply of 22,131,004.83013593 with 15,131,042.32994843
+      in circulation. The last known price of Aavegotchi is 0.52108106 USD and is
+      up 2.23 over the last 24 hours. It is currently trading on 19 active market(s)
+      with $21,594,550.83 traded over the last 24 hours. More information can be found
+      at https://aavegotchi.com/.
+    logoURI: null
+    name: Aavegotchi
+    symbol: GHST
+    type: null

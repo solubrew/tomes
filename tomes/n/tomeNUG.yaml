@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Nuggets
+    symbol: NUG
+    type: null

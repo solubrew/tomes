@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2E954cFc5cb4F089f5F3d7331449861249106D85'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: WITH coin
+    symbol: WITH
+    type: null

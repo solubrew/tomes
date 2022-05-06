@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x42d6622deCe394b54999Fbd73D108123806f6a18'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SPANK
+    symbol: SPANK
+    type: null

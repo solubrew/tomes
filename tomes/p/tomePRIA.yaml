@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb9871cb10738eada636432e86fc0cb920dc3de24'
+    chainId: null
+    decimals: null
+    description: PRIA (PRIA) is a cryptocurrency and operates on the Ethereum platform.
+      PRIA has a current supply of 0. The last known price of PRIA is 18.51396597
+      USD and is up 11.29 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $80,972.18 traded over the last 24 hours. More information can
+      be found at https://pria.eth.link/.
+    logoURI: null
+    name: PRIA
+    symbol: PRIA
+    type: null

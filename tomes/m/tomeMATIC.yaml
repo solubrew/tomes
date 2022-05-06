@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0'
+    chainId: null
+    decimals: null
+    description: Matic Network (MATIC) is a cryptocurrency and operates on the Ethereum
+      platform. Matic Network has a current supply of 10,000,000,000 with 4,757,759,104
+      in circulation. The last known price of Matic Network is 0.0197098 USD and is
+      up 4.61 over the last 24 hours. It is currently trading on 84 active market(s)
+      with $8,000,554.06 traded over the last 24 hours. More information can be found
+      at https://matic.network/.
+    logoURI: null
+    name: Matic Network
+    symbol: MATIC
+    type: null

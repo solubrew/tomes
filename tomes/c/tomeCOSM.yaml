@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd1e10c37a27d95d95720291b1dc6f12f74c71443'
+    chainId: null
+    decimals: null
+    description: Cosmo Coin (COSM) is a cryptocurrency and operates on the Ethereum
+      platform. Cosmo Coin has a current supply of 923,000,000 with 670,780,888.57439
+      in circulation. The last known price of Cosmo Coin is 0.00092447 USD and is
+      down -12.34 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $789.03 traded over the last 24 hours. More information can be found at
+      https://cosmochain.io/.
+    logoURI: null
+    name: Cosmo Coin
+    symbol: COSM
+    type: null

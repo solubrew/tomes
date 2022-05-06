@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x67c597624b17b16fb77959217360b7cd18284253'
+    chainId: null
+    decimals: null
+    description: Benchmark Protocol (MARK) is a cryptocurrency and operates on the
+      Ethereum platform. Benchmark Protocol has a current supply of 75,000,000 with
+      6,750,000 in circulation. The last known price of Benchmark Protocol is 0.29668417
+      USD and is up 6.23 over the last 24 hours. It is currently trading on 5 active
+      market(s) with $288,862.79 traded over the last 24 hours. More information can
+      be found at https://benchmarkprotocol.finance/.
+    logoURI: null
+    name: Benchmark Protocol
+    symbol: MARK
+    type: null

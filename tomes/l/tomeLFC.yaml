@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x95c9bd1f81cee7391da3eac81693e60f3292c1e0'
+    chainId: null
+    decimals: null
+    description: Linfinity (LFC) is a cryptocurrency and operates on the Ethereum
+      platform. Linfinity has a current supply of 3,000,000,000 with 905,666,528.7090095
+      in circulation. The last known price of Linfinity is 0.00004626 USD and is up
+      2.26 over the last 24 hours. It is currently trading on 2 active market(s) with
+      $3,955.78 traded over the last 24 hours. More information can be found at https://www.linfinity.io.
+    logoURI: null
+    name: Linfinity
+    symbol: LFC
+    type: null

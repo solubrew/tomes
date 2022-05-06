@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5edc1a266e8b2c5e8086d373725df0690af7e3ea'
+    chainId: null
+    decimals: null
+    description: YottaChain (YTA) is a cryptocurrency and operates on the Ethereum
+      platform. YottaChain has a current supply of 4,000,000,000 with 0 in circulation.
+      The last known price of YottaChain is 0.02842645 USD and is up 0.90 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $815,065.11
+      traded over the last 24 hours. More information can be found at http://www.yottachain.io.
+    logoURI: null
+    name: YottaChain
+    symbol: YTA
+    type: null

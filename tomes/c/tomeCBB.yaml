@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc0850B8C36A1FFB3dE0923409AF0da3485A48957'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cribbits
+    symbol: CBB
+    type: null

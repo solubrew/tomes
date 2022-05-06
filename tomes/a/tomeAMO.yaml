@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169'
+    chainId: null
+    decimals: null
+    description: AMO Coin (AMO) is a cryptocurrency and operates on the Ethereum platform.
+      AMO Coin has a current supply of 19,679,012,761.81035 with 18,244,150,915.26141
+      in circulation. The last known price of AMO Coin is 0.00049402 USD and is down
+      -0.12 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $174,869.06 traded over the last 24 hours. More information can be found
+      at https://www.amo.foundation/.
+    logoURI: null
+    name: AMO Coin
+    symbol: AMO
+    type: null

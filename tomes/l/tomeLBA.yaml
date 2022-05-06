@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfe5F141Bf94fE84bC28deD0AB966c16B17490657'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LibraToken
+    symbol: LBA
+    type: null

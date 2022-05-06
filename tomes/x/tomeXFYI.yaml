@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6be7e93e45740c314c89a3be52473a0ddf2450fe'
+    chainId: null
+    decimals: null
+    description: XCredit (XFYI) is a cryptocurrency and operates on the Ethereum platform.
+      XCredit has a current supply of 0. The last known price of XCredit is 1.80928867
+      USD and is up 3.28 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $143,922.32 traded over the last 24 hours. More information can
+      be found at https://xcredit.finance/.
+    logoURI: null
+    name: XCredit
+    symbol: XFYI
+    type: null

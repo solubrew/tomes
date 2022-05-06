@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcbe79ceca09092648995b2ccdf91ca5ecd1edec9'
+    chainId: null
+    decimals: null
+    description: Amun Short Bitcoin Token (BTCSHORT) is a cryptocurrency and operates
+      on the Ethereum platform. Amun Short Bitcoin Token has a current supply of 6.74561384
+      with 0 in circulation. The last known price of Amun Short Bitcoin Token is 6,243.7024797
+      USD and is down -0.06 over the last 24 hours. More information can be found
+      at https://amun.com.
+    logoURI: null
+    name: Amun Short Bitcoin Token
+    symbol: BTCSHORT
+    type: null

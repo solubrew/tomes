@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe8ca1173F3d101CEA72F5B4C85F1d2516Aa15F51'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Moonrakers
+    symbol: Mook
+    type: null

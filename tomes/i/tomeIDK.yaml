@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x61fd1c62551850d0c04c76fce614cbced0094498'
+    chainId: null
+    decimals: null
+    description: IDK (IDK) is a cryptocurrency and operates on the Ethereum platform.
+      IDK has a current supply of 10,000,000 with 0 in circulation. The last known
+      price of IDK is 0.07076795 USD and is up 0.24 over the last 24 hours. It is
+      currently trading on 12 active market(s) with $375,720.45 traded over the last
+      24 hours. More information can be found at https://idkfoundation.org/.
+    logoURI: null
+    name: IDK
+    symbol: IDK
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb134EC3FE107a190809aE612Eec93f3847C1Aa4D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Apr 26 106-CALL
+    symbol: 4/26 106-C
+    type: null

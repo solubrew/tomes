@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5b11aacb6bddb9ffab908fdce739bf4aed554327'
+    chainId: null
+    decimals: null
+    description: TrueDeck (TDP) is a cryptocurrency and operates on the Ethereum platform.
+      TrueDeck has a current supply of 200,000,000 with 30,717,515.54404092 in circulation.
+      The last known price of TrueDeck is 0.0058521 USD and is down -21.75 over the
+      last 24 hours. It is currently trading on 4 active market(s) with $4,063.01
+      traded over the last 24 hours. More information can be found at https://truedeck.io/.
+    logoURI: null
+    name: TrueDeck
+    symbol: TDP
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6773770653c9995F602AA0058349B9B68962DB96'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DollarHungary
+    symbol: DHU
+    type: null

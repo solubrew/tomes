@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe28b3b32b6c345a34ff64674606124dd5aceca30'
+    chainId: null
+    decimals: null
+    description: Injective Protocol (INJ) is a cryptocurrency and operates on the
+      Ethereum platform. Injective Protocol has a current supply of 100,000,000 with
+      14,530,790.00000001 in circulation. The last known price of Injective Protocol
+      is 1.62555774 USD and is down -6.27 over the last 24 hours. It is currently
+      trading on 17 active market(s) with $17,047,020.20 traded over the last 24 hours.
+      More information can be found at https://injectiveprotocol.com/.
+    logoURI: null
+    name: Injective Protocol
+    symbol: INJ
+    type: null

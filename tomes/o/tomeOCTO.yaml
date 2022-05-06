@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7240aC91f01233BaAf8b064248E80feaA5912BA3'
+    chainId: null
+    decimals: null
+    description: OctoFi (OCTO) is a cryptocurrency and operates on the Ethereum platform.
+      OctoFi has a current supply of 800,000 with 569,848.28622234 in circulation.
+      The last known price of OctoFi is 28.92393968 USD and is up 6.46 over the last
+      24 hours. It is currently trading on 5 active market(s) with $1,496,701.28 traded
+      over the last 24 hours. More information can be found at https://octo.fi.
+    logoURI: null
+    name: OctoFi
+    symbol: OCTO
+    type: null

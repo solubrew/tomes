@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7B0F66fA5cf5cc28280c1e7051af881E06579362'
+    chainId: null
+    decimals: null
+    description: YFarmLand Token (YFARMER) is a cryptocurrency and operates on the
+      Ethereum platform. YFarmLand Token has a current supply of 0. The last known
+      price of YFarmLand Token is 0.34429564 USD and is up 0.69 over the last 24 hours.
+      It is currently trading on 4 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://yfarmland.finance/.
+    logoURI: null
+    name: YFarmLand Token
+    symbol: YFARMER
+    type: null

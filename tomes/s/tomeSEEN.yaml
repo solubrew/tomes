@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33'
+    chainId: null
+    decimals: null
+    description: SEEN (SEEN) is a cryptocurrency and operates on the Ethereum platform.
+      SEEN has a current supply of 0. The last known price of SEEN is 2.27425738 USD
+      and is down -17.23 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $0.00 traded over the last 24 hours. More information can be
+      found at https://seen.haus.
+    logoURI: null
+    name: SEEN
+    symbol: SEEN
+    type: null

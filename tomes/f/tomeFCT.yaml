@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3B820a1e03025d0Fe6bC211B2550626b68A3b27C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Fibonum Cycling Token
+    symbol: FCT
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x41ad4093349c8a60de591a3c37dcd184558eaae3'
+    chainId: null
+    decimals: null
+    description: Bitcoin & Company Network (BITN) is a cryptocurrency and operates
+      on the Ethereum platform. Bitcoin & Company Network has a current supply of
+      500,000,000 with 0 in circulation. The last known price of Bitcoin & Company
+      Network is 0.00003845 USD and is up 27.83 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $1.25 traded over the last 24 hours. More
+      information can be found at https://www.bitcoincompany.it/.
+    logoURI: null
+    name: Bitcoin & Company Network
+    symbol: BITN
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0391D2021f89DC339F60Fff84546EA23E337750f'
+    chainId: null
+    decimals: null
+    description: BarnBridge (BOND) is a cryptocurrency and operates on the Ethereum
+      platform. BarnBridge has a current supply of 10,000,000 with 496,507.9524477
+      in circulation. The last known price of BarnBridge is 28.14872846 USD and is
+      down -1.50 over the last 24 hours. It is currently trading on 10 active market(s)
+      with $571,301.04 traded over the last 24 hours. More information can be found
+      at https://barnbridge.com/.
+    logoURI: null
+    name: BarnBridge
+    symbol: BOND
+    type: null

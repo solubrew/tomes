@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb20043F149817bff5322F1b928e89aBFC65A9925'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EXRT
+    symbol: EXRT
+    type: null

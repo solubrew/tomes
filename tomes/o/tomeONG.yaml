@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd341d1680eeee3255b8c4c75bcce7eb57f144dae'
+    chainId: null
+    decimals: null
+    description: SoMee.Social (ONG) is a cryptocurrency and operates on the Ethereum
+      platform. SoMee.Social has a current supply of 150,000,000 with 119,084,499.40569404
+      in circulation. The last known price of SoMee.Social is 0.00531265 USD and is
+      up 12.31 over the last 24 hours. It is currently trading on 7 active market(s)
+      with $25,032.79 traded over the last 24 hours. More information can be found
+      at https://somee.social/.
+    logoURI: null
+    name: SoMee.Social
+    symbol: ONG
+    type: null

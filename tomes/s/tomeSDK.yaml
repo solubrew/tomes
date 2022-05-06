@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC26b2a2003BB8E907f527f47d92C410c4902510B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SiDinar Koin
+    symbol: SDK
+    type: null

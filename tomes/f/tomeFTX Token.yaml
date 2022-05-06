@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FTT
+    symbol: FTX Token
+    type: null

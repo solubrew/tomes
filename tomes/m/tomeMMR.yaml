@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfE34099B8A1EB4cac66168f46014340ba425fa8f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Make Me Rich Token
+    symbol: MMR
+    type: null

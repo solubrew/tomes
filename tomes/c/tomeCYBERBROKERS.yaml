@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x892848074ddeA461A15f337250Da3ce55580CA85'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: CYBERBROKERS
+    type: null

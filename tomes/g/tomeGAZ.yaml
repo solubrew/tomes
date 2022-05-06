@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x943Bd545e019b485514c8474DA6032656168fa99'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GRADZ
+    symbol: GAZ
+    type: null

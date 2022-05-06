@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5aDFAF1b9ccDd15321b7838D8DDF113CE471c3E8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GROCERYCOIN
+    symbol: GRC
+    type: null

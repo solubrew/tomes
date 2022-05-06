@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeed3ae7b0f8b5b9bb8c035a9941382b1822671cd'
+    chainId: null
+    decimals: null
+    description: EveryCoin  (EVY) is a cryptocurrency and operates on the Ethereum
+      platform. EveryCoin  has a current supply of 88,800,000,000 with 9,380,000,000
+      in circulation. The last known price of EveryCoin  is 0.00028983 USD and is
+      up 0.53 over the last 24 hours. It is currently trading on 12 active market(s)
+      with $695,942.03 traded over the last 24 hours. More information can be found
+      at https://www.everycoin.io.
+    logoURI: null
+    name: 'EveryCoin '
+    symbol: EVY
+    type: null

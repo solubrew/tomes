@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x88d59ba796fdf639ded3b5e720988d59fdb71eb8'
+    chainId: null
+    decimals: null
+    description: Payship (PSHP) is a cryptocurrency and operates on the Ethereum platform.
+      Payship has a current supply of 11,000 with 0 in circulation. The last known
+      price of Payship is 32.31586644 USD and is up 1.00 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $1,202.70 traded over the last
+      24 hours. More information can be found at https://payship.org.
+    logoURI: null
+    name: Payship
+    symbol: PSHP
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7713bCda5106424FF6B0Ae1e7Fa05C3f4ae3ecB0'
+    chainId: null
+    decimals: null
+    description: GrafSound (GSMT) is a cryptocurrency and operates on the Ethereum
+      platform. GrafSound has a current supply of 7,000,000,000 with 0 in circulation.
+      The last known price of GrafSound is 0.53645527 USD and is down -0.62 over the
+      last 24 hours. It is currently trading on 6 active market(s) with $457,628.44
+      traded over the last 24 hours. More information can be found at http://mygrafsound.com/.
+    logoURI: null
+    name: GrafSound
+    symbol: GSMT
+    type: null

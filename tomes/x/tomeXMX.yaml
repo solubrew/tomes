@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0f8c45b896784a1e408526b9300519ef8660209c'
+    chainId: null
+    decimals: null
+    description: XMax (XMX) is a cryptocurrency and operates on the Ethereum platform.
+      XMax has a current supply of 30,000,000,000 with 15,005,889,077.540667 in circulation.
+      The last known price of XMax is 0.0002391 USD and is down -0.80 over the last
+      24 hours. It is currently trading on 10 active market(s) with $217,681.06 traded
+      over the last 24 hours. More information can be found at https://www.xmx.com.
+    logoURI: null
+    name: XMax
+    symbol: XMX
+    type: null

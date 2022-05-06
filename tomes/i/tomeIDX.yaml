@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8427760A577F7F2F91a7bA7a3c7826C92A950727'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Indonesian eXchange
+    symbol: IDX
+    type: null

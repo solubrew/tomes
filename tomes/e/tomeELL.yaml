@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7e4d1cd8927ce41bcbfa4f32cada1a6998cb5a51'
+    chainId: null
+    decimals: null
+    description: ETH AI Limit Loss (ELL) is a cryptocurrency and operates on the Ethereum
+      platform. ETH AI Limit Loss has a current supply of 211.34045275 with 0 in circulation.
+      The last known price of ETH AI Limit Loss is 210.09 USD and is up 0.00 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://www.tokensets.com/set/ell-1.
+    logoURI: null
+    name: ETH AI Limit Loss
+    symbol: ELL
+    type: null

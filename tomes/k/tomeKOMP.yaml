@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x41Bc0913ED789428E107C4eA9ED007815c5A8230'
+    chainId: null
+    decimals: null
+    description: Kompass (KOMP) is a cryptocurrency and operates on the Ethereum platform.
+      Kompass has a current supply of 1,000,000,000 with 0 in circulation. The last
+      known price of Kompass is 29.01723787 USD and is down -3.22 over the last 24
+      hours. It is currently trading on 1 active market(s) with $5,689.88 traded over
+      the last 24 hours. More information can be found at http://kompasswallet.com/.
+    logoURI: null
+    name: Kompass
+    symbol: KOMP
+    type: null

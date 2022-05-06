@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x14ca41eecd7d81d5d13098586c0d2314eba285be'
+    chainId: null
+    decimals: null
+    description: JUST NETWORK (JUS) is a cryptocurrency and operates on the Ethereum
+      platform. JUST NETWORK has a current supply of 0. The last known price of JUST
+      NETWORK is 0.00367935 USD and is up 1.47 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $111,178.43 traded over the last 24 hours.
+      More information can be found at https://www.justalk.io/.
+    logoURI: null
+    name: JUST NETWORK
+    symbol: JUS
+    type: null

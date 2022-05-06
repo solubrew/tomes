@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1c5b760f133220855340003b43cc9113ec494823'
+    chainId: null
+    decimals: null
+    description: Cointorox (OROX) is a cryptocurrency and operates on the Ethereum
+      platform. Cointorox has a current supply of 5,525,108.005. The last known price
+      of Cointorox is 0.00023578 USD and is up 3.08 over the last 24 hours. More information
+      can be found at https://cointorox.com.
+    logoURI: null
+    name: Cointorox
+    symbol: OROX
+    type: null

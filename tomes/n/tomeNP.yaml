@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf54cC94f1F2f5De012B6Aa51F1E7eBdc43Ef5afC'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: NP
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8069080a922834460C3A092FB2c1510224dc066b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SpaceChain
+    symbol: SPC
+    type: null

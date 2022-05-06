@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc3F1ea9AfE9605c6ab52524159AEf389ea7Af460'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Synthetic Oil Coin
+    symbol: SNOIL
+    type: null

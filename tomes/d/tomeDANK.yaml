@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0cB8D0B37C7487b11d57F1f33dEfA2B1d3cFccfE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Dank Token
+    symbol: DANK
+    type: null

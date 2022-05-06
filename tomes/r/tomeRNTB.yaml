@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1fe70be734e473e5721ea57c8b5b01e6caa52686'
+    chainId: null
+    decimals: null
+    description: BitRent (RNTB) is a cryptocurrency and operates on the Ethereum platform.
+      BitRent has a current supply of 941,988,500 with 841,738,499.9999961 in circulation.
+      The last known price of BitRent is 0.00003322 USD and is up 5.17 over the last
+      24 hours. More information can be found at https://bitrent.io.
+    logoURI: null
+    name: BitRent
+    symbol: RNTB
+    type: null

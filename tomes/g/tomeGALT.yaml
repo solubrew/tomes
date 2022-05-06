@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8B3B9a86D72a68c95A43030710B6abe6a0E413e6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Galt
+    symbol: GALT
+    type: null

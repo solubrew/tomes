@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc'
+    chainId: null
+    decimals: null
+    description: Non-Fungible Yearn (NFY) is a cryptocurrency and operates on the
+      Ethereum platform. Non-Fungible Yearn has a current supply of 100,000 with 0
+      in circulation. The last known price of Non-Fungible Yearn is 12.36417942 USD
+      and is up 4.06 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $8,164.90 traded over the last 24 hours. More information can be found
+      at https://nfy.finance/.
+    logoURI: null
+    name: Non-Fungible Yearn
+    symbol: NFY
+    type: null

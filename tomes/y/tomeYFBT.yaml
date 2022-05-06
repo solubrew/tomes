@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf0a0f3a6fa6bed75345171a5ea18abcadf6453ba'
+    chainId: null
+    decimals: null
+    description: Yearn Finance Bit (YFBT) is a cryptocurrency and operates on the
+      Ethereum platform. Yearn Finance Bit has a current supply of 2,000 with 1,459.42639524
+      in circulation. The last known price of Yearn Finance Bit is 119.76650252 USD
+      and is up 0.66 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $85,703.99 traded over the last 24 hours. More information can be found
+      at https://yfbit.finance/.
+    logoURI: null
+    name: Yearn Finance Bit
+    symbol: YFBT
+    type: null

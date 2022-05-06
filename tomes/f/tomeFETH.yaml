@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd5A7B652d294869814B205A76b638a128d446dB5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FranzToken
+    symbol: FETH
+    type: null

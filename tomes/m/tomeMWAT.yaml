@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6425c6BE902d692AE2db752B3c268AFAdb099D3b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: RED MWAT
+    symbol: MWAT
+    type: null

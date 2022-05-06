@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5CeB8c7f189e694B326310694Ac6DF98e5CED66E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Yattaqi
+    symbol: YAT
+    type: null

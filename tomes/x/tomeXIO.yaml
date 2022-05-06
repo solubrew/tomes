@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3205Df88cF95B5A702F2b6a1CC10e2075f54387c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BOMBX
+    symbol: XIO
+    type: null

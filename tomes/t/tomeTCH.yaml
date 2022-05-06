@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9b39a0b97319a9bd5fed217c1db7b030453bac91'
+    chainId: null
+    decimals: null
+    description: TigerCash (TCH) is a cryptocurrency and operates on the Ethereum
+      platform. TigerCash has a current supply of 1,000,000,000 with 55,999,900 in
+      circulation. The last known price of TigerCash is 0.00743238 USD and is up 1.43
+      over the last 24 hours. It is currently trading on 3 active market(s) with $2,273,358.09
+      traded over the last 24 hours. More information can be found at http://www.cointiger.com/.
+    logoURI: null
+    name: TigerCash
+    symbol: TCH
+    type: null

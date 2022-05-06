@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Metronome
+    symbol: MET
+    type: null

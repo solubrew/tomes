@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB15D9b7C2F10a50dda6D88F40fb338cE514AF551'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Eggs Crypto Invest
+    symbol: EGCI
+    type: null

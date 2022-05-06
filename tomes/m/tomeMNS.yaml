@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x53884b61963351C283118a8E1Fc05BA464a11959'
+    chainId: null
+    decimals: null
+    description: MONNOS (MNS) is a cryptocurrency and operates on the Ethereum platform.
+      MONNOS has a current supply of 2,942,056,786 with 0 in circulation. The last
+      known price of MONNOS is 0.00040945 USD and is up 5.67 over the last 24 hours.
+      It is currently trading on 8 active market(s) with $37.81 traded over the last
+      24 hours. More information can be found at https://monnos.com/en/.
+    logoURI: null
+    name: MONNOS
+    symbol: MNS
+    type: null

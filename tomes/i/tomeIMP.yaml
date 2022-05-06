@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x48ff53777f747cfb694101222a944de070c15d36'
+    chainId: null
+    decimals: null
+    description: Ether Kingdoms Token (IMP) is a cryptocurrency and operates on the
+      Ethereum platform. Ether Kingdoms Token has a current supply of 13,000,000 with
+      7,687,137.2197515 in circulation. The last known price of Ether Kingdoms Token
+      is 0.00210539 USD and is up 11.13 over the last 24 hours. It is currently trading
+      on 5 active market(s) with $38,613.54 traded over the last 24 hours. More information
+      can be found at https://imps.me.
+    logoURI: null
+    name: Ether Kingdoms Token
+    symbol: IMP
+    type: null

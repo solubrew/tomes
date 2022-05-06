@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCe2AC722F8b9349a0BdCbE9ee9f9D877C8CFa7A0'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: UUnit Token
+    symbol: UUN
+    type: null

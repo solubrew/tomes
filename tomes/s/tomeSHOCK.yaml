@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x11Ded8aDdDa881F700FBDa2Fe2030656289322a3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AfterShock
+    symbol: SHOCK
+    type: null

@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0Cfb5d82BE2b949e8fa73A656dF91821E2aD99FD'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: 10KTF
+    type: null

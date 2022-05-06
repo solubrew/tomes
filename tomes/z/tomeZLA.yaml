@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16'
+    chainId: null
+    decimals: null
+    description: Zilla (ZLA) is a cryptocurrency and operates on the Ethereum platform.
+      Zilla has a current supply of 60,000,000. The last known price of Zilla is 0.00220723
+      USD and is down -3.70 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $349.13 traded over the last 24 hours. More information can be
+      found at https://zla.io/.
+    logoURI: null
+    name: Zilla
+    symbol: ZLA
+    type: null

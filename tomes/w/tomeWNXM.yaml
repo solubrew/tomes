@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0d438f3b5175bebc262bf23753c1e53d03432bde'
+    chainId: null
+    decimals: null
+    description: Wrapped NXM (WNXM) is a cryptocurrency and operates on the Ethereum
+      platform. Wrapped NXM has a current supply of 674,085.8941. The last known price
+      of Wrapped NXM is 56.72503018 USD and is up 11.19 over the last 24 hours. More
+      information can be found at https://nexusmutual.io/.
+    logoURI: null
+    name: Wrapped NXM
+    symbol: WNXM
+    type: null

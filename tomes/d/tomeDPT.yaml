@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x10c71515602429c19d53011ea7040b87a4894838'
+    chainId: null
+    decimals: null
+    description: Diamond Platform Token (DPT) is a cryptocurrency and operates on
+      the Ethereum platform. Diamond Platform Token has a current supply of 10,000,000
+      with 1,722,890.32731231 in circulation. The last known price of Diamond Platform
+      Token is 2.13691165 USD and is up 0.08 over the last 24 hours. It is currently
+      trading on 8 active market(s) with $2,920.66 traded over the last 24 hours.
+      More information can be found at https://cdiamondcoin.com/.
+    logoURI: null
+    name: Diamond Platform Token
+    symbol: DPT
+    type: null

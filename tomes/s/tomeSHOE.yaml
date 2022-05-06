@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc3fc76dBF20c40751DFfbCDD69eaF379D2a96D07'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 'WHAT: SHOES'
+    symbol: SHOE
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf4b54874cd8a6c863e3a904c18fda964661ec363'
+    chainId: null
+    decimals: null
+    description: DWS (DWS) is a cryptocurrency and operates on the Ethereum platform.
+      DWS has a current supply of 500,000,000 with 0 in circulation. The last known
+      price of DWS is 0.000026 USD and is down -0.01 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $1,858.25 traded over the last
+      24 hours. More information can be found at https://dwswifi.com/.
+    logoURI: null
+    name: DWS
+    symbol: DWS
+    type: null

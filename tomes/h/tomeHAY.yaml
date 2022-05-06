@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HayCoin
+    symbol: HAY
+    type: null

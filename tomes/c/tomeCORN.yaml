@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa456b515303b2ce344e9d2601f91270f8c2fea5e'
+    chainId: null
+    decimals: null
+    description: Cornichon (CORN) is a cryptocurrency and operates on the Ethereum
+      platform. Cornichon has a current supply of 19,761,774 with 18,616,425 in circulation.
+      The last known price of Cornichon is 0.20574087 USD and is up 25.68 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $279,171.97
+      traded over the last 24 hours. More information can be found at https://cornichon.ape.tax/.
+    logoURI: null
+    name: Cornichon
+    symbol: CORN
+    type: null

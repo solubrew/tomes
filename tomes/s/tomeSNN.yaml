@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08'
+    chainId: null
+    decimals: null
+    description: SeChain (SNN) is a cryptocurrency and operates on the Ethereum platform.
+      SeChain has a current supply of 86,700,000,000 with 0 in circulation. The last
+      known price of SeChain is 0.00012112 USD and is down -3.02 over the last 24
+      hours. It is currently trading on 2 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://snn.cash/.
+    logoURI: null
+    name: SeChain
+    symbol: SNN
+    type: null

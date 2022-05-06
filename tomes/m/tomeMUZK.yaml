@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA94AF6eAB14d95f8872074c35cbEB7A8F4e1dd7B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DIGITRAXX
+    symbol: MUZK
+    type: null

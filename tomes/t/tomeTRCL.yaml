@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0a9d68886a0D7Db83a30ec00d62512483e5Ad437'
+    chainId: null
+    decimals: null
+    description: Treecle (TRCL) is a cryptocurrency and operates on the Ethereum platform.
+      Treecle has a current supply of 2,000,000,000 with 0 in circulation. The last
+      known price of Treecle is 0.01911668 USD and is up 1.87 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $118,862.76 traded over the
+      last 24 hours. More information can be found at https://www.treecle.io/.
+    logoURI: null
+    name: Treecle
+    symbol: TRCL
+    type: null

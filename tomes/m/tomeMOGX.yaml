@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbdec45952b5e234eddc2981b43eed360826d5087'
+    chainId: null
+    decimals: null
+    description: Mogu (MOGX) is a cryptocurrency and operates on the Ethereum platform.
+      Mogu has a current supply of 1,000,000,000 with 0 in circulation. The last known
+      price of Mogu is 0.01422045 USD and is up 2.44 over the last 24 hours. It is
+      currently trading on 3 active market(s) with $134,685.96 traded over the last
+      24 hours. More information can be found at http://www.mogutech.io.
+    logoURI: null
+    name: Mogu
+    symbol: MOGX
+    type: null

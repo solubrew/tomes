@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x49AAa160506F7e07E6C3F6cD6316b6866025cDcB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Lira Cash
+    symbol: LIRA
+    type: null

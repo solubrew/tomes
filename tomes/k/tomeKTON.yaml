@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9f284e1337a815fe77d2ff4ae46544645b20c5ff'
+    chainId: null
+    decimals: null
+    description: Darwinia Commitment Token (KTON) is a cryptocurrency and operates
+      on the Ethereum platform. Darwinia Commitment Token has a current supply of
+      39,582.57508234 with 0 in circulation. The last known price of Darwinia Commitment
+      Token is 93.20246664 USD and is up 18.52 over the last 24 hours. It is currently
+      trading on 9 active market(s) with $712,774.27 traded over the last 24 hours.
+      More information can be found at https://darwinia.network/.
+    logoURI: null
+    name: Darwinia Commitment Token
+    symbol: KTON
+    type: null

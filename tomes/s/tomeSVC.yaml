@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x11263B92661fA1fa96800139C9d6b510953A35eB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Sport Value Coin
+    symbol: SVC
+    type: null

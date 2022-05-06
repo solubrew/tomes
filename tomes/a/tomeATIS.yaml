@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x821144518dfE9e7b44fCF4d0824e15e8390d4637'
+    chainId: null
+    decimals: null
+    description: Atlantis Token (ATIS) is a cryptocurrency and operates on the Ethereum
+      platform. Atlantis Token has a current supply of 910,309.835418 with 0 in circulation.
+      The last known price of Atlantis Token is 0.02619422 USD and is up 4.01 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://mammothgames.io.
+    logoURI: null
+    name: Atlantis Token
+    symbol: ATIS
+    type: null

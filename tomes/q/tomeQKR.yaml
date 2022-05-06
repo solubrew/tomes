@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9705a7113363A383c8A96689e20286AbE6612bb3'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: QKR
+    type: null

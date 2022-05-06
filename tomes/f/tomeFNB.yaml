@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x47b28f365bf4cb38db4b6356864bde7bc4b35129'
+    chainId: null
+    decimals: null
+    description: FNB Protocol (FNB) is a cryptocurrency and operates on the Ethereum
+      platform. FNB Protocol has a current supply of 2,490,000,160 with 2,373,943,413
+      in circulation. The last known price of FNB Protocol is 0.00645821 USD and is
+      up 0.97 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $236,369.58 traded over the last 24 hours. More information can be found
+      at https://fnbprotocol.io/fnb/index_eng.php.
+    logoURI: null
+    name: FNB Protocol
+    symbol: FNB
+    type: null

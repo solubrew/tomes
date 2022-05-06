@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x97B05317DE8B867c9F810692F6C6F7B10e57a258'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Electronic USD
+    symbol: EUSD
+    type: null

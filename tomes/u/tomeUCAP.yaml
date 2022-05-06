@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbaA70614C7AAfB568a93E62a98D55696bcc85DFE'
+    chainId: null
+    decimals: null
+    description: Unicap.finance (UCAP) is a cryptocurrency and operates on the Ethereum
+      platform. Unicap.finance has a current supply of 0. The last known price of
+      Unicap.finance is 1.48632781 USD and is down -1.58 over the last 24 hours. It
+      is currently trading on 4 active market(s) with $153,035.60 traded over the
+      last 24 hours. More information can be found at https://uncap.finance.
+    logoURI: null
+    name: Unicap.finance
+    symbol: UCAP
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB79FC5505eA4F3b920EE7E3349dE064226692717'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Blockchain Board Of Derivatives Token
+    symbol: BBD
+    type: null

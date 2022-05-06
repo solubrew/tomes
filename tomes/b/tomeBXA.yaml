@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x98d8d146e644171cd47ff8588987b7bdeef72a87'
+    chainId: null
+    decimals: null
+    description: Blockchain Exchange Alliance (BXA) is a cryptocurrency and operates
+      on the Ethereum platform. Blockchain Exchange Alliance has a current supply
+      of 0. The last known price of Blockchain Exchange Alliance is 0.00136091 USD
+      and is down -0.72 over the last 24 hours. It is currently trading on 6 active
+      market(s) with $230,265.05 traded over the last 24 hours. More information can
+      be found at https://www.bxa.com.
+    logoURI: null
+    name: Blockchain Exchange Alliance
+    symbol: BXA
+    type: null

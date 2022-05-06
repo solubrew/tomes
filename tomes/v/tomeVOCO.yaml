@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb5ca46cf1da09248126682a7bd72401fd7a6b151'
+    chainId: null
+    decimals: null
+    description: Provoco Token (VOCO) is a cryptocurrency and operates on the Ethereum
+      platform. Provoco Token has a current supply of 999,393,710,075 with 999,375,710,075
+      in circulation. The last known price of Provoco Token is 0.00000002 USD and
+      is down -0.06 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.42 traded over the last 24 hours. More information can be found at https://provoco.me/.
+    logoURI: null
+    name: Provoco Token
+    symbol: VOCO
+    type: null

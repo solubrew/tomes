@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x39eae99e685906ff1c11a962a743440d0a1a6e09'
+    chainId: null
+    decimals: null
+    description: Holyheld (HOLY) is a cryptocurrency and operates on the Ethereum
+      platform. Holyheld has a current supply of 100,000,000 with 3,028,047.23768362
+      in circulation. The last known price of Holyheld is 0.53272515 USD and is up
+      1.38 over the last 24 hours. It is currently trading on 1 active market(s) with
+      $11,035.87 traded over the last 24 hours. More information can be found at https://holyheld.com.
+    logoURI: null
+    name: Holyheld
+    symbol: HOLY
+    type: null

@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa8eda9d4aee0eb882f8752c6ba7e16d9233c9ad2'
+    chainId: null
+    decimals: null
+    description: LevelApp Token (LVL) is a cryptocurrency and operates on the Ethereum
+      platform. LevelApp Token has a current supply of 10,000,000,000 with 0 in circulation.
+      The last known price of LevelApp Token is 0.00000415 USD and is up 5.17 over
+      the last 24 hours. More information can be found at https://levelapp.cx/.
+    logoURI: null
+    name: LevelApp Token
+    symbol: LVL
+    type: null

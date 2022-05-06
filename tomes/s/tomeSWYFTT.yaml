@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA1248c718d52752b2cC257eeb0eBa900408dAeB8'
+    chainId: null
+    decimals: null
+    description: SWYFT (SWYFTT) is a cryptocurrency and operates on the Ethereum platform.
+      SWYFT has a current supply of 750,000 with 706,940.08938199 in circulation.
+      The last known price of SWYFT is 0.1712668 USD and is down -0.31 over the last
+      24 hours. It is currently trading on 3 active market(s) with $5,132.24 traded
+      over the last 24 hours. More information can be found at https://swyft.network/.
+    logoURI: null
+    name: SWYFT
+    symbol: SWYFTT
+    type: null

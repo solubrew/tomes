@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaf80951201a0eff85a0fd3adf4c7043db856d3e6'
+    chainId: null
+    decimals: null
+    description: Mobilian Coin (MBN) is a cryptocurrency and operates on the Ethereum
+      platform. Mobilian Coin has a current supply of 10,000,000,000 with 115,523,300
+      in circulation. The last known price of Mobilian Coin is 0.58585396 USD and
+      is down -0.36 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $2,572,122.54 traded over the last 24 hours. More information can be found
+      at https://mobiliancoin.com/.
+    logoURI: null
+    name: Mobilian Coin
+    symbol: MBN
+    type: null

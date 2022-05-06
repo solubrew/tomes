@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Trustcoin
+    symbol: TRST
+    type: null

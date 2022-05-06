@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd5dC8921A5c58FB0ebA6db6b40Eab40283Dc3C01'
+    chainId: null
+    decimals: null
+    description: Decentralized Data Assets Management (DDAM) is a cryptocurrency and
+      operates on the Ethereum platform. Decentralized Data Assets Management has
+      a current supply of 960,000,000 with 0 in circulation. The last known price
+      of Decentralized Data Assets Management is 0.00418222 USD and is up 2.22 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $19.64
+      traded over the last 24 hours. More information can be found at https://ddam.one/.
+    logoURI: null
+    name: Decentralized Data Assets Management
+    symbol: DDAM
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x206b1ff0F479A422f5916FF1F0FD294346B907F3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: "\u4E09\u6708\u65E2\u671B"
+    symbol: '0316'
+    type: null

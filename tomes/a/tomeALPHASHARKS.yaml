@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x78a5E2B8c280FA5580fBE1e1ed546183f959d305'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: ALPHASHARKS
+    type: null

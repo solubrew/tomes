@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x59c3BA7a0A4C26955037710654F60D368303B3E1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ZNA Token
+    symbol: ZNA
+    type: null

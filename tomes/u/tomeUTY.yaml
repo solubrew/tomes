@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc6bf2a2a43ca360bb0ec6770f57f77cdde64bb3f'
+    chainId: null
+    decimals: null
+    description: UnityDAO (UTY) is a cryptocurrency and operates on the Ethereum platform.
+      UnityDAO has a current supply of 3,000 with 0 in circulation. The last known
+      price of UnityDAO is 43.80997573 USD and is up 0.50 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $2,496.04 traded over the
+      last 24 hours. More information can be found at https://unitydao.biz/.
+    logoURI: null
+    name: UnityDAO
+    symbol: UTY
+    type: null

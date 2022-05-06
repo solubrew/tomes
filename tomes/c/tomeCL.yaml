@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe81d72d14b1516e68ac3190a46c93302cc8ed60f'
+    chainId: null
+    decimals: null
+    description: Coinlancer (CL) is a cryptocurrency and operates on the Ethereum
+      platform. Coinlancer has a current supply of 300,000,000 with 79,619,229 in
+      circulation. The last known price of Coinlancer is 0.00680219 USD and is up
+      2.69 over the last 24 hours. It is currently trading on 2 active market(s) with
+      $0.00 traded over the last 24 hours. More information can be found at https://www.coinlancer.io/.
+    logoURI: null
+    name: Coinlancer
+    symbol: CL
+    type: null

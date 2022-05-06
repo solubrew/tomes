@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x408865a24f0b02E43409C7C23Cd3362da427C122'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Jungle Coin
+    symbol: JDT
+    type: null

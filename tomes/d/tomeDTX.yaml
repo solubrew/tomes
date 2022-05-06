@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DaTa eXchange Token
+    symbol: DTX
+    type: null

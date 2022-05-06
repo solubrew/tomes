@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdc5864ede28bd4405aa04d93e05a0531797d9d59'
+    chainId: null
+    decimals: null
+    description: Falcon Project (FNT) is a cryptocurrency and operates on the Ethereum
+      platform. Falcon Project has a current supply of 99,360,000,000 with 3,951,280,734
+      in circulation. The last known price of Falcon Project is 0.00023855 USD and
+      is up 4.38 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $24,033.65 traded over the last 24 hours. More information can be found
+      at https://falconofficial.com.
+    logoURI: null
+    name: Falcon Project
+    symbol: FNT
+    type: null

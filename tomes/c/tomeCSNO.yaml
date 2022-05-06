@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x29D75277aC7F0335b2165D0895E8725cbF658d73'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BitDice
+    symbol: CSNO
+    type: null

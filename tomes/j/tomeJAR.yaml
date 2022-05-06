@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa249de6948022783765fee4850d7b85e43118fcc'
+    chainId: null
+    decimals: null
+    description: Jarvis+ (JAR) is a cryptocurrency and operates on the Ethereum platform.
+      Jarvis+ has a current supply of 600,000,000 with 108,157,249.22675677 in circulation.
+      The last known price of Jarvis+ is 0.00311887 USD and is up 2.25 over the last
+      24 hours. It is currently trading on 4 active market(s) with $34,797.60 traded
+      over the last 24 hours. More information can be found at http://www.jarvisplus.com/.
+    logoURI: null
+    name: Jarvis+
+    symbol: JAR
+    type: null

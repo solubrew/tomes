@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7501a4f0b6FCf5AB8D682A57e668214eDC3D3ea4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BinaryCoin
+    symbol: BRC
+    type: null

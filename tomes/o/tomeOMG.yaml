@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd26114cd6EE289AccF82350c8d8487fedB8A0C07'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: OMGToken
+    symbol: OMG
+    type: null

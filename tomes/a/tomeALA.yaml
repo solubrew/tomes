@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x564f45b6bb68aded8b660a0d8a0a948dd6d6e4e8'
+    chainId: null
+    decimals: null
+    description: AladiEx (ALA) is a cryptocurrency and operates on the Ethereum platform.
+      AladiEx has a current supply of 4,750,000,000 with 0 in circulation. The last
+      known price of AladiEx is 0.55063947 USD and is down -3.57 over the last 24
+      hours. It is currently trading on 1 active market(s) with $15,959.92 traded
+      over the last 24 hours. More information can be found at https://www.aladiex.com.
+    logoURI: null
+    name: AladiEx
+    symbol: ALA
+    type: null

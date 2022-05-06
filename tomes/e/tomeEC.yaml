@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x12fd19dac0fab61bed5e0f09091b470c452d4d61'
+    chainId: null
+    decimals: null
+    description: Echoin (EC) is a cryptocurrency and operates on the Ethereum platform.
+      Echoin has a current supply of 2,000,000,000 with 0 in circulation. The last
+      known price of Echoin is 0.00250033 USD and is up 1.54 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $433,996.87 traded over the
+      last 24 hours. More information can be found at https://echoin.io/.
+    logoURI: null
+    name: Echoin
+    symbol: EC
+    type: null

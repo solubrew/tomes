@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC3F1581C94A0C592A99595D2a55ba4b1F3D6E8cC'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Sheep Coin
+    symbol: SHEEP
+    type: null

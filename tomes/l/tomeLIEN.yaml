@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xab37e1358b639fd877f015027bb62d3ddaa7557e'
+    chainId: null
+    decimals: null
+    description: Lien (LIEN) is a cryptocurrency and operates on the Ethereum platform.
+      Lien has a current supply of 0. The last known price of Lien is 41.3933482 USD
+      and is down -0.22 over the last 24 hours. It is currently trading on 11 active
+      market(s) with $801,252.25 traded over the last 24 hours. More information can
+      be found at https://lien.finance.
+    logoURI: null
+    name: Lien
+    symbol: LIEN
+    type: null

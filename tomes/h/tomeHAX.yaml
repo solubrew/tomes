@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc0bE5D2217D85963d391A3f556ff6aba3f53EE7F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: The hacker token
+    symbol: HAX
+    type: null

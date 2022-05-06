@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x29536b7ca7029b5cddeb03c0451715615aca35ba'
+    chainId: null
+    decimals: null
+    description: NewsToken (NEWOS) is a cryptocurrency and operates on the Ethereum
+      platform. NewsToken has a current supply of 10,000,000,000 with 0 in circulation.
+      The last known price of NewsToken is 0.00274411 USD and is down -2.93 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $23,117.50
+      traded over the last 24 hours. More information can be found at http://ne.ws/html/.
+    logoURI: null
+    name: NewsToken
+    symbol: NEWOS
+    type: null

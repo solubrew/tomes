@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4b94c8567763654101f690cf4d54957206383b75'
+    chainId: null
+    decimals: null
+    description: NeoWorld Cash (NASH) is a cryptocurrency and operates on the Ethereum
+      platform. NeoWorld Cash has a current supply of 100,000,000,000 with 23,709,948,545.63672
+      in circulation. The last known price of NeoWorld Cash is 0.00000936 USD and
+      is up 1.08 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $126.76 traded over the last 24 hours. More information can be found at
+      https://neoworld.io/.
+    logoURI: null
+    name: NeoWorld Cash
+    symbol: NASH
+    type: null

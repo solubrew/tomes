@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x916885426255235DA7a0BD90447986c00675f9EC'
+    chainId: null
+    decimals: null
+    description: GoalTime N (GTX) is a cryptocurrency launched in 2019and operates
+      on the Ethereum platform. GoalTime N has a current supply of 100,000,000 with
+      0 in circulation. The last known price of GoalTime N is 0.00037669 USD and is
+      up 0.44 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $303.35 traded over the last 24 hours. More information can be found at
+      https://goaltimen.com/.
+    logoURI: null
+    name: GoalTime N
+    symbol: GTX
+    type: null

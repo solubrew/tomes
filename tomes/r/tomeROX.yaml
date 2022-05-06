@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x574f84108a98c575794f75483d801d1d5dc861a5'
+    chainId: null
+    decimals: null
+    description: Robotina (ROX) is a cryptocurrency and operates on the Ethereum platform.
+      Robotina has a current supply of 331,614,076.92142236 with 304,947,473.0442923
+      in circulation. The last known price of Robotina is 0.00814851 USD and is up
+      11.88 over the last 24 hours. It is currently trading on 9 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://robotinarox.io/.
+    logoURI: null
+    name: Robotina
+    symbol: ROX
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xae9cbe6ebf72a51c9fcea3830485614486318fd4'
+    chainId: null
+    decimals: null
+    description: Newtonium (NEWTON) is a cryptocurrency and operates on the Ethereum
+      platform. Newtonium has a current supply of 999,000 with 0 in circulation. The
+      last known price of Newtonium is 0.02088732 USD and is down -0.31 over the last
+      24 hours. It is currently trading on 1 active market(s) with $211.57 traded
+      over the last 24 hours. More information can be found at https://www.newtonium.org/.
+    logoURI: null
+    name: Newtonium
+    symbol: NEWTON
+    type: null

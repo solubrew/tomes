@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8a88f04e0c905054D2F33b26BB3A46D7091A039A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: IG
+    symbol: IG
+    type: null

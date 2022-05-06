@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E'
+    chainId: null
+    decimals: null
+    description: Rublix (RBLX) is a cryptocurrency and operates on the Ethereum platform.
+      Rublix has a current supply of 100,000,000 with 20,781,283.82311789 in circulation.
+      The last known price of Rublix is 0.00424216 USD and is down -48.92 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $2,345.91
+      traded over the last 24 hours. More information can be found at https://rublix.io/.
+    logoURI: null
+    name: Rublix
+    symbol: RBLX
+    type: null

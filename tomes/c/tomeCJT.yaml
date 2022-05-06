@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3abdff32f76b42e7635bdb7e425f0231a5f3ab17'
+    chainId: null
+    decimals: null
+    description: ConnectJob (CJT) is a cryptocurrency and operates on the Ethereum
+      platform. ConnectJob has a current supply of 166,298,156.765 with 112,839,768.41
+      in circulation. The last known price of ConnectJob is 0.00025505 USD and is
+      up 2.30 over the last 24 hours. More information can be found at https://www.connectjob.io/.
+    logoURI: null
+    name: ConnectJob
+    symbol: CJT
+    type: null

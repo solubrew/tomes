@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd89040ac9823b72f64d71f66fa2deae7c8520671'
+    chainId: null
+    decimals: null
+    description: Newsolution (NST) is a cryptocurrency and operates on the Ethereum
+      platform. Newsolution has a current supply of 15,000,000 with 0 in circulation.
+      The last known price of Newsolution is 0.0015336 USD and is up 1.74 over the
+      last 24 hours. It is currently trading on 4 active market(s) with $3.85 traded
+      over the last 24 hours. More information can be found at https://newsolutioncoin.com/.
+    logoURI: null
+    name: Newsolution
+    symbol: NST
+    type: null

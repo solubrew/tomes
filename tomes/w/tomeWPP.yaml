@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x056dd20b01799e9c1952c7c9a5ff4409a6110085'
+    chainId: null
+    decimals: null
+    description: WPP TOKEN (WPP) is a cryptocurrency and operates on the Ethereum
+      platform. WPP TOKEN has a current supply of 5,000,000,000 with 1,392,904,508.805983
+      in circulation. The last known price of WPP TOKEN is 0.00315986 USD and is up
+      31.25 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $4,269.90 traded over the last 24 hours. More information can be found
+      at http://wppenergy.io.
+    logoURI: null
+    name: WPP TOKEN
+    symbol: WPP
+    type: null

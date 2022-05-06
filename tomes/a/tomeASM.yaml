@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2565ae0385659badcada1031db704442e1b69982'
+    chainId: null
+    decimals: null
+    description: Assemble Protocol (ASM) is a cryptocurrency and operates on the Ethereum
+      platform. Assemble Protocol has a current supply of 0. The last known price
+      of Assemble Protocol is 0.0167271 USD and is down -20.03 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $1,044,048.31 traded over
+      the last 24 hours. More information can be found at http://assembleprotocol.io/.
+    logoURI: null
+    name: Assemble Protocol
+    symbol: ASM
+    type: null

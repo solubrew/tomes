@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8716fc5da009d3a208f0178b637a50f4ef42400f'
+    chainId: null
+    decimals: null
+    description: UGAS (UGAS) is a cryptocurrency and operates on the Ethereum platform.
+      UGAS has a current supply of 1,000,000,000 with 171,719,420.168 in circulation.
+      The last known price of UGAS is 0.01454002 USD and is up 7.04 over the last
+      24 hours. It is currently trading on 11 active market(s) with $314,721.01 traded
+      over the last 24 hours. More information can be found at https://ultrain.io.
+    logoURI: null
+    name: UGAS
+    symbol: UGAS
+    type: null

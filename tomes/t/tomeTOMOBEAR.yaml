@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA1653CB37852249e4f18dfBc473a5cE3F88Fa6aD'
+    chainId: null
+    decimals: null
+    description: 3X Short TomoChain Token (TOMOBEAR) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Short TomoChain Token has a current supply of 24,455,490.57528944
+      with 0 in circulation. The last known price of 3X Short TomoChain Token is 0.00004959
+      USD and is down -6.13 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $2,095.34 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/TOMOBEAR.
+    logoURI: null
+    name: 3X Short TomoChain Token
+    symbol: TOMOBEAR
+    type: null

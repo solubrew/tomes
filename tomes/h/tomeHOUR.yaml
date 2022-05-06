@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x00319F722bd546182cB2c701cA254146D3F084fC'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Democracy Earth
+    symbol: HOUR
+    type: null

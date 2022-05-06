@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8933ea1Ce67B946BdF2436cE860fFBb53Ce814d2'
+    chainId: null
+    decimals: null
+    description: LINK/ETH RSI Ratio Trading Set (LINKETHRSI) is a cryptocurrency and
+      operates on the Ethereum platform. LINK/ETH RSI Ratio Trading Set has a current
+      supply of 4,724.11742119 with 0 in circulation. The last known price of LINK/ETH
+      RSI Ratio Trading Set is 232.45 USD and is up 2.72 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $0.00 traded over the last 24
+      hours. More information can be found at https://www.tokensets.com/set/linkethrsi.
+    logoURI: null
+    name: LINK/ETH RSI Ratio Trading Set
+    symbol: LINKETHRSI
+    type: null

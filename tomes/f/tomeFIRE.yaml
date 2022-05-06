@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x125F9d5daa039bDB79D36bAff667e9E0bbcEA998'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Fire Token
+    symbol: FIRE
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2467aa6b5a2351416fd4c3def8462d841feeecec'
+    chainId: null
+    decimals: null
+    description: qiibee (QBX) is a cryptocurrency and operates on the Ethereum platform.
+      qiibee has a current supply of 1,380,392,157 with 793,646,484.2057278 in circulation.
+      The last known price of qiibee is 0.00747169 USD and is down -1.18 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $1,310.42
+      traded over the last 24 hours. More information can be found at https://qiibee.com/.
+    logoURI: null
+    name: qiibee
+    symbol: QBX
+    type: null

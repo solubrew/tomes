@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6944d3e38973C4831dA24E954fbD790c7E688bDd'
+    chainId: null
+    decimals: null
+    description: IZE (IZE) is a cryptocurrency and operates on the Ethereum platform.
+      IZE has a current supply of 10,000,000,000 with 4,160,881,000 in circulation.
+      The last known price of IZE is 0.27917136 USD and is down -1.87 over the last
+      24 hours. It is currently trading on 1 active market(s) with $47,535.22 traded
+      over the last 24 hours. More information can be found at http://izeholdings.io/en/.
+    logoURI: null
+    name: IZE
+    symbol: IZE
+    type: null

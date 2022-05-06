@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x22eEab2f980E8ed7824f8EA548C9595564a0F0e4'
+    chainId: null
+    decimals: null
+    description: Standard Crypto Fund (QQQF) is a cryptocurrency and operates on the
+      Ethereum platform. Standard Crypto Fund has a current supply of 100,000,000
+      with 0 in circulation. The last known price of Standard Crypto Fund is 0.0119126
+      USD and is up 1.84 over the last 24 hours. More information can be found at
+      https://qqqfindex.com.
+    logoURI: null
+    name: Standard Crypto Fund
+    symbol: QQQF
+    type: null

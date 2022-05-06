@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd0df3b1cf729a29b7404c40d61c750008e631ba7'
+    chainId: null
+    decimals: null
+    description: Rug (RUG) is a cryptocurrency and operates on the Ethereum platform.
+      Rug has a current supply of 9,031.58463318 with 0 in circulation. The last known
+      price of Rug is 0.00001252 USD and is up 4.93 over the last 24 hours. More information
+      can be found at https://rug.money.
+    logoURI: null
+    name: Rug
+    symbol: RUG
+    type: null

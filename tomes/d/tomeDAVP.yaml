@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5d56962db8e35197f8e50d76f1f9285a6d7d7619'
+    chainId: null
+    decimals: null
+    description: Davion (DAVP) is a cryptocurrency and operates on the Ethereum platform.
+      Davion has a current supply of 42,000,000 with 0 in circulation. The last known
+      price of Davion is 0.10148819 USD and is down -1.79 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $226.82 traded over the last
+      24 hours. More information can be found at http://davionpay.io/.
+    logoURI: null
+    name: Davion
+    symbol: DAVP
+    type: null

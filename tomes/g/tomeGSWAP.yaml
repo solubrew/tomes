@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaac41ec512808d64625576eddd580e7ea40ef8b2'
+    chainId: null
+    decimals: null
+    description: Gameswap (GSWAP) is a cryptocurrency and operates on the Ethereum
+      platform. Gameswap has a current supply of 20,000,000 with 0 in circulation.
+      The last known price of Gameswap is 0.41396497 USD and is down -0.51 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $233,176.66
+      traded over the last 24 hours. More information can be found at https://www.gameswap.org/.
+    logoURI: null
+    name: Gameswap
+    symbol: GSWAP
+    type: null

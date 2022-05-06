@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c'
+    chainId: null
+    decimals: null
+    description: Nestree (EGG) is a cryptocurrency and operates on the Ethereum platform.
+      Nestree has a current supply of 2,994,901,340 with 1,278,583,975.4496253 in
+      circulation. The last known price of Nestree is 0.00620538 USD and is up 1.81
+      over the last 24 hours. It is currently trading on 4 active market(s) with $385,304.16
+      traded over the last 24 hours. More information can be found at https://www.nestree.io/.
+    logoURI: null
+    name: Nestree
+    symbol: EGG
+    type: null

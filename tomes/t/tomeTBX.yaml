@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b'
+    chainId: null
+    decimals: null
+    description: Tokenbox (TBX) is a cryptocurrency and operates on the Ethereum platform.
+      Tokenbox has a current supply of 16,051,589.78269311 with 11,235,450.72058796
+      in circulation. The last known price of Tokenbox is 0.02563378 USD and is down
+      -36.17 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $2,802.41 traded over the last 24 hours. More information can be found
+      at https://tokenbox.io/.
+    logoURI: null
+    name: Tokenbox
+    symbol: TBX
+    type: null

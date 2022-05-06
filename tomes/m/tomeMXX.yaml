@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8a6f3bf52a26a21531514e23016eeae8ba7e7018'
+    chainId: null
+    decimals: null
+    description: Multiplier (MXX) is a cryptocurrency and operates on the Ethereum
+      platform. Multiplier has a current supply of 4,064,755,638.11 with 0 in circulation.
+      The last known price of Multiplier is 0.02200274 USD and is up 27.97 over the
+      last 24 hours. It is currently trading on 9 active market(s) with $467,217.13
+      traded over the last 24 hours. More information can be found at https://multiplier.finance.
+    logoURI: null
+    name: Multiplier
+    symbol: MXX
+    type: null

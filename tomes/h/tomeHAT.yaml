@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x097a0820574a8dfb8035C15d829dc25187FC4129'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HalfToken
+    symbol: HAT
+    type: null

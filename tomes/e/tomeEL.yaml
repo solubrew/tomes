@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2781246fe707bb15cee3e5ea354e2154a2877b16'
+    chainId: null
+    decimals: null
+    description: ELYSIA (EL) is a cryptocurrency launched in 2018and operates on the
+      Ethereum platform. ELYSIA has a current supply of 7,000,000,000 with 2,428,487,650
+      in circulation. The last known price of ELYSIA is 0.00293177 USD and is down
+      -1.31 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $301,903.59 traded over the last 24 hours. More information can be found
+      at https://elysia.kr/.
+    logoURI: null
+    name: ELYSIA
+    symbol: EL
+    type: null

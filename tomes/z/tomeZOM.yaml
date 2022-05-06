@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x42382f39e7c9f1add5fa5f0c6e24aa62f50be3b3'
+    chainId: null
+    decimals: null
+    description: ZOM (ZOM) is a cryptocurrency and operates on the Ethereum platform.
+      ZOM has a current supply of 52,041,396.85821213 with 45,934,937.29807863 in
+      circulation. The last known price of ZOM is 0.00519893 USD and is up 1.04 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $147.06
+      traded over the last 24 hours. More information can be found at https://www.yazom.com/.
+    logoURI: null
+    name: ZOM
+    symbol: ZOM
+    type: null

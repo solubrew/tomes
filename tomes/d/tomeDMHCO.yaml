@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5C679a0a79D495aFFe049c02483519D51e37F32b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DMHCO
+    symbol: DMHCO
+    type: null

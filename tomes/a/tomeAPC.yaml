@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829'
+    chainId: null
+    decimals: null
+    description: Alpha Coin (APC) is a cryptocurrency and operates on the Ethereum
+      platform. Alpha Coin has a current supply of 65,000,000 with 34,999,999.946487
+      in circulation. The last known price of Alpha Coin is 0.00016056 USD and is
+      down -3.61 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $1.52 traded over the last 24 hours. More information can be found at https://alpha-coin.io.
+    logoURI: null
+    name: Alpha Coin
+    symbol: APC
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa2B0fDe6D710e201d0d608e924A484d1A5fEd57c'
+    chainId: null
+    decimals: null
+    description: sXRP (SXRP) is a cryptocurrency and operates on the Ethereum platform.
+      sXRP has a current supply of 177,126.92959281 with 0 in circulation. The last
+      known price of sXRP is 0.58353115 USD and is down -3.08 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://www.synthetix.io/tokens/.
+    logoURI: null
+    name: sXRP
+    symbol: SXRP
+    type: null

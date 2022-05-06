@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81'
+    chainId: null
+    decimals: null
+    description: Muse (MUSE) is a cryptocurrency and operates on the Ethereum platform.
+      Muse has a current supply of 202,589 with 0 in circulation. The last known price
+      of Muse is 1.22647756 USD and is up 32.33 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $46,655.05 traded over the last 24 hours.
+      More information can be found at https://gallery.verynifty.io/.
+    logoURI: null
+    name: Muse
+    symbol: MUSE
+    type: null

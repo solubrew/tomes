@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x17A8f6EaD7256E6620109bB02CB21A29b6BD7D3E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Yuamble
+    symbol: YMB
+    type: null

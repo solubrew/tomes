@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8BD61eEc0319C2C6AB364bF7A8a5079bE225F343'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Totally normal token
+    symbol: TONT
+    type: null

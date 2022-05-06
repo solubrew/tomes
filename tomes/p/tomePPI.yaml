@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5a3c9A1725AA82690ee0959c89abE96fD1b527ee'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PiedPiperCoin
+    symbol: PPI
+    type: null

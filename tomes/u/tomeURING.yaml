@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8baAaBee4e60982b128B5339a998ee748ECA4CfF'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Uni Ring
+    symbol: URING
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x95dAaaB98046846bF4B2853e23cba236fa394A31'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EtheremonToken
+    symbol: EMONT
+    type: null

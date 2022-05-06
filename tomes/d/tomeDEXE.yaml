@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6'
+    chainId: null
+    decimals: null
+    description: DeXe (DEXE) is a cryptocurrency and operates on the Ethereum platform.
+      DeXe has a current supply of 98,942,301 with 0 in circulation. The last known
+      price of DeXe is 0.97457315 USD and is up 9.31 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $874,416.05 traded over the last
+      24 hours. More information can be found at https://dexe.network/.
+    logoURI: null
+    name: DeXe
+    symbol: DEXE
+    type: null

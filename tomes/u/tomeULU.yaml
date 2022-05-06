@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4'
+    chainId: null
+    decimals: null
+    description: Universal Liquidity Union (ULU) is a cryptocurrency and operates
+      on the Ethereum platform. Universal Liquidity Union has a current supply of
+      0. The last known price of Universal Liquidity Union is 4.52885909 USD and is
+      down -0.05 over the last 24 hours. More information can be found at http://ulu.finance/.
+    logoURI: null
+    name: Universal Liquidity Union
+    symbol: ULU
+    type: null

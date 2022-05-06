@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1412f6Aa5ADC77C620715BB2a020AA690B85F68A'
+    chainId: null
+    decimals: null
+    description: MargiX (MGX) is a cryptocurrency and operates on the Ethereum platform.
+      MargiX has a current supply of 1,000,000,000 with 21,580,130.113465 in circulation.
+      The last known price of MargiX is 0.01311279 USD and is up 5.17 over the last
+      24 hours. More information can be found at https://margix.org/.
+    logoURI: null
+    name: MargiX
+    symbol: MGX
+    type: null

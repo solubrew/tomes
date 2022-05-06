@@ -1,0 +1,20 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xde7d85157d9714eadf595045cc12ca4a5f3e2adb'
+    chainId: null
+    decimals: null
+    description: Standard Tokenization Protocol (STPT) is a cryptocurrency and operates
+      on the Ethereum platform. Standard Tokenization Protocol has a current supply
+      of 1,942,420,283.027067 with 916,326,558.0270671 in circulation. The last known
+      price of Standard Tokenization Protocol is 0.01603323 USD and is down -5.49
+      over the last 24 hours. It is currently trading on 22 active market(s) with
+      $2,178,169.74 traded over the last 24 hours. More information can be found at
+      https://stp.network/.
+    logoURI: null
+    name: Standard Tokenization Protocol
+    symbol: STPT
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF0ACF8949e705E0ebb6CB42c2164B0B986454223'
+    chainId: null
+    decimals: null
+    description: Barter (BRTR) is a cryptocurrency and operates on the Ethereum platform.
+      Barter has a current supply of 0. The last known price of Barter is 0.00770453
+      USD and is down -3.75 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $31.61 traded over the last 24 hours. More information can be
+      found at http://barter.company.
+    logoURI: null
+    name: Barter
+    symbol: BRTR
+    type: null

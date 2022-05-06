@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x999967e2ec8a74b7c8e9db19e039d920b31d39d0'
+    chainId: null
+    decimals: null
+    description: Ties.DB (TIE) is a cryptocurrency and operates on the Ethereum platform.
+      Ties.DB has a current supply of 59,251,278.0893333 with 40,820,991.64772298
+      in circulation. The last known price of Ties.DB is 0.00532576 USD and is up
+      1.44 over the last 24 hours. More information can be found at https://ties.network/.
+    logoURI: null
+    name: Ties.DB
+    symbol: TIE
+    type: null

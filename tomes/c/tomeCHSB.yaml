@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xba9d4199fab4f26efe3551d490e3821486f135ba'
+    chainId: null
+    decimals: null
+    description: SwissBorg (CHSB) is a cryptocurrency and operates on the Ethereum
+      platform. SwissBorg has a current supply of 1,000,000,000 with 927,672,280.364276
+      in circulation. The last known price of SwissBorg is 0.11833604 USD and is up
+      4.36 over the last 24 hours. It is currently trading on 7 active market(s) with
+      $656,474.25 traded over the last 24 hours. More information can be found at
+      https://swissborg.com/.
+    logoURI: null
+    name: SwissBorg
+    symbol: CHSB
+    type: null

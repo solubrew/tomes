@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf9e5af7b42d31d51677c75bbbd37c1986ec79aee'
+    chainId: null
+    decimals: null
+    description: QuickX Protocol (QCX) is a cryptocurrency and operates on the Ethereum
+      platform. QuickX Protocol has a current supply of 500,000,000 with 498,334,427.9572564
+      in circulation. The last known price of QuickX Protocol is 0.01624888 USD and
+      is down -9.50 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $207,025.30 traded over the last 24 hours. More information can be found
+      at https://www.quickx.io/.
+    logoURI: null
+    name: QuickX Protocol
+    symbol: QCX
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2b2b0559081c41e962777B5049632fdb30f7E652'
+    chainId: null
+    decimals: null
+    description: BitDEFi (BFI) is a cryptocurrency and operates on the Ethereum platform.
+      BitDEFi has a current supply of 0. The last known price of BitDEFi is 28.04520458
+      USD and is up 17.38 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $89,292.00 traded over the last 24 hours. More information can
+      be found at http://bitdefi.io.
+    logoURI: null
+    name: BitDEFi
+    symbol: BFI
+    type: null

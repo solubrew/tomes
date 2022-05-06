@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4290563c2d7c255b5eec87f2d3bd10389f991d68'
+    chainId: null
+    decimals: null
+    description: UnlimitedIP (UIP) is a cryptocurrency and operates on the Ethereum
+      platform. UnlimitedIP has a current supply of 2,839,985,525.01 with 1,327,878,349.7535179
+      in circulation. The last known price of UnlimitedIP is 0.00230588 USD and is
+      down -3.53 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $439,205.55 traded over the last 24 hours. More information can be found
+      at http://www.unlimitedip.io/.
+    logoURI: null
+    name: UnlimitedIP
+    symbol: UIP
+    type: null

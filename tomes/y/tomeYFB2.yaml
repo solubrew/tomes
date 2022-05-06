@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x59e7b5db9be0bdd26fa048d39e01fee456ab674e'
+    chainId: null
+    decimals: null
+    description: Yearn Finance Bit2 (YFB2) is a cryptocurrency and operates on the
+      Ethereum platform. Yearn Finance Bit2 has a current supply of 5,650 with 0 in
+      circulation. The last known price of Yearn Finance Bit2 is 24.82399123 USD and
+      is down -1.78 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $61,687.37 traded over the last 24 hours. More information can be found
+      at https://yfbit.finance/.
+    logoURI: null
+    name: Yearn Finance Bit2
+    symbol: YFB2
+    type: null

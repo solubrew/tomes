@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7f969c4d388ca0ae39a4fddb1a6f89878ca2fbf8'
+    chainId: null
+    decimals: null
+    description: Global Game Coin (GGC) is a cryptocurrency and operates on the Ethereum
+      platform. Global Game Coin has a current supply of 12,726,274 with 0 in circulation.
+      The last known price of Global Game Coin is 1.79173044 USD and is up 10.82 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://gg.world.
+    logoURI: null
+    name: Global Game Coin
+    symbol: GGC
+    type: null

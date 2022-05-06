@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Zippie
+    symbol: ZIPT
+    type: null

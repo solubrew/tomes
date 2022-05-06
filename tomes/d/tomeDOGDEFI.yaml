@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x80bb277f4355A43CDbB86a82F9876C946476d9Eb'
+    chainId: null
+    decimals: null
+    description: DogDeFiCoin (DOGDEFI) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. DogDeFiCoin has a current supply of 50,000 with 0
+      in circulation. The last known price of DogDeFiCoin is 1.31290587 USD and is
+      down -4.96 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $31,255.11 traded over the last 24 hours. More information can be found
+      at https://dogdeficoin.com/.
+    logoURI: null
+    name: DogDeFiCoin
+    symbol: DOGDEFI
+    type: null

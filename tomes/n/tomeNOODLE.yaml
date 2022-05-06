@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x420Ab548B18911717Ed7C4CCBF46371EA758458C'
+    chainId: null
+    decimals: null
+    description: NOODLE Finance (NOODLE) is a cryptocurrency and operates on the Ethereum
+      platform. NOODLE Finance has a current supply of 0. The last known price of
+      NOODLE Finance is 0.00004459 USD and is down -1.40 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $0.00 traded over the last 24
+      hours. More information can be found at https://noodle.finance/#home.
+    logoURI: null
+    name: NOODLE Finance
+    symbol: NOODLE
+    type: null

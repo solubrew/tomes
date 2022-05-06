@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x305dbDD7931fb4833f5Ce48046A586E30ece683F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Massive WAVs
+    symbol: MWAVS
+    type: null

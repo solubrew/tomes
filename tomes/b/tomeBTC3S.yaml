@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1148661869D30e095FF4AA48Aa8b5EadedC75f2A'
+    chainId: null
+    decimals: null
+    description: Amun Bitcoin 3x Daily Short (BTC3S) is a cryptocurrency and operates
+      on the Ethereum platform. Amun Bitcoin 3x Daily Short has a current supply of
+      3.196234 with 0 in circulation. The last known price of Amun Bitcoin 3x Daily
+      Short is 0.07635964 USD and is down -43.14 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $3,766,350.72 traded over the last 24 hours.
+      More information can be found at https://amun.com/.
+    logoURI: null
+    name: Amun Bitcoin 3x Daily Short
+    symbol: BTC3S
+    type: null

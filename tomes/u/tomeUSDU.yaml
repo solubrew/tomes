@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x41a03e41ef555392c9f0ad60f4f61e263078bf10'
+    chainId: null
+    decimals: null
+    description: Upper Dollar (USDU) is a cryptocurrency and operates on the Ethereum
+      platform. Upper Dollar has a current supply of 0. The last known price of Upper
+      Dollar is 1.00952405 USD and is down -0.72 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $48,578.23 traded over the last 24 hours.
+      More information can be found at https://uppers.io.
+    logoURI: null
+    name: Upper Dollar
+    symbol: USDU
+    type: null

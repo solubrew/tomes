@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6a4b6316D1d03d2f2B3A0294502F8fAF0F38cA14'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Hertz
+    symbol: HZ
+    type: null

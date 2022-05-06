@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x236149288602c07b84387D0d75784d73f133142b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 0xchan ICO
+    symbol: ZCI
+    type: null

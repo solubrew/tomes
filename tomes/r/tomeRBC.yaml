@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x398E616B74832f26FB342913E0d81FFfeF70fb71'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Rambocoin
+    symbol: RBC
+    type: null

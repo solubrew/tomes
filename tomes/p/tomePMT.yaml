@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x36E08E815f26c43dac8957E36C09e664a6B644F9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Prometeo
+    symbol: PMT
+    type: null

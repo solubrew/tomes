@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf4fe95603881d0e07954fd7605e0e9a916e42c44'
+    chainId: null
+    decimals: null
+    description: WHEN Token (WHEN) is a cryptocurrency and operates on the Ethereum
+      platform. WHEN Token has a current supply of 875,000,000 with 0 in circulation.
+      The last known price of WHEN Token is 0.00074494 USD and is up 1.48 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://www.whenhub.com.
+    logoURI: null
+    name: WHEN Token
+    symbol: WHEN
+    type: null

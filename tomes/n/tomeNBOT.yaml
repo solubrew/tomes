@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x09Ccd2DA5dCDd0510268d4979e792381337138b8'
+    chainId: null
+    decimals: null
+    description: Naka Bodhi Token (NBOT) is a cryptocurrency and operates on the Ethereum
+      platform. Naka Bodhi Token has a current supply of 100,000,000 with 70,000,000
+      in circulation. The last known price of Naka Bodhi Token is 0.02547241 USD and
+      is down -0.78 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $5,797.64 traded over the last 24 hours. More information can be found
+      at https://www.nakachain.org/.
+    logoURI: null
+    name: Naka Bodhi Token
+    symbol: NBOT
+    type: null

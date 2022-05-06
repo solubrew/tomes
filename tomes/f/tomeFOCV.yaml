@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbBa1DA8aFF34eBEF5Ce4d68312B33ef629548b06'
+    chainId: null
+    decimals: null
+    description: FOCV (FOCV) is a cryptocurrency and operates on the Ethereum platform.
+      FOCV has a current supply of 0. The last known price of FOCV is 0.00719723 USD
+      and is down -7.50 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $15,007.99 traded over the last 24 hours. More information can
+      be found at http://www.vedrug.com.
+    logoURI: null
+    name: FOCV
+    symbol: FOCV
+    type: null

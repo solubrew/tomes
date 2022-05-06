@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEA6aB13251AA6aE87475b418f529208eaE317250'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: NotYourOrdinaryToken
+    symbol: NYOT
+    type: null

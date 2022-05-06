@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x87edffde3e14c7a66c9b9724747a1c5696b742e6'
+    chainId: null
+    decimals: null
+    description: SWAG Finance (SWAG) is a cryptocurrency and operates on the Ethereum
+      platform. SWAG Finance has a current supply of 625,000,000 with 0 in circulation.
+      The last known price of SWAG Finance is 0.0619006 USD and is down -4.18 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $55,930.36
+      traded over the last 24 hours. More information can be found at https://www.swag.finance/.
+    logoURI: null
+    name: SWAG Finance
+    symbol: SWAG
+    type: null

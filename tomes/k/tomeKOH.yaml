@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8Ee6EC1d1d52b16f7Ad0B3029A4Ed26e3227E4Dd'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Kindness of Humanity
+    symbol: KOH
+    type: null

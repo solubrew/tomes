@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37'
+    chainId: null
+    decimals: null
+    description: Camp (CAMP) is a cryptocurrency and operates on the Ethereum platform.
+      Camp has a current supply of 0. The last known price of Camp is 0.00658681 USD
+      and is down -12.70 over the last 24 hours. It is currently trading on 7 active
+      market(s) with $249,779.56 traded over the last 24 hours. More information can
+      be found at https://www.camp-global.com/.
+    logoURI: null
+    name: Camp
+    symbol: CAMP
+    type: null

@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x45f24baeef268bb6d63aee5129015d69702bcdfa'
+    chainId: null
+    decimals: null
+    description: YFValue (YFV) is a cryptocurrency and operates on the Ethereum platform.
+      YFValue has a current supply of 4,646,341.59447176 with 4,633,852.05493637 in
+      circulation. The last known price of YFValue is 1.62977679 USD and is down -6.44
+      over the last 24 hours. More information can be found at https://valuedefi.io.
+    logoURI: null
+    name: YFValue
+    symbol: YFV
+    type: null

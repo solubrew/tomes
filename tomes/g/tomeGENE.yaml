@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x884181554dfa9e578d36379919c05c25dc4a15bb'
+    chainId: null
+    decimals: null
+    description: Gene Source Code Chain (GENE) is a cryptocurrency and operates on
+      the Ethereum platform. Gene Source Code Chain has a current supply of 2,000,000,000
+      with 375,244,800 in circulation. The last known price of Gene Source Code Chain
+      is 0.00248854 USD and is down -1.71 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $0.07 traded over the last 24 hours. More
+      information can be found at http://www.gscchain.org/.
+    logoURI: null
+    name: Gene Source Code Chain
+    symbol: GENE
+    type: null

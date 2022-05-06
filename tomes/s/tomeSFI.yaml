@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb753428af26e81097e7fd17f40c88aaa3e04902c'
+    chainId: null
+    decimals: null
+    description: saffron.finance (SFI) is a cryptocurrency and operates on the Ethereum
+      platform. saffron.finance has a current supply of 40,000 with 29,963 in circulation.
+      The last known price of saffron.finance is 507.62020656 USD and is down -10.22
+      over the last 24 hours. It is currently trading on 10 active market(s) with
+      $6,103,744.48 traded over the last 24 hours. More information can be found at
+      https://saffron.finance/.
+    logoURI: null
+    name: saffron.finance
+    symbol: SFI
+    type: null

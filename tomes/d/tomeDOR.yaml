@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x906b3f8b7845840188Eab53c3f5AD348A787752f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DoradoToken
+    symbol: DOR
+    type: null

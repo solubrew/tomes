@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3D917B9A3cee461870149b4B28556e4E2d112c13'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: JIBRAPAY
+    symbol: JIBRA
+    type: null

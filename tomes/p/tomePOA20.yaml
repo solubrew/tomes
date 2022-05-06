@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6758B7d441a9739b98552B373703d8d3d14f9e62'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: POA ERC20 on Foundation
+    symbol: POA20
+    type: null

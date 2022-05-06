@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x241ba672574a78a3a604cdd0a94429a73a84a324'
+    chainId: null
+    decimals: null
+    description: 4NEW (KWATT) is a cryptocurrency and operates on the Ethereum platform.
+      4NEW has a current supply of 150,000,000 with 61,152,763.257 in circulation.
+      The last known price of 4NEW is 0.00028634 USD and is up 3.02 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://4new.io/.
+    logoURI: null
+    name: 4NEW
+    symbol: KWATT
+    type: null

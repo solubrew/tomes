@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767'
+    chainId: null
+    decimals: null
+    description: DefiCliq (CLIQ) is a cryptocurrency and operates on the Ethereum
+      platform. DefiCliq has a current supply of 7,246,153 with 0 in circulation.
+      The last known price of DefiCliq is 0.11189107 USD and is up 75.67 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $283,694.55
+      traded over the last 24 hours. More information can be found at https://www.deficliq.com/.
+    logoURI: null
+    name: DefiCliq
+    symbol: CLIQ
+    type: null

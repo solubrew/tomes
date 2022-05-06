@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5'
+    chainId: null
+    decimals: null
+    description: Anchor (ANCT) is a cryptocurrency and operates on the Ethereum platform.
+      Anchor has a current supply of 759,493,671 with 12,827,484.0016394 in circulation.
+      The last known price of Anchor is 0.80129695 USD and is up 1.78 over the last
+      24 hours. It is currently trading on 2 active market(s) with $13,026.21 traded
+      over the last 24 hours. More information can be found at https://theanchor.io/.
+    logoURI: null
+    name: Anchor
+    symbol: ANCT
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x642e48713946ECdB12c0b8830E8cb64425327955'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HC
+    symbol: HC
+    type: null

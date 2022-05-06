@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x825130aa1beef07bdf4f389705321816d05b0d0f'
+    chainId: null
+    decimals: null
+    description: UNII Finance (UNII) is a cryptocurrency and operates on the Ethereum
+      platform. UNII Finance has a current supply of 314,589,903 with 0 in circulation.
+      The last known price of UNII Finance is 0.0005914 USD and is down -5.29 over
+      the last 24 hours. It is currently trading on 4 active market(s) with $53,175.15
+      traded over the last 24 hours. More information can be found at https://unii.finance/.
+    logoURI: null
+    name: UNII Finance
+    symbol: UNII
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4b7dfae2567181e54776337c840e142acb42aa1f'
+    chainId: null
+    decimals: null
+    description: GOD KIMCHI (gKIMCHI) is a cryptocurrency and operates on the Ethereum
+      platform. GOD KIMCHI has a current supply of 313,206,189.1011181 with 0 in circulation.
+      The last known price of GOD KIMCHI is 0.00002228 USD and is up 16.65 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $605.32 traded
+      over the last 24 hours.
+    logoURI: null
+    name: GOD KIMCHI
+    symbol: gKIMCHI
+    type: null

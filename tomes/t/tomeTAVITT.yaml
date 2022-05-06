@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdd690d8824c00c84d64606ffb12640e932c1af56'
+    chainId: null
+    decimals: null
+    description: Tavittcoin (TAVITT) is a cryptocurrency and operates on the Ethereum
+      platform. Tavittcoin has a current supply of 0. The last known price of Tavittcoin
+      is 0.08043111 USD and is up 28.70 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $49.12 traded over the last 24 hours. More information
+      can be found at https://tavitt.co.jp/.
+    logoURI: null
+    name: Tavittcoin
+    symbol: TAVITT
+    type: null

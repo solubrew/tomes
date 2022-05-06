@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9ECA8E7FD201f13520dDac794268A90Cf8597BED'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Fortuna
+    symbol: FRT
+    type: null

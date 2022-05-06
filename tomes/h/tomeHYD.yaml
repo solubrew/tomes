@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD233495C48EB0143661fFC8458EAfc21b633f97f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Hydra
+    symbol: HYD
+    type: null

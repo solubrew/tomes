@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1695936d6a953df699c38ca21c2140d497c08bd9'
+    chainId: null
+    decimals: null
+    description: SynLev (SYN) is a cryptocurrency and operates on the Ethereum platform.
+      SynLev has a current supply of 83,000,000 with 12,247,020 in circulation. The
+      last known price of SynLev is 0.81071603 USD and is down -5.76 over the last
+      24 hours. It is currently trading on 4 active market(s) with $3,732,936.20 traded
+      over the last 24 hours. More information can be found at https://www.synlev.com.
+    logoURI: null
+    name: SynLev
+    symbol: SYN
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x96b52B5BF8D902252D0714A1BD2651A785Fd2660'
+    chainId: null
+    decimals: null
+    description: EtherBone (ETHBN) is a cryptocurrency and operates on the Ethereum
+      platform. EtherBone has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of EtherBone is 0.00016609 USD and is up 5.06 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $20,334.64
+      traded over the last 24 hours. More information can be found at https://dogdata.io/.
+    logoURI: null
+    name: EtherBone
+    symbol: ETHBN
+    type: null

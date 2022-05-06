@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8C186802b1992f7650Ac865d4CA94D55fF3C0d17'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: NINJA
+    type: null

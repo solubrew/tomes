@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3845badAde8e6dFF049820680d1F14bD3903a5d0'
+    chainId: null
+    decimals: null
+    description: The Sandbox (SAND) is a cryptocurrency and operates on the Ethereum
+      platform. The Sandbox has a current supply of 3,000,000,000 with 621,724,041.9833221
+      in circulation. The last known price of The Sandbox is 0.04546366 USD and is
+      up 5.79 over the last 24 hours. It is currently trading on 42 active market(s)
+      with $5,364,967.83 traded over the last 24 hours. More information can be found
+      at https://www.sandbox.game/en/.
+    logoURI: null
+    name: The Sandbox
+    symbol: SAND
+    type: null

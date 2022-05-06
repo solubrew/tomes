@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6888a16eA9792c15A4DCF2f6C623D055c8eDe792'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Signals
+    symbol: SIG
+    type: null

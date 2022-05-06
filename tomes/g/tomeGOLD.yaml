@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x150b0b96933B75Ce27af8b92441F8fB683bF9739'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Dragonereum Gold
+    symbol: GOLD
+    type: null

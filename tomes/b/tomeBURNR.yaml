@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCe1a728c0A2Dfc8E3e01d769eD5Efccdd5230F10'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Burn Rebalance
+    symbol: BURNR
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3678d8CC9Eb08875A3720f34c1C8d1e1B31F5A11'
+    chainId: null
+    decimals: null
+    description: Obee Network (OBEE) is a cryptocurrency and operates on the Ethereum
+      platform. Obee Network has a current supply of 11,973,000,000 with 44,486,201.244004
+      in circulation. The last known price of Obee Network is 0.00161525 USD and is
+      down -1.20 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://obee.info/.
+    logoURI: null
+    name: Obee Network
+    symbol: OBEE
+    type: null

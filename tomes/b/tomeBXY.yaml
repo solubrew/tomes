@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x827d53c8170af52625f414bde00326fc8a085e86'
+    chainId: null
+    decimals: null
+    description: Beaxy (BXY) is a cryptocurrency and operates on the Ethereum platform.
+      Beaxy has a current supply of 500,000,000 with 281,840,850.1313673 in circulation.
+      The last known price of Beaxy is 0.00290248 USD and is down -16.27 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $4,171.44
+      traded over the last 24 hours. More information can be found at https://beaxy.com/.
+    logoURI: null
+    name: Beaxy
+    symbol: BXY
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134'
+    chainId: null
+    decimals: null
+    description: Bob<apostrophe>s Repair (BOB) is a cryptocurrency and operates on
+      the Ethereum platform. Bob<apostrophe>s Repair has a current supply of 360,000,000
+      with 183,640,758.17094377 in circulation. The last known price of Bob<apostrophe>s
+      Repair is 0.0011201 USD and is up 18.19 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $5,283.97 traded over the last 24 hours.
+      More information can be found at https://www.bobsrepair.com/.
+    logoURI: null
+    name: Bob<apostrophe>s Repair
+    symbol: BOB
+    type: null

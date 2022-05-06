@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaF1250fa68D7DECD34fD75dE8742Bc03B29BD58e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Invictus Hyperion
+    symbol: IHF
+    type: null

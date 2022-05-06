@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9b53e429b0badd98ef7f01f03702986c516a5715'
+    chainId: null
+    decimals: null
+    description: hybrix (HY) is a cryptocurrency and operates on the Ethereum platform.
+      hybrix has a current supply of 7,000,000 with 1,843,047.66583253 in circulation.
+      The last known price of hybrix is 0.57220016 USD and is up 2.67 over the last
+      24 hours. It is currently trading on 11 active market(s) with $2,383.77 traded
+      over the last 24 hours. More information can be found at https://hybrix.io/.
+    logoURI: null
+    name: hybrix
+    symbol: HY
+    type: null

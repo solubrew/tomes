@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xedC87caB8bd12ca39088DeAF9fdfb63503f19f85'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Universe Coin
+    symbol: UNIS
+    type: null

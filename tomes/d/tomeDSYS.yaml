@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x10a34bbe9b3c5ad536ca23d5eefa81ca448e92ff'
+    chainId: null
+    decimals: null
+    description: DSYS (DSYS) is a cryptocurrency and operates on the Ethereum platform.
+      DSYS has a current supply of 0. The last known price of DSYS is 0.00022314 USD
+      and is down -5.50 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $9,535.95 traded over the last 24 hours. More information can
+      be found at https://bsys.io/.
+    logoURI: null
+    name: DSYS
+    symbol: DSYS
+    type: null

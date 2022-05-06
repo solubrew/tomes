@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x04abeda201850ac0124161f037efd70c74ddc74c'
+    chainId: null
+    decimals: null
+    description: NEST Protocol (NEST) is a cryptocurrency and operates on the Ethereum
+      platform. NEST Protocol has a current supply of 9,982,920,000 with 1,748,764,436
+      in circulation. The last known price of NEST Protocol is 0.03724114 USD and
+      is up 2.14 over the last 24 hours. It is currently trading on 43 active market(s)
+      with $7,161,412.77 traded over the last 24 hours. More information can be found
+      at https://nestprotocol.org/.
+    logoURI: null
+    name: NEST Protocol
+    symbol: NEST
+    type: null

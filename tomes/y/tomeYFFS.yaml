@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x90D702f071d2af33032943137AD0aB4280705817'
+    chainId: null
+    decimals: null
+    description: YFFS Finance (YFFS) is a cryptocurrency and operates on the Ethereum
+      platform. YFFS Finance has a current supply of 0. The last known price of YFFS
+      Finance is 23.2055036 USD and is down -1.10 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $287,676.54 traded over the last 24 hours.
+      More information can be found at https://yffs.finance/.
+    logoURI: null
+    name: YFFS Finance
+    symbol: YFFS
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa'
+    chainId: null
+    decimals: null
+    description: Elitium (EUM) is a cryptocurrency and operates on the Ethereum platform.
+      Elitium has a current supply of 332,200,000 with 30,077,676.65278493 in circulation.
+      The last known price of Elitium is 2.18140052 USD and is down -2.94 over the
+      last 24 hours. It is currently trading on 4 active market(s) with $159,039.28
+      traded over the last 24 hours. More information can be found at https://www.elitium.io.
+    logoURI: null
+    name: Elitium
+    symbol: EUM
+    type: null

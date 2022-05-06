@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Starbase
+    symbol: STAR
+    type: null

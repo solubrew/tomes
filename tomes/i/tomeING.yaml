@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x24ddff6d8b8a42d835af3b440de91f3386554aa4'
+    chainId: null
+    decimals: null
+    description: Iungo (ING) is a cryptocurrency and operates on the Ethereum platform.
+      Iungo has a current supply of 62,553,604.424 with 40,000,000 in circulation.
+      The last known price of Iungo is 0.00090928 USD and is up 1.44 over the last
+      24 hours. More information can be found at https://iungo.network/.
+    logoURI: null
+    name: Iungo
+    symbol: ING
+    type: null

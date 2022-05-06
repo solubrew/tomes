@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCABAa659f92Ba19Cad021A8d8Cf7a212971BA7CE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MiliTrumNetworkToken
+    symbol: MMT
+    type: null

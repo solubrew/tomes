@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x340ef83ec8560892168d4062720f030460468656'
+    chainId: null
+    decimals: null
+    description: Ethereum Meta (ETHM) is a cryptocurrency and operates on the Ethereum
+      platform. Ethereum Meta has a current supply of 99,000,000,000 with 50,010,379,197.94551
+      in circulation. The last known price of Ethereum Meta is 0.00004785 USD and
+      is down -74.47 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $2,401.09 traded over the last 24 hours. More information can be found
+      at https://ethermeta.com/.
+    logoURI: null
+    name: Ethereum Meta
+    symbol: ETHM
+    type: null

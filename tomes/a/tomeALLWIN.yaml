@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc6358c02a4bafcbcd85360ae046e6bee556429c1'
+    chainId: null
+    decimals: null
+    description: AllWin DeFi (ALLWIN) is a cryptocurrency and operates on the Ethereum
+      platform. AllWin DeFi has a current supply of 0. The last known price of AllWin
+      DeFi is 0.27184274 USD and is up 4.00 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $28,816.77 traded over the last 24 hours.
+      More information can be found at https://allwindefi.com/.
+    logoURI: null
+    name: AllWin DeFi
+    symbol: ALLWIN
+    type: null

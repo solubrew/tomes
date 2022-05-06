@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7e386d8185C546a0944a337902dE0818e10105F0'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: WalkCoin
+    symbol: WALK
+    type: null

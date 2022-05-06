@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4f56221252d117f35E2f6Ab937A3F77CAd38934D'
+    chainId: null
+    decimals: null
+    description: Crypto Cricket Club (3Cs) is a cryptocurrency and operates on the
+      Ethereum platform. Crypto Cricket Club has a current supply of 15,000,000 with
+      0 in circulation. The last known price of Crypto Cricket Club is 0.05054958
+      USD and is down -4.39 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $11,680.87 traded over the last 24 hours. More information can
+      be found at https://cryptocricketclub.com/.
+    logoURI: null
+    name: Crypto Cricket Club
+    symbol: 3Cs
+    type: null

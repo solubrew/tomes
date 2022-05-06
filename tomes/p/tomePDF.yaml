@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6ccd05f73a54359a257fc5649c598a3de75905e7'
+    chainId: null
+    decimals: null
+    description: Port of DeFi Network (PDF) is a cryptocurrency and operates on the
+      Ethereum platform. Port of DeFi Network has a current supply of 0. The last
+      known price of Port of DeFi Network is 0.24163988 USD and is up 0.28 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $257,746.24
+      traded over the last 24 hours. More information can be found at https://www.pdefi.io/.
+    logoURI: null
+    name: Port of DeFi Network
+    symbol: PDF
+    type: null

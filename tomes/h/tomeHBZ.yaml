@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE34e1944E776f39B9252790a0527eBDa647aE668'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Helbiz Token
+    symbol: HBZ
+    type: null

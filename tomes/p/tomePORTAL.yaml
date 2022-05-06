@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8DB90E3e7D04C875a51997092f9178FCac9DefdB'
+    chainId: null
+    decimals: null
+    description: Portal (PORTAL) is a cryptocurrency and operates on the Ethereum
+      platform. Portal has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of Portal is 0.00055128 USD and is down -0.08 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $44,019.32
+      traded over the last 24 hours. More information can be found at http://www.project-portal.io/.
+    logoURI: null
+    name: Portal
+    symbol: PORTAL
+    type: null

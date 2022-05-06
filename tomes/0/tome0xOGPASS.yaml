@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5b7622DED96511639DdC12C86eb2703331cA2c78'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: 0xOGPASS
+    type: null

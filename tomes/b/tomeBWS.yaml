@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x55a576e960296D3a327Dd0840780625eD662D3a4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bretton Woods system-2.0
+    symbol: BWS
+    type: null

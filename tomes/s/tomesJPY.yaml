@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD9E5A009Ec07dE76616d7361Ed713eF434d71325'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Synth sJPY
+    symbol: sJPY
+    type: null

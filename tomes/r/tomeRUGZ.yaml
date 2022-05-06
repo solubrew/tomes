@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xedfbd6c48c3ddff5612ade14b45bb19f916809ba'
+    chainId: null
+    decimals: null
+    description: pulltherug.finance (RUGZ) is a cryptocurrency and operates on the
+      Ethereum platform. pulltherug.finance has a current supply of 0. The last known
+      price of pulltherug.finance is 10.54721918 USD and is down -28.78 over the last
+      24 hours. It is currently trading on 1 active market(s) with $10,484.53 traded
+      over the last 24 hours. More information can be found at https://pulltherug.finance/.
+    logoURI: null
+    name: pulltherug.finance
+    symbol: RUGZ
+    type: null

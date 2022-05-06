@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x78a5b382b9a83fe042a4f7eb2399d563fda931c3'
+    chainId: null
+    decimals: null
+    description: Black Diamond Rating (HZT) is a cryptocurrency and operates on the
+      Ethereum platform. Black Diamond Rating has a current supply of 0. The last
+      known price of Black Diamond Rating is 0.03778871 USD and is down -0.02 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $178,278.25
+      traded over the last 24 hours. More information can be found at https://www.heizuan.com/.
+    logoURI: null
+    name: Black Diamond Rating
+    symbol: HZT
+    type: null

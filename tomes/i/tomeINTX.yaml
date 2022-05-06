@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7533D63A2558965472398Ef473908e1320520AE2'
+    chainId: null
+    decimals: null
+    description: intexcoin (INTX) is a cryptocurrency and operates on the Ethereum
+      platform. intexcoin has a current supply of 600,000,000 with 0 in circulation.
+      The last known price of intexcoin is 0.00025684 USD and is up 9.48 over the
+      last 24 hours. It is currently trading on 8 active market(s) with $25,238.62
+      traded over the last 24 hours. More information can be found at https://intexcoin.io.
+    logoURI: null
+    name: intexcoin
+    symbol: INTX
+    type: null

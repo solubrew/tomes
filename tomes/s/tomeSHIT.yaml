@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x124df05231383B565280c672eEa957557BDa51b9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Stupendously High Income Taxes
+    symbol: SHIT
+    type: null

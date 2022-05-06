@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x493C57C4763932315A328269E1ADaD09653B9081'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Fulcrum DAI iToken
+    symbol: iDAI
+    type: null

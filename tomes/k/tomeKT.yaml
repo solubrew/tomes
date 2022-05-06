@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x26DDF6CabADcBF4F013841BD8d914830BeB0d984'
+    chainId: null
+    decimals: null
+    description: Kuai Token (KT) is a cryptocurrency and operates on the Ethereum
+      platform. Kuai Token has a current supply of 30,000,000 with 11,052,189.868773
+      in circulation. The last known price of Kuai Token is 0.16158301 USD and is
+      up 6.85 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $10,704,069.30 traded over the last 24 hours. More information can be found
+      at https://www.kuaitoken.com/.
+    logoURI: null
+    name: Kuai Token
+    symbol: KT
+    type: null

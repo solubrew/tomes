@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20'
+    chainId: null
+    decimals: null
+    description: AGA Token (AGA) is a cryptocurrency and operates on the Ethereum
+      platform. AGA Token has a current supply of 10,842,984 with 1,812,983.1557 in
+      circulation. The last known price of AGA Token is 0.33339916 USD and is up 3.69
+      over the last 24 hours. It is currently trading on 2 active market(s) with $219.83
+      traded over the last 24 hours. More information can be found at https://agatoken.com/.
+    logoURI: null
+    name: AGA Token
+    symbol: AGA
+    type: null

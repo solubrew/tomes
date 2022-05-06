@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x61bc1f530ac6193d73af1e1a6a14cb44b9c3f915'
+    chainId: null
+    decimals: null
+    description: Pajama.Finance (PJM) is a cryptocurrency and operates on the Ethereum
+      platform. Pajama.Finance has a current supply of 3,000 with 0 in circulation.
+      The last known price of Pajama.Finance is 1.56967964 USD and is down -1.46 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $92.54
+      traded over the last 24 hours. More information can be found at https://pajama.finance/.
+    logoURI: null
+    name: Pajama.Finance
+    symbol: PJM
+    type: null

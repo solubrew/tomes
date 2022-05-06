@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe06Af951086EC3c488b50E31BE29c07F8a260cA3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EXU Protocol
+    symbol: EXU
+    type: null

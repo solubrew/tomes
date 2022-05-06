@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaB7b6F7bEaE1F03a6B2a7F94d1Ac332fc9be3410'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CryptoWorldNews Token
+    symbol: CWN
+    type: null

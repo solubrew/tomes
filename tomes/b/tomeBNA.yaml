@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x20910e5b5f087f6439dfcb0dda4e27d1014ac2b8'
+    chainId: null
+    decimals: null
+    description: Bananatok (BNA) is a cryptocurrency and operates on the Ethereum
+      platform. Bananatok has a current supply of 2,799,999,995 with 0 in circulation.
+      The last known price of Bananatok is 0.0107941 USD and is up 0.08 over the last
+      24 hours. It is currently trading on 4 active market(s) with $115,291.34 traded
+      over the last 24 hours. More information can be found at https://bananatok.io.
+    logoURI: null
+    name: Bananatok
+    symbol: BNA
+    type: null

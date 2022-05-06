@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb3e2cb7cccfe139f8ff84013823bf22da6b6390a'
+    chainId: null
+    decimals: null
+    description: Iconic Token (ICNQ) is a cryptocurrency and operates on the Ethereum
+      platform. Iconic Token has a current supply of 9,989,539.18231501 with 8,189,539.18231501
+      in circulation. The last known price of Iconic Token is 0.09990348 USD and is
+      down -12.84 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $5,403.71 traded over the last 24 hours. More information can be found
+      at https://iconicholding.com/icnq-token/.
+    logoURI: null
+    name: Iconic Token
+    symbol: ICNQ
+    type: null

@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11'
+    chainId: null
+    decimals: null
+    description: Bitcoin Red (BTCRED) is a cryptocurrency and operates on the Ethereum
+      platform. Bitcoin Red has a current supply of 21,000,000 with 20,999,999.999
+      in circulation. The last known price of Bitcoin Red is 0.00428655 USD and is
+      up 1.44 over the last 24 hours.
+    logoURI: null
+    name: Bitcoin Red
+    symbol: BTCRED
+    type: null

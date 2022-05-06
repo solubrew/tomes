@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x37F4ade226a15858d9eeE4bb4cBc1e70CCAf290d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AIGO Protocol
+    symbol: XGP
+    type: null

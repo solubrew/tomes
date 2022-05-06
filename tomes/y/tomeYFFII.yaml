@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6c4b85cab20c13af72766025f0e17e0fe558a553'
+    chainId: null
+    decimals: null
+    description: YFFII Finance (YFFII) is a cryptocurrency and operates on the Ethereum
+      platform. YFFII Finance has a current supply of 30,000 with 20,532 in circulation.
+      The last known price of YFFII Finance is 6.7738637 USD and is up 0.32 over the
+      last 24 hours. It is currently trading on 5 active market(s) with $66,086.92
+      traded over the last 24 hours. More information can be found at https://yffii.finance/.
+    logoURI: null
+    name: YFFII Finance
+    symbol: YFFII
+    type: null

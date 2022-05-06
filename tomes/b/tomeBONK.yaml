@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6d6506e6f438ede269877a0a720026559110b7d5'
+    chainId: null
+    decimals: null
+    description: Bonk (BONK) is a cryptocurrency and operates on the Ethereum platform.
+      Bonk has a current supply of 3,000,000 with 0 in circulation. The last known
+      price of Bonk is 0.21121577 USD and is down -17.32 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $40,300.14 traded over the last
+      24 hours. More information can be found at https://bonktoken.com/.
+    logoURI: null
+    name: Bonk
+    symbol: BONK
+    type: null

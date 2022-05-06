@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc83355eF25A104938275B46cffD94bF9917D0691'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Futereum Token
+    symbol: FUTR
+    type: null

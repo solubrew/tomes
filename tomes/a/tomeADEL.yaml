@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x94d863173ee77439e4292284ff13fad54b3ba182'
+    chainId: null
+    decimals: null
+    description: Akropolis Delphi (ADEL) is a cryptocurrency and operates on the Ethereum
+      platform. Akropolis Delphi has a current supply of 30,000,000 with 0 in circulation.
+      The last known price of Akropolis Delphi is 0.44059492 USD and is up 3.62 over
+      the last 24 hours. It is currently trading on 8 active market(s) with $88,539.21
+      traded over the last 24 hours. More information can be found at https://delphi.akropolis.io/.
+    logoURI: null
+    name: Akropolis Delphi
+    symbol: ADEL
+    type: null

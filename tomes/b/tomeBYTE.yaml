@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xac8ea871e2d5f4be618905f36f73c760f8cfdc8e'
+    chainId: null
+    decimals: null
+    description: BTC Network Demand Set II (BYTE) is a cryptocurrency and operates
+      on the Ethereum platform. BTC Network Demand Set II has a current supply of
+      8,450.76674178 with 0 in circulation. The last known price of BTC Network Demand
+      Set II is 311.22 USD and is up 1.13 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $0.00 traded over the last 24 hours. More
+      information can be found at https://www.tokensets.com/set/byte-1.
+    logoURI: null
+    name: BTC Network Demand Set II
+    symbol: BYTE
+    type: null

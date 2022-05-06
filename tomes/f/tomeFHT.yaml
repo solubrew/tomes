@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEBd01Df7e1E56e89A52c5DE185377d3A2eEf9a2b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FlameHyre Token
+    symbol: FHT
+    type: null

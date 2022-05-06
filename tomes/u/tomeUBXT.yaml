@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8564653879a18C560E7C0Ea0E084c516C62F5653'
+    chainId: null
+    decimals: null
+    description: UpBots (UBXT) is a cryptocurrency and operates on the Ethereum platform.
+      UpBots has a current supply of 500,000,000 with 0 in circulation. The last known
+      price of UpBots is 0.00933274 USD and is up 2.34 over the last 24 hours. It
+      is currently trading on 5 active market(s) with $74,879.34 traded over the last
+      24 hours. More information can be found at https://upbots.com/.
+    logoURI: null
+    name: UpBots
+    symbol: UBXT
+    type: null

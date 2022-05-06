@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaBb77F5c1E1C61adC3666b62dC614e64c584bE6b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TRUECOIN
+    symbol: TCOIN
+    type: null

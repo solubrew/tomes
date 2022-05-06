@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBd356a39BFf2cAda8E9248532DD879147221Cf76'
+    chainId: null
+    decimals: null
+    description: WOM Protocol (WOM) is a cryptocurrency launched in 2018and operates
+      on the Ethereum platform. WOM Protocol has a current supply of 1,000,000,000
+      with 100,407,450 in circulation. The last known price of WOM Protocol is 0.20974849
+      USD and is up 1.30 over the last 24 hours. It is currently trading on 5 active
+      market(s) with $784,116.32 traded over the last 24 hours. More information can
+      be found at https://womprotocol.io/.
+    logoURI: null
+    name: WOM Protocol
+    symbol: WOM
+    type: null

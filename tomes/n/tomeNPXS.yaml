@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Pundi X Token
+    symbol: NPXS
+    type: null

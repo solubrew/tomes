@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x88d60255F917e3eb94eaE199d827DAd837fac4cB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Gastoken.io
+    symbol: GST1
+    type: null

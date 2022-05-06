@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa4bad5d040d4464ec5ce130987731f2f428c9307'
+    chainId: null
+    decimals: null
+    description: Spore Finance (SPORE) is a cryptocurrency and operates on the Ethereum
+      platform. Spore Finance has a current supply of 0. The last known price of Spore
+      Finance is 6.20464877 USD and is up 2.82 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $18.95 traded over the last 24 hours. More
+      information can be found at https://enoki.finance.
+    logoURI: null
+    name: Spore Finance
+    symbol: SPORE
+    type: null

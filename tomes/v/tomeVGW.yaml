@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x94236591125E935F5ac128Bb3d5062944C24958c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: VegaWallet
+    symbol: VGW
+    type: null

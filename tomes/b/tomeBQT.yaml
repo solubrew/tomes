@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5eb87caa0105a63aa87a36c7bd2573bd13e84fae'
+    chainId: null
+    decimals: null
+    description: Blockchain Quotations Index Token (BQT) is a cryptocurrency and operates
+      on the Ethereum platform. Blockchain Quotations Index Token has a current supply
+      of 1,000,000,000 with 0 in circulation. The last known price of Blockchain Quotations
+      Index Token is 0.00300741 USD and is up 2.95 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $72,884.51 traded over the last 24 hours.
+      More information can be found at https://www.bqi.com/cn/.
+    logoURI: null
+    name: Blockchain Quotations Index Token
+    symbol: BQT
+    type: null

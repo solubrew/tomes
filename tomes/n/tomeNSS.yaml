@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4e3bddd468abfc6c88bc25daa5d894380ced5bc8'
+    chainId: null
+    decimals: null
+    description: NSS Coin (NSS) is a cryptocurrency and operates on the Ethereum platform.
+      NSS Coin has a current supply of 100,000,000 with 0 in circulation. The last
+      known price of NSS Coin is 0.00280147 USD and is down -0.02 over the last 24
+      hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at http://www.nsscoin.net.
+    logoURI: null
+    name: NSS Coin
+    symbol: NSS
+    type: null

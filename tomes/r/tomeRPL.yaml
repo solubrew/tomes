@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb4efd85c19999d84251304bda99e90b92300bd93'
+    chainId: null
+    decimals: null
+    description: Rocket Pool (RPL) is a cryptocurrency and operates on the Ethereum
+      platform. Rocket Pool has a current supply of 17,922,514.60658495 with 10,279,742.40418146
+      in circulation. The last known price of Rocket Pool is 2.63602299 USD and is
+      up 5.03 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $805,175.17 traded over the last 24 hours. More information can be found
+      at https://www.rocketpool.net/.
+    logoURI: null
+    name: Rocket Pool
+    symbol: RPL
+    type: null

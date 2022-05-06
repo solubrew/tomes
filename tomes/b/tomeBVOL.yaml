@@ -1,0 +1,20 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x81824663353a9d29b01b2de9dd9a2bb271d298cd'
+    chainId: null
+    decimals: null
+    description: 1x Long Bitcoin Implied Volatility Token (BVOL) is a cryptocurrency
+      and operates on the Ethereum platform. 1x Long Bitcoin Implied Volatility Token
+      has a current supply of 82.9259 with 0 in circulation. The last known price
+      of 1x Long Bitcoin Implied Volatility Token is 1,557.28492839 USD and is down
+      -2.33 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $1,838.75 traded over the last 24 hours. More information can be found
+      at https://ftx.com/trade/BVOL/USD.
+    logoURI: null
+    name: 1x Long Bitcoin Implied Volatility Token
+    symbol: BVOL
+    type: null

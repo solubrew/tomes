@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7051620d11042c4335069AaA4f10Cd3B4290C681'
+    chainId: null
+    decimals: null
+    description: TCASH (TCASH) is a cryptocurrency and operates on the Ethereum platform.
+      TCASH has a current supply of 88,000,000 with 35,200,000 in circulation. The
+      last known price of TCASH is 0.00305255 USD and is up 7.01 over the last 24
+      hours. It is currently trading on 2 active market(s) with $222,010.96 traded
+      over the last 24 hours. More information can be found at https://www.etherflyer.com/index.html.
+    logoURI: null
+    name: TCASH
+    symbol: TCASH
+    type: null

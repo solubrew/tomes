@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc962ad021a69D457564e985738C719aE3f79B707'
+    chainId: null
+    decimals: null
+    description: IFX24 (IFX24) is a cryptocurrency and operates on the Ethereum platform.
+      IFX24 has a current supply of 3,000,000. The last known price of IFX24 is 0.01311223
+      USD and is up 4.64 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $51,274.64 traded over the last 24 hours. More information can
+      be found at https://ifx24.com.
+    logoURI: null
+    name: IFX24
+    symbol: IFX24
+    type: null

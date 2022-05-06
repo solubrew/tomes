@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x94d6b4fB35fB08Cb34Aa716ab40049Ec88002079'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cryptonex (CNX) - Global Blockchain Acquiring
+    symbol: CNX
+    type: null

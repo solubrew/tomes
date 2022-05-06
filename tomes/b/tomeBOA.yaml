@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x746dda2ea243400d5a63e0700f190ab79f06489e'
+    chainId: null
+    decimals: null
+    description: BOSAGORA (BOA) is a cryptocurrency and operates on the Ethereum platform.
+      BOSAGORA has a current supply of 450,000,000 with 297,595,030.7367921 in circulation.
+      The last known price of BOSAGORA is 0.07075161 USD and is down -19.74 over the
+      last 24 hours. It is currently trading on 6 active market(s) with $38.91 traded
+      over the last 24 hours. More information can be found at https://www.bosagora.io/.
+    logoURI: null
+    name: BOSAGORA
+    symbol: BOA
+    type: null

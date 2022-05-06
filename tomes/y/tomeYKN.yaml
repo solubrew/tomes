@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2EeCA16BF8d052Da970AC0f43Aa6Bf5Bd019f397'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Yarek Kurgan Token
+    symbol: YKN
+    type: null

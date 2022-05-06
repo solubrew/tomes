@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf7623a0a44045b907d81aad8479aa3c4a818211d'
+    chainId: null
+    decimals: null
+    description: Sperax (SPA) is a cryptocurrency and operates on the Ethereum platform.
+      Sperax has a current supply of 0. The last known price of Sperax is 0.01430425
+      USD and is up 2.37 over the last 24 hours. It is currently trading on 6 active
+      market(s) with $411,655.55 traded over the last 24 hours. More information can
+      be found at https://sperax.io/.
+    logoURI: null
+    name: Sperax
+    symbol: SPA
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8888889213DD4dA823EbDD1e235b09590633C150'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Marblecoin
+    symbol: MBC
+    type: null

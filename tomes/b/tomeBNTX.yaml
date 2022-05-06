@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x499f434458F62a1e76974fCe5eFcE9DD6B31D4f2'
+    chainId: null
+    decimals: null
+    description: Bintex Futures (BNTX) is a cryptocurrency and operates on the Ethereum
+      platform. Bintex Futures has a current supply of 2,000,000,000 with 0 in circulation.
+      The last known price of Bintex Futures is 0.01476192 USD and is up 0.00 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $3,205.83
+      traded over the last 24 hours. More information can be found at https://bintexfutures.com/.
+    logoURI: null
+    name: Bintex Futures
+    symbol: BNTX
+    type: null

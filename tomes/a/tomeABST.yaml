@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa0b207103f764a920b4af9e691f5bd956de14ded'
+    chainId: null
+    decimals: null
+    description: Abitshadow Token (ABST) is a cryptocurrency and operates on the Ethereum
+      platform. Abitshadow Token has a current supply of 500,000,000 with 287,557,931.4190158
+      in circulation. The last known price of Abitshadow Token is 0.00003888 USD and
+      is up 69.20 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $2.40 traded over the last 24 hours. More information can be found at http://abitshadow.com.
+    logoURI: null
+    name: Abitshadow Token
+    symbol: ABST
+    type: null

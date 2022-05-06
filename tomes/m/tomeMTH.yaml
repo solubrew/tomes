@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaf4dce16da2877f8c9e00544c93b62ac40631f16'
+    chainId: null
+    decimals: null
+    description: Monetha (MTH) is a cryptocurrency and operates on the Ethereum platform.
+      Monetha has a current supply of 402,400,000. The last known price of Monetha
+      is 0.00828853 USD and is up 2.10 over the last 24 hours. It is currently trading
+      on 5 active market(s) with $95,387.94 traded over the last 24 hours. More information
+      can be found at https://www.monetha.io/.
+    logoURI: null
+    name: Monetha
+    symbol: MTH
+    type: null

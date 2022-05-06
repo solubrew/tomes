@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c'
+    chainId: null
+    decimals: null
+    description: Sogur (SGR) is a cryptocurrency and operates on the Ethereum platform.
+      Sogur has a current supply of 91,808.538 with 0 in circulation. The last known
+      price of Sogur is 1.43434576 USD and is up 0.24 over the last 24 hours. It is
+      currently trading on 9 active market(s) with $226,637.34 traded over the last
+      24 hours. More information can be found at https://www.saga.org/.
+    logoURI: null
+    name: Sogur
+    symbol: SGR
+    type: null

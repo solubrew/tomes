@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2be5e8c109e2197D077D13A82dAead6a9b3433C5'
+    chainId: null
+    decimals: null
+    description: Tokamak Network (TON) is a cryptocurrency and operates on the Ethereum
+      platform. Tokamak Network has a current supply of 50,000,000 with 2,727,340
+      in circulation. The last known price of Tokamak Network is 2.91803419 USD and
+      is up 1.53 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $3,580,437.87 traded over the last 24 hours. More information can be found
+      at https://tokamak.network/.
+    logoURI: null
+    name: Tokamak Network
+    symbol: TON
+    type: null

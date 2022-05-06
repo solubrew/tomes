@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x158079ee67fce2f58472a96584a73c7ab9ac95c1'
+    chainId: null
+    decimals: null
+    description: Compound Augur (CREP) is a cryptocurrency and operates on the Ethereum
+      platform. Compound Augur has a current supply of 86,195,547 with 0 in circulation.
+      The last known price of Compound Augur is 0.34537202 USD and is up 30.78 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $1,469.71
+      traded over the last 24 hours. More information can be found at https://compound.finance/.
+    logoURI: null
+    name: Compound Augur
+    symbol: CREP
+    type: null

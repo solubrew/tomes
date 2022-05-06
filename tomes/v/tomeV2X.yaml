@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb016eB4Bc7146cfeA3Af2269b4da1a0e7e85745b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Vitalik2X
+    symbol: V2X
+    type: null

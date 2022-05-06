@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xea8b224eDD3e342DEb514C4176c2E72Bcce6fFF9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Redeemable SAI
+    symbol: rSAI
+    type: null

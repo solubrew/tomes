@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1FA3bc860bF823d792f04F662f3AA3a500a68814'
+    chainId: null
+    decimals: null
+    description: 1x Short Bitcoin Token (HEDGE) is a cryptocurrency and operates on
+      the Ethereum platform. 1x Short Bitcoin Token has a current supply of 2,775.41677919
+      with 0 in circulation. The last known price of 1x Short Bitcoin Token is 417.08951753
+      USD and is down -1.58 over the last 24 hours. It is currently trading on 5 active
+      market(s) with $110,996.90 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/HEDGE.
+    logoURI: null
+    name: 1x Short Bitcoin Token
+    symbol: HEDGE
+    type: null

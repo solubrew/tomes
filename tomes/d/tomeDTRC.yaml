@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc20464e0c373486d2b3335576e83a218b1618a5e'
+    chainId: null
+    decimals: null
+    description: Datarius Credit (DTRC) is a cryptocurrency and operates on the Ethereum
+      platform. Datarius Credit has a current supply of 239,992,867.33677387 with
+      159,756,075.51328626 in circulation. The last known price of Datarius Credit
+      is 0.00011691 USD and is up 3.36 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $0.00 traded over the last 24 hours. More information
+      can be found at https://datarius.io/.
+    logoURI: null
+    name: Datarius Credit
+    symbol: DTRC
+    type: null

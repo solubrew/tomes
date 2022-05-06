@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x33CfAe13A9486C29Cd3B11391cC7ECa53822e8c7'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: PASS2
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x24DCc881E7Dd730546834452F21872D5cb4b5293'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Data Transaction Token
+    symbol: XD
+    type: null

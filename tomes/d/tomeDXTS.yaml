@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x36c85687eeDAe01C50eB7d04d74C0ec74f930c54'
+    chainId: null
+    decimals: null
+    description: Destiny Success (DXTS) is a cryptocurrency and operates on the Ethereum
+      platform. Destiny Success has a current supply of 44,444,444 with 0 in circulation.
+      The last known price of Destiny Success is 0.14945468 USD and is up 42.82 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $13,736.80
+      traded over the last 24 hours. More information can be found at http://dxtstoken.com/.
+    logoURI: null
+    name: Destiny Success
+    symbol: DXTS
+    type: null

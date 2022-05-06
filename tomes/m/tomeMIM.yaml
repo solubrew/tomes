@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3bEa1Cb0Ea10A35B1995233D6d57B34Fb3142b1B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Moiom
+    symbol: MIM
+    type: null

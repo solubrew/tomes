@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x110FE5f21C1EDd4F03a6e0DE0D96D0c2eED0B9CC'
+    chainId: null
+    decimals: null
+    description: Tessla Coin (TSLA) is a cryptocurrency and operates on the Ethereum
+      platform. Tessla Coin has a current supply of 11,000,000,000 with 0 in circulation.
+      The last known price of Tessla Coin is 1.30197881 USD and is down -0.77 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $511,540.37
+      traded over the last 24 hours. More information can be found at https://tesslacoin.com/.
+    logoURI: null
+    name: Tessla Coin
+    symbol: TSLA
+    type: null

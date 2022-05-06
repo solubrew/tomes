@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5cd71a6C4e57BBEeC527c32Be2802CAbb5B2Bb4C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EthorToken
+    symbol: ETR
+    type: null

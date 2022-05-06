@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa806b3fed6891136940cf81c4085661500aa2709'
+    chainId: null
+    decimals: null
+    description: Sport and Leisure (SNL) is a cryptocurrency and operates on the Ethereum
+      platform. Sport and Leisure has a current supply of 963,252,000 with 678,662,952.834708
+      in circulation. The last known price of Sport and Leisure is 0.03214095 USD
+      and is down -1.51 over the last 24 hours. It is currently trading on 6 active
+      market(s) with $347,816.39 traded over the last 24 hours. More information can
+      be found at https://www.snltoken.io/.
+    logoURI: null
+    name: Sport and Leisure
+    symbol: SNL
+    type: null

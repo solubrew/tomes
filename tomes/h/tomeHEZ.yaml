@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeef9f339514298c6a857efcfc1a762af84438dee'
+    chainId: null
+    decimals: null
+    description: Hermez Network (HEZ) is a cryptocurrency and operates on the Ethereum
+      platform. Hermez Network has a current supply of 100,000,000 with 4,700,000
+      in circulation. The last known price of Hermez Network is 4.18144949 USD and
+      is up 1.65 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $748,136.24 traded over the last 24 hours. More information can be found
+      at https://hermez.io/.
+    logoURI: null
+    name: Hermez Network
+    symbol: HEZ
+    type: null

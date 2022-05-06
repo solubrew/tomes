@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d'
+    chainId: null
+    decimals: null
+    description: Blocery (BLY) is a cryptocurrency and operates on the Ethereum platform.
+      Blocery has a current supply of 1,000,000,000 with 38,565,923.2738445 in circulation.
+      The last known price of Blocery is 0.03311666 USD and is down -2.05 over the
+      last 24 hours. It is currently trading on 7 active market(s) with $174,690.55
+      traded over the last 24 hours. More information can be found at http://blocery.io/.
+    logoURI: null
+    name: Blocery
+    symbol: BLY
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x19ca83a13b4c4be43fa82c5e415e16f1d86f57f7'
+    chainId: null
+    decimals: null
+    description: bitCEO (BCEO) is a cryptocurrency and operates on the Ethereum platform.
+      bitCEO has a current supply of 2,970,135,500 with 0 in circulation. The last
+      known price of bitCEO is 0.24049419 USD and is up 4.01 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $44,992.89 traded over the
+      last 24 hours. More information can be found at https://www.bitceo.io/.
+    logoURI: null
+    name: bitCEO
+    symbol: BCEO
+    type: null

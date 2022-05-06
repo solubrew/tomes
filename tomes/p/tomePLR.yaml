@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe3818504c1B32bF1557b16C238B2E01Fd3149C17'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PILLAR
+    symbol: PLR
+    type: null

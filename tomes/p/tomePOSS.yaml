@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6b193e107A773967bD821bCf8218f3548Cfa2503'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Posscoin
+    symbol: POSS
+    type: null

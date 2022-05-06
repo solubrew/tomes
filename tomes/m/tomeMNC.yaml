@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9f0f1be08591ab7d990faf910b38ed5d60e4d5bf'
+    chainId: null
+    decimals: null
+    description: Maincoin (MNC) is a cryptocurrency and operates on the Ethereum platform.
+      Maincoin has a current supply of 374,000,000. The last known price of Maincoin
+      is 0.00276131 USD and is up 3.05 over the last 24 hours. It is currently trading
+      on 13 active market(s) with $9,856.73 traded over the last 24 hours. More information
+      can be found at https://maincoin.money/.
+    logoURI: null
+    name: Maincoin
+    symbol: MNC
+    type: null

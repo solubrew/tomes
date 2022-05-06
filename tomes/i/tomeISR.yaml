@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd4a293ae8bb9e0be12e99eb19d48239e8c83a136'
+    chainId: null
+    decimals: null
+    description: Insureum (ISR) is a cryptocurrency and operates on the Ethereum platform.
+      Insureum has a current supply of 290,000,000 with 214,048,583.4344944 in circulation.
+      The last known price of Insureum is 0.00289027 USD and is up 4.03 over the last
+      24 hours. It is currently trading on 4 active market(s) with $307,331.02 traded
+      over the last 24 hours. More information can be found at https://www.insureum.co/.
+    logoURI: null
+    name: Insureum
+    symbol: ISR
+    type: null

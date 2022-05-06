@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x98a90499b62Ae48E151a66B0F647570b5a473B1c'
+    chainId: null
+    decimals: null
+    description: ZAC Finance (ZAC) is a cryptocurrency and operates on the Ethereum
+      platform. ZAC Finance has a current supply of 57,000 with 0 in circulation.
+      The last known price of ZAC Finance is 3.6753468 USD and is down -9.99 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $952.56
+      traded over the last 24 hours. More information can be found at https://zac.finance/.
+    logoURI: null
+    name: ZAC Finance
+    symbol: ZAC
+    type: null

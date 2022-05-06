@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCBe7142F5c16755D8683BA329EFA1ABF7b54482d'
+    chainId: null
+    decimals: null
+    description: Medicalveda (MVEDA) is a cryptocurrency and operates on the Ethereum
+      platform. Medicalveda has a current supply of 0. The last known price of Medicalveda
+      is 0.08700198 USD and is down -5.55 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $32,413.11 traded over the last 24 hours.
+      More information can be found at https://medicalveda.com/.
+    logoURI: null
+    name: Medicalveda
+    symbol: MVEDA
+    type: null

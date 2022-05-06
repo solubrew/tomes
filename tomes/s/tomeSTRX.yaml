@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa9D24eC1D08856632Ed1847f43760e66Bcb91ca7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Streamix
+    symbol: STRX
+    type: null

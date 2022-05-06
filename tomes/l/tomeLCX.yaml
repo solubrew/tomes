@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x037a54aab062628c9bbae1fdb1583c195585fe41'
+    chainId: null
+    decimals: null
+    description: LCX (LCX) is a cryptocurrency and operates on the Ethereum platform.
+      LCX has a current supply of 953,165,775 with 549,566,916.9149694 in circulation.
+      The last known price of LCX is 0.00898807 USD and is down -2.96 over the last
+      24 hours. It is currently trading on 22 active market(s) with $340,148.34 traded
+      over the last 24 hours. More information can be found at https://www.lcx.com.
+    logoURI: null
+    name: LCX
+    symbol: LCX
+    type: null

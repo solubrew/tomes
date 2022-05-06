@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfAf9263BCA469244cC10B6B7729367284eEEF770'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ayla
+    symbol: AYLA
+    type: null

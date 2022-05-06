@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6'
+    chainId: null
+    decimals: null
+    description: QASH (QASH) is a cryptocurrency and operates on the Ethereum platform.
+      QASH has a current supply of 1,000,000,000 with 350,000,000 in circulation.
+      The last known price of QASH is 0.03498363 USD and is up 2.20 over the last
+      24 hours. It is currently trading on 25 active market(s) with $137,684.62 traded
+      over the last 24 hours. More information can be found at https://www.liquid.com/.
+    logoURI: null
+    name: QASH
+    symbol: QASH
+    type: null

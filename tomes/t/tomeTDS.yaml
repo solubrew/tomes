@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6295Ab2BE04A617747481B292c390BfcA592Cf28'
+    chainId: null
+    decimals: null
+    description: TokenDesk (TDS) is a cryptocurrency and operates on the Ethereum
+      platform. TokenDesk has a current supply of 14,683,321.42857143. The last known
+      price of TokenDesk is 0.00045675 USD and is up 5.17 over the last 24 hours.
+      More information can be found at https://www.tokendesk.io/.
+    logoURI: null
+    name: TokenDesk
+    symbol: TDS
+    type: null

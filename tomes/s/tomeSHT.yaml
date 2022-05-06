@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEe91E47CfF7Ab926b45EDce1687020a3748556c3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Shadowlands Token
+    symbol: SHT
+    type: null

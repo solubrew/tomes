@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x63f88a2298a5c4aee3c216aa6d926b184a4b2437'
+    chainId: null
+    decimals: null
+    description: GameCredits (GAME) is a cryptocurrency and operates on the Ethereum
+      platform. GameCredits has a current supply of 200,000,000 with 124,734,239.99245407
+      in circulation. The last known price of GameCredits is 0.05559601 USD and is
+      down -1.78 over the last 24 hours. It is currently trading on 12 active market(s)
+      with $9,947.45 traded over the last 24 hours. More information can be found
+      at https://gamecredits.org/.
+    logoURI: null
+    name: GameCredits
+    symbol: GAME
+    type: null

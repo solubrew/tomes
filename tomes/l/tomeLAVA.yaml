@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD89c37FD7c0fa3B107B7e4a8731DD3aaeC488954'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Lava
+    symbol: LAVA
+    type: null

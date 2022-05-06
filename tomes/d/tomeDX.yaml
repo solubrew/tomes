@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x973e52691176d36453868D9d86572788d27041A9'
+    chainId: null
+    decimals: null
+    description: DxChain Token (DX) is a cryptocurrency and operates on the Ethereum
+      platform. DxChain Token has a current supply of 100,000,000,000 with 49,999,999,999.686195
+      in circulation. The last known price of DxChain Token is 0.00167106 USD and
+      is up 9.43 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $67,362.95 traded over the last 24 hours. More information can be found
+      at https://dxchain.com/.
+    logoURI: null
+    name: DxChain Token
+    symbol: DX
+    type: null

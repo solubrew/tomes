@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa13f0743951b4f6e3e3aa039f682e17279f52bc3'
+    chainId: null
+    decimals: null
+    description: Sentinel Chain (SENC) is a cryptocurrency and operates on the Ethereum
+      platform. Sentinel Chain has a current supply of 500,000,000 with 197,269,665.85685802
+      in circulation. The last known price of Sentinel Chain is 0.0008986 USD and
+      is up 0.15 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $653.17 traded over the last 24 hours. More information can be found at
+      https://www.sentinel-chain.org/.
+    logoURI: null
+    name: Sentinel Chain
+    symbol: SENC
+    type: null

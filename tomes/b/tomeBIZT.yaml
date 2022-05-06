@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x750Eab388D8d2B0bE4E6B19Ad861458957C37306'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bizanc ERC20 Token
+    symbol: BIZT
+    type: null

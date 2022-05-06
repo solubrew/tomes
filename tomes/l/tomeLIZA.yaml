@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3B7712B395BC5f7f7FB6976Ea4827377E77adab6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LIZA Token
+    symbol: LIZA
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x05860d453c7974cbf46508c06cba14e211c629ce'
+    chainId: null
+    decimals: null
+    description: Eden (EDN) is a cryptocurrency and operates on the Ethereum platform.
+      Eden has a current supply of 1,000,000,000 with 600,000,000 in circulation.
+      The last known price of Eden is 0.00122659 USD and is up 0.69 over the last
+      24 hours. It is currently trading on 7 active market(s) with $5,675.01 traded
+      over the last 24 hours. More information can be found at https://edenchain.io/.
+    logoURI: null
+    name: Eden
+    symbol: EDN
+    type: null

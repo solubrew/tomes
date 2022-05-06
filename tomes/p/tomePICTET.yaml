@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB95Fd9F07f81B2A7d190146f2207e44bad4eD6B9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PICTET
+    symbol: PICTET
+    type: null

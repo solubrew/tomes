@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x13e9ec660d872f55405d70e5c52d872136f0970c'
+    chainId: null
+    decimals: null
+    description: Twinkle (TKT) is a cryptocurrency and operates on the Ethereum platform.
+      Twinkle has a current supply of 2,000,000,000 with 0 in circulation. The last
+      known price of Twinkle is 0.00172424 USD and is up 30.35 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $31,001.26 traded over the
+      last 24 hours. More information can be found at http://www.tkt-twinkle.com/.
+    logoURI: null
+    name: Twinkle
+    symbol: TKT
+    type: null

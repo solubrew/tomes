@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x395768aeb16484e5785612a98e9408e4cc1269ec'
+    chainId: null
+    decimals: null
+    description: RUSH (RUC) is a cryptocurrency and operates on the Ethereum platform.
+      RUSH has a current supply of 0. The last known price of RUSH is 1.12929316 USD
+      and is down -0.98 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $445,726.85 traded over the last 24 hours. More information can
+      be found at https://therush.io.
+    logoURI: null
+    name: RUSH
+    symbol: RUC
+    type: null

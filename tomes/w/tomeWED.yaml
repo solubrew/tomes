@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Wednesday Coin
+    symbol: WED
+    type: null

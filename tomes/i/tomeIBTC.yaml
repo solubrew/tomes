@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0784dBaBb6C6834bdDfb7cFEe116bA049e5DafaB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: IBTC
+    symbol: IBTC
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7A2810d3d859Ed03ede523eB801a3B43B5e8979C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Zodcoin
+    symbol: ZDC
+    type: null

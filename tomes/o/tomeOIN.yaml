@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9aeB50f542050172359A0e1a25a9933Bc8c01259'
+    chainId: null
+    decimals: null
+    description: OIN Finance (OIN) is a cryptocurrency and operates on the Ethereum
+      platform. OIN Finance has a current supply of 100,000,000 with 4,137,460 in
+      circulation. The last known price of OIN Finance is 0.09003926 USD and is up
+      13.32 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $368,170.53 traded over the last 24 hours. More information can be found
+      at https://oin.finance/.
+    logoURI: null
+    name: OIN Finance
+    symbol: OIN
+    type: null

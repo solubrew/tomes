@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4156D3342D5c385a87D264F90653733592000581'
+    chainId: null
+    decimals: null
+    description: SALT (SALT) is a cryptocurrency and operates on the Ethereum platform.
+      SALT has a current supply of 120,000,000 with 78,652,938 in circulation. The
+      last known price of SALT is 0.23864974 USD and is up 1.47 over the last 24 hours.
+      It is currently trading on 8 active market(s) with $102,364.99 traded over the
+      last 24 hours. More information can be found at https://www.saltlending.com/.
+    logoURI: null
+    name: SALT
+    symbol: SALT
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Pareto Network Token
+    symbol: PARETO
+    type: null

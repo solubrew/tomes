@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCa208BfD69ae6D2667f1FCbE681BAe12767c0078'
+    chainId: null
+    decimals: null
+    description: HOMIHELP (HOMI) is a cryptocurrency and operates on the Ethereum
+      platform. HOMIHELP has a current supply of 100,000,000 with 1,150,359 in circulation.
+      The last known price of HOMIHELP is 2.38242128 USD and is up 3.38 over the last
+      24 hours. It is currently trading on 4 active market(s) with $35,292.78 traded
+      over the last 24 hours. More information can be found at https://www.homihelp.com/.
+    logoURI: null
+    name: HOMIHELP
+    symbol: HOMI
+    type: null

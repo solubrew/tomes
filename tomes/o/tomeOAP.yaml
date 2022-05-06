@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1788430620960f9a70e3dc14202a3a35dde1a316'
+    chainId: null
+    decimals: null
+    description: OpenAlexa Protocol (OAP) is a cryptocurrency and operates on the
+      Ethereum platform. OpenAlexa Protocol has a current supply of 268,210 with 0
+      in circulation. The last known price of OpenAlexa Protocol is 0.67084754 USD
+      and is down -0.49 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $32,669.89 traded over the last 24 hours. More information can
+      be found at https://openalexa.com.
+    logoURI: null
+    name: OpenAlexa Protocol
+    symbol: OAP
+    type: null

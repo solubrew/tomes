@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc9ce70a381910d0a90b30d408cc9c7705ee882de'
+    chainId: null
+    decimals: null
+    description: Nyan Finance (NYAN) is a cryptocurrency and operates on the Ethereum
+      platform. Nyan Finance has a current supply of 33,000 with 0 in circulation.
+      The last known price of Nyan Finance is 0.72978503 USD and is down -24.02 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $67,154.28
+      traded over the last 24 hours. More information can be found at https://nyan.finance/.
+    logoURI: null
+    name: Nyan Finance
+    symbol: NYAN
+    type: null

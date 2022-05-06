@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x449efe48ad7cd423bab056276639f8120cd4f9a3'
+    chainId: null
+    decimals: null
+    description: LibreFreelencer (LIBREF) is a cryptocurrency and operates on the
+      Ethereum platform. LibreFreelencer has a current supply of 0. The last known
+      price of LibreFreelencer is 0.01807884 USD and is down -13.07 over the last
+      24 hours. It is currently trading on 2 active market(s) with $548,167.66 traded
+      over the last 24 hours. More information can be found at https://www.librefree.allbestico.com/.
+    logoURI: null
+    name: LibreFreelencer
+    symbol: LIBREF
+    type: null

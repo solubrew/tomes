@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x865ec58b06bf6305b886793aa20a2da31d034e68'
+    chainId: null
+    decimals: null
+    description: Moss Coin (MOC) is a cryptocurrency and operates on the Ethereum
+      platform. Moss Coin has a current supply of 500,000,000 with 367,194,688.83762586
+      in circulation. The last known price of Moss Coin is 0.02020538 USD and is up
+      5.80 over the last 24 hours. It is currently trading on 1 active market(s) with
+      $1,435,389.45 traded over the last 24 hours. More information can be found at
+      https://moss.land.
+    logoURI: null
+    name: Moss Coin
+    symbol: MOC
+    type: null

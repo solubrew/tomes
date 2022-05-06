@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB41422D5a1d5d5C73c229686935b40F881502785'
+    chainId: null
+    decimals: null
+    description: Payfair (PFR) is a cryptocurrency and operates on the Ethereum platform.
+      Payfair has a current supply of 40,487,137.87364815 with 39,347,536.58965715
+      in circulation. The last known price of Payfair is 0.00083008 USD and is down
+      -2.63 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $1,762.99 traded over the last 24 hours. More information can be found
+      at https://payfair.io/.
+    logoURI: null
+    name: Payfair
+    symbol: PFR
+    type: null

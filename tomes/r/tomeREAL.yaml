@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9214eC02CB71CbA0ADA6896b8dA260736a67ab10'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Real Estate Asset Ledger
+    symbol: REAL
+    type: null

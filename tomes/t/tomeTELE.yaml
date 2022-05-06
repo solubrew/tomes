@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB363A3C584b1f379c79fBF09df015DA5529d4dac'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MiracleTele
+    symbol: TELE
+    type: null

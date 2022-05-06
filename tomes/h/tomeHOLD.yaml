@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd6e1401a079922469e9b965cb090ea6ff64c6839'
+    chainId: null
+    decimals: null
+    description: HOLD (HOLD) is a cryptocurrency and operates on the Ethereum platform.
+      HOLD has a current supply of 923,453,365 with 704,821,304.7828076 in circulation.
+      The last known price of HOLD is 0.00295307 USD and is down -4.69 over the last
+      24 hours. It is currently trading on 1 active market(s) with $1,614.35 traded
+      over the last 24 hours. More information can be found at https://hold.co.
+    logoURI: null
+    name: HOLD
+    symbol: HOLD
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x43c1c012aA89C60019b4E941cCaC98f22D2f3C01'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CTB
+    symbol: CTB
+    type: null

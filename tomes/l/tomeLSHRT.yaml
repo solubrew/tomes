@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x65b3e0Cf1d965c8AE1AaE48d35848DDC62e7F7d7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Law Shirt
+    symbol: LSHRT
+    type: null

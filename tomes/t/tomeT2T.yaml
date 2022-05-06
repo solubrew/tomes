@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE6824483e279D967eA6F8472AcE7585862Fa1185'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: traceto.io
+    symbol: T2T
+    type: null

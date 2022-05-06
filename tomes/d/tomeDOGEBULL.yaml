@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7AA6b33fB7F395DDBca7b7A33264A3c799Fa626f'
+    chainId: null
+    decimals: null
+    description: 3X Long Dogecoin Token (DOGEBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Long Dogecoin Token has a current supply of 137.95689513
+      with 0 in circulation. The last known price of 3X Long Dogecoin Token is 408.2
+      USD and is up 3.79 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $318.98 traded over the last 24 hours. More information can be
+      found at https://ftx.com/tokens/DOGEBULL.
+    logoURI: null
+    name: 3X Long Dogecoin Token
+    symbol: DOGEBULL
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x22ef3753e3658e81d5a0d0889ce078178fe66595'
+    chainId: null
+    decimals: null
+    description: SHENG (SHENG) is a cryptocurrency and operates on the Ethereum platform.
+      SHENG has a current supply of 0. The last known price of SHENG is 0.00875607
+      USD and is up 5.09 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $125.73 traded over the last 24 hours. More information can be
+      found at https://sheng.global/.
+    logoURI: null
+    name: SHENG
+    symbol: SHENG
+    type: null

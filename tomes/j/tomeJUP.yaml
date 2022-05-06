@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Jupiter
+    symbol: JUP
+    type: null

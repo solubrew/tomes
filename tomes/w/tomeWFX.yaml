@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd111BCb8C30a600c12F4AF8314235F628EA2Cb3C'
+    chainId: null
+    decimals: null
+    description: Webflix Token (WFX) is a cryptocurrency and operates on the Ethereum
+      platform. Webflix Token has a current supply of 27,000,000,000 with 3,206,506,493.1707
+      in circulation. The last known price of Webflix Token is 0.00061281 USD and
+      is up 56.72 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $0.83 traded over the last 24 hours. More information can be found at http://www.webflix.io/.
+    logoURI: null
+    name: Webflix Token
+    symbol: WFX
+    type: null

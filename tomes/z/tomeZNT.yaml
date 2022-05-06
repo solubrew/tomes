@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe95990825aab1a7f0af4cc648f76a3bcc99f25b2'
+    chainId: null
+    decimals: null
+    description: Zenswap Network Token (ZNT) is a cryptocurrency and operates on the
+      Ethereum platform. Zenswap Network Token has a current supply of 20,000,000,000
+      with 12,001,366,640 in circulation. The last known price of Zenswap Network
+      Token is 0.00000096 USD and is up 17.68 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $1,331.79 traded over the last 24 hours.
+      More information can be found at https://www.zenswapnetwork.info.
+    logoURI: null
+    name: Zenswap Network Token
+    symbol: ZNT
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB48B7E5bF6563B3e0A85055821A83Deb8CFc12f6'
+    chainId: null
+    decimals: null
+    description: NOVA (NOVA) is a cryptocurrency and operates on the Ethereum platform.
+      NOVA has a current supply of 1,949,964,203.711 with 0 in circulation. The last
+      known price of NOVA is 0.00002632 USD and is up 2.16 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at http://www.85nova.com/.
+    logoURI: null
+    name: NOVA
+    symbol: NOVA
+    type: null

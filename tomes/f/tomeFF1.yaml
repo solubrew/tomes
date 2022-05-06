@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x59af0356cdebd1fa23ae5dadff9170bbfc31278c'
+    chainId: null
+    decimals: null
+    description: Two Prime FF1 Token (FF1) is a cryptocurrency and operates on the
+      Ethereum platform. Two Prime FF1 Token has a current supply of 100,000,000 with
+      0 in circulation. The last known price of Two Prime FF1 Token is 3.57110006
+      USD and is down -0.01 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $0.00 traded over the last 24 hours. More information can be
+      found at https://www.twoprime.io.
+    logoURI: null
+    name: Two Prime FF1 Token
+    symbol: FF1
+    type: null

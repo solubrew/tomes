@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0c3ef32f802967db75b9d49fe1e76620151ccb81'
+    chainId: null
+    decimals: null
+    description: Whole Network (NODE) is a cryptocurrency and operates on the Ethereum
+      platform. Whole Network has a current supply of 10,000,000,000 with 0 in circulation.
+      The last known price of Whole Network is 0.00037112 USD and is up 6.89 over
+      the last 24 hours. It is currently trading on 8 active market(s) with $393,989.27
+      traded over the last 24 hours. More information can be found at https://www.wn.work/.
+    logoURI: null
+    name: Whole Network
+    symbol: NODE
+    type: null

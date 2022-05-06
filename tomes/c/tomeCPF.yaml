@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2027abDA20165D5dD495c1EE56c8dA80a9730a97'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CryptoFun
+    symbol: CPF
+    type: null

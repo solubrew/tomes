@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeF7A985E4FF9B5DcCD6eDdF58577486887288711'
+    chainId: null
+    decimals: null
+    description: HOMT (HOMT) is a cryptocurrency and operates on the Ethereum platform.
+      HOMT has a current supply of 125,000,000 with 0 in circulation. The last known
+      price of HOMT is 0.00292555 USD and is up 1.26 over the last 24 hours. It is
+      currently trading on 3 active market(s) with $74.34 traded over the last 24
+      hours. More information can be found at https://homt.net/.
+    logoURI: null
+    name: HOMT
+    symbol: HOMT
+    type: null

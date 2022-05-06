@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x646b41183bb0d18c01f75f630688d613a5774dc7'
+    chainId: null
+    decimals: null
+    description: Bluekey (BKY) is a cryptocurrency and operates on the Ethereum platform.
+      Bluekey has a current supply of 10,000,000,000 with 0 in circulation. The last
+      known price of Bluekey is 0 USD and is up 0.00 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $0.00 traded over the last 24 hours.
+      More information can be found at https://bluekeypay.com/.
+    logoURI: null
+    name: Bluekey
+    symbol: BKY
+    type: null

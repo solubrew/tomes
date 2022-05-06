@@ -1,0 +1,24 @@
+---
+<(META)>:
+  docid:
+  name: 'TOMEs YAML Configuration Document'
+  description: >
+  expirary: '<[expiration]>'
+  version: '<[version]>'
+  authority: 'document|this'
+  security: 'sec|lvl2'
+  <(WT)>: -32
+tomeTMPLT:
+  data:
+    status: ''
+    family:
+    proxyFor:
+    token:
+      '1':
+        address:
+        chainId:
+        decimals: 
+        logoURI:
+        name:
+        symbol:
+        type:

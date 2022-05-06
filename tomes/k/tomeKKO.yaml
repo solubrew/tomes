@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1ad16a873daB4Be77C26494D659643C87b5E0986'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: KRYPTO KLUB OG
+    symbol: KKO
+    type: null

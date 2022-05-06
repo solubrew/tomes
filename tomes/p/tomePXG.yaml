@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x47e67ba66b0699500f18a53f94e2b9db3d47437e'
+    chainId: null
+    decimals: null
+    description: PlayGame (PXG) is a cryptocurrency and operates on the Ethereum platform.
+      PlayGame has a current supply of 1,000,000,000 with 999,875,000 in circulation.
+      The last known price of PlayGame is 0.00004899 USD and is down -0.07 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $69.26 traded
+      over the last 24 hours. More information can be found at https://its.playgame.com/.
+    logoURI: null
+    name: PlayGame
+    symbol: PXG
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x47632da9227e322eda59f9e7691eacc6430ac87c'
+    chainId: null
+    decimals: null
+    description: YFIBusiness (YFIB) is a cryptocurrency and operates on the Ethereum
+      platform. YFIBusiness has a current supply of 30,000 with 0 in circulation.
+      The last known price of YFIBusiness is 0.92979257 USD and is down -8.36 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $404.32
+      traded over the last 24 hours. More information can be found at https://yfibusiness.finance/.
+    logoURI: null
+    name: YFIBusiness
+    symbol: YFIB
+    type: null

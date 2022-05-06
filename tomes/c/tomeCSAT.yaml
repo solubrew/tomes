@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdb6192BAf0E72FfD88d33508f15Caedd5C79d75D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CandysAirdrop
+    symbol: CSAT
+    type: null

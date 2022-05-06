@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC3b2140aC3E95EdFea220681EeCA127fC81E4929'
+    chainId: null
+    decimals: null
+    description: Hamebi Token (HMB) is a cryptocurrency and operates on the Ethereum
+      platform. Hamebi Token has a current supply of 0. The last known price of Hamebi
+      Token is 0.00038325 USD and is up 1.42 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $1,167.25 traded over the last 24 hours.
+      More information can be found at http://www.hamebi.com/.
+    logoURI: null
+    name: Hamebi Token
+    symbol: HMB
+    type: null

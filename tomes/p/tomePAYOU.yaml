@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcb2fa15f4ea7c55bf6ef9456a662412b137043e9'
+    chainId: null
+    decimals: null
+    description: Payou Finance (PAYOU) is a cryptocurrency and operates on the Ethereum
+      platform. Payou Finance has a current supply of 21,000 with 0 in circulation.
+      The last known price of Payou Finance is 0.37843179 USD and is up 6.89 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $56.77
+      traded over the last 24 hours. More information can be found at https://www.payou.finance/.
+    logoURI: null
+    name: Payou Finance
+    symbol: PAYOU
+    type: null

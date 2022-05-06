@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6653c0d21507573cc39ead1e609d74d5e0ca16e2'
+    chainId: null
+    decimals: null
+    description: ReFork (EFK) is a cryptocurrency and operates on the Ethereum platform.
+      ReFork has a current supply of 4,000,000,000 with 0 in circulation. The last
+      known price of ReFork is 0.01116538 USD and is up 5.36 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $13,324.85 traded over the
+      last 24 hours. More information can be found at https://refork.org.
+    logoURI: null
+    name: ReFork
+    symbol: EFK
+    type: null

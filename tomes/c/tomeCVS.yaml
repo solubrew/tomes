@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdB56448fE2635f7912287cd619E7eD3d93180f25'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CoinVisa
+    symbol: CVS
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x63a18BC38D1101DB7F0efCbCBdCbe927A5879039'
+    chainId: null
+    decimals: null
+    description: Yearn Classic Finance (EARN) is a cryptocurrency and operates on
+      the Ethereum platform. Yearn Classic Finance has a current supply of 21,000
+      with 0 in circulation. The last known price of Yearn Classic Finance is 88.19810856
+      USD and is down -1.50 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $91,830.51 traded over the last 24 hours. More information can
+      be found at https://yearnclassic.finance/.
+    logoURI: null
+    name: Yearn Classic Finance
+    symbol: EARN
+    type: null

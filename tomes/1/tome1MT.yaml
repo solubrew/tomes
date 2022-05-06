@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf0Bc1ae4eF7ffb126A8347D06Ac6f8AdD770e1CE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 1Million Token
+    symbol: 1MT
+    type: null

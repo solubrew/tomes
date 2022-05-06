@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7a5e6ca9d335e343d1ed12239f67248e056afe2f'
+    chainId: null
+    decimals: null
+    description: Ethash Miner (HETM) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. Ethash Miner has a current supply of 64,021,836 with
+      0 in circulation. The last known price of Ethash Miner is 0.02128827 USD and
+      is up 0.00 over the last 24 hours. It is currently trading on 0 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://www.ethash.net.
+    logoURI: null
+    name: Ethash Miner
+    symbol: HETM
+    type: null

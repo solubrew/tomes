@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87'
+    chainId: null
+    decimals: null
+    description: TitanSwap (TITAN) is a cryptocurrency and operates on the Ethereum
+      platform. TitanSwap has a current supply of 10,000,000,000 with 53,404,160 in
+      circulation. The last known price of TitanSwap is 0.68040931 USD and is up 8.58
+      over the last 24 hours. It is currently trading on 6 active market(s) with $4,504,917.79
+      traded over the last 24 hours. More information can be found at https://titanswap.org/.
+    logoURI: null
+    name: TitanSwap
+    symbol: TITAN
+    type: null

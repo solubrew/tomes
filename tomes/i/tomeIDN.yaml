@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x70Ec7702ADA8530d8f7332f7f3700099553D772D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Indonesian Project
+    symbol: IDN
+    type: null

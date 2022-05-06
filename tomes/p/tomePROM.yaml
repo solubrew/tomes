@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfc82bb4ba86045af6f327323a46e80412b91b27d'
+    chainId: null
+    decimals: null
+    description: Prometeus (PROM) is a cryptocurrency and operates on the Ethereum
+      platform. Prometeus has a current supply of 19,250,000 with 6,120,000 in circulation.
+      The last known price of Prometeus is 2.5402908 USD and is down -1.38 over the
+      last 24 hours. It is currently trading on 10 active market(s) with $679,469.06
+      traded over the last 24 hours. More information can be found at https://prometeus.io/.
+    logoURI: null
+    name: Prometeus
+    symbol: PROM
+    type: null

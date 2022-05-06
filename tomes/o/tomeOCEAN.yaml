@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf5ED2Dc77f0D1ea7f106ecBd1850e406adC41b51'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: The Ocean Token
+    symbol: OCEAN
+    type: null

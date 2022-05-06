@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf7920b0768ecb20a123fac32311d07d193381d6f'
+    chainId: null
+    decimals: null
+    description: Time New Bank (TNB) is a cryptocurrency and operates on the Ethereum
+      platform. Time New Bank has a current supply of 4,415,707,418.218691 with 3,634,727,418.2186904
+      in circulation. The last known price of Time New Bank is 0.00211092 USD and
+      is down -1.45 over the last 24 hours. It is currently trading on 15 active market(s)
+      with $248,556.91 traded over the last 24 hours. More information can be found
+      at http://tnb.fund/.
+    logoURI: null
+    name: Time New Bank
+    symbol: TNB
+    type: null

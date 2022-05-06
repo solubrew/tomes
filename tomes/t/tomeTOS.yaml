@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfb5a551374b656c6e39787b1d3a03feab7f3a98e'
+    chainId: null
+    decimals: null
+    description: ThingsOperatingSystem (TOS) is a cryptocurrency and operates on the
+      Ethereum platform. ThingsOperatingSystem has a current supply of 1,000,000,000
+      with 0 in circulation. The last known price of ThingsOperatingSystem is 0.00032751
+      USD and is down -17.11 over the last 24 hours. It is currently trading on 1
+      active market(s) with $9,582.52 traded over the last 24 hours.
+    logoURI: null
+    name: ThingsOperatingSystem
+    symbol: TOS
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc75F15AdA581219c95485c578E124df3985e4CE0'
+    chainId: null
+    decimals: null
+    description: zzz.finance (ZZZ) is a cryptocurrency and operates on the Ethereum
+      platform. zzz.finance has a current supply of 20,000 with 0 in circulation.
+      The last known price of zzz.finance is 57.34001482 USD and is up 33.57 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $143,355.72
+      traded over the last 24 hours. More information can be found at https://zzz.finance/.
+    logoURI: null
+    name: zzz.finance
+    symbol: ZZZ
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4B34c0CBeEF271F895d339c5F76322d71A60782B'
+    chainId: null
+    decimals: null
+    description: YFi Management (YEFIM) is a cryptocurrency and operates on the Ethereum
+      platform. YFi Management has a current supply of 0. The last known price of
+      YFi Management is 18.08013388 USD and is down -3.34 over the last 24 hours.
+      It is currently trading on 4 active market(s) with $251,736.15 traded over the
+      last 24 hours. More information can be found at https://yfi.management.
+    logoURI: null
+    name: YFi Management
+    symbol: YEFIM
+    type: null

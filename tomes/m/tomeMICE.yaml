@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbad6186E92002E312078b5a1dAfd5ddf63d3f731'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: MICE
+    type: null

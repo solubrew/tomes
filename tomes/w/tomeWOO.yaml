@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4691937a7508860f876c9c0a2a617e7d9e945d4b'
+    chainId: null
+    decimals: null
+    description: Wootrade (WOO) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. Wootrade has a current supply of 3,000,000,000 with 197,589,994
+      in circulation. The last known price of Wootrade is 0.0349302 USD and is up
+      3.43 over the last 24 hours. It is currently trading on 20 active market(s)
+      with $2,275,279.49 traded over the last 24 hours. More information can be found
+      at https://woo.network/.
+    logoURI: null
+    name: Wootrade
+    symbol: WOO
+    type: null

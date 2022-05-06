@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC7e43A1c8E118aA2965F5EAbe0e718D83DB7A63C'
+    chainId: null
+    decimals: null
+    description: ZCore Token (ZCRT) is a cryptocurrency and operates on the Ethereum
+      platform. ZCore Token has a current supply of 1,000,000 with 0 in circulation.
+      The last known price of ZCore Token is 0.05139083 USD and is down -38.43 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://zcore.network.
+    logoURI: null
+    name: ZCore Token
+    symbol: ZCRT
+    type: null

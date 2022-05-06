@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7AfB39837Fd244A651e4F0C5660B4037214D4aDF'
+    chainId: null
+    decimals: null
+    description: Soda Token (SODA) is a cryptocurrency and operates on the Ethereum
+      platform. Soda Token has a current supply of 14,887 with 0 in circulation. The
+      last known price of Soda Token is 0.47578201 USD and is down -1.07 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $0.09 traded
+      over the last 24 hours. More information can be found at https://soda.finance/.
+    logoURI: null
+    name: Soda Token
+    symbol: SODA
+    type: null

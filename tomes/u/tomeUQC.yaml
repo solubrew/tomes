@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2'
+    chainId: null
+    decimals: null
+    description: Uquid Coin (UQC) is a cryptocurrency and operates on the Ethereum
+      platform. Uquid Coin has a current supply of 40,000,000 with 9,999,999.99999999
+      in circulation. The last known price of Uquid Coin is 3.99195945 USD and is
+      down -4.51 over the last 24 hours. It is currently trading on 40 active market(s)
+      with $6,974,222.76 traded over the last 24 hours. More information can be found
+      at https://uquidcoin.com/.
+    logoURI: null
+    name: Uquid Coin
+    symbol: UQC
+    type: null

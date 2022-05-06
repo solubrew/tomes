@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC538143202f3b11382D8606aae90a96b042a19DB'
+    chainId: null
+    decimals: null
+    description: Coinsbit Token (CNB) is a cryptocurrency and operates on the Ethereum
+      platform. Coinsbit Token has a current supply of 1,350,000,000 with 1,331,266,628
+      in circulation. The last known price of Coinsbit Token is 0.00048675 USD and
+      is up 0.29 over the last 24 hours. It is currently trading on 16 active market(s)
+      with $224,744.26 traded over the last 24 hours. More information can be found
+      at https://coinsbit.io/.
+    logoURI: null
+    name: Coinsbit Token
+    symbol: CNB
+    type: null

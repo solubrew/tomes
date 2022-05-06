@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4C133E081dFB5858e39ccA74E69bf603d409e57A'
+    chainId: null
+    decimals: null
+    description: 3x Long Bitcoin Cash Token (BCHBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3x Long Bitcoin Cash Token has a current supply of
+      94,823.081 with 0 in circulation. The last known price of 3x Long Bitcoin Cash
+      Token is 4.04747235 USD and is up 5.00 over the last 24 hours. It is currently
+      trading on 5 active market(s) with $150,053.68 traded over the last 24 hours.
+      More information can be found at https://ftx.com/tokens/BCHBULL.
+    logoURI: null
+    name: 3x Long Bitcoin Cash Token
+    symbol: BCHBULL
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf80d589b3dbe130c270a69f1a69d050f268786df'
+    chainId: null
+    decimals: null
+    description: Datamine (DAM) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. Datamine has a current supply of 16,876,778.9 with 3,924,244.5234509
+      in circulation. The last known price of Datamine is 0.07614798 USD and is up
+      5.00 over the last 24 hours. It is currently trading on 15 active market(s)
+      with $22,205.27 traded over the last 24 hours. More information can be found
+      at https://datamine.network/.
+    logoURI: null
+    name: Datamine
+    symbol: DAM
+    type: null

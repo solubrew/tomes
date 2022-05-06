@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd'
+    chainId: null
+    decimals: null
+    description: Switch (ESH) is a cryptocurrency and operates on the Ethereum platform.
+      Switch has a current supply of 12,113,793.0641682 with 12,113,792.7641682 in
+      circulation. The last known price of Switch is 0.01980218 USD and is down -2.05
+      over the last 24 hours. It is currently trading on 11 active market(s) with
+      $83,818.41 traded over the last 24 hours. More information can be found at http://www.switch.ag.
+    logoURI: null
+    name: Switch
+    symbol: ESH
+    type: null

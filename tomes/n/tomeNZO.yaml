@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x94eea9a484f0bae03d19623cfe389e2cba56b72f'
+    chainId: null
+    decimals: null
+    description: Enzo (NZO) is a cryptocurrency and operates on the Ethereum platform.
+      Enzo has a current supply of 21,000,000,000 with 0 in circulation. The last
+      known price of Enzo is 0.05257846 USD and is up 2.36 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $12.57 traded over the last
+      24 hours. More information can be found at http://www.alfaenzo.org/.
+    logoURI: null
+    name: Enzo
+    symbol: NZO
+    type: null

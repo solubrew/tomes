@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x14094949152EDDBFcd073717200DA82fEd8dC960'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Fulcrum SAI iToken
+    symbol: iSAI
+    type: null

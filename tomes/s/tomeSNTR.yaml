@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2859021eE7F2Cb10162E67F33Af2D22764B31aFf'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Silent Notary Token
+    symbol: SNTR
+    type: null

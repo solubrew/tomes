@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1416946162b1c2c871a73b07e932d2fb6c932069'
+    chainId: null
+    decimals: null
+    description: Energi (NRG) is a cryptocurrency and operates on the Ethereum platform.
+      Users are able to generate NRG through the process of mining. Energi has a current
+      supply of 35,768,379.3468089. The last known price of Energi is 1.39108411 USD
+      and is down -7.21 over the last 24 hours. It is currently trading on 15 active
+      market(s) with $2,683,892.71 traded over the last 24 hours. More information
+      can be found at https://www.energi.world/.
+    logoURI: null
+    name: Energi
+    symbol: NRG
+    type: null

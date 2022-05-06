@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD54E2E7281De8E7D220F9173e33241fbFa881968'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: M.O.A.B
+    symbol: MOAB
+    type: null

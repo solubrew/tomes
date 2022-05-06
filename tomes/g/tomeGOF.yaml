@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c'
+    chainId: null
+    decimals: null
+    description: Golff (GOF) is a cryptocurrency and operates on the Ethereum platform.
+      Golff has a current supply of 639,998 with 0 in circulation. The last known
+      price of Golff is 0.7266854 USD and is up 11.99 over the last 24 hours. It is
+      currently trading on 15 active market(s) with $5,538,745.25 traded over the
+      last 24 hours. More information can be found at https://www.golff.finance/.
+    logoURI: null
+    name: Golff
+    symbol: GOF
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc651E99f40d908b6a606D54f221b414b5228FF60'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MarsEquity
+    symbol: MRQ
+    type: null

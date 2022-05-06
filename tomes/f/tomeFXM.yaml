@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE1C4b784dc65b3DcA8Fe8F47b9a07CB094e7044f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FXM
+    symbol: FXM
+    type: null

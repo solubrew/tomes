@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb7bc7b0a32455f7e7a924f832ca4f0a0ac3b6b88'
+    chainId: null
+    decimals: null
+    description: Warlord Token (WLT) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. Warlord Token has a current supply of 9,717.33333333
+      with 0 in circulation. The last known price of Warlord Token is 1.48533271 USD
+      and is up 3.16 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $32.76 traded over the last 24 hours. More information can be found at
+      https://warlord.camp/.
+    logoURI: null
+    name: Warlord Token
+    symbol: WLT
+    type: null

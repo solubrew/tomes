@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8eB24319393716668D768dCEC29356ae9CfFe285'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SingularityNET Token
+    symbol: AGI
+    type: null

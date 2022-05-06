@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x581A7B11056D5DAF2af6fC1Fa6896a7a6d4c4DC6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SEC
+    symbol: SEC
+    type: null

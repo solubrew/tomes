@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEa6d4D7B36C00B3611dE0B0e1982B12E9e736c66'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Apple Card Token
+    symbol: ACD
+    type: null

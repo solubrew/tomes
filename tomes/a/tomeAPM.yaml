@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c'
+    chainId: null
+    decimals: null
+    description: apM Coin (APM) is a cryptocurrency and operates on the Ethereum platform.
+      apM Coin has a current supply of 1,812,500,000 with 361,875,000 in circulation.
+      The last known price of apM Coin is 0.01945352 USD and is up 1.11 over the last
+      24 hours. It is currently trading on 11 active market(s) with $433,431.34 traded
+      over the last 24 hours. More information can be found at https://apm-coin.com/.
+    logoURI: null
+    name: apM Coin
+    symbol: APM
+    type: null

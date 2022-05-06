@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x70DA15DB5377AC51131c2fd0ade87eC543CA9482'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: cnycoin
+    symbol: CNY
+    type: null

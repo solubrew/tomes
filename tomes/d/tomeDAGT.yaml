@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x56D1aE30c97288DA4B58BC39F026091778e4E316'
+    chainId: null
+    decimals: null
+    description: Digital Asset Guarantee Token (DAGT) is a cryptocurrency and operates
+      on the Ethereum platform. Digital Asset Guarantee Token has a current supply
+      of 100,099,999.99999999 with 33,099,999.99996998 in circulation. The last known
+      price of Digital Asset Guarantee Token is 0.09738602 USD and is up 15.06 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://www.dagt.io/.
+    logoURI: null
+    name: Digital Asset Guarantee Token
+    symbol: DAGT
+    type: null

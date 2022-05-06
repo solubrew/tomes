@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f'
+    chainId: null
+    decimals: null
+    description: Consensus Cell Network (ECELL) is a cryptocurrency and operates on
+      the Ethereum platform. Consensus Cell Network has a current supply of 0. The
+      last known price of Consensus Cell Network is 0.03913429 USD and is up 1.55
+      over the last 24 hours. It is currently trading on 5 active market(s) with $1,634,398.64
+      traded over the last 24 hours. More information can be found at https://celletf.io.
+    logoURI: null
+    name: Consensus Cell Network
+    symbol: ECELL
+    type: null

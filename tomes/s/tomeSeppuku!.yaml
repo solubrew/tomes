@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF49C17470eCC377A59De71EaB8dcB5e78B5cB670'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Seppuku Token
+    symbol: Seppuku!
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfFee3b942dfDCbc51007BfffFc2a735B0483878f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bullion Troy Grain
+    symbol: BTG
+    type: null

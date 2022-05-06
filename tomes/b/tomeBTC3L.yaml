@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7e5F9F248e84EF0B1f63586323e92a0d91B15568'
+    chainId: null
+    decimals: null
+    description: Amun Bitcoin 3x Daily Long (BTC3L) is a cryptocurrency and operates
+      on the Ethereum platform. Amun Bitcoin 3x Daily Long has a current supply of
+      3.0229719 with 0 in circulation. The last known price of Amun Bitcoin 3x Daily
+      Long is 2.89791851 USD and is up 7.65 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $6,934,978.33 traded over the last 24 hours.
+      More information can be found at https://amun.com/.
+    logoURI: null
+    name: Amun Bitcoin 3x Daily Long
+    symbol: BTC3L
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBeE6EDF5fa7e862ed2eA9b9f42cb0849184aAE85'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Blockstate STO Token
+    symbol: BKN
+    type: null

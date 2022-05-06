@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x585C2cF94c41b528ec7329CBc3cdE3C4f8d268dB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: STETHDaiRebalancingSetToken
+    symbol: STETHDai
+    type: null

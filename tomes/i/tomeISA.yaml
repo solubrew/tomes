@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3E82efC3817677DC82E588548dBe3746b6682C03'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: c02fb23cba3ad98dce99d515da424b7ac7d8cc774b30507ad69e0329531d0c76
+    symbol: ISA
+    type: null

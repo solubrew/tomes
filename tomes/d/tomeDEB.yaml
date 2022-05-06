@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x151202c9c18e495656f372281f493eb7698961d5'
+    chainId: null
+    decimals: null
+    description: Debitum (DEB) is a cryptocurrency and operates on the Ethereum platform.
+      Debitum has a current supply of 400,000,000 with 199,645,716.21794653 in circulation.
+      The last known price of Debitum is 0.00147526 USD and is down -2.69 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $38,749.44
+      traded over the last 24 hours. More information can be found at https://debitum.network/.
+    logoURI: null
+    name: Debitum
+    symbol: DEB
+    type: null

@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x755eb14D2fefF2939EB3026f5CaD9D03775b9fF4'
+    chainId: null
+    decimals: null
+    description: BunnyToken (BUNNY) is a cryptocurrency and operates on the Ethereum
+      platform. BunnyToken has a current supply of 407,562,867.21141183 with 264,486,021.43236607
+      in circulation. The last known price of BunnyToken is 0.00007741 USD and is
+      up 2.02 over the last 24 hours. More information can be found at https://bunnytoken.com/.
+    logoURI: null
+    name: BunnyToken
+    symbol: BUNNY
+    type: null

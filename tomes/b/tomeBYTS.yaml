@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x87f14e9460cecb789f1b125b2e3e353ff8ed6fcd'
+    chainId: null
+    decimals: null
+    description: Bytus (BYTS) is a cryptocurrency and operates on the Ethereum platform.
+      Bytus has a current supply of 66,000,000 with 0 in circulation. The last known
+      price of Bytus is 0.12071117 USD and is up 41.21 over the last 24 hours. It
+      is currently trading on 2 active market(s) with $422.45 traded over the last
+      24 hours. More information can be found at http://bytus.io.
+    logoURI: null
+    name: Bytus
+    symbol: BYTS
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xca694eb79ef355ea0999485d211e68f39ae98493'
+    chainId: null
+    decimals: null
+    description: Traceability Chain (TAC) is a cryptocurrency and operates on the
+      Ethereum platform. Traceability Chain has a current supply of 1,000,000,000
+      with 878,075,673.6940602 in circulation. The last known price of Traceability
+      Chain is 0.00159573 USD and is up 2.97 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $48.88 traded over the last 24 hours. More
+      information can be found at https://tacchain.cn.
+    logoURI: null
+    name: Traceability Chain
+    symbol: TAC
+    type: null

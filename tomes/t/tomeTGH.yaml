@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc83d46e4d1E290Fa414a5775D90D5d50745c3281'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Target Hit
+    symbol: TGH
+    type: null

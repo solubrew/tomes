@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc772aa1ae7C2fa5AedEa02bcf37D13E17fa50062'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: NMIToken
+    symbol: NMI
+    type: null

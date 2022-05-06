@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3218a02f8f8b5c3894ce30eb255f10bcba13e654'
+    chainId: null
+    decimals: null
+    description: MegaCryptoPolis (MEGA) is a cryptocurrency and operates on the Ethereum
+      platform. MegaCryptoPolis has a current supply of 0. The last known price of
+      MegaCryptoPolis is 5.55797358 USD and is up 0.44 over the last 24 hours. It
+      is currently trading on 2 active market(s) with $7,315.84 traded over the last
+      24 hours. More information can be found at https://mcp3d.com.
+    logoURI: null
+    name: MegaCryptoPolis
+    symbol: MEGA
+    type: null

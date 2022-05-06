@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x82b0E50478eeaFde392D45D1259Ed1071B6fDa81'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DNA Token
+    symbol: DNA
+    type: null

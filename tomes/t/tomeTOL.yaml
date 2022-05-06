@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd07d9fe2d2cc067015e2b4917d24933804f42cfa'
+    chainId: null
+    decimals: null
+    description: Tolar (TOL) is a cryptocurrency and operates on the Ethereum platform.
+      Tolar has a current supply of 775,641,659.9098012 with 230,503,764.17732924
+      in circulation. The last known price of Tolar is 0.00555909 USD and is down
+      -3.08 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $26,055.73 traded over the last 24 hours. More information can be found
+      at https://tolar.io.
+    logoURI: null
+    name: Tolar
+    symbol: TOL
+    type: null

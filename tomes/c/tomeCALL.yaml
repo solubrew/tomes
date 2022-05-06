@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbbe761ea1447a20b75aa485b7bcad4837415d7d7'
+    chainId: null
+    decimals: null
+    description: Global Crypto Alliance (CALL) is a cryptocurrency and operates on
+      the Ethereum platform. Global Crypto Alliance has a current supply of 777,000,000
+      with 78,358,515.4300001 in circulation. The last known price of Global Crypto
+      Alliance is 0.00015313 USD and is up 1.31 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $19.15 traded over the last 24 hours. More
+      information can be found at https://gcalliance.io/.
+    logoURI: null
+    name: Global Crypto Alliance
+    symbol: CALL
+    type: null

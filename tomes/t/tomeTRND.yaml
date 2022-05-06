@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc3dd23a0a854b4f9ae80670f528094e9eb607ccb'
+    chainId: null
+    decimals: null
+    description: Trendering (TRND) is a cryptocurrency and operates on the Ethereum
+      platform. Trendering has a current supply of 0. The last known price of Trendering
+      is 4.80281901 USD and is up 0.02 over the last 24 hours. It is currently trading
+      on 2 active market(s) with $9,007.31 traded over the last 24 hours. More information
+      can be found at https://trendering.com/.
+    logoURI: null
+    name: Trendering
+    symbol: TRND
+    type: null

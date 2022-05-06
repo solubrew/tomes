@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x72adadb447784dd7ab1f472467750fc485e4cb2d'
+    chainId: null
+    decimals: null
+    description: Worldcore (WRC) is a cryptocurrency and operates on the Ethereum
+      platform. Worldcore has a current supply of 245,209,299 with 178,103,291 in
+      circulation. The last known price of Worldcore is 0.00038301 USD and is up 1.42
+      over the last 24 hours. It is currently trading on 1 active market(s) with $0.38
+      traded over the last 24 hours. More information can be found at https://worldcore.eu.
+    logoURI: null
+    name: Worldcore
+    symbol: WRC
+    type: null

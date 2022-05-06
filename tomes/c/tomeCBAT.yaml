@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e'
+    chainId: null
+    decimals: null
+    description: Compound Basic Attention Token (CBAT) is a cryptocurrency and operates
+      on the Ethereum platform. Compound Basic Attention Token has a current supply
+      of 59,518,020,631 with 0 in circulation. The last known price of Compound Basic
+      Attention Token is 0.00475128 USD and is up 1.08 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $2,567.17 traded over the last
+      24 hours. More information can be found at https://compound.finance/.
+    logoURI: null
+    name: Compound Basic Attention Token
+    symbol: CBAT
+    type: null

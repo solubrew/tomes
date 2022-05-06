@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbd05cee8741100010d8e93048a80ed77645ac7bf'
+    chainId: null
+    decimals: null
+    description: Cyclops Treasure (CYTR) is a cryptocurrency and operates on the Ethereum
+      platform. Cyclops Treasure has a current supply of 1,000 with 0 in circulation.
+      The last known price of Cyclops Treasure is 269.16206698 USD and is down -0.27
+      over the last 24 hours. It is currently trading on 2 active market(s) with $4,436.94
+      traded over the last 24 hours. More information can be found at https://cyclops.finance/.
+    logoURI: null
+    name: Cyclops Treasure
+    symbol: CYTR
+    type: null

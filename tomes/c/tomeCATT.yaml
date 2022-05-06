@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6e605c269e0c92e70beeb85486f1fc550f9380bd'
+    chainId: null
+    decimals: null
+    description: Catex Token (CATT) is a cryptocurrency and operates on the Ethereum
+      platform. Catex Token has a current supply of 1,281,915,488 with 784,234,341
+      in circulation. The last known price of Catex Token is 0.00045188 USD and is
+      down -8.02 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $68,918.05 traded over the last 24 hours. More information can be found
+      at https://www.catex.io/.
+    logoURI: null
+    name: Catex Token
+    symbol: CATT
+    type: null

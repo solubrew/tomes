@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x875310F70edE3e5F79b20c2FFD9451DFE48B6730'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Average Joe
+    symbol: AVJO
+    type: null

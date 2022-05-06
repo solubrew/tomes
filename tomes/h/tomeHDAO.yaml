@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x74faab6986560fd1140508e4266d8a7b87274ffd'
+    chainId: null
+    decimals: null
+    description: HyperDAO (HDAO) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. HyperDAO has a current supply of 5,000,000,000 with
+      384,413,036.64481 in circulation. The last known price of HyperDAO is 0.01095781
+      USD and is down -12.92 over the last 24 hours. It is currently trading on 8
+      active market(s) with $567,776.40 traded over the last 24 hours. More information
+      can be found at http://www.hyperdao.com.
+    logoURI: null
+    name: HyperDAO
+    symbol: HDAO
+    type: null

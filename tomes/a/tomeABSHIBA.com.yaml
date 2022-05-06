@@ -1,0 +1,10 @@
+status: 'invalid'
+token:
+  '1':  #represents the first version of this token as some tokens are killed and reminted
+    address:
+    chainId: 1  #represents ethereum chain
+    decimals:  #this is actually stored in each transaction
+    logoURI:
+    name: ABSHIBA.com
+    symbol: ABSHIBA.com
+    type: ERC20

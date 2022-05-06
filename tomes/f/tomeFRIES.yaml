@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x393b312c01048b3ed2720bf1b090084c09e408a1'
+    chainId: null
+    decimals: null
+    description: fry.world (FRIES) is a cryptocurrency and operates on the Ethereum
+      platform. fry.world has a current supply of 50,600 with 0 in circulation. The
+      last known price of fry.world is 21.11251257 USD and is up 1.95 over the last
+      24 hours. It is currently trading on 4 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://fry.world.
+    logoURI: null
+    name: fry.world
+    symbol: FRIES
+    type: null

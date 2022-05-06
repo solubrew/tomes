@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5BF2390A68ab7Db7d27Ae81894C4E22E669aF236'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Coffee Token
+    symbol: CFT
+    type: null

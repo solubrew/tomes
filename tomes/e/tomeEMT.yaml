@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC9677Cd8e9652F1b1aaDd3429769b0Ef8D7A0425'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: EMT
+    type: null

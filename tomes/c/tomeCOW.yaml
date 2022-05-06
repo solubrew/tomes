@@ -1,0 +1,16 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0cc4f8735dae4b1ab7682cb05aeb19115e693e98'
+    chainId: null
+    decimals: null
+    description: Cowfarm is described as a protocol that allows users to place other
+      tokens into a contract for profits. Profit is calculated based on the user<apostrophe>s
+      time and stake.
+    logoURI: null
+    name: Cowfarm.finance
+    symbol: COW
+    type: null

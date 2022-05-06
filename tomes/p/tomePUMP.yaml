@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf36902f4a2f6ee8ca4f6bd5ecb3eb645b0342217'
+    chainId: null
+    decimals: null
+    description: Pumpanomics (PUMP) is a cryptocurrency and operates on the Ethereum
+      platform. Pumpanomics has a current supply of 1 with 0 in circulation. The last
+      known price of Pumpanomics is 23,878.76806829 USD and is up 4.93 over the last
+      24 hours. More information can be found at https://pumpanomics.finance/.
+    logoURI: null
+    name: Pumpanomics
+    symbol: PUMP
+    type: null

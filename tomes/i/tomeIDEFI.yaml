@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x14d10003807AC60d07BB0ba82cAeaC8d2087c157'
+    chainId: null
+    decimals: null
+    description: iDeFi (IDEFI) is a cryptocurrency and operates on the Ethereum platform.
+      iDeFi has a current supply of 0.04974231 with 0 in circulation. The last known
+      price of iDeFi is 1,862.06857534 USD and is down -0.18 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://www.synthetix.io/tokens/.
+    logoURI: null
+    name: iDeFi
+    symbol: IDEFI
+    type: null

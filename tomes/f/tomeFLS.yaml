@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x124a7F6d9855f595AB006258F1d5Cd5880637B86'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FLOS
+    symbol: FLS
+    type: null

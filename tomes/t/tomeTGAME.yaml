@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf8e06e4e4a80287fdca5b02dccecaa9d0954840f'
+    chainId: null
+    decimals: null
+    description: Truegame (TGAME) is a cryptocurrency and operates on the Ethereum
+      platform. Truegame has a current supply of 101,945,017 with 82,575,464 in circulation.
+      The last known price of Truegame is 0.0016558 USD and is up 5.60 over the last
+      24 hours. It is currently trading on 2 active market(s) with $5,427.79 traded
+      over the last 24 hours. More information can be found at https://ico.truegame.io/.
+    logoURI: null
+    name: Truegame
+    symbol: TGAME
+    type: null

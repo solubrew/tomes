@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0775c81a273b355e6a5b76e240bf708701f00279'
+    chainId: null
+    decimals: null
+    description: Bulleon (BUL) is a cryptocurrency and operates on the Ethereum platform.
+      Bulleon has a current supply of 1,160,000 with 1,096,352.67076049 in circulation.
+      The last known price of Bulleon is 0.00593395 USD and is up 1.31 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://bulleon.io/.
+    logoURI: null
+    name: Bulleon
+    symbol: BUL
+    type: null

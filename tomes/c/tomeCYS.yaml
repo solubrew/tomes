@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8C53931237b6360345b01F1CfA27f7B10f89Be78'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cycloshield Coin
+    symbol: CYS
+    type: null

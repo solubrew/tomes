@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc98e0639c6d2EC037A615341c369666B110e80E5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EXMR
+    symbol: EXMR
+    type: null

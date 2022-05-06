@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3Fb907e0D6247ACcc6374D99604fF1468E110bC3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: INFERNO
+    symbol: INFER
+    type: null

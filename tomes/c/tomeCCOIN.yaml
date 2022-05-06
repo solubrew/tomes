@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5E51F6841D2F188c42c7C33A6A5E77FB05cFbAbE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CREDITCOIN
+    symbol: CCOIN
+    type: null

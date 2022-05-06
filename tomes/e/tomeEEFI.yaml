@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x241609ad37a5038E459bDA70FFb1C052E76a1b8a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ethele Fire
+    symbol: EEFI
+    type: null

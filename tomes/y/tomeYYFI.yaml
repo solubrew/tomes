@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaF20b44C1C651D1d29cFB916eE2A0630B828Eb7A'
+    chainId: null
+    decimals: null
+    description: YYFI.Protocol (YYFI) is a cryptocurrency and operates on the Ethereum
+      platform. YYFI.Protocol has a current supply of 0. The last known price of YYFI.Protocol
+      is 0.11508862 USD and is down -25.34 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $209.91 traded over the last 24 hours. More
+      information can be found at https://yyfiprotocol.com/.
+    logoURI: null
+    name: YYFI.Protocol
+    symbol: YYFI
+    type: null

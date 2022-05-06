@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4'
+    chainId: null
+    decimals: null
+    description: TE-FOOD (TONE) is a cryptocurrency and operates on the Ethereum platform.
+      TE-FOOD has a current supply of 1,000,000,000 with 473,056,498 in circulation.
+      The last known price of TE-FOOD is 0.01372936 USD and is down -12.56 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $11,075.08
+      traded over the last 24 hours. More information can be found at https://www.te-food.com/.
+    logoURI: null
+    name: TE-FOOD
+    symbol: TONE
+    type: null

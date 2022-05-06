@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf071A4a5086A71Af034Ae895288DA437E2722469'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ChrisBell
+    symbol: BELL
+    type: null

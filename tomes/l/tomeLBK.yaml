@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9cb1aeafcc8a9406632c5b084246ea72f62d37b6'
+    chainId: null
+    decimals: null
+    description: LBK (LBK) is a cryptocurrency and operates on the Ethereum platform.
+      LBK has a current supply of 2,000,000,000 with 0 in circulation. The last known
+      price of LBK is 0.00690657 USD and is down -1.41 over the last 24 hours. It
+      is currently trading on 2 active market(s) with $103,594.59 traded over the
+      last 24 hours. More information can be found at https://www.lbank.info/.
+    logoURI: null
+    name: LBK
+    symbol: LBK
+    type: null

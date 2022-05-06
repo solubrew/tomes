@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc719d010b63e5bbf2c0551872cd5316ed26acd83'
+    chainId: null
+    decimals: null
+    description: Etherisc DIP Token (DIP) is a cryptocurrency and operates on the
+      Ethereum platform. Etherisc DIP Token has a current supply of 1,000,000,000
+      with 170,410,488.600821 in circulation. The last known price of Etherisc DIP
+      Token is 0.0924872 USD and is down -3.34 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $8,405.99 traded over the last 24 hours.
+      More information can be found at https://etherisc.com/.
+    logoURI: null
+    name: Etherisc DIP Token
+    symbol: DIP
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEF2463099360a085f1f10b076Ed72Ef625497a06'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Sharpe Platform Token
+    symbol: SHP
+    type: null

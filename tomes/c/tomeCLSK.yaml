@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBF3C268E7C7698882D1b8538d2c61C9C0077915C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CloudStack
+    symbol: CLSK
+    type: null

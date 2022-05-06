@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe7d324B2677440608fb871981B220ECa062c3FbF'
+    chainId: null
+    decimals: null
+    description: Bullswap Exchange (BVL) is a cryptocurrency launched in 1970and operates
+      on the Ethereum platform. Bullswap Exchange has a current supply of 0. The last
+      known price of Bullswap Exchange is 0.01902149 USD and is down -6.41 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $203,537.04
+      traded over the last 24 hours. More information can be found at https://bullswap.org/.
+    logoURI: null
+    name: Bullswap Exchange
+    symbol: BVL
+    type: null

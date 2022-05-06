@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf61F24c2d93bF2dE187546B14425BF631F28d6dC'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: WOWG
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4E4F2cf7C828E277b9a997261165fA7074ec66bF'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: educca
+    symbol: EDUC
+    type: null

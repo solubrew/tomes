@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83'
+    chainId: null
+    decimals: null
+    description: DFI.Money (YFII) is a cryptocurrency and operates on the Ethereum
+      platform. DFI.Money has a current supply of 39,375 with 38,596 in circulation.
+      The last known price of DFI.Money is 1,901.80380947 USD and is down -13.02 over
+      the last 24 hours. It is currently trading on 87 active market(s) with $175,303,931.65
+      traded over the last 24 hours. More information can be found at https://dfi.money/#/.
+    logoURI: null
+    name: DFI.Money
+    symbol: YFII
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1b80eeeadcc590f305945bcc258cfa770bbe1890'
+    chainId: null
+    decimals: null
+    description: Bitsdaq (BQQQ) is a cryptocurrency and operates on the Ethereum platform.
+      Bitsdaq has a current supply of 10,000,000,000 with 2,684,354,113 in circulation.
+      The last known price of Bitsdaq is 0.00014861 USD and is down -11.63 over the
+      last 24 hours. It is currently trading on 5 active market(s) with $26.06 traded
+      over the last 24 hours. More information can be found at https://bq.net/.
+    logoURI: null
+    name: Bitsdaq
+    symbol: BQQQ
+    type: null

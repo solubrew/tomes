@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x093C09f5919742f1cd0996781FEE72842Fc517B1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DivVC
+    symbol: DIV
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x155454DD1a347Ac93C3A0083871Bb8498e50df74'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TAOCOIN
+    symbol: TAO
+    type: null

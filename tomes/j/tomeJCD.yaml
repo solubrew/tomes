@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0Ed024d39d55e486573EE32e583bC37Eb5A6271f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: J Chan Dollar
+    symbol: JCD
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe947b388fbe682784170b62f2bd4665f9719a285'
+    chainId: null
+    decimals: null
+    description: Rally (RALLY) is a cryptocurrency and operates on the Ethereum platform.
+      Rally has a current supply of 5,000,000,000 with 0 in circulation. The last
+      known price of Rally is 0.00046042 USD and is up 0.00 over the last 24 hours.
+      It is currently trading on 0 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://www.rallyapp.com/.
+    logoURI: null
+    name: Rally
+    symbol: RALLY
+    type: null

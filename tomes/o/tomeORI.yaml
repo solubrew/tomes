@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49'
+    chainId: null
+    decimals: null
+    description: Origami (ORI) is a cryptocurrency and operates on the Ethereum platform.
+      Origami has a current supply of 5,527,379 with 4,225,879 in circulation. The
+      last known price of Origami is 0.16605135 USD and is up 5.17 over the last 24
+      hours. More information can be found at https://ori.network/.
+    logoURI: null
+    name: Origami
+    symbol: ORI
+    type: null

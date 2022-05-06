@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf3db7560e820834658b590c96234c333cd3d5e5e'
+    chainId: null
+    decimals: null
+    description: CoinPoker (CHP) is a cryptocurrency and operates on the Ethereum
+      platform. CoinPoker has a current supply of 278,237,314.35457474 with 271,638,611.9545747
+      in circulation. The last known price of CoinPoker is 0.00860566 USD and is down
+      -0.10 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $12,509.94 traded over the last 24 hours. More information can be found
+      at https://coinpoker.com/.
+    logoURI: null
+    name: CoinPoker
+    symbol: CHP
+    type: null

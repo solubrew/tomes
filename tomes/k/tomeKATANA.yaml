@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe6410569602124506658ff992f258616ea2d4a3d'
+    chainId: null
+    decimals: null
+    description: Katana Finance (KATANA) is a cryptocurrency and operates on the Ethereum
+      platform. Katana Finance has a current supply of 8,265,564.99 with 0 in circulation.
+      The last known price of Katana Finance is 0.00224608 USD and is up 4.93 over
+      the last 24 hours. More information can be found at https://katana.finance/.
+    logoURI: null
+    name: Katana Finance
+    symbol: KATANA
+    type: null

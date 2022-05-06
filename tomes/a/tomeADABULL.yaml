@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x43dE1145Cd22f0a9Cc99e51c205e6e81161Df6B9'
+    chainId: null
+    decimals: null
+    description: 3X Long Cardano Token (ADABULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Long Cardano Token has a current supply of 93.28263546
+      with 0 in circulation. The last known price of 3X Long Cardano Token is 1,792.9118793
+      USD and is up 11.08 over the last 24 hours. It is currently trading on 5 active
+      market(s) with $403,896.30 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/ADABULL.
+    logoURI: null
+    name: 3X Long Cardano Token
+    symbol: ADABULL
+    type: null

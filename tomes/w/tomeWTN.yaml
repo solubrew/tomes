@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0ea984e789302b7b612147e4e4144e64f21425eb'
+    chainId: null
+    decimals: null
+    description: Waletoken (WTN) is a cryptocurrency and operates on the Ethereum
+      platform. Waletoken has a current supply of 19,918,713,666.786705. The last
+      known price of Waletoken is 0.00000179 USD and is up 2.98 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $2,080.04 traded over the
+      last 24 hours. More information can be found at https://waletoken.com/.
+    logoURI: null
+    name: Waletoken
+    symbol: WTN
+    type: null

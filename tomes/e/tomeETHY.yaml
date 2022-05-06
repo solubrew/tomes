@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd1AFBCCC9A2c2187ea544363B986EA0AB6EF08B5'
+    chainId: null
+    decimals: null
+    description: Ethereum Yield (ETHY) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. Ethereum Yield has a current supply of 500,000 with
+      100,000 in circulation. The last known price of Ethereum Yield is 15.39597243
+      USD and is up 65.47 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $1,141,103.94 traded over the last 24 hours. More information
+      can be found at https://ethereumyield.farm.
+    logoURI: null
+    name: Ethereum Yield
+    symbol: ETHY
+    type: null

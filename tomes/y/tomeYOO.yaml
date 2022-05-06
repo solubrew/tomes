@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1D4105534dA120DA243281cfC3f26Aaf038E2D6f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Yooba token
+    symbol: YOO
+    type: null

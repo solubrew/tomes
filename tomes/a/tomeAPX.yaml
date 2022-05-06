@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1239562AbE89Ff62016AE23d4E6Eef12b915295c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: APEX
+    symbol: APX
+    type: null

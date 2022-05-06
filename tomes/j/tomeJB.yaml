@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEa9557B1fbC765419c7dC6B4E6a9A3d8A6463f32'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Jack block
+    symbol: JB
+    type: null

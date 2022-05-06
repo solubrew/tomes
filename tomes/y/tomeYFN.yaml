@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3709ae438e0557976296051f431256f386de370c'
+    chainId: null
+    decimals: null
+    description: Yearn Finance Network (YFN) is a cryptocurrency and operates on the
+      Ethereum platform. Yearn Finance Network has a current supply of 0. The last
+      known price of Yearn Finance Network is 0.47824316 USD and is down -44.00 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $49.65
+      traded over the last 24 hours. More information can be found at https://www.yfnetworkdefi.com.
+    logoURI: null
+    name: Yearn Finance Network
+    symbol: YFN
+    type: null

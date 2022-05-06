@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeC46f8207D766012454c408De210BCBc2243E71c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Nitro
+    symbol: NOX
+    type: null

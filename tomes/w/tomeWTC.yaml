@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74'
+    chainId: null
+    decimals: null
+    description: Waltonchain (WTC) is a cryptocurrency and operates on the Ethereum
+      platform. Waltonchain has a current supply of 100,000,000 with 72,133,493 in
+      circulation. The last known price of Waltonchain is 0.36509713 USD and is up
+      4.33 over the last 24 hours. It is currently trading on 39 active market(s)
+      with $1,527,840.45 traded over the last 24 hours. More information can be found
+      at http://www.waltonchain.org/.
+    logoURI: null
+    name: Waltonchain
+    symbol: WTC
+    type: null

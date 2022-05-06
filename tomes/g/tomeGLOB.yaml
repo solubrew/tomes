@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x45f2ab0ca2116b2e1a70bf5e13293947b25d0272'
+    chainId: null
+    decimals: null
+    description: Global Reserve System (GLOB) is a cryptocurrency and operates on
+      the Ethereum platform. Global Reserve System has a current supply of 10,000,000
+      with 0 in circulation. The last known price of Global Reserve System is 18.0597376
+      USD and is up 1.55 over the last 24 hours. It is currently trading on 6 active
+      market(s) with $0.00 traded over the last 24 hours. More information can be
+      found at https://globreserve.github.io/.
+    logoURI: null
+    name: Global Reserve System
+    symbol: GLOB
+    type: null

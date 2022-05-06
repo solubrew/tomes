@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x19b86299c21505cdf59cE63740B240A9C822b5E4'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: TOONZ
+    type: null

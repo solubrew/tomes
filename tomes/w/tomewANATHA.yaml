@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20'
+    chainId: null
+    decimals: null
+    description: Anatha (wANATHA) is a cryptocurrency and operates on the Ethereum
+      platform. Anatha has a current supply of 0. The last known price of Anatha is
+      0.03037616 USD and is up 4.93 over the last 24 hours. More information can be
+      found at https://anatha.io/platform.
+    logoURI: null
+    name: Anatha
+    symbol: wANATHA
+    type: null

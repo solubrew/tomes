@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x63e634330a20150dbb61b15648bc73855d6ccf07'
+    chainId: null
+    decimals: null
+    description: Blocklancer (LNC) is a cryptocurrency and operates on the Ethereum
+      platform. Blocklancer has a current supply of 152,177,339.13722232 with 120,140,384.18328851
+      in circulation. The last known price of Blocklancer is 0.00038285 USD and is
+      up 102.63 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $16.79 traded over the last 24 hours. More information can be found at
+      https://blocklancer.net.
+    logoURI: null
+    name: Blocklancer
+    symbol: LNC
+    type: null

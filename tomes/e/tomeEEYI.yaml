@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE784824946AB8D8204eff386D2740FDfbCe48C00'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ethele Yin
+    symbol: EEYI
+    type: null

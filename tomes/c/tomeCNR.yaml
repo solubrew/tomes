@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcE27A2388D2ba7a9995fa0960FB168568e2a7923'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cinder
+    symbol: CNR
+    type: null

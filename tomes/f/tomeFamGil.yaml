@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1e171f25254178C0E07ce6A059d3a192574E5714'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Familia Gil
+    symbol: FamGil
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5e040aC72140F0617bC24aB7134c0C6eCae0e965'
+    chainId: null
+    decimals: null
+    description: Folgory Coin (FLG) is a cryptocurrency and operates on the Ethereum
+      platform. Folgory Coin has a current supply of 100,000,000 with 17,525,493.22641477
+      in circulation. The last known price of Folgory Coin is 1.35033206 USD and is
+      up 1.23 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $301,742.71 traded over the last 24 hours. More information can be found
+      at https://folgory.com.
+    logoURI: null
+    name: Folgory Coin
+    symbol: FLG
+    type: null

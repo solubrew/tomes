@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcb39c3502415152b2ec90ff07ee18cc94f681a72'
+    chainId: null
+    decimals: null
+    description: Storeum (STO) is a cryptocurrency and operates on the Ethereum platform.
+      Storeum has a current supply of 279,000,000 with 278,998,364 in circulation.
+      The last known price of Storeum is 0.00001179 USD and is up 97.68 over the last
+      24 hours. It is currently trading on 1 active market(s) with $42.74 traded over
+      the last 24 hours. More information can be found at http://storeum.co/.
+    logoURI: null
+    name: Storeum
+    symbol: STO
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x13F1b7FDFbE1fc66676D56483e21B1ecb40b58E2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Accelerator
+    symbol: ACC
+    type: null

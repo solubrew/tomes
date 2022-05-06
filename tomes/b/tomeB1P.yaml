@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4b742b5bdb1d252907ae7f399a891d4a178dbc24'
+    chainId: null
+    decimals: null
+    description: B ONE PAYMENT (B1P) is a cryptocurrency launched in 2018and operates
+      on the Ethereum platform. B ONE PAYMENT has a current supply of 21,000,000 with
+      0 in circulation. The last known price of B ONE PAYMENT is 0.0030686 USD and
+      is up 13.75 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $1.13 traded over the last 24 hours. More information can be found at https://www.bonepayment.com.
+    logoURI: null
+    name: B ONE PAYMENT
+    symbol: B1P
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa9598333b99d14d90bc81cad8af82c4c70625e75'
+    chainId: null
+    decimals: null
+    description: Metis (MTS) is a cryptocurrency and operates on the Ethereum platform.
+      Metis has a current supply of 0. The last known price of Metis is 3.68899686
+      USD and is up 0.33 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $1,422,763.55 traded over the last 24 hours. More information
+      can be found at https://wemetis.com.
+    logoURI: null
+    name: Metis
+    symbol: MTS
+    type: null

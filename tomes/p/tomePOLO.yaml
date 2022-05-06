@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA8C5Bd47da1aBC3F4C0c1c86dDF0Ef24114C9970'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Las Vegas Polo Assn
+    symbol: POLO
+    type: null

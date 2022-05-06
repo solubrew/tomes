@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac'
+    chainId: null
+    decimals: null
+    description: Metric (METRIC) is a cryptocurrency and operates on the Ethereum
+      platform. Metric has a current supply of 1,000,000 with 419,399.77231585 in
+      circulation. The last known price of Metric is 0.44239154 USD and is up 133.89
+      over the last 24 hours. It is currently trading on 1 active market(s) with $13,629.52
+      traded over the last 24 hours. More information can be found at https://metric.exchange/.
+    logoURI: null
+    name: Metric
+    symbol: METRIC
+    type: null

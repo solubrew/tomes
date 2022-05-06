@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x713A1c4876673a982a828753166C452BA9721994'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: https://findtherabbit.me
+    symbol: findtherabbit.me
+    type: null

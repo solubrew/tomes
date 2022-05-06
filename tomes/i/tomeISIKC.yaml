@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x42726d074BBa68Ccc15200442B72Afa2D495A783'
+    chainId: null
+    decimals: null
+    description: Isiklar Coin (ISIKC) is a cryptocurrency and operates on the Ethereum
+      platform. Isiklar Coin has a current supply of 100,000,000 with 2,356,240 in
+      circulation. The last known price of Isiklar Coin is 0.53941351 USD and is up
+      1.74 over the last 24 hours. It is currently trading on 3 active market(s) with
+      $44,067.51 traded over the last 24 hours. More information can be found at https://www.isikc.io.
+    logoURI: null
+    name: Isiklar Coin
+    symbol: ISIKC
+    type: null

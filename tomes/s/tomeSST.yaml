@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xacBccBF7494DF0B2aa37BD69D45161a3C36423Da'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: StarShineToken
+    symbol: SST
+    type: null

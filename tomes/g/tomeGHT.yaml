@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbe30f684d62c9f7883a75a29c162c332c0d98f23'
+    chainId: null
+    decimals: null
+    description: Global Human Trust (GHT) is a cryptocurrency and operates on the
+      Ethereum platform. Global Human Trust has a current supply of 50,000,000 with
+      0 in circulation. The last known price of Global Human Trust is 42.60485219
+      USD and is up 0.21 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $22,367.62 traded over the last 24 hours. More information can
+      be found at https://ght.dtsgroup.co.nz/.
+    logoURI: null
+    name: Global Human Trust
+    symbol: GHT
+    type: null

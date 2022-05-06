@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd7DE455AcaFf66370f91D90DD0dF8F07D3C84FE7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PenniHungary
+    symbol: PHU
+    type: null

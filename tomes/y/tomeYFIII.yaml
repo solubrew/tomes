@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4be40bc9681d0a7c24a99b4c92f85b9053fc2a45'
+    chainId: null
+    decimals: null
+    description: DiFy.Finance (YFIII) is a cryptocurrency and operates on the Ethereum
+      platform. DiFy.Finance has a current supply of 30,000 with 7,990.29895866 in
+      circulation. The last known price of DiFy.Finance is 282.17650437 USD and is
+      up 10.64 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $452,498.63 traded over the last 24 hours. More information can be found
+      at https://dify.finance.
+    logoURI: null
+    name: DiFy.Finance
+    symbol: YFIII
+    type: null

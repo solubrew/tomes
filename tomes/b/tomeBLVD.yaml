@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3afe25a2739B5C2E08CFec439F9621D91Ff7FBFb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BULVRD
+    symbol: BLVD
+    type: null

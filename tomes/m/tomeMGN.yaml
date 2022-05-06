@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb9625381f086e7B8512e4825f6Af1117E9c84D43'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Magnolia Token
+    symbol: MGN
+    type: null

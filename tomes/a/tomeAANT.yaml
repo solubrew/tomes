@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBE22eC66710CAa72aB690BF816F8BCe785fbBac2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Add A New Token
+    symbol: AANT
+    type: null

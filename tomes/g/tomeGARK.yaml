@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xffd6f608907914975b3713c89211faf2c70ece05'
+    chainId: null
+    decimals: null
+    description: Game Ark (GARK) is a cryptocurrency and operates on the Ethereum
+      platform. Game Ark has a current supply of 2,000,000,000 with 0 in circulation.
+      The last known price of Game Ark is 0.03382129 USD and is up 2.83 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://www.tadpolechain.com/.
+    logoURI: null
+    name: Game Ark
+    symbol: GARK
+    type: null

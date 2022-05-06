@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x76574c7b61b07ba14eace42e60cc73a08038da85'
+    chainId: null
+    decimals: null
+    description: All.me (ME) is a cryptocurrency and operates on the Ethereum platform.
+      All.me has a current supply of 0. The last known price of All.me is 0.01359246
+      USD and is up 2.83 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $180,607.73 traded over the last 24 hours. More information can
+      be found at https://all.me.
+    logoURI: null
+    name: All.me
+    symbol: ME
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xad32a8e6220741182940c5abf610bde99e737b2d'
+    chainId: null
+    decimals: null
+    description: ''
+    logoURI: null
+    name: PieDAO DOUGH v2 Token
+    symbol: DOUGH
+    type: null

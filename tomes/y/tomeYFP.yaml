@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x96d62cdcd1cc49cb6ee99c867cb8812bea86b9fa'
+    chainId: null
+    decimals: null
+    description: Yearn Finance Protocol (YFP) is a cryptocurrency and operates on
+      the Ethereum platform. Yearn Finance Protocol has a current supply of 440,748
+      with 0 in circulation. The last known price of Yearn Finance Protocol is 0.11130979
+      USD and is up 2.95 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $1.84 traded over the last 24 hours. More information can be
+      found at https://www.yfprotocol.finance/.
+    logoURI: null
+    name: Yearn Finance Protocol
+    symbol: YFP
+    type: null

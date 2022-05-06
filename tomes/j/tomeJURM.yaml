@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x34Dd5EDfED51c632d1d4d2502bC901EfB5fdfCD4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Juriseum
+    symbol: JURM
+    type: null

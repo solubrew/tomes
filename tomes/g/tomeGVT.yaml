@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFBb9CB6aC0cfe4188fbD6B5f95E6fd190567Aea5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Givet
+    symbol: GVT
+    type: null

@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc2e9678A71e50E5AEd036e00e9c5caeb1aC5987D'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: zNS
+    type: null

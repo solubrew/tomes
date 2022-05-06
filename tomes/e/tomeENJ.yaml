@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Enjin Coin
+    symbol: ENJ
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d'
+    chainId: null
+    decimals: null
+    description: TEMCO (TEMCO) is a cryptocurrency and operates on the Ethereum platform.
+      TEMCO has a current supply of 6,000,000,000 with 3,264,257,376.1136036 in circulation.
+      The last known price of TEMCO is 0.00223628 USD and is down -0.87 over the last
+      24 hours. It is currently trading on 2 active market(s) with $273,678.50 traded
+      over the last 24 hours. More information can be found at https://www.temco.io.
+    logoURI: null
+    name: TEMCO
+    symbol: TEMCO
+    type: null

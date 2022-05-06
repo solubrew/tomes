@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc741f06082aa47f93729070ad0dd95e223bda091'
+    chainId: null
+    decimals: null
+    description: Education Ecosystem (LEDU) is a cryptocurrency and operates on the
+      Ethereum platform. Education Ecosystem has a current supply of 362,983,094 with
+      222,459,521.100772 in circulation. The last known price of Education Ecosystem
+      is 0.00708923 USD and is up 2.26 over the last 24 hours. It is currently trading
+      on 4 active market(s) with $80,090.21 traded over the last 24 hours. More information
+      can be found at https://ledu.education-ecosystem.com/.
+    logoURI: null
+    name: Education Ecosystem
+    symbol: LEDU
+    type: null

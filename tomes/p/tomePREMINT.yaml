@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe0176bA60efddb29Cac5b15338C9962dAee9de0c'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: PREMINT
+    type: null

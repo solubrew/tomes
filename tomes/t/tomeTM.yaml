@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x554b520b298bE389f0D87BF3376eb4d6510456Ec'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Tokenmom
+    symbol: TM
+    type: null

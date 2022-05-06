@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x026e62dded1a6ad07d93d39f96b9eabd59665e0d'
+    chainId: null
+    decimals: null
+    description: Birdchain (BIRD) is a cryptocurrency and operates on the Ethereum
+      platform. Birdchain has a current supply of 287,504,829.4830753 with 163,539,050.94745174
+      in circulation. The last known price of Birdchain is 0.00051826 USD and is up
+      23.63 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $512.75 traded over the last 24 hours. More information can be found at
+      https://www.birdchainapp.com/.
+    logoURI: null
+    name: Birdchain
+    symbol: BIRD
+    type: null

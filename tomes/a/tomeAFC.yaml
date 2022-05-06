@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf576ff0d7e4c1e8f27dbd50321e95e36a965985f'
+    chainId: null
+    decimals: null
+    description: Apiary Fund Coin (AFC) is a cryptocurrency and operates on the Ethereum
+      platform. Apiary Fund Coin has a current supply of 200,000,000 with 0 in circulation.
+      The last known price of Apiary Fund Coin is 1.31951928 USD and is down -8.15
+      over the last 24 hours. It is currently trading on 8 active market(s) with $116,847.67
+      traded over the last 24 hours. More information can be found at https://afcoin.uk/.
+    logoURI: null
+    name: Apiary Fund Coin
+    symbol: AFC
+    type: null

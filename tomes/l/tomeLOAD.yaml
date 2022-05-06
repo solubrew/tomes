@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa883e72c12473ded50a5fbffa60e4000fa5fe3c8'
+    chainId: null
+    decimals: null
+    description: Load Network (LOAD) is a cryptocurrency and operates on the Ethereum
+      platform. Load Network has a current supply of 0. The last known price of Load
+      Network is 0.04706771 USD and is down -8.23 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $1,962.02 traded over the last 24 hours.
+      More information can be found at https://load.network.
+    logoURI: null
+    name: Load Network
+    symbol: LOAD
+    type: null

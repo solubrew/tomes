@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x301C755bA0fcA00B1923768Fffb3Df7f4E63aF31'
+    chainId: null
+    decimals: null
+    description: Global Digital Content (GDC) is a cryptocurrency and operates on
+      the Ethereum platform. Global Digital Content has a current supply of 4,765,815,835.808755
+      with 3,209,198,932.783972 in circulation. The last known price of Global Digital
+      Content is 0.00240365 USD and is down -0.28 over the last 24 hours. It is currently
+      trading on 5 active market(s) with $13,443.63 traded over the last 24 hours.
+      More information can be found at http://gdctoken.io/.
+    logoURI: null
+    name: Global Digital Content
+    symbol: GDC
+    type: null

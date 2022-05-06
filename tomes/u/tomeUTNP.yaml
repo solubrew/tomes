@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7'
+    chainId: null
+    decimals: null
+    description: Universa (UTNP) is a cryptocurrency and operates on the Ethereum
+      platform. Universa has a current supply of 4,997,891,952 with 3,160,240,003.4
+      in circulation. The last known price of Universa is 0.0015226 USD and is down
+      -6.89 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $50,016.43 traded over the last 24 hours. More information can be found
+      at https://universablockchain.com/.
+    logoURI: null
+    name: Universa
+    symbol: UTNP
+    type: null

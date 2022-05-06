@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd1146B08e8104EeDBa44a73B7bda1d102c6ceDC9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: USDB / BNT Relay Token
+    symbol: USDB / BNT
+    type: null

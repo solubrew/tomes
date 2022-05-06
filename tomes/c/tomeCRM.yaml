@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x173D62725713053B2c53Fd2E59093098ED9E9e7E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CRAM
+    symbol: CRM
+    type: null

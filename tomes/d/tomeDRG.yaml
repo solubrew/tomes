@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x814f67fa286f7572b041d041b1d99b432c9155ee'
+    chainId: null
+    decimals: null
+    description: Dragon Coins (DRG) is a cryptocurrency and operates on the Ethereum
+      platform. Dragon Coins has a current supply of 442,695,970.07088 with 348,657,484.0176098
+      in circulation. The last known price of Dragon Coins is 0.0116382 USD and is
+      up 1.11 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $2,461.05 traded over the last 24 hours. More information can be found
+      at https://drgtoken.io/.
+    logoURI: null
+    name: Dragon Coins
+    symbol: DRG
+    type: null

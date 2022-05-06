@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0F4CA92660Efad97a9a70CB0fe969c755439772C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Leverj
+    symbol: LEV
+    type: null

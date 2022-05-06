@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Quantstamp Token
+    symbol: QSP
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9B8D5f3402F74C7a61d9f09c32D3cA07b45c1466'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GimmerToken
+    symbol: GMR
+    type: null

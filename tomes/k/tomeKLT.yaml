@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf0e2a09Ce1ecEfE248bD1eE9eD26afafC23a4869'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Kringle Liquidity Token
+    symbol: KLT
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672'
+    chainId: null
+    decimals: null
+    description: Faceter (FACE) is a cryptocurrency and operates on the Ethereum platform.
+      Faceter has a current supply of 938,538,326 with 470,520,275.16 in circulation.
+      The last known price of Faceter is 0.00092513 USD and is up 6.80 over the last
+      24 hours. It is currently trading on 2 active market(s) with $625.09 traded
+      over the last 24 hours. More information can be found at https://tokensale.faceter.io/.
+    logoURI: null
+    name: Faceter
+    symbol: FACE
+    type: null

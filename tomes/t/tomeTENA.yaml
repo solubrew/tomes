@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE14A603f7c77d4101A87859b8736a04CFD85C688'
+    chainId: null
+    decimals: null
+    description: TENA (TENA) is a cryptocurrency and operates on the Ethereum platform.
+      TENA has a current supply of 5,000,000 with 2,672,525.5601962 in circulation.
+      The last known price of TENA is 0.03064031 USD and is up 1.48 over the last
+      24 hours. It is currently trading on 1 active market(s) with $10.05 traded over
+      the last 24 hours. More information can be found at https://tenaprotocol.io/.
+    logoURI: null
+    name: TENA
+    symbol: TENA
+    type: null

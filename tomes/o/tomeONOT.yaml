@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb31c219959e06f9afbeb36b388a4bad13e802725'
+    chainId: null
+    decimals: null
+    description: ONOToken (ONOT) is a cryptocurrency and operates on the Ethereum
+      platform. ONOToken has a current supply of 75,000,000,000 with 17,942,419,248.971867
+      in circulation. The last known price of ONOToken is 0.00018829 USD and is up
+      132.62 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $7,912.67 traded over the last 24 hours. More information can be found
+      at https://www.ono.chat/en/.
+    logoURI: null
+    name: ONOToken
+    symbol: ONOT
+    type: null

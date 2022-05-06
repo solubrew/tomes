@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCd254568EBF88f088E40f456db9E17731243cb25'
+    chainId: null
+    decimals: null
+    description: YFOS.finance (YFOS) is a cryptocurrency and operates on the Ethereum
+      platform. YFOS.finance has a current supply of 50,000 with 0 in circulation.
+      The last known price of YFOS.finance is 5.62223441 USD and is down -7.29 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $1,173.26
+      traded over the last 24 hours. More information can be found at https://yfos.finance/.
+    logoURI: null
+    name: YFOS.finance
+    symbol: YFOS
+    type: null

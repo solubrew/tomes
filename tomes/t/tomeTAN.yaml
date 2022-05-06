@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2c36204a0712a2a50e54a62f7c4f01867e78cb53'
+    chainId: null
+    decimals: null
+    description: Taklimakan Network (TAN) is a cryptocurrency and operates on the
+      Ethereum platform. Taklimakan Network has a current supply of 348,942,180 with
+      45,942,179.99999994 in circulation. The last known price of Taklimakan Network
+      is 0.004016 USD and is up 5.38 over the last 24 hours. It is currently trading
+      on 3 active market(s) with $55,287.78 traded over the last 24 hours. More information
+      can be found at https://taklimakan.network/.
+    logoURI: null
+    name: Taklimakan Network
+    symbol: TAN
+    type: null

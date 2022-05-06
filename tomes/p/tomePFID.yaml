@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x87c4bd3038176301e81e6682ce51a6fdaefabd0c'
+    chainId: null
+    decimals: null
+    description: Pofid Dao (PFID) is a cryptocurrency and operates on the Ethereum
+      platform. Pofid Dao has a current supply of 300,000 with 0 in circulation. The
+      last known price of Pofid Dao is 6.73040066 USD and is up 12.75 over the last
+      24 hours. It is currently trading on 3 active market(s) with $120,441.39 traded
+      over the last 24 hours. More information can be found at http://pofid.com/.
+    logoURI: null
+    name: Pofid Dao
+    symbol: PFID
+    type: null

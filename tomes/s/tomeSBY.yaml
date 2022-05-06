@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfF48643575fc19Cf51FE247c0b2A7DDF0Fd7181a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Swingby Token (ERC20)
+    symbol: SBY
+    type: null

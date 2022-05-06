@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x049b8a66fe1Bf8bE509D5C454c83547C4f0c1190'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Crypto Credit Swap
+    symbol: CCS
+    type: null

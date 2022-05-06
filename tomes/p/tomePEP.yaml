@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBb0eF9e617FADdf54B8D16e29046F72B4D3ec77F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PEP Token
+    symbol: PEP
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0ee11500e7cfe6124e3716cd7755a0f0f2116244'
+    chainId: null
+    decimals: null
+    description: WXCOINS (WXC) is a cryptocurrency and operates on the Ethereum platform.
+      Users are able to generate WXC through the process of mining. WXCOINS has a
+      current supply of 31,000,000. The last known price of WXCOINS is 0.00001916
+      USD and is down -75.45 over the last 24 hours. It is currently trading on 2
+      active market(s) with $0.23 traded over the last 24 hours. More information
+      can be found at https://wxcoins.org/.
+    logoURI: null
+    name: WXCOINS
+    symbol: WXC
+    type: null

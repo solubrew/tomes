@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcD3673aF09e76C74d889aaBab68cA0645566A3a1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Unicorn Candy Coin
+    symbol: Candy
+    type: null

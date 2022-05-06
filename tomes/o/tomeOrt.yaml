@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x44c5C863Fc9082887c1bA507feA3E19039a72186'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ortier
+    symbol: Ort
+    type: null

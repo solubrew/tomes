@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x47d1a59cbdd19aee060c859c0009277e245328ae'
+    chainId: null
+    decimals: null
+    description: SONDER (SNR) is a cryptocurrency and operates on the Ethereum platform.
+      SONDER has a current supply of 240,000,000 with 168,879,121 in circulation.
+      The last known price of SONDER is 0.00011685 USD and is up 3.06 over the last
+      24 hours. More information can be found at https://sonder.vision.
+    logoURI: null
+    name: SONDER
+    symbol: SNR
+    type: null

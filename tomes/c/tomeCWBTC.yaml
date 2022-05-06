@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc11b1268c1a384e55c48c2391d8d480264a3a7f4'
+    chainId: null
+    decimals: null
+    description: Compound Wrapped BTC (CWBTC) is a cryptocurrency and operates on
+      the Ethereum platform. Compound Wrapped BTC has a current supply of 159,290
+      with 0 in circulation. The last known price of Compound Wrapped BTC is 386.60866909
+      USD and is up 1.33 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $161,081.41 traded over the last 24 hours. More information can
+      be found at https://compound.finance/.
+    logoURI: null
+    name: Compound Wrapped BTC
+    symbol: CWBTC
+    type: null

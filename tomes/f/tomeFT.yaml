@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x78a73B6CBc5D183CE56e786f6e905CaDEC63547B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Fabric Token
+    symbol: FT
+    type: null

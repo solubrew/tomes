@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x059EDD72Cd353dF5106D2B9cC5ab83a52287aC3a'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: BLOCKS
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2494a68C1484376fEf880b4c24D91f049d29B02A'
+    chainId: null
+    decimals: null
+    description: The Transfer Token (TTT) is a cryptocurrency and operates on the
+      Ethereum platform. The Transfer Token has a current supply of 2,000,000,000
+      with 44,458,111 in circulation. The last known price of The Transfer Token is
+      1.01975225 USD and is down -3.90 over the last 24 hours. It is currently trading
+      on 4 active market(s) with $1,675,238.53 traded over the last 24 hours. More
+      information can be found at https://www.atom-solutions.jp/en/xecttt/.
+    logoURI: null
+    name: The Transfer Token
+    symbol: TTT
+    type: null

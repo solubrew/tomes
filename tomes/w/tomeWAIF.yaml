@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb2279b6769cfba691416f00609b16244c0cf4b20'
+    chainId: null
+    decimals: null
+    description: Waifu Token (WAIF) is a cryptocurrency and operates on the Ethereum
+      platform. Waifu Token has a current supply of 0. The last known price of Waifu
+      Token is 0.00072685 USD and is up 4.83 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $13,613.35 traded over the last 24 hours.
+      More information can be found at https://waifutoken.io.
+    logoURI: null
+    name: Waifu Token
+    symbol: WAIF
+    type: null

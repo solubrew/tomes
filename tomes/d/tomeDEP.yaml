@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1a3496c18d558bd9c6c8f609e1b129f67ab08163'
+    chainId: null
+    decimals: null
+    description: DEAPcoin (DEP) is a cryptocurrency launched in 2019and operates on
+      the Ethereum platform. DEAPcoin has a current supply of 30,000,000,000 with
+      882,771,017.068 in circulation. The last known price of DEAPcoin is 0.00513012
+      USD and is up 0.71 over the last 24 hours. It is currently trading on 7 active
+      market(s) with $985,598.84 traded over the last 24 hours. More information can
+      be found at https://dea.sg/.
+    logoURI: null
+    name: DEAPcoin
+    symbol: DEP
+    type: null

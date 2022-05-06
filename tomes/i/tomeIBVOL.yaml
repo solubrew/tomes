@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x627e2ee3dbda546e168eaaff25a2c5212e4a95a0'
+    chainId: null
+    decimals: null
+    description: Inverse Bitcoin Volatility Token (IBVOL) is a cryptocurrency and
+      operates on the Ethereum platform. Inverse Bitcoin Volatility Token has a current
+      supply of 211.33235539 with 0 in circulation. The last known price of Inverse
+      Bitcoin Volatility Token is 6,618.18475102 USD and is up 3.71 over the last
+      24 hours. It is currently trading on 4 active market(s) with $2,812.46 traded
+      over the last 24 hours.
+    logoURI: null
+    name: Inverse Bitcoin Volatility Token
+    symbol: IBVOL
+    type: null

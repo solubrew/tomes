@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a'
+    chainId: null
+    decimals: null
+    description: Valor Token (VALOR) is a cryptocurrency and operates on the Ethereum
+      platform. Valor Token has a current supply of 75,000,000 with 20,036,000.0002
+      in circulation. The last known price of Valor Token is 0.31411321 USD and is
+      up 0.65 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $330,177.89 traded over the last 24 hours. More information can be found
+      at https://smartvalor.com/en/.
+    logoURI: null
+    name: Valor Token
+    symbol: VALOR
+    type: null

@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x026f8d523d49f36db657e012c96488465d8d88f9'
+    chainId: null
+    decimals: null
+    description: Odyssey (ODY) is a cryptocurrency launched in 2019and operates on
+      the Ethereum platform. Odyssey has a current supply of 180,000,000 with 0 in
+      circulation. The last known price of Odyssey is 0.01321506 USD and is down -0.06
+      over the last 24 hours. More information can be found at https://odysseia.top.
+    logoURI: null
+    name: Odyssey
+    symbol: ODY
+    type: null

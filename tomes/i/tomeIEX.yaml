@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa581B8Dac454842FF92CA92Ff4e2544E1b36e6AB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: International Exchange
+    symbol: IEX
+    type: null

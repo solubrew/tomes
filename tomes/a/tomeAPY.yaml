@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x95a4492F028aa1fd432Ea71146b433E7B4446611'
+    chainId: null
+    decimals: null
+    description: APY.Finance (APY) is a cryptocurrency and operates on the Ethereum
+      platform. APY.Finance has a current supply of 100,000,000 with 8,476,869.52216301
+      in circulation. The last known price of APY.Finance is 0.34909618 USD and is
+      up 5.93 over the last 24 hours. It is currently trading on 9 active market(s)
+      with $522,074.09 traded over the last 24 hours. More information can be found
+      at https://apy.finance/.
+    logoURI: null
+    name: APY.Finance
+    symbol: APY
+    type: null

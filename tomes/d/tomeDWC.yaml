@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc626c9e2247c8a0c863ad6daa97ed939e12786de'
+    chainId: null
+    decimals: null
+    description: Digital Wallet (DWC) is a cryptocurrency and operates on the Ethereum
+      platform. Digital Wallet has a current supply of 0. The last known price of
+      Digital Wallet is 0.04008381 USD and is down -0.01 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $0.00 traded over the last 24
+      hours. More information can be found at https://www.dwcproject.com.
+    logoURI: null
+    name: Digital Wallet
+    symbol: DWC
+    type: null

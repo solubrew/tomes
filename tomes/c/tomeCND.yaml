@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd4c435F5B09F855C3317c8524Cb1F586E42795fa'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cindicator Token
+    symbol: CND
+    type: null

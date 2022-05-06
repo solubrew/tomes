@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8a6ACA71A218301c7081d4e96D64292D3B275ce0'
+    chainId: null
+    decimals: null
+    description: S.Finance (SFG) is a cryptocurrency and operates on the Ethereum
+      platform. S.Finance has a current supply of 21,000,000 with 84,903 in circulation.
+      The last known price of S.Finance is 0.53905218 USD and is up 2.50 over the
+      last 24 hours. It is currently trading on 8 active market(s) with $4,412,803.36
+      traded over the last 24 hours. More information can be found at https://s.finance.
+    logoURI: null
+    name: S.Finance
+    symbol: SFG
+    type: null

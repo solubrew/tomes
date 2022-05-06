@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xab7aaf9e485a3bc885985184abe9fc6aba727bd6'
+    chainId: null
+    decimals: null
+    description: MANY (MANY) is a cryptocurrency and operates on the Ethereum platform.
+      MANY has a current supply of 600,000 with 0 in circulation. The last known price
+      of MANY is 0.04279327 USD and is up 26.35 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $931.85 traded over the last 24 hours. More
+      information can be found at http://www.many.global.
+    logoURI: null
+    name: MANY
+    symbol: MANY
+    type: null

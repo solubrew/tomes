@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5a1a29dbb6ad6153db764568c1289076bc876df6'
+    chainId: null
+    decimals: null
+    description: Nework (NKC) is a cryptocurrency and operates on the Ethereum platform.
+      Nework has a current supply of 1,000,000,000 with 147,586,171.921641 in circulation.
+      The last known price of Nework is 0.00494536 USD and is up 2.77 over the last
+      24 hours. It is currently trading on 1 active market(s) with $1,939.33 traded
+      over the last 24 hours. More information can be found at http://nework.pro/.
+    logoURI: null
+    name: Nework
+    symbol: NKC
+    type: null

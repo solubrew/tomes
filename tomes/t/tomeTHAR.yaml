@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x757703bD5B2c4BBCfde0BE2C0b0E7C2f31FCf4E9'
+    chainId: null
+    decimals: null
+    description: Thar Token (THAR) is a cryptocurrency and operates on the Ethereum
+      platform. Thar Token has a current supply of 900,000 with 780,536.99057481 in
+      circulation. The last known price of Thar Token is 0.00195885 USD and is down
+      -6.13 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at http://thartoken.com/.
+    logoURI: null
+    name: Thar Token
+    symbol: THAR
+    type: null

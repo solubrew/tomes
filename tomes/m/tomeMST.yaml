@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x35352a97214942F5c6054923B8DBd5e4ff0434dF'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: My Super Token
+    symbol: MST
+    type: null

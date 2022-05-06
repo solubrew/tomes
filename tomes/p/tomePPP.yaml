@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc42209aCcC14029c1012fB5680D95fBd6036E2a0'
+    chainId: null
+    decimals: null
+    description: PayPie (PPP) is a cryptocurrency and operates on the Ethereum platform.
+      PayPie has a current supply of 165,000,000 with 82,500,000 in circulation. The
+      last known price of PayPie is 0.00833047 USD and is up 2.13 over the last 24
+      hours. It is currently trading on 2 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://www.paypie.bb/.
+    logoURI: null
+    name: PayPie
+    symbol: PPP
+    type: null

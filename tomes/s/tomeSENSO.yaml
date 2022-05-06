@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc19b6a4ac7c7cc24459f08984bbd09664af17bd1'
+    chainId: null
+    decimals: null
+    description: SENSO (SENSO) is a cryptocurrency and operates on the Ethereum platform.
+      SENSO has a current supply of 5,915,280,000 with 12,241,334 in circulation.
+      The last known price of SENSO is 0.29009392 USD and is down -0.05 over the last
+      24 hours. It is currently trading on 9 active market(s) with $449,464.59 traded
+      over the last 24 hours. More information can be found at https://sensoriumxr.com/.
+    logoURI: null
+    name: SENSO
+    symbol: SENSO
+    type: null

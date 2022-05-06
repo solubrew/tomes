@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3a1343a3Ca3c32a69b79AE82e8a9a71c1293C566'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Onyx S&P 500
+    symbol: OSPV
+    type: null

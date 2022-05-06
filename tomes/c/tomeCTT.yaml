@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1a4743cf1af4c289351390a2b3fe7c13d2f7c235'
+    chainId: null
+    decimals: null
+    description: Castweet (CTT) is a cryptocurrency launched in 2019and operates on
+      the Ethereum platform. Castweet has a current supply of 99,000,000 with 1,793,952.00000001
+      in circulation. The last known price of Castweet is 0.33494727 USD and is down
+      -8.97 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $80,934.65 traded over the last 24 hours. More information can be found
+      at http://www.castweet.com.
+    logoURI: null
+    name: Castweet
+    symbol: CTT
+    type: null

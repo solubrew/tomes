@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa6272359bc37f61AF398071B65C8934ACA744d53'
+    chainId: null
+    decimals: null
+    description: GokuMarket Credit (GMC) is a cryptocurrency and operates on the Ethereum
+      platform. GokuMarket Credit has a current supply of 50,000,000 with 2,949,999.8
+      in circulation. The last known price of GokuMarket Credit is 0.26795015 USD
+      and is down -2.56 over the last 24 hours. It is currently trading on 6 active
+      market(s) with $44,572.68 traded over the last 24 hours. More information can
+      be found at https://gokumarket.com/GokuMarketCredit.
+    logoURI: null
+    name: GokuMarket Credit
+    symbol: GMC
+    type: null

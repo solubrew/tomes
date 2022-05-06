@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeAc034b66Aa7538A551a5fCec85E37592233C109'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GBPP
+    symbol: GBPP
+    type: null

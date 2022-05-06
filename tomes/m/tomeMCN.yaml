@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc047c42554c6495c85108ae8ee66fa4e3b88176d'
+    chainId: null
+    decimals: null
+    description: McNetworkDefi (MCN) is a cryptocurrency and operates on the Ethereum
+      platform. McNetworkDefi has a current supply of 0. The last known price of McNetworkDefi
+      is 0.00553538 USD and is up 2.93 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $1,191.63 traded over the last 24 hours. More information
+      can be found at https://multichannel.tech/.
+    logoURI: null
+    name: McNetworkDefi
+    symbol: MCN
+    type: null

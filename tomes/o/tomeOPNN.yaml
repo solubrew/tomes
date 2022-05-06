@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa829f97373069ee5d23175e4105df8fd49238be7'
+    chainId: null
+    decimals: null
+    description: Opennity (OPNN) is a cryptocurrency and operates on the Ethereum
+      platform. Opennity has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of Opennity is 0.0000471 USD and is down -4.75 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $7,241.99
+      traded over the last 24 hours. More information can be found at http://www.opennity.com/.
+    logoURI: null
+    name: Opennity
+    symbol: OPNN
+    type: null

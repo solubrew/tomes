@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8C8d6016344425ddD1d63523411De5eb398cd141'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Medilink Coin
+    symbol: MDL
+    type: null

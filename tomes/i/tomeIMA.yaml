@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9FF316Ed79a36B067217031ab8E0f3f9F82dFacD'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: IMA
+    symbol: IMA
+    type: null

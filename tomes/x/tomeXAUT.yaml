@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4922a015c4407f87432b179bb209e125432e4a2a'
+    chainId: null
+    decimals: null
+    description: Tether Gold (XAUT) is a cryptocurrency and operates on the Ethereum
+      platform. Tether Gold has a current supply of 3,990.225 with 0 in circulation.
+      The last known price of Tether Gold is 1,847.73967727 USD and is up 0.14 over
+      the last 24 hours. It is currently trading on 10 active market(s) with $29,488.15
+      traded over the last 24 hours. More information can be found at https://tether.to/.
+    logoURI: null
+    name: Tether Gold
+    symbol: XAUT
+    type: null

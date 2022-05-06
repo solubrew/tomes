@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB8796542765747ed7F921FF12faff057b5D624D7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Void Token
+    symbol: VOID
+    type: null

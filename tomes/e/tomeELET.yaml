@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Elementeum
+    symbol: ELET
+    type: null

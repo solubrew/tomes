@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05'
+    chainId: null
+    decimals: null
+    description: ATLANT (ATL) is a cryptocurrency and operates on the Ethereum platform.
+      ATLANT has a current supply of 54,175,040.67775495 with 54,175,040.67775489
+      in circulation. The last known price of ATLANT is 0.02987283 USD and is up 4.02
+      over the last 24 hours. It is currently trading on 1 active market(s) with $251.35
+      traded over the last 24 hours. More information can be found at https://atlant.io/.
+    logoURI: null
+    name: ATLANT
+    symbol: ATL
+    type: null

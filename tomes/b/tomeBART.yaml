@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba'
+    chainId: null
+    decimals: null
+    description: BarterTrade (BART) is a cryptocurrency and operates on the Ethereum
+      platform. BarterTrade has a current supply of 239,809,890 with 68,172,420 in
+      circulation. The last known price of BarterTrade is 0.04203394 USD and is up
+      4.75 over the last 24 hours. It is currently trading on 7 active market(s) with
+      $516,044.04 traded over the last 24 hours. More information can be found at
+      https://bartertrade.io/.
+    logoURI: null
+    name: BarterTrade
+    symbol: BART
+    type: null

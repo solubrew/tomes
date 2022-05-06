@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x186af393bf9ceef31ce7eae2b468c46231163cc7'
+    chainId: null
+    decimals: null
+    description: Yearn Loans Finance (YLFI) is a cryptocurrency and operates on the
+      Ethereum platform. Yearn Loans Finance has a current supply of 0. The last known
+      price of Yearn Loans Finance is 188.73207852 USD and is up 3.50 over the last
+      24 hours. It is currently trading on 2 active market(s) with $150,115.88 traded
+      over the last 24 hours. More information can be found at https://yloans.finance/.
+    logoURI: null
+    name: Yearn Loans Finance
+    symbol: YLFI
+    type: null

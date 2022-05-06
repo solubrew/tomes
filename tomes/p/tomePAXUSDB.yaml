@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x573C97e9fb924C22D41127481EeDF4a177394988'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PAX Smart Relay Token
+    symbol: PAXUSDB
+    type: null

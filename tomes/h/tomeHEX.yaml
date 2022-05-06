@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x96006F60B452526481a26eab55265ECdf82E7361'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HollaEx
+    symbol: HEX
+    type: null

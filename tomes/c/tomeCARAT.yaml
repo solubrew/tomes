@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x207b893467904D076Add0A44F94AC8c8d92d2e0C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Jewel Coin
+    symbol: CARAT
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8a6284155d31a62C531F70dAAcff3ADa333f9019'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Delio
+    symbol: DLO
+    type: null

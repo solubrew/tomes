@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x81e74a3ea4bab2277aa3b941e9d9f37b08ac5374'
+    chainId: null
+    decimals: null
+    description: Ifoods Chain (IFOOD) is a cryptocurrency and operates on the Ethereum
+      platform. Ifoods Chain has a current supply of 10,000,000,000 with 2,499,999,990
+      in circulation. The last known price of Ifoods Chain is 0.00002101 USD and is
+      up 0.01 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://www.ifoodschain.io/.
+    logoURI: null
+    name: Ifoods Chain
+    symbol: IFOOD
+    type: null

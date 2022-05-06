@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea'
+    chainId: null
+    decimals: null
+    description: EurocoinToken (ECTE) is a cryptocurrency and operates on the Ethereum
+      platform. EurocoinToken has a current supply of 100,000,000 with 4,274,187.5
+      in circulation. The last known price of EurocoinToken is 0.09115526 USD and
+      is up 1.42 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://eurocoinpay.io/.
+    logoURI: null
+    name: EurocoinToken
+    symbol: ECTE
+    type: null

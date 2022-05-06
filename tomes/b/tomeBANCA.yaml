@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x998b3b82bc9dba173990be7afb772788b5acb8bd'
+    chainId: null
+    decimals: null
+    description: Banca (BANCA) is a cryptocurrency and operates on the Ethereum platform.
+      Banca has a current supply of 20,000,000,000 with 17,926,481,683.56437 in circulation.
+      The last known price of Banca is 0.00002915 USD and is up 5.77 over the last
+      24 hours. It is currently trading on 4 active market(s) with $26,379.98 traded
+      over the last 24 hours. More information can be found at https://www.banca.world/.
+    logoURI: null
+    name: Banca
+    symbol: BANCA
+    type: null

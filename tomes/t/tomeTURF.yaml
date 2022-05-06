@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x55d89273143DE3dE00822c9271DbCBD9B44B44C6'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: TURF
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0DeA6DBAcAEE8a903Dec0B1233FEC55D10FdF975'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ignis
+    symbol: "\U0001F56F\uFE0F"
+    type: null

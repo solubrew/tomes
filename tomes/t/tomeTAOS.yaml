@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5bd815Fd6c096bAB38B4C6553cfce3585194dff9'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: TAOS
+    type: null

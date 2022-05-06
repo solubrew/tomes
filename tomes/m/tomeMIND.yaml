@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x222728C202e7164DFbd127181D46409338c4328e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MIND Token
+    symbol: MIND
+    type: null

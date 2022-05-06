@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf6abff616043c2da572573dcc583b656297b30e7'
+    chainId: null
+    decimals: null
+    description: Custody Token (CUST) is a cryptocurrency and operates on the Ethereum
+      platform. Custody Token has a current supply of 10,000,000,000 with 0 in circulation.
+      The last known price of Custody Token is 0.00356807 USD and is up 12.55 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $47,092.22
+      traded over the last 24 hours. More information can be found at https://www.xtock.io/custody.
+    logoURI: null
+    name: Custody Token
+    symbol: CUST
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x034B0dd380b5f6f8123b8d0d0E42329b67772792'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ADAB Token
+    symbol: ADAB
+    type: null

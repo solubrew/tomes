@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5c743a35e903f6c584514ec617acee0611cf44f3'
+    chainId: null
+    decimals: null
+    description: Experty (EXY) is a cryptocurrency and operates on the Ethereum platform.
+      Experty has a current supply of 79,404,563.9765106 with 27,088,352.09988391
+      in circulation. The last known price of Experty is 0.04339453 USD and is up
+      0.29 over the last 24 hours. It is currently trading on 4 active market(s) with
+      $1,048.52 traded over the last 24 hours. More information can be found at https://experty.io/en.
+    logoURI: null
+    name: Experty
+    symbol: EXY
+    type: null

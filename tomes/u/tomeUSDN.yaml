@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x674C6Ad92Fd080e4004b2312b45f796a192D27a0'
+    chainId: null
+    decimals: null
+    description: Neutrino USD (USDN) is a cryptocurrency and operates on the Ethereum
+      platform. Neutrino USD has a current supply of 120,163,377.71143755. The last
+      known price of Neutrino USD is 0.99754945 USD and is down -0.29 over the last
+      24 hours. It is currently trading on 23 active market(s) with $4,083,038.95
+      traded over the last 24 hours. More information can be found at https://neutrino.at/.
+    logoURI: null
+    name: Neutrino USD
+    symbol: USDN
+    type: null

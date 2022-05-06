@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbD275ce24f32d6cE4e9d9519C55ABe9Bc0ed7fCf'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: BYOPILL
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5F0452Bf45C2AD560a4Ac6D663033C50bC04D044'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TIMECOIN
+    symbol: TIME
+    type: null

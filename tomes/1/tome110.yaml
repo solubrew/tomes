@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x659bE486869cA69EcFf2a80C28C2879C46828979'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 110 coin
+    symbol: '110'
+    type: null

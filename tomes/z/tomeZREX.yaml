@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0A6b2931a74a2fD058D160Dc1D677F401696ca8c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Izurex
+    symbol: ZREX
+    type: null

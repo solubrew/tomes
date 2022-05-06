@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb683D83a532e2Cb7DFa5275eED3698436371cc9f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BTU Protocol
+    symbol: BTU
+    type: null

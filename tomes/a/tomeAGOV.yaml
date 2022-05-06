@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc1ad269f10bf36d6972ee30827051b59d0d2456b'
+    chainId: null
+    decimals: null
+    description: AGOV (ANSWER Governance) (AGOV) is a cryptocurrency and operates
+      on the Ethereum platform. AGOV (ANSWER Governance) has a current supply of 0.
+      The last known price of AGOV (ANSWER Governance) is 0.00522652 USD and is down
+      -4.04 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $2,972.20 traded over the last 24 hours. More information can be found
+      at https://agov.finance/.
+    logoURI: null
+    name: AGOV (ANSWER Governance)
+    symbol: AGOV
+    type: null

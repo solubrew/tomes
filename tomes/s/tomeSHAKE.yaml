@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6006fc2a849fedaba8330ce36f5133de01f96189'
+    chainId: null
+    decimals: null
+    description: SHAKE (SHAKE) is a cryptocurrency and operates on the Ethereum platform.
+      SHAKE has a current supply of 523. The last known price of SHAKE is 503.62136942
+      USD and is down -5.28 over the last 24 hours. It is currently trading on 5 active
+      market(s) with $37,246.83 traded over the last 24 hours. More information can
+      be found at https://spaceswap.app.
+    logoURI: null
+    name: SHAKE
+    symbol: SHAKE
+    type: null

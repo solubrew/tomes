@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9FadeA1aFF842D407893e21DBD0E2017b4C287b6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PGF500 Token
+    symbol: PGF7T
+    type: null

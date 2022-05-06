@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x595832F8FC6BF59c85C527fEC3740A1b7a361269'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PowerLedger
+    symbol: POWR
+    type: null

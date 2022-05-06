@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x12D102F06da35cC0111EB58017fd2Cd28537d0e1'
+    chainId: null
+    decimals: null
+    description: Vox.Finance (VOX) is a cryptocurrency and operates on the Ethereum
+      platform. Vox.Finance has a current supply of 2,192 with 0 in circulation. The
+      last known price of Vox.Finance is 309.78354615 USD and is down -7.75 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $284,840.88
+      traded over the last 24 hours. More information can be found at https://vox.finance.
+    logoURI: null
+    name: Vox.Finance
+    symbol: VOX
+    type: null

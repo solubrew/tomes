@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a'
+    chainId: null
+    decimals: null
+    description: BetProtocol (BEPRO) is a cryptocurrency and operates on the Ethereum
+      platform. BetProtocol has a current supply of 10,000,000,000 with 1,825,000,000
+      in circulation. The last known price of BetProtocol is 0.0005832 USD and is
+      up 0.31 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $169,240.99 traded over the last 24 hours. More information can be found
+      at https://www.betprotocol.com.
+    logoURI: null
+    name: BetProtocol
+    symbol: BEPRO
+    type: null

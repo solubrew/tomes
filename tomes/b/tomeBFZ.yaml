@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCFABaFF3bb057ba878f43ce027c9266D2F900561'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BetaFunds Token
+    symbol: BFZ
+    type: null

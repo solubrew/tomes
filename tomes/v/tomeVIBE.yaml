@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe8ff5c9c75deb346acac493c463c8950be03dfba'
+    chainId: null
+    decimals: null
+    description: VIBE (VIBE) is a cryptocurrency and operates on the Ethereum platform.
+      VIBE has a current supply of 267,000,000 with 260,136,426.55995375 in circulation.
+      The last known price of VIBE is 0.015899 USD and is up 2.58 over the last 24
+      hours. It is currently trading on 2 active market(s) with $29,237.27 traded
+      over the last 24 hours. More information can be found at https://www.vibehub.io/.
+    logoURI: null
+    name: VIBE
+    symbol: VIBE
+    type: null

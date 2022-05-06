@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf6832ea221ebfdc2363729721a146e6745354b14'
+    chainId: null
+    decimals: null
+    description: FRMx Token (FRMX) is a cryptocurrency and operates on the Ethereum
+      platform. FRMx Token has a current supply of 33,000 with 0 in circulation. The
+      last known price of FRMx Token is 432.33097216 USD and is up 3.34 over the last
+      24 hours. It is currently trading on 1 active market(s) with $14,603.42 traded
+      over the last 24 hours. More information can be found at https://ferrum.network/.
+    logoURI: null
+    name: FRMx Token
+    symbol: FRMX
+    type: null

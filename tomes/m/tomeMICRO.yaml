@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d'
+    chainId: null
+    decimals: null
+    description: Micromines (MICRO) is a cryptocurrency and operates on the Ethereum
+      platform. Micromines has a current supply of 18,000,000,000 with 17,999,261,363.694355
+      in circulation. The last known price of Micromines is 0.00000154 USD and is
+      up 27.81 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $2,492.15 traded over the last 24 hours. More information can be found
+      at https://micromines.co/.
+    logoURI: null
+    name: Micromines
+    symbol: MICRO
+    type: null

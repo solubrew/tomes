@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x06a8f2bcc622ac55d596ea02ce5bb5f318f485e9'
+    chainId: null
+    decimals: null
+    description: MoCo Token (MoCo) is a cryptocurrency and operates on the Ethereum
+      platform. MoCo Token has a current supply of 8,000,000,000 with 0 in circulation.
+      The last known price of MoCo Token is 0.00038447 USD and is up 0.11 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $3,102.60
+      traded over the last 24 hours. More information can be found at https://www.mocotoken.io/.
+    logoURI: null
+    name: MoCo Token
+    symbol: MoCo
+    type: null

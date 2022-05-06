@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe2492f8d2a2618d8709ca99b1d8d75713bd84089'
+    chainId: null
+    decimals: null
+    description: HeartBout (HB) is a cryptocurrency and operates on the Ethereum platform.
+      HeartBout has a current supply of 63,695,267 with 53,495,266.94719233 in circulation.
+      The last known price of HeartBout is 0.00108774 USD and is down -5.23 over the
+      last 24 hours. It is currently trading on 6 active market(s) with $1,627.02
+      traded over the last 24 hours. More information can be found at https://heartbout.com/.
+    logoURI: null
+    name: HeartBout
+    symbol: HB
+    type: null

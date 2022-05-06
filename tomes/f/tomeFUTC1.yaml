@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf880d3C6DCDA42A7b2F6640703C5748557865B35'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Futereum Centurian 1
+    symbol: FUTC1
+    type: null

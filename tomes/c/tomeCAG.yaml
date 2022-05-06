@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7d4b8cce0591c9044a22ee543533b72e976e36c3'
+    chainId: null
+    decimals: null
+    description: Change (CAG) is a cryptocurrency and operates on the Ethereum platform.
+      Change has a current supply of 79,184,115.81564271 with 19,673,647.32625718
+      in circulation. The last known price of Change is 0.08057608 USD and is up 2.88
+      over the last 24 hours. It is currently trading on 2 active market(s) with $236.16
+      traded over the last 24 hours. More information can be found at https://changeinvest.com/.
+    logoURI: null
+    name: Change
+    symbol: CAG
+    type: null

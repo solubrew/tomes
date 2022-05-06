@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8daebade922df735c38c80c7ebd708af50815faa'
+    chainId: null
+    decimals: null
+    description: tBTC (TBTC) is a cryptocurrency and operates on the Ethereum platform.
+      tBTC has a current supply of 1.136 with 0 in circulation. The last known price
+      of tBTC is 19,140.51390285 USD and is up 5.34 over the last 24 hours. It is
+      currently trading on 5 active market(s) with $49,305.76 traded over the last
+      24 hours. More information can be found at https://tbtc.network/.
+    logoURI: null
+    name: tBTC
+    symbol: TBTC
+    type: null

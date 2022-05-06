@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e'
+    chainId: null
+    decimals: null
+    description: Freight Trust & Clearing Network (EDI) is a cryptocurrency and operates
+      on the Ethereum platform. Freight Trust & Clearing Network has a current supply
+      of 611,029,679 with 0 in circulation. The last known price of Freight Trust
+      & Clearing Network is 0.00346435 USD and is down -35.58 over the last 24 hours.
+      It is currently trading on 6 active market(s) with $81,066.73 traded over the
+      last 24 hours. More information can be found at https://freighttrust.com.
+    logoURI: null
+    name: Freight Trust & Clearing Network
+    symbol: EDI
+    type: null

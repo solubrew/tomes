@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6'
+    chainId: null
+    decimals: null
+    description: ICE ROCK MINING (ROCK2) is a cryptocurrency and operates on the Ethereum
+      platform. ICE ROCK MINING has a current supply of 15,724,272. The last known
+      price of ICE ROCK MINING is 0.02091333 USD and is up 2.97 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $24,930.98 traded over the
+      last 24 hours. More information can be found at https://icerockmining.io/.
+    logoURI: null
+    name: ICE ROCK MINING
+    symbol: ROCK2
+    type: null

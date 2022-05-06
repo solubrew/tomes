@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca'
+    chainId: null
+    decimals: null
+    description: OST (OST) is a cryptocurrency and operates on the Ethereum platform.
+      OST has a current supply of 800,000,000 with 763,665,268.9074074 in circulation.
+      The last known price of OST is 0.01232072 USD and is up 7.28 over the last 24
+      hours. It is currently trading on 13 active market(s) with $10,523,619.24 traded
+      over the last 24 hours. More information can be found at https://ost.com.
+    logoURI: null
+    name: OST
+    symbol: OST
+    type: null

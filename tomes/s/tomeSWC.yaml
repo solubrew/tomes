@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xadf8b8050639b6236915f7516d69de714672f0bf'
+    chainId: null
+    decimals: null
+    description: Scanetchain (SWC) is a cryptocurrency and operates on the Ethereum
+      platform. Scanetchain has a current supply of 1,000,000,000 with 839,506,297.2759918
+      in circulation. The last known price of Scanetchain is 0.00018493 USD and is
+      up 2.98 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $152,590.73 traded over the last 24 hours. More information can be found
+      at https://www.scanetchain.io/.
+    logoURI: null
+    name: Scanetchain
+    symbol: SWC
+    type: null

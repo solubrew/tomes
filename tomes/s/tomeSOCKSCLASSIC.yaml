@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf7A5A8A95491EC170738434963B649671b563b88'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Unisocks Classic Edition 0
+    symbol: SOCKSCLASSIC
+    type: null

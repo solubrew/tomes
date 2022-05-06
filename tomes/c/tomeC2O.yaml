@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x13ca8eb6405cfbe2eae5d00207651002083fbc9d'
+    chainId: null
+    decimals: null
+    description: CryptoWater (C2O) is a cryptocurrency and operates on the Ethereum
+      platform. CryptoWater has a current supply of 0. The last known price of CryptoWater
+      is 1.18072474 USD and is up 0.01 over the last 24 hours. It is currently trading
+      on 2 active market(s) with $0.00 traded over the last 24 hours. More information
+      can be found at https://cryptowater.si/.
+    logoURI: null
+    name: CryptoWater
+    symbol: C2O
+    type: null

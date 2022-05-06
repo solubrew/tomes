@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbce7bd79558dda90b261506768f265c5543a9f90'
+    chainId: null
+    decimals: null
+    description: TKN Token (TKNT) is a cryptocurrency and operates on the Ethereum
+      platform. TKN Token has a current supply of 0. The last known price of TKN Token
+      is 0.04062352 USD and is up 96.12 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $17,286.46 traded over the last 24 hours. More information
+      can be found at https://www.tknt.io/.
+    logoURI: null
+    name: TKN Token
+    symbol: TKNT
+    type: null

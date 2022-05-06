@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7ef1081ecc8b5b5b130656a41d4ce4f89dbbcc8c'
+    chainId: null
+    decimals: null
+    description: Compounder (CP3R) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. Compounder has a current supply of 0. The last known
+      price of Compounder is 0.30475038 USD and is down -15.95 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $3,064.14 traded over the
+      last 24 hours. More information can be found at https://compounder.finance.
+    logoURI: null
+    name: Compounder
+    symbol: CP3R
+    type: null

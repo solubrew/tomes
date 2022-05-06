@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5319e86F0e41a06E49eb37046b8c11D78bcAd68C'
+    chainId: null
+    decimals: null
+    description: Zelwin (ZLW) is a cryptocurrency and operates on the Ethereum platform.
+      Zelwin has a current supply of 300,000,000 with 63,433,009.16910002 in circulation.
+      The last known price of Zelwin is 4.45021446 USD and is down -3.47 over the
+      last 24 hours. It is currently trading on 14 active market(s) with $245,853.78
+      traded over the last 24 hours. More information can be found at https://zelwin.com/.
+    logoURI: null
+    name: Zelwin
+    symbol: ZLW
+    type: null

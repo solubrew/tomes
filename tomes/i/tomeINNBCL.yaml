@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8CC3E2BdC17682c622eB789EDA23FbD6988C84Da'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: InnovativeBioresearchClassic
+    symbol: INNBCL
+    type: null

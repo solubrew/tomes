@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5121E348e897dAEf1Eef23959Ab290e5557CF274'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PolyAi
+    symbol: AI
+    type: null

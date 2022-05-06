@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4c14114c107d6374ec31981f5f6cc27a13e22f9a'
+    chainId: null
+    decimals: null
+    description: SBank (STS) is a cryptocurrency and operates on the Ethereum platform.
+      SBank has a current supply of 50,000,000 with 6,155,716.60000037 in circulation.
+      The last known price of SBank is 0.10016173 USD and is up 31.19 over the last
+      24 hours. It is currently trading on 4 active market(s) with $102,761.84 traded
+      over the last 24 hours. More information can be found at https://www.sbankcapital.com.
+    logoURI: null
+    name: SBank
+    symbol: STS
+    type: null

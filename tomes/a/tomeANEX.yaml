@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xAF93eB3dC2236C32A06D27B1C9Bf90Ad26c081A7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AnEx
+    symbol: ANEX
+    type: null

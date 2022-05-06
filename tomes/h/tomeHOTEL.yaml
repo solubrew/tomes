@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf8A2ED21fEa517665b35aC824387bf9b41c71919'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: H Coin
+    symbol: HOTEL
+    type: null

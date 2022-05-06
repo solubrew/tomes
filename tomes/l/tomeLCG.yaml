@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6e1a58e7e9e801f32bb82462636a8a2e7b65e036'
+    chainId: null
+    decimals: null
+    description: LCG (LCG) is a cryptocurrency and operates on the Ethereum platform.
+      LCG has a current supply of 0. The last known price of LCG is 0.01915823 USD
+      and is down -0.04 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $125,084.39 traded over the last 24 hours. More information can
+      be found at https://lcg-energy.com/.
+    logoURI: null
+    name: LCG
+    symbol: LCG
+    type: null

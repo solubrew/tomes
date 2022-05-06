@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE5F166c0D8872B68790061317BB6CcA04582C912'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TE-FOOD
+    symbol: TFD
+    type: null

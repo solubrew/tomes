@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x12f649a9e821f90bb143089a6e56846945892ffb'
+    chainId: null
+    decimals: null
+    description: Hyprr (Howdoo) (UDOO) is a cryptocurrency and operates on the Ethereum
+      platform. Hyprr (Howdoo) has a current supply of 888,888,888 with 97,821,309.33
+      in circulation. The last known price of Hyprr (Howdoo) is 0.01796612 USD and
+      is down -0.71 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $229,954.22 traded over the last 24 hours. More information can be found
+      at https://www.hyprr.com/.
+    logoURI: null
+    name: Hyprr (Howdoo)
+    symbol: UDOO
+    type: null

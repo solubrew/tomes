@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x33384af34b03eaca63fd153f59589f504772b570'
+    chainId: null
+    decimals: null
+    description: onLEXpa (onLEXpa) is a cryptocurrency and operates on the Ethereum
+      platform. onLEXpa has a current supply of 586,000,000 with 549,319,042.9708753
+      in circulation. The last known price of onLEXpa is 0.00001915 USD and is down
+      -2.77 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $0.79 traded over the last 24 hours. More information can be found at https://www.onlexpa.com/en/.
+    logoURI: null
+    name: onLEXpa
+    symbol: onLEXpa
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9bf598db8845B3223520f0ba6ABE6585F49e2bc5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HypeToken
+    symbol: HT
+    type: null

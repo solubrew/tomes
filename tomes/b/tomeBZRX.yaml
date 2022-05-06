@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1c74cFF0376FB4031Cd7492cD6dB2D66c3f2c6B9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: bZx Protocol Token
+    symbol: BZRX
+    type: null

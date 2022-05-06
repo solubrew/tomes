@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa8006c4ca56f24d6836727d106349320db7fef82'
+    chainId: null
+    decimals: null
+    description: Internxt (INXT) is a cryptocurrency and operates on the Ethereum
+      platform. Internxt has a current supply of 629,609.543. The last known price
+      of Internxt is 2.7066743 USD and is up 50.92 over the last 24 hours. It is currently
+      trading on 6 active market(s) with $84,773.67 traded over the last 24 hours.
+      More information can be found at https://internxt.com/.
+    logoURI: null
+    name: Internxt
+    symbol: INXT
+    type: null

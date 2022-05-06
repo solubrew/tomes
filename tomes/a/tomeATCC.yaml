@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xddaaf4a0702a03a4505f2352a1aba001ffc344be'
+    chainId: null
+    decimals: null
+    description: ATC Coin (ATCC) is a cryptocurrency launched in 2018and operates
+      on the Ethereum platform. ATC Coin has a current supply of 410,000,000 with
+      408,453,792.28571516 in circulation. The last known price of ATC Coin is 0.00095866
+      USD and is up 2.07 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $1.87 traded over the last 24 hours. More information can be
+      found at http://www.atccoin.com/.
+    logoURI: null
+    name: ATC Coin
+    symbol: ATCC
+    type: null

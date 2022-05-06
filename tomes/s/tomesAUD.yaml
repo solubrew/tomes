@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xED4699f180a14B5974c26f494483F9c327Fd381a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Synth sAUD
+    symbol: sAUD
+    type: null

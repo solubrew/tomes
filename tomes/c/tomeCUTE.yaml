@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x047686fB287e7263A23873dEa66b4501015a2226'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cute Coin
+    symbol: CUTE
+    type: null

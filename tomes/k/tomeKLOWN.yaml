@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc97A5cdF41BAfD51c8dBE82270097e704d748b92'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ether Clown
+    symbol: KLOWN
+    type: null

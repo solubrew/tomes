@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8d5db0c1f0681071cb38a382ae6704588d9da587'
+    chainId: null
+    decimals: null
+    description: Prophet (PROPHET) is a cryptocurrency and operates on the Ethereum
+      platform. Prophet has a current supply of 0. The last known price of Prophet
+      is 0.14613632 USD and is down -17.32 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $8,935.42 traded over the last 24 hours.
+      More information can be found at https://www.prophet.finance/.
+    logoURI: null
+    name: Prophet
+    symbol: PROPHET
+    type: null

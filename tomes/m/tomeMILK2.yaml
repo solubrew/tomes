@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de'
+    chainId: null
+    decimals: null
+    description: Spaceswap (MILK2) is a cryptocurrency and operates on the Ethereum
+      platform. Spaceswap has a current supply of 1,485,677.14824195 with 1,448,236.22397029
+      in circulation. The last known price of Spaceswap is 0.05125176 USD and is down
+      -3.54 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $1,947.22 traded over the last 24 hours. More information can be found
+      at https://spaceswap.app/.
+    logoURI: null
+    name: Spaceswap
+    symbol: MILK2
+    type: null

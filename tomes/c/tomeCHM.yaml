@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x538a151dd910c1d1227719bd400d6c4f99ea06d0'
+    chainId: null
+    decimals: null
+    description: Cryptochrome (CHM) is a cryptocurrency and operates on the Ethereum
+      platform. Cryptochrome has a current supply of 130,000,000 with 0 in circulation.
+      The last known price of Cryptochrome is 0.01818111 USD and is down -0.76 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $22,744.71
+      traded over the last 24 hours. More information can be found at https://www.cryptochrome.org/.
+    logoURI: null
+    name: Cryptochrome
+    symbol: CHM
+    type: null

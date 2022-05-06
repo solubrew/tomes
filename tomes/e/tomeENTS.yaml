@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0f612a09ead55bb81b6534e80ed5a21bf0a27b16'
+    chainId: null
+    decimals: null
+    description: EUNOMIA (ENTS) is a cryptocurrency and operates on the Ethereum platform.
+      EUNOMIA has a current supply of 19,973,330,191.3784 with 16,420,688,682.3784
+      in circulation. The last known price of EUNOMIA is 0.00000375 USD and is up
+      66.36 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $15.40 traded over the last 24 hours. More information can be found at
+      https://ent.zone.
+    logoURI: null
+    name: EUNOMIA
+    symbol: ENTS
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA52DB128B8983429cFec2cf28c20041fF6256a23'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Techan
+    symbol: TCHN
+    type: null

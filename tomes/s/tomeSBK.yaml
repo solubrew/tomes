@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3579E381caF332aF7f5f4f3177924308571322D3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ShadyBucks
+    symbol: SBK
+    type: null

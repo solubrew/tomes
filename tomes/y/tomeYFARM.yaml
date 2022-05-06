@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf5d0fefaab749d8b14c27f0de60cc6e9e7f848d1'
+    chainId: null
+    decimals: null
+    description: YFARM Token (YFARM) is a cryptocurrency and operates on the Ethereum
+      platform. YFARM Token has a current supply of 78,742,467 with 0 in circulation.
+      The last known price of YFARM Token is 0.00048058 USD and is down -19.70 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $1,127.30
+      traded over the last 24 hours. More information can be found at https://farm.yffs.finance/.
+    logoURI: null
+    name: YFARM Token
+    symbol: YFARM
+    type: null

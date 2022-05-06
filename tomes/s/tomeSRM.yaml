@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x681724368d052a4e29Fc226eD5085082d74Fe716'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SOLARMINING
+    symbol: SRM
+    type: null

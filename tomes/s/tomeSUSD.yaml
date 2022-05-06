@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x57Ab1ec28D129707052df4dF418D58a2D46d5f51'
+    chainId: null
+    decimals: null
+    description: sUSD (SUSD) is a cryptocurrency and operates on the Ethereum platform.
+      sUSD has a current supply of 22,510,653.0839032. The last known price of sUSD
+      is 1.0045915 USD and is up 0.60 over the last 24 hours. It is currently trading
+      on 62 active market(s) with $18,064,247.68 traded over the last 24 hours. More
+      information can be found at https://www.synthetix.io/.
+    logoURI: null
+    name: sUSD
+    symbol: SUSD
+    type: null

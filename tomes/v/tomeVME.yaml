@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc343f099d3e41aa5c1b59470450e21e92e2d840b'
+    chainId: null
+    decimals: null
+    description: TrueVett (VME) is a cryptocurrency and operates on the Ethereum platform.
+      TrueVett has a current supply of 400,000,000 with 178,048,388.5398166 in circulation.
+      The last known price of TrueVett is 0.00021982 USD and is down -0.72 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://www.truevett.com/.
+    logoURI: null
+    name: TrueVett
+    symbol: VME
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3'
+    chainId: null
+    decimals: null
+    description: Decentr (DEC) is a cryptocurrency and operates on the Ethereum platform.
+      Decentr has a current supply of 1,000,000,000 with 0 in circulation. The last
+      known price of Decentr is 0.06491387 USD and is down -8.53 over the last 24
+      hours. It is currently trading on 9 active market(s) with $721,557.55 traded
+      over the last 24 hours. More information can be found at https://decentr.net/.
+    logoURI: null
+    name: Decentr
+    symbol: DEC
+    type: null

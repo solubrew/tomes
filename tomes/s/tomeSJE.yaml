@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBE1341A080026B18F156F5C02875106E1aE690ef'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SJ Hybrid Energy
+    symbol: SJE
+    type: null

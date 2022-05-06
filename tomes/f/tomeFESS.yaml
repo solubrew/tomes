@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe09394f8ba642430ed448ca20f342ec7aa1ba2e1'
+    chainId: null
+    decimals: null
+    description: Fesschain (FESS) is a cryptocurrency and operates on the Ethereum
+      platform. Fesschain has a current supply of 9,637,574,155.878 with 107,543,196.1526947
+      in circulation. The last known price of Fesschain is 0.01200062 USD and is down
+      -22.66 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $16,000.56 traded over the last 24 hours. More information can be found
+      at https://fesschain.live/.
+    logoURI: null
+    name: Fesschain
+    symbol: FESS
+    type: null

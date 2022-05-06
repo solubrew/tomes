@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x49184e6dae8c8ecd89d8bdc1b950c597b8167c90'
+    chainId: null
+    decimals: null
+    description: Libertas Token (LIBERTAS) is a cryptocurrency and operates on the
+      Ethereum platform. Libertas Token has a current supply of 100,000,000 with 89,880,000
+      in circulation. The last known price of Libertas Token is 0.003054 USD and is
+      up 1.70 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $411.15 traded over the last 24 hours. More information can be found at
+      https://libertas.network.
+    logoURI: null
+    name: Libertas Token
+    symbol: LIBERTAS
+    type: null

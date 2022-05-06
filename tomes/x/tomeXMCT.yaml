@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x44449Fa4d607F807d1eD4a69ad942971728391C8'
+    chainId: null
+    decimals: null
+    description: XMCT (XMCT) is a cryptocurrency and operates on the Ethereum platform.
+      XMCT has a current supply of 700,000,000 with 105,319,789.99999996 in circulation.
+      The last known price of XMCT is 0.00009996 USD and is down -0.08 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at http://xmedchain.com/.
+    logoURI: null
+    name: XMCT
+    symbol: XMCT
+    type: null

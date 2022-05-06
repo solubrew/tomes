@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc6abf3c09341741ac6041b0b08195701bdfd460c'
+    chainId: null
+    decimals: null
+    description: OSA Token (OSA) is a cryptocurrency and operates on the Ethereum
+      platform. OSA Token has a current supply of 2,256,642,170.212255 with 1,389,796,615.1596537
+      in circulation. The last known price of OSA Token is 0.00005939 USD and is down
+      -4.79 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $2,358.23 traded over the last 24 hours. More information can be found
+      at https://token.osadc.io/en/.
+    logoURI: null
+    name: OSA Token
+    symbol: OSA
+    type: null

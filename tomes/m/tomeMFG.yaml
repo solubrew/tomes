@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6710c63432A2De02954fc0f851db07146a6c0312'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SyncFab Smart Manufacturing Blockchain
+    symbol: MFG
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x239B0Fa917d85c21cf6435464C2c6aa3D45f6720'
+    chainId: null
+    decimals: null
+    description: Amun Ether 3x Daily Long (ETH3L) is a cryptocurrency and operates
+      on the Ethereum platform. Amun Ether 3x Daily Long has a current supply of 2.1557
+      with 0 in circulation. The last known price of Amun Ether 3x Daily Long is 3.32651774
+      USD and is up 31.46 over the last 24 hours. It is currently trading on 4 active
+      market(s) with $13,813,733.21 traded over the last 24 hours. More information
+      can be found at https://amun.com/.
+    logoURI: null
+    name: Amun Ether 3x Daily Long
+    symbol: ETH3L
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x46ae264Bf6d9Dc6Dd84c31064551f961c67a755c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HOT
+    symbol: HTX
+    type: null

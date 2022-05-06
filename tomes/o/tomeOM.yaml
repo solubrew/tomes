@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2baecdf43734f22fd5c152db08e3c27233f0c7d2'
+    chainId: null
+    decimals: null
+    description: MANTRA DAO (OM) is a cryptocurrency and operates on the Ethereum
+      platform. MANTRA DAO has a current supply of 151,999,999 with 0 in circulation.
+      The last known price of MANTRA DAO is 0.101668 USD and is up 11.47 over the
+      last 24 hours. It is currently trading on 26 active market(s) with $3,070,909.03
+      traded over the last 24 hours. More information can be found at https://www.mantradao.com/.
+    logoURI: null
+    name: MANTRA DAO
+    symbol: OM
+    type: null

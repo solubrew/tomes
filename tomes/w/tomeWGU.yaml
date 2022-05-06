@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2C6D2274BbA280e7e4e394d36FEe4F2c3B83eeFD'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Wrapped Gods Unchained Cards
+    symbol: WGU
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x647f274b3a7248d6cf51b35f08e7e7fd6edfb271'
+    chainId: null
+    decimals: null
+    description: Maggie (MAG) is a cryptocurrency and operates on the Ethereum platform.
+      Maggie has a current supply of 3,200,000,000 with 0 in circulation. The last
+      known price of Maggie is 0.00013214 USD and is up 1.42 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at http://maggie.vip/.
+    logoURI: null
+    name: Maggie
+    symbol: MAG
+    type: null

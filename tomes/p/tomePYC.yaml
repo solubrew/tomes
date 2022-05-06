@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4C3aD93C06a073Be57845549914f8833101b58F3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Polycoin
+    symbol: PYC
+    type: null

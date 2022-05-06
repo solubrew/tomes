@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf85ef57fcdb36d628d063fa663e61e44d35ae661'
+    chainId: null
+    decimals: null
+    description: eToro Pound Sterling (GBPX) is a cryptocurrency and operates on the
+      Ethereum platform. eToro Pound Sterling has a current supply of 50,000 with
+      0 in circulation. The last known price of eToro Pound Sterling is 0 USD and
+      is up 0.00 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://www.etoro.com/crypto/exchange/.
+    logoURI: null
+    name: eToro Pound Sterling
+    symbol: GBPX
+    type: null

@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb4d06d46A8285F4EC79Fd294F78a881799d8cEd9'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: 3L
+    type: null

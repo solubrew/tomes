@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x881ef48211982d01e2cb7092c915e647cd40d85c'
+    chainId: null
+    decimals: null
+    description: Open Trading Network (OTN) is a cryptocurrency and operates on the
+      Ethereum platform. Open Trading Network has a current supply of 82,630,002.42819583
+      with 2,024,529.65837353 in circulation. The last known price of Open Trading
+      Network is 0.00649477 USD and is up 1.44 over the last 24 hours. More information
+      can be found at https://otn.org/.
+    logoURI: null
+    name: Open Trading Network
+    symbol: OTN
+    type: null

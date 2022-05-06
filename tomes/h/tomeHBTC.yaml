@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0316EB71485b0Ab14103307bf65a021042c6d380'
+    chainId: null
+    decimals: null
+    description: Huobi BTC (HBTC) is a cryptocurrency and operates on the Ethereum
+      platform. Huobi BTC has a current supply of 4,810.1666. The last known price
+      of Huobi BTC is 19,113.18490535 USD and is up 1.01 over the last 24 hours. It
+      is currently trading on 3 active market(s) with $420.23 traded over the last
+      24 hours. More information can be found at https://www.hbtc.finance/en-us/.
+    logoURI: null
+    name: Huobi BTC
+    symbol: HBTC
+    type: null

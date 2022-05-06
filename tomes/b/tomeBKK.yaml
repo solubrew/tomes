@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd0bd12a8d5ebca1e2fa46da59f1993ec51c3d75c'
+    chainId: null
+    decimals: null
+    description: BKEX Token (BKK) is a cryptocurrency and operates on the Ethereum
+      platform. BKEX Token has a current supply of 148,995,575 with 0 in circulation.
+      The last known price of BKEX Token is 0.09407587 USD and is up 2.21 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $2,305,573.68
+      traded over the last 24 hours. More information can be found at https://www.bkex.com.
+    logoURI: null
+    name: BKEX Token
+    symbol: BKK
+    type: null

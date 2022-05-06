@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x313C068F339c6A1fBf7Be5a9504B506f728dbC9d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Flyto
+    symbol: FLYTO
+    type: null

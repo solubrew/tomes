@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf0B0A13d908253D954BA031a425dFd54f94a2e3D'
+    chainId: null
+    decimals: null
+    description: FlashX Advance (FSXA) is a cryptocurrency and operates on the Ethereum
+      platform. FlashX Advance has a current supply of 473,121,407 with 0 in circulation.
+      The last known price of FlashX Advance is 0.00005963 USD and is up 2.83 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $4,868.16
+      traded over the last 24 hours. More information can be found at https://www.flashxcoinofficial.com/.
+    logoURI: null
+    name: FlashX Advance
+    symbol: FSXA
+    type: null

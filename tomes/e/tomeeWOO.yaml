@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5a96629F9E589Ad676380F35Ec6798d578d7fc6D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: eWoolong
+    symbol: eWOO
+    type: null

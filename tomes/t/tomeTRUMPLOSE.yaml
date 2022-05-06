@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x70878b693a57a733a79560e33cf6a828e685d19a'
+    chainId: null
+    decimals: null
+    description: Trump Loses Token (TRUMPLOSE) is a cryptocurrency and operates on
+      the Ethereum platform. Trump Loses Token has a current supply of 0. The last
+      known price of Trump Loses Token is 0.97397122 USD and is up -0.00 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://ftx.com/trump-tokens.
+    logoURI: null
+    name: Trump Loses Token
+    symbol: TRUMPLOSE
+    type: null

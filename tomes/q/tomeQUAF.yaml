@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4492E10fD69Be9ae85d75BdcdA2d9d1E68C0EeA6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Quaffle
+    symbol: QUAF
+    type: null

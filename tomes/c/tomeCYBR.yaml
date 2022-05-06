@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaeaabb69dcb0fe926b1979f0b032fcd17fd7b2e0'
+    chainId: null
+    decimals: null
+    description: CYBR Token (CYBR) is a cryptocurrency and operates on the Ethereum
+      platform. CYBR Token has a current supply of 459,722,704 with 37,410,463 in
+      circulation. The last known price of CYBR Token is 0 USD and is up 0.00 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://cybrtoken.io/.
+    logoURI: null
+    name: CYBR Token
+    symbol: CYBR
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x34364BEe11607b1963d66BCA665FDE93fCA666a8'
+    chainId: null
+    decimals: null
+    description: YOU COIN (YOU) is a cryptocurrency and operates on the Ethereum platform.
+      YOU COIN has a current supply of 2,856,000,000 with 556,120,198.410192 in circulation.
+      The last known price of YOU COIN is 0.00638313 USD and is up 2.67 over the last
+      24 hours. It is currently trading on 6 active market(s) with $708,367.21 traded
+      over the last 24 hours. More information can be found at http://youchain.cc/.
+    logoURI: null
+    name: YOU COIN
+    symbol: YOU
+    type: null

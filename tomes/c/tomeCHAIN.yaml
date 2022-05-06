@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC4C2614E694cF534D407Ee49F8E44D125E4681c4'
+    chainId: null
+    decimals: null
+    description: Chain Games (CHAIN) is a cryptocurrency and operates on the Ethereum
+      platform. Chain Games has a current supply of 0. The last known price of Chain
+      Games is 0.0122308 USD and is up 0.15 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $13,470.44 traded over the last 24 hours.
+      More information can be found at https://chaingames.io/.
+    logoURI: null
+    name: Chain Games
+    symbol: CHAIN
+    type: null

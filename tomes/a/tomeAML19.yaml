@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x234922c6b8E6baE355435d22dFaD49Ae8F5fADCF'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Alex Masmej Loan '19
+    symbol: AML19
+    type: null

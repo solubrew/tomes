@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7f86c782ec802ac402e0369d2e6d500256f7abc5'
+    chainId: null
+    decimals: null
+    description: RING X PLATFORM (RINGX) is a cryptocurrency and operates on the Ethereum
+      platform. RING X PLATFORM has a current supply of 452,372,597 with 125,238,095.3168
+      in circulation. The last known price of RING X PLATFORM is 0.07001028 USD and
+      is up 8.27 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $324,669,388.35 traded over the last 24 hours. More information can be
+      found at http://ringx.io/.
+    logoURI: null
+    name: RING X PLATFORM
+    symbol: RINGX
+    type: null

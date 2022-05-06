@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1453dbb8a29551ade11d89825ca812e05317eaeb'
+    chainId: null
+    decimals: null
+    description: Tendies (TEND) is a cryptocurrency and operates on the Ethereum platform.
+      Tendies has a current supply of 7,995,548.32090509 with 7,595,548.32090509 in
+      circulation. The last known price of Tendies is 0.04066719 USD and is down -38.82
+      over the last 24 hours. It is currently trading on 5 active market(s) with $7,588,784.48
+      traded over the last 24 hours. More information can be found at https://tendies.dev/.
+    logoURI: null
+    name: Tendies
+    symbol: TEND
+    type: null

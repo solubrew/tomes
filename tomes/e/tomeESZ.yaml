@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe8a1df958be379045e2b46a31a98b93a2ecdfded'
+    chainId: null
+    decimals: null
+    description: EtherSportz (ESZ) is a cryptocurrency and operates on the Ethereum
+      platform. EtherSportz has a current supply of 2,569,862.86693448. The last known
+      price of EtherSportz is 0.01660955 USD and is up 5.17 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://ethersportz.com.
+    logoURI: null
+    name: EtherSportz
+    symbol: ESZ
+    type: null

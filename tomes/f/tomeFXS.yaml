@@ -1,0 +1,14 @@
+children:
+- FRAX
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: null
+    chainId: null
+    decimals: null
+    logoURI: null
+    name: null
+    symbol: FXS
+    type: null

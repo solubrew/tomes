@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3db99ab08006aefcc9600972eca8c202396b4300'
+    chainId: null
+    decimals: null
+    description: Vinci (VINCI) is a cryptocurrency and operates on the Ethereum platform.
+      Vinci has a current supply of 300,000,000 with 0 in circulation. The last known
+      price of Vinci is 2.83434593 USD and is up 1.28 over the last 24 hours. It is
+      currently trading on 2 active market(s) with $1,802.08 traded over the last
+      24 hours. More information can be found at https://vinci.id/index.html.
+    logoURI: null
+    name: Vinci
+    symbol: VINCI
+    type: null

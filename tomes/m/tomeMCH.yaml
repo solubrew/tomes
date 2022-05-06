@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x10709ca9ADcaA1728Ad530BE1ED39c0286124883'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Meritum Cash
+    symbol: MCH
+    type: null

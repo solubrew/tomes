@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee'
+    chainId: null
+    decimals: null
+    description: Satopay Network (STOP) is a cryptocurrency and operates on the Ethereum
+      platform. Satopay Network has a current supply of 390,000,000 with 0 in circulation.
+      The last known price of Satopay Network is 0.00085344 USD and is down -10.79
+      over the last 24 hours. It is currently trading on 4 active market(s) with $228,915.46
+      traded over the last 24 hours. More information can be found at https://satopay.network/.
+    logoURI: null
+    name: Satopay Network
+    symbol: STOP
+    type: null

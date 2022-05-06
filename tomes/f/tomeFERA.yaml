@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x539f3615c1dbafa0d008d87504667458acbd16fa'
+    chainId: null
+    decimals: null
+    description: Fera (FERA) is a cryptocurrency and operates on the Ethereum platform.
+      Fera has a current supply of 300,000,000 with 185,933,016 in circulation. The
+      last known price of Fera is 0.00049506 USD and is up 2.14 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $239.26 traded over the last
+      24 hours. More information can be found at https://www.ferastrategies.com/.
+    logoURI: null
+    name: Fera
+    symbol: FERA
+    type: null

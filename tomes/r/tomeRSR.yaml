@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8762db106B2c2A0bccB3A80d1Ed41273552616E8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Reserve Rights
+    symbol: RSR
+    type: null

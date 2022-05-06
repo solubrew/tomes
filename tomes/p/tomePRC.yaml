@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb74C5b590398aC63Cc5888F7Dd0c0b1eB4BAABcd'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PRINCOIN
+    symbol: PRC
+    type: null

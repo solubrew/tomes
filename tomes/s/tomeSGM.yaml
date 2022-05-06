@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x72b509b59Bbfe847A1D68EaE96161ADFF8675064'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Sgame Token
+    symbol: SGM
+    type: null

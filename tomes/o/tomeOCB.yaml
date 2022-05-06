@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x466912baa9430a4a460b141ee8c580d817441449'
+    chainId: null
+    decimals: null
+    description: BLOCKMAX (OCB) is a cryptocurrency and operates on the Ethereum platform.
+      BLOCKMAX has a current supply of 0. The last known price of BLOCKMAX is 0.18597421
+      USD and is up 6.95 over the last 24 hours. It is currently trading on 4 active
+      market(s) with $684,756.49 traded over the last 24 hours. More information can
+      be found at https://blockmax.io/.
+    logoURI: null
+    name: BLOCKMAX
+    symbol: OCB
+    type: null

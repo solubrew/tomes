@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7090a6e22c838469c9E67851D6489ba9c933a43F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Zuck Bucks
+    symbol: ZBUX
+    type: null

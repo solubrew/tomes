@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Aeternity
+    symbol: AE
+    type: null

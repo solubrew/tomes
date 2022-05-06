@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x00000100F2A2bd000715001920eB70D229700085'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TrueCAD
+    symbol: TCAD
+    type: null

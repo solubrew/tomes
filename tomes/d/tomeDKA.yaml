@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0'
+    chainId: null
+    decimals: null
+    description: dKargo (DKA) is a cryptocurrency and operates on the Ethereum platform.
+      dKargo has a current supply of 5,000,000,000 with 303,373,350.00000095 in circulation.
+      The last known price of dKargo is 0.02916729 USD and is up 9.22 over the last
+      24 hours. It is currently trading on 10 active market(s) with $3,576,064.92
+      traded over the last 24 hours. More information can be found at https://dkargo.io/main_en.html.
+    logoURI: null
+    name: dKargo
+    symbol: DKA
+    type: null

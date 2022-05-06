@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x78230E69d6e6449dB1E11904e0bD81C018454d7A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LeapToken
+    symbol: LEAP
+    type: null

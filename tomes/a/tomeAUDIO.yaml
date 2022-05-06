@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x18aaa7115705e8be94bffebde57af9bfc265b998'
+    chainId: null
+    decimals: null
+    description: Audius (AUDIO) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. Audius has a current supply of 1,000,000,000 with 120,000,000
+      in circulation. The last known price of Audius is 0.15416341 USD and is up 12.51
+      over the last 24 hours. It is currently trading on 9 active market(s) with $3,987,680.98
+      traded over the last 24 hours. More information can be found at https://audius.co/.
+    logoURI: null
+    name: Audius
+    symbol: AUDIO
+    type: null

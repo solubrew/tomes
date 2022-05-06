@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x92dD20C7dA4d004a1A6Fc094dc7D0C7169899353'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TIMETOFLYTOKEN
+    symbol: TTF
+    type: null

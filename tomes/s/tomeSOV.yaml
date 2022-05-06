@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x010589B7c33034b802F7dbA2C88cc9cec0f46673'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SoundMoneyCoin
+    symbol: SOV
+    type: null

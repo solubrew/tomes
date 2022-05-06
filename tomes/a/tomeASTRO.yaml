@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7B22938ca841aA392C93dBB7f4c42178E3d65E88'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AstroTokens
+    symbol: ASTRO
+    type: null

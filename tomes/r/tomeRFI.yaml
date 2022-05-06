@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7'
+    chainId: null
+    decimals: null
+    description: reflect.finance (RFI) is a cryptocurrency and operates on the Ethereum
+      platform. reflect.finance has a current supply of 10,000,000 with 9,511,059
+      in circulation. The last known price of reflect.finance is 2.05496204 USD and
+      is up 131.32 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $6,911,839.01 traded over the last 24 hours. More information can be found
+      at https://reflect.finance.
+    logoURI: null
+    name: reflect.finance
+    symbol: RFI
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7b937131B8D1761Fc0722B632517fF46e5349496'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Quitcoin
+    symbol: QUIT
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x83aD87C988aC0c6277C0c6234Cc8108b20bB5d9B'
+    chainId: null
+    decimals: null
+    description: 3X Long Chainlink Token (LINKBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Long Chainlink Token has a current supply of 1,165.31651583
+      with 0 in circulation. The last known price of 3X Long Chainlink Token is 949.85951015
+      USD and is up 3.66 over the last 24 hours. It is currently trading on 5 active
+      market(s) with $334,489.23 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/LINKBULL.
+    logoURI: null
+    name: 3X Long Chainlink Token
+    symbol: LINKBULL
+    type: null

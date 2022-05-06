@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x04C7Cd246330288a84D2788e8a323cC41206C2eB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BitcoinMonkey
+    symbol: BTCM
+    type: null

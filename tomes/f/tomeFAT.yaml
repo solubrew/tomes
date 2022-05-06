@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2ec95b8eda549b79a1248335a39d299d00ed314c'
+    chainId: null
+    decimals: null
+    description: Fatcoin (FAT) is a cryptocurrency and operates on the Ethereum platform.
+      Fatcoin has a current supply of 200,000,000 with 119,655,308.35 in circulation.
+      The last known price of Fatcoin is 0.03348686 USD and is up 11.39 over the last
+      24 hours. It is currently trading on 3 active market(s) with $1,506,678.28 traded
+      over the last 24 hours. More information can be found at https://www.fatbtc.com/.
+    logoURI: null
+    name: Fatcoin
+    symbol: FAT
+    type: null

@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9A06Ef3a841316a9e2c1C93B9c21a7342abE484F'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: MNLTHSKIN
+    type: null

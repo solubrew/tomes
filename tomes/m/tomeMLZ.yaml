@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcCBCdAb59762980dD15fb6652Ff2BbC7f9cf2a95'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MILLZ TOKEN
+    symbol: MLZ
+    type: null

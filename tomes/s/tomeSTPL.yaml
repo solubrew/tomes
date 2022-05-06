@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9b5C2BE869a19e84BDBcb1386dAD83a2ec8DAe82'
+    chainId: null
+    decimals: null
+    description: Stream Protocol (STPL) is a cryptocurrency and operates on the Ethereum
+      platform. Stream Protocol has a current supply of 2,000,000,000 with 0 in circulation.
+      The last known price of Stream Protocol is 0.02135005 USD and is down -3.31
+      over the last 24 hours. It is currently trading on 2 active market(s) with $118,157.93
+      traded over the last 24 hours. More information can be found at https://www.streamprotocol.io/.
+    logoURI: null
+    name: Stream Protocol
+    symbol: STPL
+    type: null

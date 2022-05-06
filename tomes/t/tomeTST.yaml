@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD9baE39c725A1864b1133Ad0eF1640d02f79B78c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Touch Smart Token
+    symbol: TST
+    type: null

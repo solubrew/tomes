@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf02dab52205aff6bb3d47cc7b21624a5064f9fba'
+    chainId: null
+    decimals: null
+    description: Pyrrhos Gold (PGOLD) is a cryptocurrency launched in 2019and operates
+      on the Ethereum platform. Pyrrhos Gold has a current supply of 15,000,000 with
+      0 in circulation. The last known price of Pyrrhos Gold is 0.00249035 USD and
+      is up 1.46 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://backed-by-gold.com/.
+    logoURI: null
+    name: Pyrrhos Gold
+    symbol: PGOLD
+    type: null

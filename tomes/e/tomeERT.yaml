@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x92A5B04D0ED5D94D7a193d1d334D3D16996f4E13'
+    chainId: null
+    decimals: null
+    description: Eristica (ERT) is a cryptocurrency and operates on the Ethereum platform.
+      Eristica has a current supply of 230,502,120.2949735 with 172,467,627.14597878
+      in circulation. The last known price of Eristica is 0.00038285 USD and is up
+      1.31 over the last 24 hours. It is currently trading on 1 active market(s) with
+      $0.00 traded over the last 24 hours. More information can be found at https://eristica.com/.
+    logoURI: null
+    name: Eristica
+    symbol: ERT
+    type: null

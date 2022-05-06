@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8'
+    chainId: null
+    decimals: null
+    description: CONTRACOIN (CTCN) is a cryptocurrency launched in 2018and operates
+      on the Ethereum platform. CONTRACOIN has a current supply of 100,000,000 with
+      26,246,492.5 in circulation. The last known price of CONTRACOIN is 0.488447
+      USD and is up 14.37 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $34,088.86 traded over the last 24 hours. More information can
+      be found at https://www.contracoin.network.
+    logoURI: null
+    name: CONTRACOIN
+    symbol: CTCN
+    type: null

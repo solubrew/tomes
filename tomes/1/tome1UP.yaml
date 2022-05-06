@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x07597255910a51509CA469568B048F2597E72504'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Uptrennd
+    symbol: 1UP
+    type: null

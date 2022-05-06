@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x858B1F24940E64E08B6941946a29aA352f218AE6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HungaryGold
+    symbol: HUG
+    type: null

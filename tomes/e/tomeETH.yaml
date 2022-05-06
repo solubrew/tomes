@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x000000000000000000000000000000000000000'
+    chainId: null
+    decimals: null
+    description: Ethereum (ETH) is a cryptocurrency . Users are able to generate ETH
+      through the process of mining. Ethereum has a current supply of 113,704,560.6865.
+      The last known price of Ethereum is 592.80610129 USD and is down -3.27 over
+      the last 24 hours. It is currently trading on 5830 active market(s) with $18,667,112,288.38
+      traded over the last 24 hours. More information can be found at https://www.ethereum.org/.
+    logoURI: null
+    name: Ethereum
+    symbol: ETH
+    type: null

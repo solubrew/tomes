@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x66bad545596fb17a0b4ebdc003a85def10e8f6ae'
+    chainId: null
+    decimals: null
+    description: Wiki Token (WIKI) is a cryptocurrency and operates on the Ethereum
+      platform. Wiki Token has a current supply of 21,000,000 with 0 in circulation.
+      The last known price of Wiki Token is 0.44960092 USD and is up 4.14 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $103.72 traded
+      over the last 24 hours. More information can be found at https://wikitoken.bitcoinwiki.org.
+    logoURI: null
+    name: Wiki Token
+    symbol: WIKI
+    type: null

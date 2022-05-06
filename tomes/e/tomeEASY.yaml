@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x913D8ADf7CE6986a8CbFee5A54725D9Eea4F0729'
+    chainId: null
+    decimals: null
+    description: EasyFi (EASY) is a cryptocurrency and operates on the Ethereum platform.
+      EasyFi has a current supply of 10,000,000 with 531,625 in circulation. The last
+      known price of EasyFi is 7.21826737 USD and is up 21.79 over the last 24 hours.
+      It is currently trading on 6 active market(s) with $4,184,684.32 traded over
+      the last 24 hours. More information can be found at https://easyfi.network/.
+    logoURI: null
+    name: EasyFi
+    symbol: EASY
+    type: null

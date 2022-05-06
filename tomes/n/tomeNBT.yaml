@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2e2364966267B5D7D2cE6CD9A9B5bD19d9C7C6A9'
+    chainId: null
+    decimals: null
+    description: NIX Bridge Token (NBT) is a cryptocurrency and operates on the Ethereum
+      platform. NIX Bridge Token has a current supply of 0. The last known price of
+      NIX Bridge Token is 9.91698358 USD and is down -8.55 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $8,283.89 traded over the
+      last 24 hours. More information can be found at https://bridge.nixplatform.io.
+    logoURI: null
+    name: NIX Bridge Token
+    symbol: NBT
+    type: null

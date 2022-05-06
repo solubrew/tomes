@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x97bdd9fdfa0b1677a2a353848514d93c108bec85'
+    chainId: null
+    decimals: null
+    description: Lapis Chain (LPS) is a cryptocurrency and operates on the Ethereum
+      platform. Lapis Chain has a current supply of 0. The last known price of Lapis
+      Chain is 0.0017622 USD and is up 0.00 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $1.96 traded over the last 24 hours. More
+      information can be found at http://lapistoken.org/en/.
+    logoURI: null
+    name: Lapis Chain
+    symbol: LPS
+    type: null

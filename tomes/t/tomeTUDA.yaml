@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5e3002dff591c5e75bb9dedae268049742e6b13a'
+    chainId: null
+    decimals: null
+    description: Tutor<apostrophe>s Diary (TUDA) is a cryptocurrency and operates
+      on the Ethereum platform. Tutor<apostrophe>s Diary has a current supply of 600,000,000
+      with 0 in circulation. The last known price of Tutor<apostrophe>s Diary is 0.00530142
+      USD and is down -0.76 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $173.87 traded over the last 24 hours. More information can be
+      found at https://www.tutorsdiary.io/.
+    logoURI: null
+    name: Tutor<apostrophe>s Diary
+    symbol: TUDA
+    type: null

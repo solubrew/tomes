@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x426ca1ea2406c07d75db9585f22781c096e3d0e0'
+    chainId: null
+    decimals: null
+    description: Minereum (MNE) is a cryptocurrency and operates on the Ethereum platform.
+      Minereum has a current supply of 10,762,711.88608. The last known price of Minereum
+      is 0.20169653 USD and is down -8.15 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $2,799.65 traded over the last 24 hours.
+      More information can be found at https://www.minereum.com/.
+    logoURI: null
+    name: Minereum
+    symbol: MNE
+    type: null

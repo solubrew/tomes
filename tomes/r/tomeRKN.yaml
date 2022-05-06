@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6e5a43db10b04701385a34afb670e404bc7ea597'
+    chainId: null
+    decimals: null
+    description: Rakon (RKN) is a cryptocurrency and operates on the Ethereum platform.
+      Rakon has a current supply of 285,714,286 with 242,857,143 in circulation. The
+      last known price of Rakon is 0.10659418 USD and is down -4.21 over the last
+      24 hours. It is currently trading on 6 active market(s) with $1,308,806.23 traded
+      over the last 24 hours. More information can be found at https://rkntoken.io.
+    logoURI: null
+    name: Rakon
+    symbol: RKN
+    type: null

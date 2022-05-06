@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xabe9b2e4bbd5a8c718752c41254ed81aae7d98bf'
+    chainId: null
+    decimals: null
+    description: P2P (P2P) is a cryptocurrency and operates on the Ethereum platform.
+      P2P has a current supply of 250,000,000 with 0 in circulation. The last known
+      price of P2P is 0.00230001 USD and is down -6.30 over the last 24 hours. It
+      is currently trading on 4 active market(s) with $67,595.57 traded over the last
+      24 hours. More information can be found at http://p2pcash.net/.
+    logoURI: null
+    name: P2P
+    symbol: P2P
+    type: null

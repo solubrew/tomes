@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1966d718A565566e8E202792658D7b5Ff4ECe469'
+    chainId: null
+    decimals: null
+    description: nDEX (NDX) is a cryptocurrency and operates on the Ethereum platform.
+      nDEX has a current supply of 15,000,000,000. The last known price of nDEX is
+      0.00009727 USD and is up 1.51 over the last 24 hours. It is currently trading
+      on 2 active market(s) with $0.00 traded over the last 24 hours. More information
+      can be found at https://ndexnetwork.com/.
+    logoURI: null
+    name: nDEX
+    symbol: NDX
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x57C75ECCc8557136D32619a191fBCDc88560d711'
+    chainId: null
+    decimals: null
+    description: VeriDocGlobal (VDG) is a cryptocurrency and operates on the Ethereum
+      platform. VeriDocGlobal has a current supply of 50,000,000,000 with 8,869,069,037
+      in circulation. The last known price of VeriDocGlobal is 0.00053335 USD and
+      is down -14.58 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $62,388.63 traded over the last 24 hours. More information can be found
+      at https://www.veridocglobal.com/.
+    logoURI: null
+    name: VeriDocGlobal
+    symbol: VDG
+    type: null

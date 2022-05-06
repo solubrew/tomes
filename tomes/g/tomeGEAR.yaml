@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1b980e05943dE3dB3a459C72325338d327B6F5a9'
+    chainId: null
+    decimals: null
+    description: Bitgear (GEAR) is a cryptocurrency and operates on the Ethereum platform.
+      Bitgear has a current supply of 91,000,000 with 63,318,646.97570177 in circulation.
+      The last known price of Bitgear is 0.00604571 USD and is up 3.14 over the last
+      24 hours. It is currently trading on 1 active market(s) with $1,447.21 traded
+      over the last 24 hours. More information can be found at https://www.bitgear.io/.
+    logoURI: null
+    name: Bitgear
+    symbol: GEAR
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x412d397ddca07d753e3e0c61e367fb1b474b3e7d'
+    chainId: null
+    decimals: null
+    description: 8X8 PROTOCOL (EXE) is a cryptocurrency and operates on the Ethereum
+      platform. 8X8 PROTOCOL has a current supply of 880,000,000 with 310,000,000
+      in circulation. The last known price of 8X8 PROTOCOL is 0.0026546 USD and is
+      down -8.57 over the last 24 hours. It is currently trading on 12 active market(s)
+      with $475,216.00 traded over the last 24 hours. More information can be found
+      at https://8x8protocol.io.
+    logoURI: null
+    name: 8X8 PROTOCOL
+    symbol: EXE
+    type: null

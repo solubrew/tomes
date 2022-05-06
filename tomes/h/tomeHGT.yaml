@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xba2184520A1cC49a6159c57e61E1844E085615B6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HelloGold Token
+    symbol: HGT
+    type: null

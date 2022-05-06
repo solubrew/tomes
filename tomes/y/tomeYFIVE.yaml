@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd3E8695d2Bef061EAb38B5EF526c0f714108119C'
+    chainId: null
+    decimals: null
+    description: YFIVE FINANCE (YFIVE) is a cryptocurrency and operates on the Ethereum
+      platform. YFIVE FINANCE has a current supply of 31,020 with 18,115.32582208
+      in circulation. The last known price of YFIVE FINANCE is 2.70939164 USD and
+      is down -4.18 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $119,568.47 traded over the last 24 hours. More information can be found
+      at https://www.yfive.finance.
+    logoURI: null
+    name: YFIVE FINANCE
+    symbol: YFIVE
+    type: null

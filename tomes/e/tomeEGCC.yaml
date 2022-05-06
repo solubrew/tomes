@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaf8a215e81faea7c180ce22b72483525121813bd'
+    chainId: null
+    decimals: null
+    description: Engine (EGCC) is a cryptocurrency and operates on the Ethereum platform.
+      Engine has a current supply of 10,000,000,000 with 0 in circulation. The last
+      known price of Engine is 0.00004815 USD and is up 1.85 over the last 24 hours.
+      It is currently trading on 5 active market(s) with $183,125.95 traded over the
+      last 24 hours. More information can be found at https://www.egcchain.com/.
+    logoURI: null
+    name: Engine
+    symbol: EGCC
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdbf5c7d8ac5007667617a15db2c1b1d616c9d302'
+    chainId: null
+    decimals: null
+    description: FlexETH/BTC Set (FLEXETHBTC) is a cryptocurrency and operates on
+      the Ethereum platform. FlexETH/BTC Set has a current supply of 84.04559225 with
+      0 in circulation. The last known price of FlexETH/BTC Set is 310.3 USD and is
+      up 3.00 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://www.tokensets.com/set/flexethbtc.
+    logoURI: null
+    name: FlexETH/BTC Set
+    symbol: FLEXETHBTC
+    type: null

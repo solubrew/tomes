@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4893a1938df49f4178c37e4e965cc8a1b3882173'
+    chainId: null
+    decimals: null
+    description: Baroin (BRI) is a cryptocurrency and operates on the Ethereum platform.
+      Baroin has a current supply of 0. The last known price of Baroin is 1.38392981
+      USD and is up 1.35 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $1,730,345.72 traded over the last 24 hours. More information
+      can be found at http://www.baroin.biz/.
+    logoURI: null
+    name: Baroin
+    symbol: BRI
+    type: null

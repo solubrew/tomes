@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4b46636aFCb2BC4DD20C3D0424c4E1e6D296Fabe'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ExtraCurio
+    symbol: CURIO
+    type: null

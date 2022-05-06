@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8a854288a5976036A725879164Ca3e91d30c6A1B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GET
+    symbol: GET
+    type: null

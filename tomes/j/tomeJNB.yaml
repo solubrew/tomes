@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x21d5a14e625d767ce6b7a167491c2d18e0785fda'
+    chainId: null
+    decimals: null
+    description: Jinbi Token (JNB) is a cryptocurrency and operates on the Ethereum
+      platform. Jinbi Token has a current supply of 12,500,000 with 0 in circulation.
+      The last known price of Jinbi Token is 170.3831345 USD and is down -2.78 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $49,702.73
+      traded over the last 24 hours. More information can be found at https://www.jinbitoken.io.
+    logoURI: null
+    name: Jinbi Token
+    symbol: JNB
+    type: null

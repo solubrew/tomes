@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe25bCec5D3801cE3a794079BF94adF1B8cCD802D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MATRIX AI Network
+    symbol: MAN
+    type: null

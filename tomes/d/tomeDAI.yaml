@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x33fA33aec853B3b072a8B54CeB0Dd7f722dd5Ec5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DAI
+    symbol: DAI
+    type: null

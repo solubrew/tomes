@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x456ae45c0ce901e2e7c99c0718031cec0a7a59ff'
+    chainId: null
+    decimals: null
+    description: Vision Network (VSN) is a cryptocurrency and operates on the Ethereum
+      platform. Vision Network has a current supply of 250,000,000 with 0 in circulation.
+      The last known price of Vision Network is 0.00242697 USD and is up 258.26 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://www.vision-network.io/.
+    logoURI: null
+    name: Vision Network
+    symbol: VSN
+    type: null

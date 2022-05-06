@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF6C868C4F2a48949ff9b01E67AcD206543352Fcd'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Mythex
+    symbol: MX
+    type: null

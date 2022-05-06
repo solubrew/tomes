@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2003140a82c9a0cb32636526A43AaA9F7F88022B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CREDIT
+    symbol: CREDIT
+    type: null

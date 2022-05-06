@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5fbdb42bb048c685c990a37f2c87fe087c586655'
+    chainId: null
+    decimals: null
+    description: Xenon (XEN) is a cryptocurrency and operates on the Ethereum platform.
+      Xenon has a current supply of 10,000,000,000 with 0 in circulation. The last
+      known price of Xenon is 0.00008794 USD and is up 32.58 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $45.99 traded over the last
+      24 hours. More information can be found at https://www.xenontoken.com/.
+    logoURI: null
+    name: Xenon
+    symbol: XEN
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MyBit
+    symbol: MYB
+    type: null

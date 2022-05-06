@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x057fb10e3fec001a40e6b75d3a30b99e23e54107'
+    chainId: null
+    decimals: null
+    description: 3X Short Algorand Token (ALGOBEAR) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Short Algorand Token has a current supply of 33,568.05916888
+      with 0 in circulation. The last known price of 3X Short Algorand Token is 0.00999848
+      USD and is down -13.44 over the last 24 hours. It is currently trading on 2
+      active market(s) with $9,476.86 traded over the last 24 hours. More information
+      can be found at https://ftx.com/tokens/ALGOBEAR.
+    logoURI: null
+    name: 3X Short Algorand Token
+    symbol: ALGOBEAR
+    type: null

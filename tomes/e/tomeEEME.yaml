@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4f7ECD8aFA3B43E0BFE3820232d04E8d5921CC29'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ethele Metal
+    symbol: EEME
+    type: null

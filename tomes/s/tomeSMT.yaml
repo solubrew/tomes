@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x55f93985431fc9304077687a35a1ba103dc1e081'
+    chainId: null
+    decimals: null
+    description: SmartMesh (SMT) is a cryptocurrency and operates on the Ethereum
+      platform. SmartMesh has a current supply of 3,141,592,653 with 1,340,519,342.7617402
+      in circulation. The last known price of SmartMesh is 0.0027367 USD and is up
+      0.70 over the last 24 hours. It is currently trading on 11 active market(s)
+      with $134,286.65 traded over the last 24 hours. More information can be found
+      at https://smartmesh.io/.
+    logoURI: null
+    name: SmartMesh
+    symbol: SMT
+    type: null

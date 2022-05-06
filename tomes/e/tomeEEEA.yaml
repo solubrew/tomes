@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd6a7027807d42695C49466079101615DAFd4B46B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ethele Earth
+    symbol: EEEA
+    type: null

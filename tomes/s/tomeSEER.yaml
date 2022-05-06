@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0f1ed66c251bcb52ecf7e67ac64bb72482048adb'
+    chainId: null
+    decimals: null
+    description: SEER (SEER) is a cryptocurrency and operates on the Ethereum platform.
+      SEER has a current supply of 4,100,000,000 with 0 in circulation. The last known
+      price of SEER is 0.00013241 USD and is up 0.00 over the last 24 hours. It is
+      currently trading on 2 active market(s) with $15.89 traded over the last 24
+      hours. More information can be found at http://seer.best/.
+    logoURI: null
+    name: SEER
+    symbol: SEER
+    type: null

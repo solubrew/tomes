@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC6dA78DaDfe7b8c681eC62bCEB4b7d3009D66fCE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MassNergy
+    symbol: MNG
+    type: null

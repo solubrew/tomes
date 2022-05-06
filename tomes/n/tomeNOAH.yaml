@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x58a4884182d9E835597f405e5F258290E46ae7C2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: NOAHCOIN
+    symbol: NOAH
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8e1b448ec7adfc7fa35fc2e885678bd323176e34'
+    chainId: null
+    decimals: null
+    description: Egretia (EGT) is a cryptocurrency and operates on the Ethereum platform.
+      Egretia has a current supply of 8,000,000,000 with 4,218,701,581.8676553 in
+      circulation. The last known price of Egretia is 0.00079117 USD and is up 4.87
+      over the last 24 hours. It is currently trading on 26 active market(s) with
+      $1,100,629.87 traded over the last 24 hours. More information can be found at
+      http://egretia.io/.
+    logoURI: null
+    name: Egretia
+    symbol: EGT
+    type: null

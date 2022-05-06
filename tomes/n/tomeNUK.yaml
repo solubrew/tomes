@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9E12c837159deDc233719EDf5A4eC2405644E8a7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: NUKlear
+    symbol: NUK
+    type: null

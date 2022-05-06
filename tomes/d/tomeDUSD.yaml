@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5bc25f649fc4e26069ddf4cf4010f9f706c23831'
+    chainId: null
+    decimals: null
+    description: DefiDollar (DUSD) is a cryptocurrency and operates on the Ethereum
+      platform. DefiDollar has a current supply of 16,697,847 with 0 in circulation.
+      The last known price of DefiDollar is 1.01142041 USD and is up 4.49 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $101,817.12
+      traded over the last 24 hours. More information can be found at https://app.dusd.finance/.
+    logoURI: null
+    name: DefiDollar
+    symbol: DUSD
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA0cCa3Cf5c64152883f4c947c404E46996593fA7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BRAPPER
+    symbol: BRAP
+    type: null

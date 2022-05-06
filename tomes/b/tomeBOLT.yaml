@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9f235d23354857efe6c541db92a9ef1877689bcb'
+    chainId: null
+    decimals: null
+    description: BOLT (BOLT) is a cryptocurrency and operates on the Ethereum platform.
+      BOLT has a current supply of 995,000,000 with 991,283,100 in circulation. The
+      last known price of BOLT is 0.0027006 USD and is down -1.14 over the last 24
+      hours. It is currently trading on 8 active market(s) with $121,491.96 traded
+      over the last 24 hours. More information can be found at https://bolt.global/.
+    logoURI: null
+    name: BOLT
+    symbol: BOLT
+    type: null

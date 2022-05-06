@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5F7fA1a0Ae94b5DD6bb6bD1708b5f3AF01b57908'
+    chainId: null
+    decimals: null
+    description: YFIKING,FINANCE (YFIKING) is a cryptocurrency and operates on the
+      Ethereum platform. YFIKING,FINANCE has a current supply of 0. The last known
+      price of YFIKING,FINANCE is 0.11604503 USD and is down -39.14 over the last
+      24 hours. It is currently trading on 2 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://yfi-group.com.
+    logoURI: null
+    name: YFIKING,FINANCE
+    symbol: YFIKING
+    type: null

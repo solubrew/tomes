@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf83301c5cd1ccbb86f466a6b3c53316ed2f8465a'
+    chainId: null
+    decimals: null
+    description: COMSA [ETH] (CMS) is a cryptocurrency and operates on the Ethereum
+      platform. COMSA [ETH] has a current supply of 219,042,298 with 0 in circulation.
+      The last known price of COMSA [ETH] is 0.04983157 USD and is up 5.17 over the
+      last 24 hours. More information can be found at https://comsa.io/en/.
+    logoURI: null
+    name: COMSA [ETH]
+    symbol: CMS
+    type: null

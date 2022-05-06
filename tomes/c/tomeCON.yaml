@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4Dd672e77c795844fe3A464eF8eF0FAAe617C8fB'
+    chainId: null
+    decimals: null
+    description: CONUN (CON) is a cryptocurrency and operates on the Ethereum platform.
+      CONUN has a current supply of 5,000,000,000 with 2,897,405,858.7000003 in circulation.
+      The last known price of CONUN is 0.00516667 USD and is down -5.21 over the last
+      24 hours. It is currently trading on 2 active market(s) with $452,551.22 traded
+      over the last 24 hours. More information can be found at https://conun.io.
+    logoURI: null
+    name: CONUN
+    symbol: CON
+    type: null

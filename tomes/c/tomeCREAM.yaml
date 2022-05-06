@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2ba592f78db6436527729929aaf6c908497cb200'
+    chainId: null
+    decimals: null
+    description: Cream Finance (CREAM) is a cryptocurrency and operates on the Ethereum
+      platform. Cream Finance has a current supply of 2,924,547 with 149,927.58961567
+      in circulation. The last known price of Cream Finance is 76.44847401 USD and
+      is up 11.01 over the last 24 hours. It is currently trading on 33 active market(s)
+      with $1,572,932.82 traded over the last 24 hours. More information can be found
+      at https://app.cream.finance/.
+    logoURI: null
+    name: Cream Finance
+    symbol: CREAM
+    type: null

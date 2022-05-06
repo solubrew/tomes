@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4270bb238f6dd8b1c3ca01f96ca65b2647c06d3c'
+    chainId: null
+    decimals: null
+    description: Fortuna (FOTA) is a cryptocurrency and operates on the Ethereum platform.
+      Fortuna has a current supply of 1,000,000,000 with 479,997,016.0508073 in circulation.
+      The last known price of Fortuna is 0.00078624 USD and is up 28.67 over the last
+      24 hours. It is currently trading on 7 active market(s) with $18,587.69 traded
+      over the last 24 hours. More information can be found at https://www.fota.io/.
+    logoURI: null
+    name: Fortuna
+    symbol: FOTA
+    type: null

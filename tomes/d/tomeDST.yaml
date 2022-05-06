@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC5807256e2E2Fe85ca94C3617C4Bc5ff2Bd9cfB6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DragonSeriesToken
+    symbol: DST
+    type: null

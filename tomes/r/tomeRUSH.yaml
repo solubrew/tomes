@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcFCd43D7eE21416a71c2EB9888587D52716Fc77a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HashRush
+    symbol: RUSH
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664'
+    chainId: null
+    decimals: null
+    description: QuarkChain (QKC) is a cryptocurrency and operates on the Ethereum
+      platform. QuarkChain has a current supply of 11,112,732,582.04 with 9,612,732,581.395441
+      in circulation. The last known price of QuarkChain is 0.00566165 USD and is
+      up 5.26 over the last 24 hours. It is currently trading on 31 active market(s)
+      with $4,646,141.74 traded over the last 24 hours. More information can be found
+      at https://quarkchain.io/.
+    logoURI: null
+    name: QuarkChain
+    symbol: QKC
+    type: null

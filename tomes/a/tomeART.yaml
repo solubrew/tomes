@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfec0cF7fE078a500abf15F1284958F22049c2C7e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Maecenas ART Token
+    symbol: ART
+    type: null

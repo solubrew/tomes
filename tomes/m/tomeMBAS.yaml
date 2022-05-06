@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1A37aB7420C3b9BEACdd8329656061c685ffeA15'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MBAS
+    symbol: MBAS
+    type: null

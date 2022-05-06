@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA3AC41Fde5f3a569fa79E81fFe6734ee8097Ce9d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 4xBit
+    symbol: 4XB
+    type: null

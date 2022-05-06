@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa00a4d5786a6e955e9539d01d78bf68f3271c050'
+    chainId: null
+    decimals: null
+    description: Quiztok (QTCON) is a cryptocurrency and operates on the Ethereum
+      platform. Quiztok has a current supply of 12,000,000,000 with 356,861,628 in
+      circulation. The last known price of Quiztok is 0.01719373 USD and is up 2.95
+      over the last 24 hours. It is currently trading on 5 active market(s) with $5,249,669.05
+      traded over the last 24 hours. More information can be found at http://www.quiztok.com/en/index.php.
+    logoURI: null
+    name: Quiztok
+    symbol: QTCON
+    type: null

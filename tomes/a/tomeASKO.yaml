@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeEEE2a622330E6d2036691e983DEe87330588603'
+    chainId: null
+    decimals: null
+    description: ASKO (ASKO) is a cryptocurrency and operates on the Ethereum platform.
+      ASKO has a current supply of 138,509,844.12125728 with 100,883,702.0015032 in
+      circulation. The last known price of ASKO is 0.00440221 USD and is up 2.62 over
+      the last 24 hours. It is currently trading on 8 active market(s) with $24,186.65
+      traded over the last 24 hours. More information can be found at https://askobar-network.com.
+    logoURI: null
+    name: ASKO
+    symbol: ASKO
+    type: null

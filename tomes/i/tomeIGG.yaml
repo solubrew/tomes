@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8ffe40a3d0f80c0ce6b203d5cdc1a6a86d9acaea'
+    chainId: null
+    decimals: null
+    description: IG Gold (IGG) is a cryptocurrency and operates on the Ethereum platform.
+      IG Gold has a current supply of 48,132,126,676 with 8,856,541,707.22174 in circulation.
+      The last known price of IG Gold is 0.00018182 USD and is up 1.62 over the last
+      24 hours. It is currently trading on 3 active market(s) with $176.33 traded
+      over the last 24 hours. More information can be found at https://www.iggalaxy.com/.
+    logoURI: null
+    name: IG Gold
+    symbol: IGG
+    type: null

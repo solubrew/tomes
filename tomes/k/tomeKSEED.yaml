@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3f09400313e83d53366147e3ea0e4e2279d80850'
+    chainId: null
+    decimals: null
+    description: Kush Finance (KSEED) is a cryptocurrency and operates on the Ethereum
+      platform. Kush Finance has a current supply of 420,000 with 204,308.33488871
+      in circulation. The last known price of Kush Finance is 0.20081357 USD and is
+      up 10.43 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $1,035.41 traded over the last 24 hours. More information can be found
+      at https://kush.finance/.
+    logoURI: null
+    name: Kush Finance
+    symbol: KSEED
+    type: null

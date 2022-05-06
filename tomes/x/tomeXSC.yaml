@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0F513fFb4926ff82D7F60A05069047AcA295C413'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CrowdstartCoin
+    symbol: XSC
+    type: null

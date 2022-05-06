@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9469d013805bffb7d3debe5e7839237e535ec483'
+    chainId: null
+    decimals: null
+    description: Darwinia Network (RING) is a cryptocurrency and operates on the Ethereum
+      platform. Darwinia Network has a current supply of 1,590,567,952.9265037 with
+      309,771,175.0930285 in circulation. The last known price of Darwinia Network
+      is 0.04278729 USD and is down -17.04 over the last 24 hours. It is currently
+      trading on 23 active market(s) with $2,587,666.78 traded over the last 24 hours.
+      More information can be found at https://darwinia.network/.
+    logoURI: null
+    name: Darwinia Network
+    symbol: RING
+    type: null

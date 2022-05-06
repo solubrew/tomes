@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x667088b212ce3d06a1b553a7221E1fD19000d9aF'
+    chainId: null
+    decimals: null
+    description: Wings (WINGS) is a cryptocurrency and operates on the Ethereum platform.
+      Wings has a current supply of 100,000,000 with 99,999,993.8460583 in circulation.
+      The last known price of Wings is 0.03495555 USD and is down -2.02 over the last
+      24 hours. It is currently trading on 6 active market(s) with $14,572.24 traded
+      over the last 24 hours. More information can be found at https://wings.ai/.
+    logoURI: null
+    name: Wings
+    symbol: WINGS
+    type: null

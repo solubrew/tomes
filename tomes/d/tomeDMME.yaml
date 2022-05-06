@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9556f8ee795d991ff371f547162d5efb2769425f'
+    chainId: null
+    decimals: null
+    description: DMme (DMME) is a cryptocurrency and operates on the Ethereum platform.
+      DMme has a current supply of 16,128,077 with 0 in circulation. The last known
+      price of DMme is 0.0085516 USD and is up 51.32 over the last 24 hours. It is
+      currently trading on 5 active market(s) with $77,929.34 traded over the last
+      24 hours. More information can be found at https://dmme.app/.
+    logoURI: null
+    name: DMme
+    symbol: DMME
+    type: null

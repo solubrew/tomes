@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x14eb60f5f270b059b0c788de0ddc51da86f8a06d'
+    chainId: null
+    decimals: null
+    description: Phantasma Energy (KCAL) is a cryptocurrency and operates on the Ethereum
+      platform. Phantasma Energy has a current supply of 27,629,279.576798. The last
+      known price of Phantasma Energy is 0.02045236 USD and is up 22.37 over the last
+      24 hours. It is currently trading on 1 active market(s) with $5,240.75 traded
+      over the last 24 hours. More information can be found at https://Phantasma.io.
+    logoURI: null
+    name: Phantasma Energy
+    symbol: KCAL
+    type: null

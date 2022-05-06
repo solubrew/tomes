@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x61404D2D3f2100b124D6827D3F2DDf6233cd71C0'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Seeds
+    symbol: SEEDS
+    type: null

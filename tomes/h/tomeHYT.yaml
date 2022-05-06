@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcfac2916ec118a0252a7766c513ee7c71b384b5e'
+    chainId: null
+    decimals: null
+    description: HoryouToken (HYT) is a cryptocurrency and operates on the Ethereum
+      platform. HoryouToken has a current supply of 18,000,000,000 with 1,089,459,140.426058
+      in circulation. The last known price of HoryouToken is 0.00253907 USD and is
+      down -0.78 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://www.horyoutoken.io/.
+    logoURI: null
+    name: HoryouToken
+    symbol: HYT
+    type: null

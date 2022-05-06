@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4eE6E959d460dE47DfE58E5E6fBAB330Ce8484b6'
+    chainId: null
+    decimals: null
+    description: QURA GLOBAL (QURA) is a cryptocurrency and operates on the Ethereum
+      platform. QURA GLOBAL has a current supply of 10,000,000,000 with 0 in circulation.
+      The last known price of QURA GLOBAL is 0.00000011 USD and is down -4.69 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours.
+    logoURI: null
+    name: QURA GLOBAL
+    symbol: QURA
+    type: null

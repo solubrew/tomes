@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1A92f7381B9F03921564a437210bB9396471050C'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: COOL
+    type: null

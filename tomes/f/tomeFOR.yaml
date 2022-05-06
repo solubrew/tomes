@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1FCdcE58959f536621d76f5b7FfB955baa5A672F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: The Force Token
+    symbol: FOR
+    type: null

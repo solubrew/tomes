@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1410434b0346f5be678d0fb554e5c7ab620f8f4a'
+    chainId: null
+    decimals: null
+    description: BitKan (KAN) is a cryptocurrency and operates on the Ethereum platform.
+      BitKan has a current supply of 10,000,000,000 with 6,451,104,302.509794 in circulation.
+      The last known price of BitKan is 0.00215189 USD and is up 0.15 over the last
+      24 hours. It is currently trading on 16 active market(s) with $711,429.31 traded
+      over the last 24 hours. More information can be found at https://bitkan.com/.
+    logoURI: null
+    name: BitKan
+    symbol: KAN
+    type: null

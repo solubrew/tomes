@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf333b2Ace992ac2bBD8798bF57Bc65a06184afBa'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SND Token 1.0
+    symbol: SND
+    type: null

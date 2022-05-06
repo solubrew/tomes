@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd7cddd45629934c2f6ed3b63217bd8085d7c14a8'
+    chainId: null
+    decimals: null
+    description: Animation Vision Cash (AVH) is a cryptocurrency and operates on the
+      Ethereum platform. Animation Vision Cash has a current supply of 10,000,000,000
+      with 0 in circulation. The last known price of Animation Vision Cash is 0.00019179
+      USD and is up 2.09 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $0.00 traded over the last 24 hours. More information can be
+      found at http://www.av.cash/.
+    logoURI: null
+    name: Animation Vision Cash
+    symbol: AVH
+    type: null

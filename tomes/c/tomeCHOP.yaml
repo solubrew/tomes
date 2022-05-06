@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x646707246d7d5c2a86d7206f41ca8199ea9ced69'
+    chainId: null
+    decimals: null
+    description: Porkchop (CHOP) is a cryptocurrency and operates on the Ethereum
+      platform. Porkchop has a current supply of 20,902,547.21927369 with 0 in circulation.
+      The last known price of Porkchop is 0.00365107 USD and is down -1.40 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://www.porkchop.network/.
+    logoURI: null
+    name: Porkchop
+    symbol: CHOP
+    type: null

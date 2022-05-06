@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6bffa07a1b0cebc474ce6833eaf2be6326252449'
+    chainId: null
+    decimals: null
+    description: BAEPAY (BAEPAY) is a cryptocurrency and operates on the Ethereum
+      platform. BAEPAY has a current supply of 0. The last known price of BAEPAY is
+      0.06977248 USD and is up 4.82 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $44.83 traded over the last 24 hours. More information
+      can be found at https://www.blockchainartexchange.co.uk/.
+    logoURI: null
+    name: BAEPAY
+    symbol: BAEPAY
+    type: null

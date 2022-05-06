@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x79c71D3436F39Ce382D0f58F1B011D88100B9D91'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Xeonbit Token
+    symbol: XNS
+    type: null

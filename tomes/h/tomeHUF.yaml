@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x092Ac353612D41e5aD1C2bb511B51A8619c639Af'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HungaryFiller
+    symbol: HUF
+    type: null

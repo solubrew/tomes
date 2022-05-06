@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd2727e4259BBa31955FD582986334AEA4fBA8C52'
+    chainId: null
+    decimals: null
+    description: Blood (BLOOD) is a cryptocurrency and operates on the Ethereum platform.
+      Blood has a current supply of 20,000,000,000 with 0 in circulation. The last
+      known price of Blood is 0.00037827 USD and is up 4.33 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $629.93 traded over the last
+      24 hours. More information can be found at https://corp.blood.land/.
+    logoURI: null
+    name: Blood
+    symbol: BLOOD
+    type: null

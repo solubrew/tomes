@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8578530205cecbe5db83f7f29ecfeec860c297c2'
+    chainId: null
+    decimals: null
+    description: smARTOFGIVING (AOG) is a cryptocurrency and operates on the Ethereum
+      platform. smARTOFGIVING has a current supply of 2,003,485,057.900826 with 73,780,484.40082622
+      in circulation. The last known price of smARTOFGIVING is 0.1055266 USD and is
+      up 1.39 over the last 24 hours. It is currently trading on 7 active market(s)
+      with $88,061.18 traded over the last 24 hours. More information can be found
+      at https://www.smartofgiving.com/.
+    logoURI: null
+    name: smARTOFGIVING
+    symbol: AOG
+    type: null

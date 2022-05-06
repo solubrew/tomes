@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x662b67d00a13faf93254714dd601f5ed49ef2f51'
+    chainId: null
+    decimals: null
+    description: Orbit Chain (ORC) is a cryptocurrency launched in 2019and operates
+      on the Ethereum platform. Orbit Chain has a current supply of 1,000,000,000
+      with 465,860,014.2367408 in circulation. The last known price of Orbit Chain
+      is 0.10180006 USD and is up 8.17 over the last 24 hours. It is currently trading
+      on 7 active market(s) with $5,823,534.79 traded over the last 24 hours. More
+      information can be found at https://orbitchain.io/.
+    logoURI: null
+    name: Orbit Chain
+    symbol: ORC
+    type: null

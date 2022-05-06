@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1245ef80f4d9e02ed9425375e8f649b9221b31d8'
+    chainId: null
+    decimals: null
+    description: ArbitrageCT (ARCT) is a cryptocurrency and operates on the Ethereum
+      platform. ArbitrageCT has a current supply of 150,729,776.7999999 with 104,655,776.7999999
+      in circulation. The last known price of ArbitrageCT is 0.00019173 USD and is
+      up 2.07 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://arbitragect.com/.
+    logoURI: null
+    name: ArbitrageCT
+    symbol: ARCT
+    type: null

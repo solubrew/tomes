@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3F17Dd476faF0a4855572F0B6ed5115D9bBA22AD'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: WIBSON
+    symbol: WIB
+    type: null

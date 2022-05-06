@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3cC5EB07E0e1227613F1DF58f38b549823d11cB9'
+    chainId: null
+    decimals: null
+    description: Ethereum eRush (EER) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. Ethereum eRush has a current supply of 24,092,240
+      with 0 in circulation. The last known price of Ethereum eRush is 0.0111439 USD
+      and is up 10.13 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $830.58 traded over the last 24 hours. More information can be
+      found at https://ethereumrush.org.
+    logoURI: null
+    name: Ethereum eRush
+    symbol: EER
+    type: null

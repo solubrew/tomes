@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a'
+    chainId: null
+    decimals: null
+    description: Jobchain (JOB) is a cryptocurrency and operates on the Ethereum platform.
+      Jobchain has a current supply of 100,000,000,000 with 5,369,285,585.521256 in
+      circulation. The last known price of Jobchain is 0.00071129 USD and is up 111.51
+      over the last 24 hours. It is currently trading on 10 active market(s) with
+      $3,224.37 traded over the last 24 hours. More information can be found at https://www.jobchain.com/.
+    logoURI: null
+    name: Jobchain
+    symbol: JOB
+    type: null

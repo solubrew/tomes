@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd8002cd05d5b2a85557e1caaa179cc2408d5ad42'
+    chainId: null
+    decimals: null
+    description: BiNGO.Fun (777) is a cryptocurrency and operates on the Ethereum
+      platform. BiNGO.Fun has a current supply of 10,000,000,000 with 0 in circulation.
+      The last known price of BiNGO.Fun is 0.00002484 USD and is up 0.00 over the
+      last 24 hours. More information can be found at https://www.bingo.fun/.
+    logoURI: null
+    name: BiNGO.Fun
+    symbol: '777'
+    type: null

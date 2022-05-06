@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf8b358b3397a8ea5464f8cc753645d42e14b79ea'
+    chainId: null
+    decimals: null
+    description: Airbloc (ABL) is a cryptocurrency and operates on the Ethereum platform.
+      Airbloc has a current supply of 373,217,500 with 252,376,419.4151729 in circulation.
+      The last known price of Airbloc is 0.01432119 USD and is up 0.83 over the last
+      24 hours. It is currently trading on 4 active market(s) with $302,754.77 traded
+      over the last 24 hours. More information can be found at https://www.airbloc.org/.
+    logoURI: null
+    name: Airbloc
+    symbol: ABL
+    type: null

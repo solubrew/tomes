@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0b403f3F213e75cD25B700093DF79A95d2013357'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Example Fixed Supply Token
+    symbol: FIXED
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeb4c2781e4eba804ce9a9803c67d0893436bb27d'
+    chainId: null
+    decimals: null
+    description: renBTC (RENBTC) is a cryptocurrency and operates on the Ethereum
+      platform. renBTC has a current supply of 16,748.87893978. The last known price
+      of renBTC is 19,172.581824 USD and is up 1.52 over the last 24 hours. It is
+      currently trading on 23 active market(s) with $11,016,284.07 traded over the
+      last 24 hours. More information can be found at https://renproject.io/.
+    logoURI: null
+    name: renBTC
+    symbol: RENBTC
+    type: null

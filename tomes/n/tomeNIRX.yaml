@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf0ccca32cd300356629216eb301ec6649c7c6adb'
+    chainId: null
+    decimals: null
+    description: NairaX (NIRX) is a cryptocurrency and operates on the Ethereum platform.
+      NairaX has a current supply of 6,887,520,712 with 0 in circulation. The last
+      known price of NairaX is 0.0024501 USD and is down -52.28 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $241.72 traded over the last
+      24 hours. More information can be found at https://www.nirxblock.com.
+    logoURI: null
+    name: NairaX
+    symbol: NIRX
+    type: null

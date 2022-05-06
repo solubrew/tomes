@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd44bb6663936cab1310584a277f7daa6943d4904'
+    chainId: null
+    decimals: null
+    description: Winco (WCO) is a cryptocurrency and operates on the Ethereum platform.
+      Winco has a current supply of 6,752,580,800 with 480,480,623.978806 in circulation.
+      The last known price of Winco is 0.00076601 USD and is down -13.64 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://winco.io.
+    logoURI: null
+    name: Winco
+    symbol: WCO
+    type: null

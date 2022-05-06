@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x14d1c83df4decee9deb14ee851f109f0101a6631'
+    chainId: null
+    decimals: null
+    description: Volts.Finance (VOLTS) is a cryptocurrency and operates on the Ethereum
+      platform. Volts.Finance has a current supply of 1,318 with 0 in circulation.
+      The last known price of Volts.Finance is 86.48200118 USD and is up 6.84 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $3,288.34
+      traded over the last 24 hours. More information can be found at https://volts.finance/.
+    logoURI: null
+    name: Volts.Finance
+    symbol: VOLTS
+    type: null

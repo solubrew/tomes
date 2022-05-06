@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xDCEf0710B10aD66bC2194b412fb37C65D4D0A965'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: lothlor
+    symbol: LOT
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x608f006b6813f97097372d0d31fb0f11d1ca3e4e'
+    chainId: null
+    decimals: null
+    description: CryptoAds Marketplace (CRAD) is a cryptocurrency and operates on
+      the Ethereum platform. CryptoAds Marketplace has a current supply of 100,000,000
+      with 14,265,943 in circulation. The last known price of CryptoAds Marketplace
+      is 0.00192961 USD and is down -1.25 over the last 24 hours. It is currently
+      trading on 5 active market(s) with $12,496.83 traded over the last 24 hours.
+      More information can be found at https://cryptoads.exchange/.
+    logoURI: null
+    name: CryptoAds Marketplace
+    symbol: CRAD
+    type: null

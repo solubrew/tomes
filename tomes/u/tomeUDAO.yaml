@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4A32E09c60af50f0A5869BF5C622f4E5d57c3b37'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: UnionDAO
+    symbol: UDAO
+    type: null

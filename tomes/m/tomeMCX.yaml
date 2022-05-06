@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd15ecdcf5ea68e3995b2d0527a0ae0a3258302f8'
+    chainId: null
+    decimals: null
+    description: Machi X (MCX) is a cryptocurrency and operates on the Ethereum platform.
+      Machi X has a current supply of 0. The last known price of Machi X is 0.0019064
+      USD and is up 3.38 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $382.48 traded over the last 24 hours. More information can be
+      found at https://machix.com/.
+    logoURI: null
+    name: Machi X
+    symbol: MCX
+    type: null

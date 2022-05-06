@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6c139349ee94ebaaff55ed52d382673c263b22d6'
+    chainId: null
+    decimals: null
+    description: Upper Euro (EURU) is a cryptocurrency and operates on the Ethereum
+      platform. Upper Euro has a current supply of 0. The last known price of Upper
+      Euro is 1.14067289 USD and is down -4.59 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $1,961.70 traded over the last 24 hours.
+      More information can be found at https://uppers.io/.
+    logoURI: null
+    name: Upper Euro
+    symbol: EURU
+    type: null

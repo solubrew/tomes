@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB5f1942b7dB0CD28dbbCEF1e5f8456cB7866B1c4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CEXT
+    symbol: CEXT
+    type: null

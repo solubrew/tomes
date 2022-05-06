@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFAb5a05C933f1A2463E334E011992E897D56eF0a'
+    chainId: null
+    decimals: null
+    description: DeFi of Thrones (DOTX) is a cryptocurrency and operates on the Ethereum
+      platform. DeFi of Thrones has a current supply of 6,000,000 with 0 in circulation.
+      The last known price of DeFi of Thrones is 0.17473522 USD and is up 11.39 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $80,054.33
+      traded over the last 24 hours. More information can be found at https://defiofthrones.io/.
+    logoURI: null
+    name: DeFi of Thrones
+    symbol: DOTX
+    type: null

@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd9b78A2F1dAFc8Bb9c60961790d2beefEBEE56f4'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: dino
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8c971C1954E1EA0e78E1dd9e4C38bE68Dd66be10'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Podcash
+    symbol: POD
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFb2f26F266Fb2805a387230f2aa0a331b4d96Fba'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DADI
+    symbol: DADI
+    type: null

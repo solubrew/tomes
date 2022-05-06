@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF1BBbFE96C5845dD4D5f60E7ce758bbc24f7F5eE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Testing Token
+    symbol: TEST
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Digix Gold Token
+    symbol: DGX
+    type: null

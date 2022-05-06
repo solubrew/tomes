@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb1e93236ab6073fdac58ada5564897177d4bcc43'
+    chainId: null
+    decimals: null
+    description: Seele-N (SEELE) is a cryptocurrency and operates on the Ethereum
+      platform. Seele-N has a current supply of 30,000,000,000 with 699,592,066.2894784
+      in circulation. The last known price of Seele-N is 0.01314698 USD and is down
+      -0.08 over the last 24 hours. It is currently trading on 11 active market(s)
+      with $50,390,023.90 traded over the last 24 hours. More information can be found
+      at https://seelen.pro/#/.
+    logoURI: null
+    name: Seele-N
+    symbol: SEELE
+    type: null

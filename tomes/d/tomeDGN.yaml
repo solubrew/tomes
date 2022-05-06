@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa063341d10054188e3cb715bfb663b37c0c1515e'
+    chainId: null
+    decimals: null
+    description: Diagon (DGN) is a cryptocurrency and operates on the Ethereum platform.
+      Diagon has a current supply of 40,000,000 with 0 in circulation. The last known
+      price of Diagon is 0.00220135 USD and is up 100.01 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $91.67 traded over the last
+      24 hours. More information can be found at https://www.diagon.io/.
+    logoURI: null
+    name: Diagon
+    symbol: DGN
+    type: null

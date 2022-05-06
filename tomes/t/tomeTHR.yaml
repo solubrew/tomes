@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1Cb3209D45B2a60B7fBCA1cCDBF87f674237A4aa'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ThoreCoin
+    symbol: THR
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49'
+    chainId: null
+    decimals: null
+    description: UNCL (UNCL) is a cryptocurrency and operates on the Ethereum platform.
+      UNCL has a current supply of 0. The last known price of UNCL is 2.66751426 USD
+      and is down -14.09 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $6,040.69 traded over the last 24 hours. More information can
+      be found at https://unicrypt.network/.
+    logoURI: null
+    name: UNCL
+    symbol: UNCL
+    type: null

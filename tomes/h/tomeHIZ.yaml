@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc761D1ccb38a94703675d2cDb15F7F1B3dcFF7B7'
+    chainId: null
+    decimals: null
+    description: Hiz Finance (HIZ) is a cryptocurrency and operates on the Ethereum
+      platform. Hiz Finance has a current supply of 160,594 with 0 in circulation.
+      The last known price of Hiz Finance is 0.78727326 USD and is up 0.55 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $98.02 traded
+      over the last 24 hours. More information can be found at https://hizfinance.com/.
+    logoURI: null
+    name: Hiz Finance
+    symbol: HIZ
+    type: null

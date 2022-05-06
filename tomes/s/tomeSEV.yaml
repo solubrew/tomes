@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbA32286b0296F0a86111644B74472D8AAbaE3027'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SLEEVES
+    symbol: SEV
+    type: null

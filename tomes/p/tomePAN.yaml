@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Panvala pan
+    symbol: PAN
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x23Ccc43365D9dD3882eab88F43d515208f832430'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MidasProtocol
+    symbol: MAS
+    type: null

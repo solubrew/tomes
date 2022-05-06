@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838'
+    chainId: null
+    decimals: null
+    description: GSENetwork (GSE) is a cryptocurrency and operates on the Ethereum
+      platform. GSENetwork has a current supply of 100,000,000,000 with 0 in circulation.
+      The last known price of GSENetwork is 0.00002702 USD and is up 11.64 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $10,799.33
+      traded over the last 24 hours. More information can be found at https://gse.network/.
+    logoURI: null
+    name: GSENetwork
+    symbol: GSE
+    type: null

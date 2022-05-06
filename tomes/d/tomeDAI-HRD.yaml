@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9B869c2eaae08136C43d824EA75A2F376f1aA983'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DAI-HRD
+    symbol: DAI-HRD
+    type: null

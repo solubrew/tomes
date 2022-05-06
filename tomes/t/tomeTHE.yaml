@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb4a677b0e363c3815d46326954a4e4d2b1ace357'
+    chainId: null
+    decimals: null
+    description: THENODE (THE) is a cryptocurrency and operates on the Ethereum platform.
+      THENODE has a current supply of 44,499,876.448 with 0 in circulation. The last
+      known price of THENODE is 0.01929333 USD and is down -0.10 over the last 24
+      hours. It is currently trading on 2 active market(s) with $19.06 traded over
+      the last 24 hours. More information can be found at https://www.the-node.foundation/.
+    logoURI: null
+    name: THENODE
+    symbol: THE
+    type: null

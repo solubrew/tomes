@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe0d95530820aafc51b1d98023aa1ff000b78d8b2'
+    chainId: null
+    decimals: null
+    description: PressOne (PRS) is a cryptocurrency and operates on the Ethereum platform.
+      PressOne has a current supply of 2,000,000,000 with 284,742,627.9929409 in circulation.
+      The last known price of PressOne is 0.0138642 USD and is up 3.91 over the last
+      24 hours. It is currently trading on 5 active market(s) with $43,561.06 traded
+      over the last 24 hours. More information can be found at https://press.one/.
+    logoURI: null
+    name: PressOne
+    symbol: PRS
+    type: null

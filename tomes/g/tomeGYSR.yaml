@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbea98c05eeae2f3bc8c3565db7551eb738c8ccab'
+    chainId: null
+    decimals: null
+    description: GYSR (GYSR) is a cryptocurrency and operates on the Ethereum platform.
+      GYSR has a current supply of 0. The last known price of GYSR is 0.6925188 USD
+      and is up 4.99 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $60,341.45 traded over the last 24 hours. More information can be found
+      at https://gysr.io.
+    logoURI: null
+    name: GYSR
+    symbol: GYSR
+    type: null

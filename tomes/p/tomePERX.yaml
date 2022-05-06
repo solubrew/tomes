@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3c6ff50c9ec362efa359317009428d52115fe643'
+    chainId: null
+    decimals: null
+    description: PeerEx (PERX) is a cryptocurrency and operates on the Ethereum platform.
+      PeerEx has a current supply of 365,000,000 with 0 in circulation. The last known
+      price of PeerEx is 0.00169883 USD and is up 2.10 over the last 24 hours. It
+      is currently trading on 3 active market(s) with $8,169.13 traded over the last
+      24 hours. More information can be found at https://peerex.network.
+    logoURI: null
+    name: PeerEx
+    symbol: PERX
+    type: null

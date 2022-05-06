@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x446C9033E7516D820cc9a2ce2d0B7328b579406F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Healthcare Administration Token
+    symbol: SOLVE
+    type: null

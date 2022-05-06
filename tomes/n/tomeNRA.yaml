@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdAe0bd9371b2f14077a0461C92B0E8AdE34EfA84'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Noura Capital
+    symbol: NRA
+    type: null

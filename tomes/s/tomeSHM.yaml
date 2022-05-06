@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3294C1d03FaeC27c131B93e8051dE8EE684439b9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SexHackMe
+    symbol: SHM
+    type: null

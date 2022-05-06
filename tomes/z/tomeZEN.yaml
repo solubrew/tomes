@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x838804a3dd7c717396a68F94E736eAf76b911632'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: ZEN
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f'
+    chainId: null
+    decimals: null
+    description: RAMP (RAMP) is a cryptocurrency and operates on the Ethereum platform.
+      RAMP has a current supply of 1,000,000,000 with 112,207,231 in circulation.
+      The last known price of RAMP is 0.07253971 USD and is up 6.43 over the last
+      24 hours. It is currently trading on 6 active market(s) with $2,168,919.97 traded
+      over the last 24 hours. More information can be found at https://rampdefi.com/.
+    logoURI: null
+    name: RAMP
+    symbol: RAMP
+    type: null

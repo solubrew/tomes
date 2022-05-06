@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x44CF7DCFD023875D75267BA85F14366390dAA3E1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Supercompute
+    symbol: scom
+    type: null

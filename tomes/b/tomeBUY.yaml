@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc559db74236c1f1dd734e0b4c8d747bb57983e6a'
+    chainId: null
+    decimals: null
+    description: Burency (BUY) is a cryptocurrency and operates on the Ethereum platform.
+      Burency has a current supply of 700,000,000 with 0 in circulation. The last
+      known price of Burency is 0.09861954 USD and is up 25.78 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $280,337.60 traded over the
+      last 24 hours. More information can be found at https://burency.com/.
+    logoURI: null
+    name: Burency
+    symbol: BUY
+    type: null

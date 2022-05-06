@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x41f20599e9e049004C4d169046eb7023117a6244'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: CLONE
+    type: null

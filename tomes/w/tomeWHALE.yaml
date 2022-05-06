@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9355372396e3F6daF13359B7b607a3374cc638e0'
+    chainId: null
+    decimals: null
+    description: WHALE (WHALE) is a cryptocurrency and operates on the Ethereum platform.
+      WHALE has a current supply of 10,000,000 with 0 in circulation. The last known
+      price of WHALE is 4.19830856 USD and is down -0.69 over the last 24 hours. It
+      is currently trading on 7 active market(s) with $324,108.63 traded over the
+      last 24 hours. More information can be found at https://whale.me/.
+    logoURI: null
+    name: WHALE
+    symbol: WHALE
+    type: null

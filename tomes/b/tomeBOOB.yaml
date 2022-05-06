@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa9c44135b3a87e0688c41cf8c27939a22dd437c9'
+    chainId: null
+    decimals: null
+    description: BooBank (BOOB) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. BooBank has a current supply of 11,801.3299106 with 0
+      in circulation. The last known price of BooBank is 0.80901562 USD and is down
+      -0.57 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $900.09 traded over the last 24 hours. More information can be found at
+      https://boobank.org/.
+    logoURI: null
+    name: BooBank
+    symbol: BOOB
+    type: null

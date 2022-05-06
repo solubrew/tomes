@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA120Cb0530EA11451B002b7EAfAC91d8B5B8A499'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EthBo
+    symbol: ETHBO
+    type: null

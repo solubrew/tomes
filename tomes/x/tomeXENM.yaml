@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd69834f67b2F5A760617cc9a9bF5Ae3A3BB256c2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Xenium
+    symbol: XENM
+    type: null

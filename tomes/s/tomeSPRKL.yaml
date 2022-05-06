@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4b7ad3a56810032782afce12d7d27122bdb96eff'
+    chainId: null
+    decimals: null
+    description: Sparkle Loyalty (SPRKL) is a cryptocurrency and operates on the Ethereum
+      platform. Sparkle Loyalty has a current supply of 70,000,000 with 3,062,468.73274171
+      in circulation. The last known price of Sparkle Loyalty is 0.06965588 USD and
+      is down -35.03 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $17,861.42 traded over the last 24 hours. More information can be found
+      at https://sparkleloyalty.io/.
+    logoURI: null
+    name: Sparkle Loyalty
+    symbol: SPRKL
+    type: null

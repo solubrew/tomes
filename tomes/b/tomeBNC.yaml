@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEf51c9377FeB29856E61625cAf9390bD0B67eA18'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bionic
+    symbol: BNC
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5d8d9f5b96f4438195be9b99eee6118ed4304286'
+    chainId: null
+    decimals: null
+    description: COVER Protocol (COVER) is a cryptocurrency and operates on the Ethereum
+      platform. COVER Protocol has a current supply of 54,238 with 42,657 in circulation.
+      The last known price of COVER Protocol is 792.61870149 USD and is up 39.31 over
+      the last 24 hours. It is currently trading on 12 active market(s) with $445,003.21
+      traded over the last 24 hours. More information can be found at https://www.coverprotocol.com/.
+    logoURI: null
+    name: COVER Protocol
+    symbol: COVER
+    type: null

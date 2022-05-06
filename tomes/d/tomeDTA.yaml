@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x69b148395ce0015c13e36bffbad63f49ef874e03'
+    chainId: null
+    decimals: null
+    description: DATA (DTA) is a cryptocurrency and operates on the Ethereum platform.
+      DATA has a current supply of 11,500,000,000 with 11,499,993,344.4009 in circulation.
+      The last known price of DATA is 0.00030418 USD and is up 0.62 over the last
+      24 hours. It is currently trading on 11 active market(s) with $244,047.24 traded
+      over the last 24 hours. More information can be found at http://data.eco/.
+    logoURI: null
+    name: DATA
+    symbol: DTA
+    type: null

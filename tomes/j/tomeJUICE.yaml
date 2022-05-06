@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x889efb523cc39590b8483eb9491890ac71407f64'
+    chainId: null
+    decimals: null
+    description: Moon Juice (JUICE) is a cryptocurrency and operates on the Ethereum
+      platform. Moon Juice has a current supply of 9,999,999 with 0 in circulation.
+      The last known price of Moon Juice is 0.02896886 USD and is up 6.54 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $366.46 traded
+      over the last 24 hours. More information can be found at https://moonjuice.xyz/.
+    logoURI: null
+    name: Moon Juice
+    symbol: JUICE
+    type: null

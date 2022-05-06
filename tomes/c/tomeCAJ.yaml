@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3c6a7ab47b5f058be0e7c7fe1a4b7925b8aca40e'
+    chainId: null
+    decimals: null
+    description: Cajutel (CAJ) is a cryptocurrency and operates on the Ethereum platform.
+      Cajutel has a current supply of 1,780,000 with 1,352,388.80828916 in circulation.
+      The last known price of Cajutel is 0.94275258 USD and is up 2.98 over the last
+      24 hours. It is currently trading on 2 active market(s) with $2,255.92 traded
+      over the last 24 hours. More information can be found at https://cajutel.io.
+    logoURI: null
+    name: Cajutel
+    symbol: CAJ
+    type: null

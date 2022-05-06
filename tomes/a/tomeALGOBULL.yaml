@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x584936357d68f5143f12e2e64f0089db93814dad'
+    chainId: null
+    decimals: null
+    description: 3X Long Algorand Token (ALGOBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Long Algorand Token has a current supply of 9,894
+      with 0 in circulation. The last known price of 3X Long Algorand Token is 0.00058389
+      USD and is up 8.03 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $33,426.11 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/ALGOBULL.
+    logoURI: null
+    name: 3X Long Algorand Token
+    symbol: ALGOBULL
+    type: null

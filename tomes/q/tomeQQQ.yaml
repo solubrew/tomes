@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21'
+    chainId: null
+    decimals: null
+    description: Poseidon Network (QQQ) is a cryptocurrency and operates on the Ethereum
+      platform. Poseidon Network has a current supply of 21,000,000,000 with 2,152,875,407.6
+      in circulation. The last known price of Poseidon Network is 0.06651438 USD and
+      is up 16.30 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $1,822,658.69 traded over the last 24 hours. More information can be found
+      at https://poseidon.network/.
+    logoURI: null
+    name: Poseidon Network
+    symbol: QQQ
+    type: null

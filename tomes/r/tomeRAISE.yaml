@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x10bA8C420e912bF07BEdaC03Aa6908720db04e0c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Raise
+    symbol: RAISE
+    type: null

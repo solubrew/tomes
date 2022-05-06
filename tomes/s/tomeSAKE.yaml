@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x705051bbfd9f287869a412cba8bc7d112de48e69'
+    chainId: null
+    decimals: null
+    description: SAKECOIN (SAKE) is a cryptocurrency and operates on the Ethereum
+      platform. SAKECOIN has a current supply of 9,736,311,990.16978 with 4,161,731,121.16868
+      in circulation. The last known price of SAKECOIN is 0 USD and is up 0.00 over
+      the last 24 hours. More information can be found at https://www.sakecoin.info/english.
+    logoURI: null
+    name: SAKECOIN
+    symbol: SAKE
+    type: null

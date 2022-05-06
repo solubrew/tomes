@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8c4e7f814d40f8929f9112c5d09016f923d34472'
+    chainId: null
+    decimals: null
+    description: XcelToken Plus (XLAB) is a cryptocurrency and operates on the Ethereum
+      platform. XcelToken Plus has a current supply of 50,000,000,000 with 15,734,840,240.93561
+      in circulation. The last known price of XcelToken Plus is 0.0000066 USD and
+      is down -2.63 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $1.44 traded over the last 24 hours. More information can be found at https://www.xceltrip.com/.
+    logoURI: null
+    name: XcelToken Plus
+    symbol: XLAB
+    type: null

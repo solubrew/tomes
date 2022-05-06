@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x86965a86539e2446f9e72634cefca7983cc21a81'
+    chainId: null
+    decimals: null
+    description: YFISCURITY (YFIS) is a cryptocurrency and operates on the Ethereum
+      platform. YFISCURITY has a current supply of 0. The last known price of YFISCURITY
+      is 0.77855328 USD and is up 1.84 over the last 24 hours. It is currently trading
+      on 4 active market(s) with $158.12 traded over the last 24 hours. More information
+      can be found at https://yfiexchange.finance/.
+    logoURI: null
+    name: YFISCURITY
+    symbol: YFIS
+    type: null

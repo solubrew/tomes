@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC38f1fb49acDf2f1213CAf3319F6Eb3ea2cB7527'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bitcoinus Token
+    symbol: BITS
+    type: null

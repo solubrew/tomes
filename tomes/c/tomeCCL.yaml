@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x749f35ff65932e68267dd82f6cd85eea735d700e'
+    chainId: null
+    decimals: null
+    description: CYCLEAN (CCL) is a cryptocurrency and operates on the Ethereum platform.
+      CYCLEAN has a current supply of 4,000,000,000 with 678,451,267.2972178 in circulation.
+      The last known price of CYCLEAN is 0.0001299 USD and is up 1.44 over the last
+      24 hours. More information can be found at https://cyclean.io.
+    logoURI: null
+    name: CYCLEAN
+    symbol: CCL
+    type: null

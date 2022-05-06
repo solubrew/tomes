@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbfc1502ebc37475b940ced8f036b91018a73c8f6'
+    chainId: null
+    decimals: null
+    description: Bidesk (BDK) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. Bidesk has a current supply of 99,977,196.82567465 with
+      7,977,477.8256747 in circulation. The last known price of Bidesk is 0.04034755
+      USD and is up 41.84 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $81,455.74 traded over the last 24 hours. More information can
+      be found at https://www.bidesk.com.
+    logoURI: null
+    name: Bidesk
+    symbol: BDK
+    type: null

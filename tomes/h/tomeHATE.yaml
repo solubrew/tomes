@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc2733C372a6cF303551073930799282FEfe2b67a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HATE
+    symbol: HATE
+    type: null

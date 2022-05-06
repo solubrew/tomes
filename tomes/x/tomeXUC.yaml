@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc324a2f6b05880503444451b8b27e6f9e63287cb'
+    chainId: null
+    decimals: null
+    description: Exchange Union (XUC) is a cryptocurrency and operates on the Ethereum
+      platform. Exchange Union has a current supply of 3,000,000,000 with 0 in circulation.
+      The last known price of Exchange Union is 1.02099096 USD and is down -4.55 over
+      the last 24 hours. It is currently trading on 7 active market(s) with $1,015,315.07
+      traded over the last 24 hours. More information can be found at https://www.exchangeunion.com/.
+    logoURI: null
+    name: Exchange Union
+    symbol: XUC
+    type: null

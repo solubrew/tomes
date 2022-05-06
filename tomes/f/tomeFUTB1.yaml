@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x30c6Fe3AC0260A855c90caB79AA33e76091d4904'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Futereum BTC 1
+    symbol: FUTB1
+    type: null

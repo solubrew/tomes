@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b'
+    chainId: null
+    decimals: null
+    description: Pteria (PTERIA) is a cryptocurrency and operates on the Ethereum
+      platform. Pteria has a current supply of 0. The last known price of Pteria is
+      1.9625559 USD and is up 14.22 over the last 24 hours. It is currently trading
+      on 2 active market(s) with $38,766.08 traded over the last 24 hours. More information
+      can be found at https://pteria.org/.
+    logoURI: null
+    name: Pteria
+    symbol: PTERIA
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4Efe8665e564bF454cCF5C90Ee16817F7485d5Cf'
+    chainId: null
+    decimals: null
+    description: BlackDragon (BDT) is a cryptocurrency and operates on the Ethereum
+      platform. BlackDragon has a current supply of 0. The last known price of BlackDragon
+      is 0.35165382 USD and is down -1.25 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $690.03 traded over the last 24 hours. More
+      information can be found at https://www.blackdragon.io/.
+    logoURI: null
+    name: BlackDragon
+    symbol: BDT
+    type: null

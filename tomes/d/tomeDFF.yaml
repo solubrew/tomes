@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaF183350bDF8082B486CEE23fBfcCa6eA3258DAC'
+    chainId: null
+    decimals: null
+    description: DeFi Firefly (DFF) is a cryptocurrency and operates on the Ethereum
+      platform. DeFi Firefly has a current supply of 900,000 with 0 in circulation.
+      The last known price of DeFi Firefly is 0.96835859 USD and is up 7.30 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $11,484.37
+      traded over the last 24 hours. More information can be found at https://defifirefly.io/.
+    logoURI: null
+    name: DeFi Firefly
+    symbol: DFF
+    type: null

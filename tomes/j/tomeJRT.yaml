@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeeF338C585ee3Cf674f717937F12E6F52aCCF5E1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Jarvis Reward Token
+    symbol: JRT
+    type: null

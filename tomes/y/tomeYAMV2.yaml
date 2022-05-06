@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a'
+    chainId: null
+    decimals: null
+    description: YAMv2 (YAMV2) is a cryptocurrency and operates on the Ethereum platform.
+      YAMv2 has a current supply of 3,726,411 with 0 in circulation. The last known
+      price of YAMv2 is 6.0466508 USD and is up 5.71 over the last 24 hours. It is
+      currently trading on 26 active market(s) with $1,904,857.33 traded over the
+      last 24 hours. More information can be found at http://yam.finance/.
+    logoURI: null
+    name: YAMv2
+    symbol: YAMV2
+    type: null

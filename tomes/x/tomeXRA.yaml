@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7025bab2ec90410de37f488d1298204cd4d6b29d'
+    chainId: null
+    decimals: null
+    description: Xriba (XRA) is a cryptocurrency and operates on the Ethereum platform.
+      Xriba has a current supply of 275,000,000 with 107,570,261.80395475 in circulation.
+      The last known price of Xriba is 0.006798 USD and is up 0.00 over the last 24
+      hours. It is currently trading on 1 active market(s) with $546.08 traded over
+      the last 24 hours. More information can be found at https://xriba.com/.
+    logoURI: null
+    name: Xriba
+    symbol: XRA
+    type: null

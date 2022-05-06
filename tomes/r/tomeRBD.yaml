@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7105eC15995A97496eC25de36CF7eEc47b703375'
+    chainId: null
+    decimals: null
+    description: Red Box Dapp Token (RBD) is a cryptocurrency and operates on the
+      Ethereum platform. Red Box Dapp Token has a current supply of 600,000,000 with
+      0 in circulation. The last known price of Red Box Dapp Token is 0.04805478 USD
+      and is down -0.06 over the last 24 hours. More information can be found at https://redboxdapp.co/.
+    logoURI: null
+    name: Red Box Dapp Token
+    symbol: RBD
+    type: null

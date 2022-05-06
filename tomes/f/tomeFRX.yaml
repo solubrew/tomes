@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0D4870DfCA0101856F5Cef969a1Df2757Ae0a280'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FireX
+    symbol: FRX
+    type: null

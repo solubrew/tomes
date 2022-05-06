@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2BdD67E35ED0221A7C201863Fa3891b619FD9aa3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TARIFF Coin
+    symbol: TARIF
+    type: null

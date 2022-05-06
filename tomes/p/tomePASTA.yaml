@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e'
+    chainId: null
+    decimals: null
+    description: Spaghetti (PASTA) is a cryptocurrency and operates on the Ethereum
+      platform. Spaghetti has a current supply of 14,846,415 with 0 in circulation.
+      The last known price of Spaghetti is 0.04174253 USD and is up 4.93 over the
+      last 24 hours. More information can be found at https://spaghetti.money/.
+    logoURI: null
+    name: Spaghetti
+    symbol: PASTA
+    type: null

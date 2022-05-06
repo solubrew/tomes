@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760'
+    chainId: null
+    decimals: null
+    description: ZPER (ZPR) is a cryptocurrency and operates on the Ethereum platform.
+      ZPER has a current supply of 1,850,000,000 with 1,255,879,455.759956 in circulation.
+      The last known price of ZPER is 0.00018452 USD and is up 0.00 over the last
+      24 hours. It is currently trading on 3 active market(s) with $20.62 traded over
+      the last 24 hours. More information can be found at Https://zper.io.
+    logoURI: null
+    name: ZPER
+    symbol: ZPR
+    type: null

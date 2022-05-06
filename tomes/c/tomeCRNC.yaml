@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC9a1e678c9025f0D4Cf129D6De0d80f07d97A36F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CURRENT
+    symbol: CRNC
+    type: null

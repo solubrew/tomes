@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7f0c8b125040f707441cad9e5ed8a8408673b455'
+    chainId: null
+    decimals: null
+    description: CSP DAO (NEBO) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. CSP DAO has a current supply of 2,250,000 with 0 in circulation.
+      The last known price of CSP DAO is 0.46402185 USD and is up 30.66 over the last
+      24 hours. It is currently trading on 1 active market(s) with $15,385.79 traded
+      over the last 24 hours. More information can be found at https://cspdao.network/.
+    logoURI: null
+    name: CSP DAO
+    symbol: NEBO
+    type: null

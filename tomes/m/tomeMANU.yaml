@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf7FdA1bF4bD0B2b0DeA343D1E8E08D8B869D08Ef'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MANUCoin
+    symbol: MANU
+    type: null

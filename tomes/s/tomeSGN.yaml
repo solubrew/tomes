@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb2135ab9695a7678dd590b1a996cb0f37bcb0718'
+    chainId: null
+    decimals: null
+    description: Signals Network (SGN) is a cryptocurrency and operates on the Ethereum
+      platform. Signals Network has a current supply of 185,000,000 with 88,138,748.94092083
+      in circulation. The last known price of Signals Network is 0.00166091 USD and
+      is up 5.17 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://signals.network/.
+    logoURI: null
+    name: Signals Network
+    symbol: SGN
+    type: null

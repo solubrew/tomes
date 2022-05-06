@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0b1724cc9FDA0186911EF6a75949e9c0d3F0f2F3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Etheriya
+    symbol: RIYA
+    type: null

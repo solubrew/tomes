@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x175ab41e2cedf3919b2e4426c19851223cf51046'
+    chainId: null
+    decimals: null
+    description: BaconSwap (BACON) is a cryptocurrency and operates on the Ethereum
+      platform. BaconSwap has a current supply of 0. The last known price of BaconSwap
+      is 0.00586126 USD and is up 4.93 over the last 24 hours. More information can
+      be found at https://www.baconswap.org/.
+    logoURI: null
+    name: BaconSwap
+    symbol: BACON
+    type: null

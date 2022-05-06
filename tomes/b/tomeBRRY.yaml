@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe0Bea98ea93e3B12Cf558d2a05cE815b94D2AC8C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Berries
+    symbol: BRRY
+    type: null

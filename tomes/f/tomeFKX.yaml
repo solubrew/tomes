@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x009e864923b49263c7F10D19B7f8Ab7a9A5AAd33'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Knoxstertoken
+    symbol: FKX
+    type: null

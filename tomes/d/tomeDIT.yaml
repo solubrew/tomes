@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf14922001a2fb8541a433905437ae954419c2439'
+    chainId: null
+    decimals: null
+    description: Digital Insurance Token (DIT) is a cryptocurrency and operates on
+      the Ethereum platform. Digital Insurance Token has a current supply of 1,000,000,000
+      with 224,644,536.492 in circulation. The last known price of Digital Insurance
+      Token is 0.0023948 USD and is up 2.05 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $0.00 traded over the last 24 hours. More
+      information can be found at https://inmediate.io.
+    logoURI: null
+    name: Digital Insurance Token
+    symbol: DIT
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x31024a4c3e9aeeb256b825790f5cb7ac645e7cd5'
+    chainId: null
+    decimals: null
+    description: Xiotri (XIOT) is a cryptocurrency and operates on the Ethereum platform.
+      Xiotri has a current supply of 5,000 with 4,418 in circulation. The last known
+      price of Xiotri is 293.64566456 USD and is down -11.97 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $42,170.79 traded over the
+      last 24 hours. More information can be found at https://xiotri.finance/.
+    logoURI: null
+    name: Xiotri
+    symbol: XIOT
+    type: null

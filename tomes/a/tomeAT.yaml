@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe54b3458c47e44c37a267e7c633afef88287c294'
+    chainId: null
+    decimals: null
+    description: Artfinity (AT) is a cryptocurrency and operates on the Ethereum platform.
+      Artfinity has a current supply of 1,000,000,000 with 124,689,206.68817997 in
+      circulation. The last known price of Artfinity is 0.01960961 USD and is up 0.50
+      over the last 24 hours. It is currently trading on 2 active market(s) with $114,411.87
+      traded over the last 24 hours. More information can be found at http://www.artfinity.vip/.
+    logoURI: null
+    name: Artfinity
+    symbol: AT
+    type: null

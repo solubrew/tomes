@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x92c5387aCE61F5c505BF2c2D4c84120F0A813d4B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DPlay Coin
+    symbol: DC
+    type: null

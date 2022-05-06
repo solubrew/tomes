@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x873642B734Ed748bf4088617D7fc3002F7E9A0AD'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CuiToken
+    symbol: CUI
+    type: null

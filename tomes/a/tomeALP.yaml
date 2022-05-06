@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x11fb25CcCc8F25FF993e802f506B530d20E65E12'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AlphabetX
+    symbol: ALP
+    type: null

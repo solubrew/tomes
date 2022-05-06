@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1A772225766AEdf025a64a5e7e893C5067De0698'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Famous Masterpiece
+    symbol: FM
+    type: null

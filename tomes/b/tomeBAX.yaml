@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BAX
+    symbol: BAX
+    type: null

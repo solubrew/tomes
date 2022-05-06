@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x98626E2C9231f03504273d55f397409deFD4a093'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Dev
+    symbol: DEV
+    type: null

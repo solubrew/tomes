@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x14ddda446688b73161aa1382f4e4343353af6fc8'
+    chainId: null
+    decimals: null
+    description: FXPay (FXP) is a cryptocurrency and operates on the Ethereum platform.
+      FXPay has a current supply of 0. The last known price of FXPay is 0.00060388
+      USD and is down -8.99 over the last 24 hours. It is currently trading on 4 active
+      market(s) with $2,951.77 traded over the last 24 hours. More information can
+      be found at https://fxpay.io/.
+    logoURI: null
+    name: FXPay
+    symbol: FXP
+    type: null

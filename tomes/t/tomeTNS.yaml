@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb0280743b44bf7db4b6be482b2ba7b75e5da096c'
+    chainId: null
+    decimals: null
+    description: Transcodium (TNS) is a cryptocurrency and operates on the Ethereum
+      platform. Transcodium has a current supply of 85,900,000 with 65,810,863.67235703
+      in circulation. The last known price of Transcodium is 0.00530939 USD and is
+      up 4.36 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $6,294.89 traded over the last 24 hours. More information can be found
+      at https://transcodium.com/.
+    logoURI: null
+    name: Transcodium
+    symbol: TNS
+    type: null

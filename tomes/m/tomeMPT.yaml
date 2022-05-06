@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2cC1bE643e0882fB096f7f96d2b6Ca079ad5270c'
+    chainId: null
+    decimals: null
+    description: Money Plant Token (MPT) is a cryptocurrency and operates on the Ethereum
+      platform. Money Plant Token has a current supply of 999,999,999,999 with 1,288,768
+      in circulation. The last known price of Money Plant Token is 0.00428871 USD
+      and is up 1.26 over the last 24 hours. It is currently trading on 10 active
+      market(s) with $0.00 traded over the last 24 hours. More information can be
+      found at https://moneyplanttoken.io/.
+    logoURI: null
+    name: Money Plant Token
+    symbol: MPT
+    type: null

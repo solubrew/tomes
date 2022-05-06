@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824'
+    chainId: null
+    decimals: null
+    description: MoonSwap (MOON) is a cryptocurrency and operates on the Ethereum
+      platform. MoonSwap has a current supply of 10,026,568.40437041 with 9,913,853.6321191
+      in circulation. The last known price of MoonSwap is 0.18110642 USD and is down
+      -0.38 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $999.43 traded over the last 24 hours. More information can be found at
+      https://moonswap.fi/.
+    logoURI: null
+    name: MoonSwap
+    symbol: MOON
+    type: null

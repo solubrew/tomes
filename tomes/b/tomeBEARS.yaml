@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x87084ec881d5A15C918057F326790dB177D218F2'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: BEARS
+    type: null

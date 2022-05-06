@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x556148562d5DdeB72545D7EC4B3eC8edc8F55Ba7'
+    chainId: null
+    decimals: null
+    description: Predix Network (PRDX) is a cryptocurrency and operates on the Ethereum
+      platform. Predix Network has a current supply of 0. The last known price of
+      Predix Network is 0.38820386 USD and is up 1.86 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $1,014.39 traded over the last
+      24 hours. More information can be found at https://predix.network/.
+    logoURI: null
+    name: Predix Network
+    symbol: PRDX
+    type: null

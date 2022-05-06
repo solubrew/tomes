@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD26B63194F70E0939393D23D3A5b1ed6BDE5f835'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SunPower
+    symbol: SP
+    type: null

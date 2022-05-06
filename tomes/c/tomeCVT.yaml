@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbe428c3867f05dea2a89fc76a102b544eac7f772'
+    chainId: null
+    decimals: null
+    description: CyberVein (CVT) is a cryptocurrency and operates on the Ethereum
+      platform. CyberVein has a current supply of 2,147,483,648 with 1,060,404,495.6499999
+      in circulation. The last known price of CyberVein is 0.09242248 USD and is down
+      -0.32 over the last 24 hours. It is currently trading on 13 active market(s)
+      with $5,478,911.96 traded over the last 24 hours. More information can be found
+      at http://www.cybervein.org/.
+    logoURI: null
+    name: CyberVein
+    symbol: CVT
+    type: null

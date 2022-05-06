@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8f179114235842978d8917e08721541072c46584'
+    chainId: null
+    decimals: null
+    description: PointPay (PXP) is a cryptocurrency and operates on the Ethereum platform.
+      PointPay has a current supply of 1,000,000,000 with 0 in circulation. The last
+      known price of PointPay is 0.10967968 USD and is up 95.22 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $31,923.54 traded over the
+      last 24 hours. More information can be found at https://pointpay.io/.
+    logoURI: null
+    name: PointPay
+    symbol: PXP
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd06b25f67a17f12b41f615b34d87ecd716ff55a0'
+    chainId: null
+    decimals: null
+    description: 3X Long Shitcoin Index Token (BULLSHIT) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Long Shitcoin Index Token has a current supply
+      of 830.07623537 with 0 in circulation. The last known price of 3X Long Shitcoin
+      Index Token is 507.1 USD and is up 9.50 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $4,988.43 traded over the last 24 hours.
+      More information can be found at https://ftx.com/tokens/BULLSHIT.
+    logoURI: null
+    name: 3X Long Shitcoin Index Token
+    symbol: BULLSHIT
+    type: null

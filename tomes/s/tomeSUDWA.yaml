@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x700F55CA3Cc165B33Eb1071D66607a1d4631Caa9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SUDWA
+    symbol: SUDWA
+    type: null

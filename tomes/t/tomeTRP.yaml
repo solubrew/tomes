@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9b1e1fc958b83e801d1342f9f9ba7da3a55ba1ef'
+    chainId: null
+    decimals: null
+    description: Tronipay (TRP) is a cryptocurrency and operates on the Ethereum platform.
+      Tronipay has a current supply of 46,311,853 with 0 in circulation. The last
+      known price of Tronipay is 0.00032654 USD and is up 1.30 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $23.88 traded over the last
+      24 hours. More information can be found at https://www.tronipay.com/.
+    logoURI: null
+    name: Tronipay
+    symbol: TRP
+    type: null

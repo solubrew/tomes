@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x147faf8de9d8d8daae129b187f0d02d819126750'
+    chainId: null
+    decimals: null
+    description: GeoDB (GEO) is a cryptocurrency and operates on the Ethereum platform.
+      GeoDB has a current supply of 300,000,000 with 13,309,738.79194826 in circulation.
+      The last known price of GeoDB is 0.21414595 USD and is down -4.97 over the last
+      24 hours. It is currently trading on 3 active market(s) with $83,579.36 traded
+      over the last 24 hours. More information can be found at https://www.geodb.com.
+    logoURI: null
+    name: GeoDB
+    symbol: GEO
+    type: null

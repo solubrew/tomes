@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0dBa2B5162C4986ACB5dDd1B4069De5Ad749b47E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Wizard Shares
+    symbol: MAGK
+    type: null

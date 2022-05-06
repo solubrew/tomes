@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9073Ee83b6CE96C444547DdCAf777b9352163581'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Synth sBTC
+    symbol: sBTC
+    type: null

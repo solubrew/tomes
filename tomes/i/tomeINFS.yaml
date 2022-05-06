@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x193408ca0576b73156ed42a2ea7d6fd3f6507162'
+    chainId: null
+    decimals: null
+    description: Infinity Esaham (INFS) is a cryptocurrency and operates on the Ethereum
+      platform. Infinity Esaham has a current supply of 1,000,000 with 635,122 in
+      circulation. The last known price of Infinity Esaham is 1.09114285 USD and is
+      up 7.87 over the last 24 hours. It is currently trading on 7 active market(s)
+      with $104,337.32 traded over the last 24 hours. More information can be found
+      at https://e-sahaminfinity.com/.
+    logoURI: null
+    name: Infinity Esaham
+    symbol: INFS
+    type: null

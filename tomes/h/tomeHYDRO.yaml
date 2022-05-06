@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEBBdf302c940c6bfd49C6b165f457fdb324649bc'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Hydro
+    symbol: HYDRO
+    type: null

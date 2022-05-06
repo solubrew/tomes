@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbA23485a04B897C957918FdE2DabD4867838140b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MARKET Protocol Token
+    symbol: MKT
+    type: null

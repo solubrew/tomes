@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20'
+    chainId: null
+    decimals: null
+    description: DuckDaoDime (DDIM) is a cryptocurrency and operates on the Ethereum
+      platform. DuckDaoDime has a current supply of 0. The last known price of DuckDaoDime
+      is 5.23716801 USD and is up 37.35 over the last 24 hours. It is currently trading
+      on 5 active market(s) with $597,457.71 traded over the last 24 hours. More information
+      can be found at https://duckdao.io/.
+    logoURI: null
+    name: DuckDaoDime
+    symbol: DDIM
+    type: null

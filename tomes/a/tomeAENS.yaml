@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD38dE88687172BDE440755b5237987e4A87c23A7'
+    chainId: null
+    decimals: null
+    description: AEN Smart Token (AENS) is a cryptocurrency and operates on the Ethereum
+      platform. AEN Smart Token has a current supply of 4,000,000,000 with 701,557,510.538978
+      in circulation. The last known price of AEN Smart Token is 0.00351902 USD and
+      is up 37.83 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $10.56 traded over the last 24 hours. More information can be found at
+      https://www.aencoin.com.
+    logoURI: null
+    name: AEN Smart Token
+    symbol: AENS
+    type: null

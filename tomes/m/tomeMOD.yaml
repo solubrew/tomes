@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Modum Token
+    symbol: MOD
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf12EC0D3Dab64DdEfBdC96474bDe25af3FE1B327'
+    chainId: null
+    decimals: null
+    description: Stacy (STACY) is a cryptocurrency and operates on the Ethereum platform.
+      Stacy has a current supply of 1,000,000,000 with 0 in circulation. The last
+      known price of Stacy is 0.00082324 USD and is down -0.83 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $2,615.74 traded over the
+      last 24 hours. More information can be found at https://chadswap.finance.
+    logoURI: null
+    name: Stacy
+    symbol: STACY
+    type: null

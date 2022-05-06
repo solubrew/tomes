@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec'
+    chainId: null
+    decimals: null
+    description: Polymath (POLY) is a cryptocurrency and operates on the Ethereum
+      platform. Polymath has a current supply of 1,000,000,000 with 536,301,099.01551974
+      in circulation. The last known price of Polymath is 0.06677946 USD and is up
+      0.98 over the last 24 hours. It is currently trading on 32 active market(s)
+      with $1,020,144.33 traded over the last 24 hours. More information can be found
+      at https://www.polymath.network/.
+    logoURI: null
+    name: Polymath
+    symbol: POLY
+    type: null

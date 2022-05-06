@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x83984d6142934bb535793A82ADB0a46EF0F66B6d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: REMME token
+    symbol: REM
+    type: null

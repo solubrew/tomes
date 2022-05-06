@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEa11755Ae41D889CeEc39A63E6FF75a02Bc1C00d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cortex Coin
+    symbol: CTXC
+    type: null

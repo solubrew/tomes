@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0128e4fccf5ef86b030b28f0a8a029a3c5397a94'
+    chainId: null
+    decimals: null
+    description: FlashSwap (FSP) is a cryptocurrency and operates on the Ethereum
+      platform. FlashSwap has a current supply of 0. The last known price of FlashSwap
+      is 0.01082632 USD and is up 3.36 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $36.53 traded over the last 24 hours. More information
+      can be found at https://www.flashswap.net/index.html.
+    logoURI: null
+    name: FlashSwap
+    symbol: FSP
+    type: null

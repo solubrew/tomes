@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcAd2d4C4469fF09aB24d02A63BCeDfCD44bE0645'
+    chainId: null
+    decimals: null
+    description: Crypto Accept (ACPT) is a cryptocurrency and operates on the Ethereum
+      platform. Crypto Accept has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of Crypto Accept is 0.00042018 USD and is down -16.01 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $514.90
+      traded over the last 24 hours. More information can be found at https://www.crypto-accept.com/.
+    logoURI: null
+    name: Crypto Accept
+    symbol: ACPT
+    type: null

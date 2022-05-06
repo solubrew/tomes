@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x210C203E8f05Be72B69624FE08B9A5530d51eE36'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: The First Coin
+    symbol: TFC
+    type: null

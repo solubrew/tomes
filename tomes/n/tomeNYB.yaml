@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x798A9055a98913835bBFb45a0BbC209438dcFD97'
+    chainId: null
+    decimals: null
+    description: New Year Bull (NYB) is a cryptocurrency and operates on the Ethereum
+      platform. New Year Bull has a current supply of 210,000,000 with 209,100,000
+      in circulation. The last known price of New Year Bull is 0.04847335 USD and
+      is down -37.92 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://www.newyearbull.com.
+    logoURI: null
+    name: New Year Bull
+    symbol: NYB
+    type: null

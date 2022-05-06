@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4'
+    chainId: null
+    decimals: null
+    description: DexKit (KIT) is a cryptocurrency and operates on the Ethereum platform.
+      DexKit has a current supply of 10,000,000 with 798,898 in circulation. The last
+      known price of DexKit is 0.31118767 USD and is up 8.22 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $5,335.01 traded over the
+      last 24 hours. More information can be found at http://dexkit.com/.
+    logoURI: null
+    name: DexKit
+    symbol: KIT
+    type: null

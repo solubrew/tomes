@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaa9d866666c2a3748d6b23ff69e63e52f08d9ab4'
+    chainId: null
+    decimals: null
+    description: Fundamenta (FMTA) is a cryptocurrency and operates on the Ethereum
+      platform. Fundamenta has a current supply of 18,546,334 with 875,635 in circulation.
+      The last known price of Fundamenta is 0.06834929 USD and is down -9.83 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $304,249.60
+      traded over the last 24 hours. More information can be found at https://fundamenta.network/.
+    logoURI: null
+    name: Fundamenta
+    symbol: FMTA
+    type: null

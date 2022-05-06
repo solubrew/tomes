@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7e294DCC20386C17574d9c00386ce608a99AA811'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Snayl Token
+    symbol: SNAYL
+    type: null

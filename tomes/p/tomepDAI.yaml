@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9043d4d51c9d2e31e3f169de4551e416970c27ef'
+    chainId: null
+    decimals: null
+    description: Prime DAI (pDAI) is a cryptocurrency and operates on the Ethereum
+      platform. Prime DAI has a current supply of 103,799,708 with 0 in circulation.
+      The last known price of Prime DAI is 0.0013302 USD and is up 53.10 over the
+      last 24 hours. More information can be found at https://omgswap.in/.
+    logoURI: null
+    name: Prime DAI
+    symbol: pDAI
+    type: null

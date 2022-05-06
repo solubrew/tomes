@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2e071D2966Aa7D8dECB1005885bA1977D6038A65'
+    chainId: null
+    decimals: null
+    description: Etheroll (DICE) is a cryptocurrency and operates on the Ethereum
+      platform. Etheroll has a current supply of 7,001,622.64879442. The last known
+      price of Etheroll is 0.43094712 USD and is down -11.71 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $174.08 traded over the last
+      24 hours. More information can be found at https://etheroll.com/.
+    logoURI: null
+    name: Etheroll
+    symbol: DICE
+    type: null

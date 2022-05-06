@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x062f90480551379791FBe2ED74C1fe69821b30d3'
+    chainId: null
+    decimals: null
+    description: YMAX (YMAX) is a cryptocurrency and operates on the Ethereum platform.
+      YMAX has a current supply of 32,000 with 0 in circulation. The last known price
+      of YMAX is 6.49741742 USD and is down -2.74 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $27,859.98 traded over the last 24 hours.
+      More information can be found at https://ymax.finance/.
+    logoURI: null
+    name: YMAX
+    symbol: YMAX
+    type: null

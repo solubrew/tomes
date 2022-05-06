@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf4faea455575354d2699bc209b0a65ca99f69982'
+    chainId: null
+    decimals: null
+    description: No BS Crypto (NOBS) is a cryptocurrency and operates on the Ethereum
+      platform. No BS Crypto has a current supply of 2,142,628,173.599729 with 891,092,373.2584285
+      in circulation. The last known price of No BS Crypto is 0.00003298 USD and is
+      down -0.57 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $7,347.98 traded over the last 24 hours. More information can be found
+      at https://nobscrypto.com/.
+    logoURI: null
+    name: No BS Crypto
+    symbol: NOBS
+    type: null

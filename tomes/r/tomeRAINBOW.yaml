@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x33c23d44679433a88b89ca38d3311a9a3d160699'
+    chainId: null
+    decimals: null
+    description: Magic Liquidity Rainbow (RAINBOW) is a cryptocurrency and operates
+      on the Ethereum platform. Magic Liquidity Rainbow has a current supply of 22,129,328.57142857
+      with 0 in circulation. The last known price of Magic Liquidity Rainbow is 0.00044799
+      USD and is up 4.93 over the last 24 hours. More information can be found at
+      https://magicliquidity.com/.
+    logoURI: null
+    name: Magic Liquidity Rainbow
+    symbol: RAINBOW
+    type: null

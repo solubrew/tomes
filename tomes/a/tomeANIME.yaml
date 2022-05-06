@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc36e2C02e64585c15794B8e25E826d50b15fd878'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Animeyen
+    symbol: ANIME
+    type: null

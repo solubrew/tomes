@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf1f5de69c9c8d9be8a7b01773cc1166d4ec6ede2'
+    chainId: null
+    decimals: null
+    description: Definitex (DFX) is a cryptocurrency and operates on the Ethereum
+      platform. Definitex has a current supply of 0. The last known price of Definitex
+      is 0.1536392 USD and is up 3.48 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $0.00 traded over the last 24 hours. More information
+      can be found at http://definitex.org/.
+    logoURI: null
+    name: Definitex
+    symbol: DFX
+    type: null

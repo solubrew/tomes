@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbE9375C6a420D2eEB258962efB95551A5b722803'
+    chainId: null
+    decimals: null
+    description: StormX (STMX) is a cryptocurrency and operates on the Ethereum platform.
+      StormX has a current supply of 9,566,788,815.922813 with 7,532,689,847.712538
+      in circulation. The last known price of StormX is 0.00258225 USD and is up 2.36
+      over the last 24 hours. It is currently trading on 13 active market(s) with
+      $1,690,965.77 traded over the last 24 hours. More information can be found at
+      https://stormx.io/.
+    logoURI: null
+    name: StormX
+    symbol: STMX
+    type: null

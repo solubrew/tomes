@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE4CDD296aC85c7d8477988f582D457e638349947'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PTT
+    symbol: PTT
+    type: null

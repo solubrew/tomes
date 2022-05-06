@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4e9095A1B97933bf528B5C2Fa1e734f167C3aE12'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Zaigar
+    symbol: ZAI
+    type: null

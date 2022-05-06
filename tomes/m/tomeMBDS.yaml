@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc5b98B61FB0fe6427C9A88dbEcdFCED34eB56Ef1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MBDS
+    symbol: MBDS
+    type: null

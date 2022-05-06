@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0d9227f9c4ab3972f994fccc6eeba3213c0305c4'
+    chainId: null
+    decimals: null
+    description: Sergey Save Link (SSL) is a cryptocurrency and operates on the Ethereum
+      platform. Sergey Save Link has a current supply of 1,100 with 0 in circulation.
+      The last known price of Sergey Save Link is 165.08669996 USD and is up 14.56
+      over the last 24 hours. It is currently trading on 1 active market(s) with $9,934.88
+      traded over the last 24 hours. More information can be found at https://www.sergsave.link.
+    logoURI: null
+    name: Sergey Save Link
+    symbol: SSL
+    type: null

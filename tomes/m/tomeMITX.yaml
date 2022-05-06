@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6'
+    chainId: null
+    decimals: null
+    description: Morpheus Labs (MITX) is a cryptocurrency and operates on the Ethereum
+      platform. Morpheus Labs has a current supply of 733,999,995 with 420,999,999.2358
+      in circulation. The last known price of Morpheus Labs is 0.01442271 USD and
+      is up 12.29 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $768,689.59 traded over the last 24 hours. More information can be found
+      at https://morpheuslabs.io/.
+    logoURI: null
+    name: Morpheus Labs
+    symbol: MITX
+    type: null

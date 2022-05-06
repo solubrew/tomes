@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5c872500c00565505F3624AB435c222E558E9ff8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CoTrader
+    symbol: COT
+    type: null

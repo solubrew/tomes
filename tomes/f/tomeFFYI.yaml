@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xca76baa777d749de63ca044853d22d56bc70bb47'
+    chainId: null
+    decimals: null
+    description: Fiscus.fyi (FFYI) is a cryptocurrency and operates on the Ethereum
+      platform. Fiscus.fyi has a current supply of 60,000 with 0 in circulation. The
+      last known price of Fiscus.fyi is 1.03526332 USD and is up 2.90 over the last
+      24 hours. It is currently trading on 1 active market(s) with $59,818.85 traded
+      over the last 24 hours. More information can be found at https://fiscus.fyi/.
+    logoURI: null
+    name: Fiscus.fyi
+    symbol: FFYI
+    type: null

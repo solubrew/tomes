@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x406963Ad7aeaC48B95777Dd41f154Fe6D20Bf886'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LN
+    symbol: LN
+    type: null

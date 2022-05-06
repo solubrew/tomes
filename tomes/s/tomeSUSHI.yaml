@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6b3595068778dd592e39a122f4f5a5cf09c90fe2'
+    chainId: null
+    decimals: null
+    description: SushiSwap (SUSHI) is a cryptocurrency and operates on the Ethereum
+      platform. SushiSwap has a current supply of 164,825,271.60709548. The last known
+      price of SushiSwap is 2.14569392 USD and is up 5.28 over the last 24 hours.
+      It is currently trading on 115 active market(s) with $211,436,138.87 traded
+      over the last 24 hours. More information can be found at https://sushiswap.org/.
+    logoURI: null
+    name: SushiSwap
+    symbol: SUSHI
+    type: null

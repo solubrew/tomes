@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf41e5fbc2f6aac200dd8619e121ce1f05d150077'
+    chainId: null
+    decimals: null
+    description: CryCash (CRC) is a cryptocurrency and operates on the Ethereum platform.
+      CryCash has a current supply of 7,057,137.0998682 with 4,809,935.95792092 in
+      circulation. The last known price of CryCash is 0.03426379 USD and is down -7.95
+      over the last 24 hours. It is currently trading on 1 active market(s) with $497.08
+      traded over the last 24 hours. More information can be found at https://crycash.io/.
+    logoURI: null
+    name: CryCash
+    symbol: CRC
+    type: null

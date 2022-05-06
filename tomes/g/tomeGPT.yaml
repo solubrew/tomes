@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa00425d3e2d3e9ff74f3e112b4d3a7978d7d88c2'
+    chainId: null
+    decimals: null
+    description: GoPower (GPT) is a cryptocurrency and operates on the Ethereum platform.
+      GoPower has a current supply of 111,227,045.9 with 81,227,045.9 in circulation.
+      The last known price of GoPower is 0.00050722 USD and is up 2.99 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://tokengoplatform.com/.
+    logoURI: null
+    name: GoPower
+    symbol: GPT
+    type: null

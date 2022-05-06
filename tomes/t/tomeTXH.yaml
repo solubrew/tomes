@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8DC9947B6662485252E49B04F2e445100Ab5804a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TradeX Token
+    symbol: TXH
+    type: null

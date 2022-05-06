@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2c7Fa71E31C0C6bB9F21fC3c098AC2C53f8598Cc'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: NEXXO
+    symbol: NEXXO
+    type: null

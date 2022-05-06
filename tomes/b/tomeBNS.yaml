@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd996035Db82cae33Ba1f16fDF23B816E5E9fAaBb'
+    chainId: null
+    decimals: null
+    description: BNS Token (BNS) is a cryptocurrency and operates on the Ethereum
+      platform. BNS Token has a current supply of 2,500,000,000 with 0 in circulation.
+      The last known price of BNS Token is 0.04122081 USD and is down -1.60 over the
+      last 24 hours. It is currently trading on 6 active market(s) with $480,829.80
+      traded over the last 24 hours. More information can be found at https://bitbns.com/bns/.
+    logoURI: null
+    name: BNS Token
+    symbol: BNS
+    type: null

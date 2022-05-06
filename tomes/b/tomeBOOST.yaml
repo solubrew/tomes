@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78'
+    chainId: null
+    decimals: null
+    description: Boosted Finance (BOOST) is a cryptocurrency and operates on the Ethereum
+      platform. Boosted Finance has a current supply of 99,118.16852074 with 59,853.15917157
+      in circulation. The last known price of Boosted Finance is 8.6372794 USD and
+      is up 2.70 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $85,906.23 traded over the last 24 hours. More information can be found
+      at https://boosted.finance/.
+    logoURI: null
+    name: Boosted Finance
+    symbol: BOOST
+    type: null

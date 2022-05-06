@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x62359ed7505efc61ff1d56fef82158ccaffa23d7'
+    chainId: null
+    decimals: null
+    description: cVault.finance (CORE) is a cryptocurrency and operates on the Ethereum
+      platform. cVault.finance has a current supply of 10,000. The last known price
+      of cVault.finance is 4,896.66539408 USD and is up 4.64 over the last 24 hours.
+      It is currently trading on 7 active market(s) with $1,351,841.07 traded over
+      the last 24 hours. More information can be found at https://cvault.finance/.
+    logoURI: null
+    name: cVault.finance
+    symbol: CORE
+    type: null

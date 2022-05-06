@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xade7b5f4a421d81ddad8ce86f77a0efe8921e9cc'
+    chainId: null
+    decimals: null
+    description: Diligence (IRA) is a cryptocurrency and operates on the Ethereum
+      platform. Diligence has a current supply of 21,000,000 with 20,999,999.99999998
+      in circulation. The last known price of Diligence is 0.00074158 USD and is up
+      435.33 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $1.94 traded over the last 24 hours. More information can be found at https://ira-africa.com/.
+    logoURI: null
+    name: Diligence
+    symbol: IRA
+    type: null

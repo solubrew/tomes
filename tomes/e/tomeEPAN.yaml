@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x72630b1e3b42874bf335020ba0249e3e9e47bafc'
+    chainId: null
+    decimals: null
+    description: Paypolitan Token (EPAN) is a cryptocurrency and operates on the Ethereum
+      platform. Paypolitan Token has a current supply of 94,697,000 with 0 in circulation.
+      The last known price of Paypolitan Token is 0.22658504 USD and is down -18.71
+      over the last 24 hours. It is currently trading on 2 active market(s) with $1,814,948.53
+      traded over the last 24 hours. More information can be found at https://paypolitan.io/.
+    logoURI: null
+    name: Paypolitan Token
+    symbol: EPAN
+    type: null

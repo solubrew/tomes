@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf729f878F95548BC7F14B127c96089cf121505F8'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: ANATA
+    type: null

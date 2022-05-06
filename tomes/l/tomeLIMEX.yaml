@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x400b1d8a7dd8C471026B2c8CBe1062b27d120538'
+    chainId: null
+    decimals: null
+    description: Limestone Network (LIMEX) is a cryptocurrency and operates on the
+      Ethereum platform. Limestone Network has a current supply of 0. The last known
+      price of Limestone Network is 0.01243964 USD and is down -7.02 over the last
+      24 hours. It is currently trading on 1 active market(s) with $453.98 traded
+      over the last 24 hours. More information can be found at https://limestone.network/.
+    logoURI: null
+    name: Limestone Network
+    symbol: LIMEX
+    type: null

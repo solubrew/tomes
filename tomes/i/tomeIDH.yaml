@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0'
+    chainId: null
+    decimals: null
+    description: indaHash (IDH) is a cryptocurrency and operates on the Ethereum platform.
+      indaHash has a current supply of 399,999,999.991697 with 399,936,258.539634
+      in circulation. The last known price of indaHash is 0.00148578 USD and is up
+      12.38 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $723.35 traded over the last 24 hours. More information can be found at
+      https://indahash.com/.
+    logoURI: null
+    name: indaHash
+    symbol: IDH
+    type: null

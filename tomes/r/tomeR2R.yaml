@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x688ff43c3c19e4714f0beb76df8ee394207ab411'
+    chainId: null
+    decimals: null
+    description: CitiOs (R2R) is a cryptocurrency and operates on the Ethereum platform.
+      CitiOs has a current supply of 1,000,000,000 with 0 in circulation. The last
+      known price of CitiOs is 0.00017046 USD and is down -6.90 over the last 24 hours.
+      It is currently trading on 4 active market(s) with $50.13 traded over the last
+      24 hours. More information can be found at https://www.citios.io/.
+    logoURI: null
+    name: CitiOs
+    symbol: R2R
+    type: null

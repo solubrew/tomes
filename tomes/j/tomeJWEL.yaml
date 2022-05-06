@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5cffC0B73Df80144f0f3f5bf75672777Af2BbbFE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Crwn Jwel
+    symbol: JWEL
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3b544e6fcf6c8dce9d8b45a4fdf21c9b02f9fda9'
+    chainId: null
+    decimals: null
+    description: Giftedhands (GHD) is a cryptocurrency and operates on the Ethereum
+      platform. Giftedhands has a current supply of 200,000,000 with 0 in circulation.
+      The last known price of Giftedhands is 0.00537956 USD and is up 6.18 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $4,071.46
+      traded over the last 24 hours. More information can be found at https://www.giftedhands.io/.
+    logoURI: null
+    name: Giftedhands
+    symbol: GHD
+    type: null

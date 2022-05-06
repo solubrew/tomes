@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF45B14ddaBF0F0e275E215b94dD24Ae013a27F12'
+    chainId: null
+    decimals: null
+    description: sXTZ (SXTZ) is a cryptocurrency and operates on the Ethereum platform.
+      sXTZ has a current supply of 18,476.90745883 with 0 in circulation. The last
+      known price of sXTZ is 2.23973585 USD and is up 1.46 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://www.synthetix.io/.
+    logoURI: null
+    name: sXTZ
+    symbol: SXTZ
+    type: null

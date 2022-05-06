@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4575f41308EC1483f3d399aa9a2826d74Da13Deb'
+    chainId: null
+    decimals: null
+    description: Orchid (OXT) is a cryptocurrency and operates on the Ethereum platform.
+      Orchid has a current supply of 1,000,000,000 with 367,584,352 in circulation.
+      The last known price of Orchid is 0.31673551 USD and is down -3.19 over the
+      last 24 hours. It is currently trading on 39 active market(s) with $37,400,317.33
+      traded over the last 24 hours. More information can be found at https://www.orchid.com/.
+    logoURI: null
+    name: Orchid
+    symbol: OXT
+    type: null

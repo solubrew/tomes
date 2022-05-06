@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFd66c6771D00b5646949086152B7CCDCa25E5686'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LATTICE80 KAYA TOKEN
+    symbol: KAYA
+    type: null

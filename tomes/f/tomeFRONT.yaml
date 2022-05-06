@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf8C3527CC04340b208C854E985240c02F7B7793f'
+    chainId: null
+    decimals: null
+    description: Frontier (FRONT) is a cryptocurrency and operates on the Ethereum
+      platform. Frontier has a current supply of 100,000,000 with 15,230,006.99999998
+      in circulation. The last known price of Frontier is 0.35787868 USD and is up
+      6.89 over the last 24 hours. It is currently trading on 35 active market(s)
+      with $5,647,838.87 traded over the last 24 hours. More information can be found
+      at https://frontier.xyz/.
+    logoURI: null
+    name: Frontier
+    symbol: FRONT
+    type: null

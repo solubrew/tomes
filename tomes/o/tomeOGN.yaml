@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: OriginToken
+    symbol: OGN
+    type: null

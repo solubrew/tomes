@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x40FD72257597aA14C7231A7B1aaa29Fce868F677'
+    chainId: null
+    decimals: null
+    description: Sora (XOR) is a cryptocurrency and operates on the Ethereum platform.
+      Sora has a current supply of 350,000. The last known price of Sora is 133.66870675
+      USD and is down -1.93 over the last 24 hours. It is currently trading on 11
+      active market(s) with $900,042.47 traded over the last 24 hours. More information
+      can be found at https://sora.org/.
+    logoURI: null
+    name: Sora
+    symbol: XOR
+    type: null

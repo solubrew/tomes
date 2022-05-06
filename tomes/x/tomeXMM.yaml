@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9a7a4c141a3bcce4a31e42c1192ac6add35069b4'
+    chainId: null
+    decimals: null
+    description: Momentum (XMM) is a cryptocurrency and operates on the Ethereum platform.
+      Momentum has a current supply of 71,916,382.6288 with 0 in circulation. The
+      last known price of Momentum is 0.00129109 USD and is down -9.92 over the last
+      24 hours. It is currently trading on 1 active market(s) with $940.81 traded
+      over the last 24 hours. More information can be found at https://www.xmmtoken.com.
+    logoURI: null
+    name: Momentum
+    symbol: XMM
+    type: null

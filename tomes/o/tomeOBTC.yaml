@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2'
+    chainId: null
+    decimals: null
+    description: Obitan Chain (OBTC) is a cryptocurrency and operates on the Ethereum
+      platform. Obitan Chain has a current supply of 20,312,999,998 with 0 in circulation.
+      The last known price of Obitan Chain is 0.00000597 USD and is up 2.98 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://www.obitanchain.org/.
+    logoURI: null
+    name: Obitan Chain
+    symbol: OBTC
+    type: null

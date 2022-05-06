@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9af4f26941677c706cfecf6d3379ff01bb85d5ab'
+    chainId: null
+    decimals: null
+    description: DomRaider (DRT) is a cryptocurrency and operates on the Ethereum
+      platform. DomRaider has a current supply of 1,300,000,000 with 591,500,000 in
+      circulation. The last known price of DomRaider is 0.00085612 USD and is up 10.54
+      over the last 24 hours. It is currently trading on 4 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://token.domraider.com/.
+    logoURI: null
+    name: DomRaider
+    symbol: DRT
+    type: null

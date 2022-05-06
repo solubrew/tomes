@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x67B66C99D3Eb37Fa76Aa3Ed1ff33E8e39F0b9c7A'
+    chainId: null
+    decimals: null
+    description: Interest Bearing ETH (ibETH) is a cryptocurrency and operates on
+      the Ethereum platform. Interest Bearing ETH has a current supply of 0. The last
+      known price of Interest Bearing ETH is 606.15836769 USD and is up 2.13 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $7,692,615.09
+      traded over the last 24 hours. More information can be found at https://alphafinance.io/.
+    logoURI: null
+    name: Interest Bearing ETH
+    symbol: ibETH
+    type: null

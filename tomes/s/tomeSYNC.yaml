@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32'
+    chainId: null
+    decimals: null
+    description: SYNC Network (SYNC) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. SYNC Network has a current supply of 16,000,000 with
+      0 in circulation. The last known price of SYNC Network is 0.01021359 USD and
+      is up 23.39 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $660,636.93 traded over the last 24 hours. More information can be found
+      at https://syncbond.com/.
+    logoURI: null
+    name: SYNC Network
+    symbol: SYNC
+    type: null

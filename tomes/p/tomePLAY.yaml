@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE477292f1B3268687A29376116B0ED27A9c76170'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Herocoin
+    symbol: PLAY
+    type: null

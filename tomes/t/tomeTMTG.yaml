@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x10086399dd8c1e3de736724af52587a2044c9fa2'
+    chainId: null
+    decimals: null
+    description: The Midas Touch Gold (TMTG) is a cryptocurrency and operates on the
+      Ethereum platform. The Midas Touch Gold has a current supply of 9,161,139,666.073038
+      with 7,823,755,998.405409 in circulation. The last known price of The Midas
+      Touch Gold is 0.00997106 USD and is down -0.39 over the last 24 hours. It is
+      currently trading on 7 active market(s) with $2,267,397.83 traded over the last
+      24 hours. More information can be found at https://dgex.io/.
+    logoURI: null
+    name: The Midas Touch Gold
+    symbol: TMTG
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x97941Ff1962026955852E9609E202D1058BC0f48'
+    chainId: null
+    decimals: null
+    description: Va Na Su (VNS) is a cryptocurrency and operates on the Ethereum platform.
+      Va Na Su has a current supply of 0. The last known price of Va Na Su is 0.67539663
+      USD and is up 14.77 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $4,905.71 traded over the last 24 hours. More information can
+      be found at http://vana.uxi.kr/.
+    logoURI: null
+    name: Va Na Su
+    symbol: VNS
+    type: null

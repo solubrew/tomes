@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbc396689893d065f41bc2c6ecbee5e0085233447'
+    chainId: null
+    decimals: null
+    description: Perpetual Protocol (PERP) is a cryptocurrency and operates on the
+      Ethereum platform. Perpetual Protocol has a current supply of 150,000,000 with
+      15,183,490.15287182 in circulation. The last known price of Perpetual Protocol
+      is 1.43586494 USD and is up 1.01 over the last 24 hours. It is currently trading
+      on 8 active market(s) with $1,251,795.46 traded over the last 24 hours. More
+      information can be found at https://perp.fi/.
+    logoURI: null
+    name: Perpetual Protocol
+    symbol: PERP
+    type: null

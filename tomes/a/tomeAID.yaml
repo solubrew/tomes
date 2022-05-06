@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD178b20c6007572bD1FD01D205cC20D32B4A6015'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: aidus
+    symbol: AID
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0fdc5313333533cc0c00c22792bff7383d3055f2'
+    chainId: null
+    decimals: null
+    description: YFPRO Finance (YFPRO) is a cryptocurrency and operates on the Ethereum
+      platform. YFPRO Finance has a current supply of 25,000 with 0 in circulation.
+      The last known price of YFPRO Finance is 0.99241035 USD and is up 8.99 over
+      the last 24 hours. It is currently trading on 4 active market(s) with $832,289.98
+      traded over the last 24 hours. More information can be found at https://yfpro.finance.
+    logoURI: null
+    name: YFPRO Finance
+    symbol: YFPRO
+    type: null

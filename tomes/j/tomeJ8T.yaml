@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4'
+    chainId: null
+    decimals: null
+    description: JET8 (J8T) is a cryptocurrency and operates on the Ethereum platform.
+      JET8 has a current supply of 1,468,857,774.5777798 with 740,485,259.1079191
+      in circulation. The last known price of JET8 is 0 USD and is up 0.00 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://jet8.io/.
+    logoURI: null
+    name: JET8
+    symbol: J8T
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD938137E6d96c72E4a6085412aDa2daD78ff89c4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Change Your Life
+    symbol: AAA
+    type: null

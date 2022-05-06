@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBa96B16d569B62D2803F165AB652499921C1FE7a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: eWagerr
+    symbol: eWGR
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x01522e6c543FF04E74842abD0F2AFEcC5EF5C281'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: upscaleeth
+    symbol: USC
+    type: null

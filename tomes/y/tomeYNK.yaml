@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x87c00817abe35ed4c093e59043fae488238d2f74'
+    chainId: null
+    decimals: null
+    description: Yoink (YNK) is a cryptocurrency and operates on the Ethereum platform.
+      Yoink has a current supply of 100,000,000 with 0 in circulation. The last known
+      price of Yoink is 0.00394498 USD and is down -7.62 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $8,272.79 traded over the last
+      24 hours. More information can be found at https://yoink.rocks/.
+    logoURI: null
+    name: Yoink
+    symbol: YNK
+    type: null

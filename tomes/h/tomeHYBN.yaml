@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x20bcae16a8ba95d8e8363e265de4ecfc36ec5cd9'
+    chainId: null
+    decimals: null
+    description: Hey Bitcoin (HYBN) is a cryptocurrency and operates on the Ethereum
+      platform. Hey Bitcoin has a current supply of 2,311,000,000 with 0 in circulation.
+      The last known price of Hey Bitcoin is 0.04189463 USD and is up 1.95 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://www.heybitcoin.io/.
+    logoURI: null
+    name: Hey Bitcoin
+    symbol: HYBN
+    type: null

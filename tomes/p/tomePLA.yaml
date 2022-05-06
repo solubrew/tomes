@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5f5b176553e51171826D1A62e540bC30422C7717'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PLA Token
+    symbol: PLA
+    type: null

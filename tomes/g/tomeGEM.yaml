@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc7bba5b765581efb2cdd2679db5bea9ee79b201f'
+    chainId: null
+    decimals: null
+    description: Gems  (GEM) is a cryptocurrency and operates on the Ethereum platform.
+      Gems  has a current supply of 8,000,000,000 with 1,198,291,895.994173 in circulation.
+      The last known price of Gems  is 0.00008105 USD and is down -18.73 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $822.25 traded
+      over the last 24 hours. More information can be found at https://gems.org/.
+    logoURI: null
+    name: 'Gems '
+    symbol: GEM
+    type: null

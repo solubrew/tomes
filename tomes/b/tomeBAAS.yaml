@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8'
+    chainId: null
+    decimals: null
+    description: BaaSid (BAAS) is a cryptocurrency and operates on the Ethereum platform.
+      BaaSid has a current supply of 10,000,000,000 with 4,999,999,999.999999 in circulation.
+      The last known price of BaaSid is 0.00050615 USD and is down -1.68 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $741.95 traded
+      over the last 24 hours. More information can be found at https://www.baasid.com/#token.
+    logoURI: null
+    name: BaaSid
+    symbol: BAAS
+    type: null

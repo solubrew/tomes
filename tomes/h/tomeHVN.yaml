@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D'
+    chainId: null
+    decimals: null
+    description: Hiveterminal Token (HVN) is a cryptocurrency and operates on the
+      Ethereum platform. Hiveterminal Token has a current supply of 500,000,000. The
+      last known price of Hiveterminal Token is 0.00406276 USD and is up 0.53 over
+      the last 24 hours. It is currently trading on 4 active market(s) with $2,482.30
+      traded over the last 24 hours. More information can be found at https://www.hiveterminal.com/.
+    logoURI: null
+    name: Hiveterminal Token
+    symbol: HVN
+    type: null

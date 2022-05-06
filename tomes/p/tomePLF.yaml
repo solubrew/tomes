@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef'
+    chainId: null
+    decimals: null
+    description: PlayFuel (PLF) is a cryptocurrency and operates on the Ethereum platform.
+      PlayFuel has a current supply of 10,000,000,000 with 500,000,000 in circulation.
+      The last known price of PlayFuel is 0.05248747 USD and is up 1.56 over the last
+      24 hours. It is currently trading on 28 active market(s) with $8,536,661.86
+      traded over the last 24 hours. More information can be found at https://playfuel.io/.
+    logoURI: null
+    name: PlayFuel
+    symbol: PLF
+    type: null

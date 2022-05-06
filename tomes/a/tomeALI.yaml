@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4289c043a12392f1027307fb58272d8ebd853912'
+    chainId: null
+    decimals: null
+    description: AiLink Token (ALI) is a cryptocurrency and operates on the Ethereum
+      platform. AiLink Token has a current supply of 10,000,000,000 with 5,184,020,526.847212
+      in circulation. The last known price of AiLink Token is 0.00001506 USD and is
+      up 3.74 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $562.25 traded over the last 24 hours. More information can be found at
+      http://ailink.in.
+    logoURI: null
+    name: AiLink Token
+    symbol: ALI
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7bE5901F679BDE8202a123c84C19BBCE2CF3449B'
+    chainId: null
+    decimals: null
+    description: Fiola (FLA) is a cryptocurrency and operates on the Ethereum platform.
+      Fiola has a current supply of 0. The last known price of Fiola is 0.00005967
+      USD and is down -6.38 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $1,336.95 traded over the last 24 hours. More information can
+      be found at https://fiola.network/.
+    logoURI: null
+    name: Fiola
+    symbol: FLA
+    type: null

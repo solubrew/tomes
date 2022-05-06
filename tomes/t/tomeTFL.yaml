@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa7f976c360ebbed4465c2855684d1aae5271efa9'
+    chainId: null
+    decimals: null
+    description: TrueFlip (TFL) is a cryptocurrency and operates on the Ethereum platform.
+      TrueFlip has a current supply of 8,924,667 with 6,247,267 in circulation. The
+      last known price of TrueFlip is 0.20741787 USD and is down -8.18 over the last
+      24 hours. It is currently trading on 2 active market(s) with $3,022.37 traded
+      over the last 24 hours. More information can be found at https://trueflip.io/.
+    logoURI: null
+    name: TrueFlip
+    symbol: TFL
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Amber Token
+    symbol: AMB
+    type: null

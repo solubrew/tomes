@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6c4c2cde0a4Fb9c045E4ec04e3277d359a820ca6'
+    chainId: null
+    decimals: null
+    description: happy birthday coin (HBDC) is a cryptocurrency and operates on the
+      Ethereum platform. happy birthday coin has a current supply of 7,700,000,000
+      with 0 in circulation. The last known price of happy birthday coin is 0.00200119
+      USD and is down -0.01 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $36.02 traded over the last 24 hours. More information can be
+      found at http://happycoinholdings.com.
+    logoURI: null
+    name: happy birthday coin
+    symbol: HBDC
+    type: null

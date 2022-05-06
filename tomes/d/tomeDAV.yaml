@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd82Df0ABD3f51425Eb15ef7580fDA55727875f14'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DAV Token
+    symbol: DAV
+    type: null

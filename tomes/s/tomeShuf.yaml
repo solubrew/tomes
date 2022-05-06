@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD76c75B9cBbeAB4109456Fda9f2DA73297b795dB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: shuffle.monster token
+    symbol: Shuf
+    type: null

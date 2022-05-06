@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8f0921f30555624143d427b340b1156914882c10'
+    chainId: null
+    decimals: null
+    description: FlypMe (FYP) is a cryptocurrency and operates on the Ethereum platform.
+      FlypMe has a current supply of 35,277,362.7186 with 17,638,681 in circulation.
+      The last known price of FlypMe is 0.01839704 USD and is down -6.59 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $8,086.52
+      traded over the last 24 hours. More information can be found at https://flyp.me/.
+    logoURI: null
+    name: FlypMe
+    symbol: FYP
+    type: null

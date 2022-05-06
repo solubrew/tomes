@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x74436AE1DB59c62BBb3DE88d268f7e058dce6D50'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GuangChangBi
+    symbol: GCB
+    type: null

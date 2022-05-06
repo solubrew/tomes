@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaa62a002ce856d9fe1874e7f8558a38fc1e49cca'
+    chainId: null
+    decimals: null
+    description: $YEET (YEET) is a cryptocurrency and operates on the Ethereum platform.
+      $YEET has a current supply of 0. The last known price of $YEET is 3.45895544
+      USD and is down -6.93 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $140.62 traded over the last 24 hours. More information can be
+      found at https://www.yeet.dance/.
+    logoURI: null
+    name: $YEET
+    symbol: YEET
+    type: null

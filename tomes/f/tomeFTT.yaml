@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2AEC18c5500f21359CE1BEA5Dc1777344dF4C0Dc'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FarmaTrust Token
+    symbol: FTT
+    type: null

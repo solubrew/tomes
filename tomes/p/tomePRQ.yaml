@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x362bc847A3a9637d3af6624EeC853618a43ed7D2'
+    chainId: null
+    decimals: null
+    description: PARSIQ (PRQ) is a cryptocurrency launched in 2019and operates on
+      the Ethereum platform. PARSIQ has a current supply of 500,000,000 with 104,150,572
+      in circulation. The last known price of PARSIQ is 0.13295499 USD and is up 7.70
+      over the last 24 hours. It is currently trading on 10 active market(s) with
+      $222,443.04 traded over the last 24 hours. More information can be found at
+      http://www.parsiq.io.
+    logoURI: null
+    name: PARSIQ
+    symbol: PRQ
+    type: null

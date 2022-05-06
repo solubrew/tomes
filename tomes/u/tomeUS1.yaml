@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9A472e3fC54939baf028eDa41d8A1929830a7eeF'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: US War Bonds - Stakewar.com Round 1
+    symbol: US1
+    type: null

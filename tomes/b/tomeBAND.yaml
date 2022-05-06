@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BandToken
+    symbol: BAND
+    type: null

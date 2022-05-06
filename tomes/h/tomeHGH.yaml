@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x40c6f861a08f97dfbc3c0931485bff4921975a56'
+    chainId: null
+    decimals: null
+    description: HGH Token (HGH) is a cryptocurrency and operates on the Ethereum
+      platform. HGH Token has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of HGH Token is 0.00000383 USD and is up 1.42 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://myhghproducts.com.
+    logoURI: null
+    name: HGH Token
+    symbol: HGH
+    type: null

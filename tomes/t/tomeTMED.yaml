@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd32641191578ea9b208125ddd4ec5e7b84fcab4c'
+    chainId: null
+    decimals: null
+    description: MDsquare (TMED) is a cryptocurrency and operates on the Ethereum
+      platform. MDsquare has a current supply of 28,000,000,000 with 0 in circulation.
+      The last known price of MDsquare is 0.00022973 USD and is up 0.00 over the last
+      24 hours. It is currently trading on 1 active market(s) with $16,048.08 traded
+      over the last 24 hours. More information can be found at https://mdsqr.io/.
+    logoURI: null
+    name: MDsquare
+    symbol: TMED
+    type: null

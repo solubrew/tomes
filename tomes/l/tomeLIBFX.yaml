@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc0ea83113038987d974fe667831a36e442e661e7'
+    chainId: null
+    decimals: null
+    description: Libfx (LIBFX) is a cryptocurrency and operates on the Ethereum platform.
+      Libfx has a current supply of 35,000,000 with 0 in circulation. The last known
+      price of Libfx is 46.42653725 USD and is down -3.34 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $659,992.90 traded over the
+      last 24 hours. More information can be found at https://libermx.com/.
+    logoURI: null
+    name: Libfx
+    symbol: LIBFX
+    type: null

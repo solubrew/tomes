@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0bf6261297198d91d4fa460242c69232146a5703'
+    chainId: null
+    decimals: null
+    description: Libera (LIB) is a cryptocurrency and operates on the Ethereum platform.
+      Libera has a current supply of 5,000,000 with 0 in circulation. The last known
+      price of Libera is 0.24325237 USD and is up 3.52 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $24.39 traded over the last
+      24 hours. More information can be found at https://libera.finance/.
+    logoURI: null
+    name: Libera
+    symbol: LIB
+    type: null

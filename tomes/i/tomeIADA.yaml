@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8A8079c7149B8A1611e5C5d978DCA3bE16545F83'
+    chainId: null
+    decimals: null
+    description: iADA (IADA) is a cryptocurrency and operates on the Ethereum platform.
+      iADA has a current supply of 0. The last known price of iADA is 0.11571083 USD
+      and is up 10.15 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $0.00 traded over the last 24 hours. More information can be
+      found at https://www.synthetix.io/.
+    logoURI: null
+    name: iADA
+    symbol: IADA
+    type: null

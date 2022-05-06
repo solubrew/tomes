@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x92cCcEf452D956137f9C9bb8954f8235e51949A0'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Totally normal tokenS
+    symbol: TONS
+    type: null

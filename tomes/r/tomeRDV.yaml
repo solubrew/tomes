@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd967d9F941CD316Ab238d3EE761F80b7cAec7819'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Rendezvous
+    symbol: RDV
+    type: null

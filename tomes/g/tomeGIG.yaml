@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x838d8e11B160deC88Fe62BF0f743FB7000941e13'
+    chainId: null
+    decimals: null
+    description: Krios (GIG) is a cryptocurrency and operates on the Ethereum platform.
+      Krios has a current supply of 500,000,000 with 499,994,072.26999205 in circulation.
+      The last known price of Krios is 0.01308249 USD and is up 33.36 over the last
+      24 hours. It is currently trading on 3 active market(s) with $524.86 traded
+      over the last 24 hours. More information can be found at https://www.krios.io/.
+    logoURI: null
+    name: Krios
+    symbol: GIG
+    type: null

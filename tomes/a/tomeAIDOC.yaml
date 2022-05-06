@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x584b44853680ee34a0f337b712a8f66d816df151'
+    chainId: null
+    decimals: null
+    description: AI Doctor (AIDOC) is a cryptocurrency and operates on the Ethereum
+      platform. AI Doctor has a current supply of 777,777,777 with 777,777,776.174
+      in circulation. The last known price of AI Doctor is 0.00156023 USD and is down
+      -7.91 over the last 24 hours. It is currently trading on 9 active market(s)
+      with $301,583.44 traded over the last 24 hours. More information can be found
+      at http://www.aidoc.me/.
+    logoURI: null
+    name: AI Doctor
+    symbol: AIDOC
+    type: null

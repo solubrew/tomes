@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x80b1DC852f3aeeF243ffdD2D47c7435b21284DCb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Miasma
+    symbol: MIA
+    type: null

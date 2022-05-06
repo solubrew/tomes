@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe'
+    chainId: null
+    decimals: null
+    description: DSLA Protocol (DSLA) is a cryptocurrency launched in 2017and operates
+      on the Ethereum platform. DSLA Protocol has a current supply of 7,000,000,000
+      with 6,198,266,878.379317 in circulation. The last known price of DSLA Protocol
+      is 0.0003168 USD and is up 1.00 over the last 24 hours. It is currently trading
+      on 10 active market(s) with $84,706.78 traded over the last 24 hours. More information
+      can be found at https://stacktical.com.
+    logoURI: null
+    name: DSLA Protocol
+    symbol: DSLA
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6f022e991ea21d26f85f6716c088e2864101dfec'
+    chainId: null
+    decimals: null
+    description: Hands of Steel (STEEL) is a cryptocurrency and operates on the Ethereum
+      platform. Hands of Steel has a current supply of 0. The last known price of
+      Hands of Steel is 0.00182349 USD and is down -1.07 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $0.00 traded over the last 24
+      hours. More information can be found at https://handsofsteel.money/.
+    logoURI: null
+    name: Hands of Steel
+    symbol: STEEL
+    type: null

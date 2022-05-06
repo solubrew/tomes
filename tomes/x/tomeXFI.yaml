@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5BEfBB272290dD5b8521D4a938f6c4757742c430'
+    chainId: null
+    decimals: null
+    description: Xfinance (XFI) is a cryptocurrency and operates on the Ethereum platform.
+      Xfinance has a current supply of 48,733.15310373. The last known price of Xfinance
+      is 25.48538673 USD and is down -3.09 over the last 24 hours. It is currently
+      trading on 10 active market(s) with $248,852.49 traded over the last 24 hours.
+      More information can be found at https://xfinance.io/.
+    logoURI: null
+    name: Xfinance
+    symbol: XFI
+    type: null

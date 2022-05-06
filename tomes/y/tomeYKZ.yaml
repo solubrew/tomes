@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x87047986E8e4961c11d2EdcD94285E3A1331d97B'
+    chainId: null
+    decimals: null
+    description: Yakuza DFO (YKZ) is a cryptocurrency and operates on the Ethereum
+      platform. Yakuza DFO has a current supply of 10,000 with 0 in circulation. The
+      last known price of Yakuza DFO is 6.74912877 USD and is down -12.05 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $1,634.12
+      traded over the last 24 hours. More information can be found at https://dapp.dfohub.com/.
+    logoURI: null
+    name: Yakuza DFO
+    symbol: YKZ
+    type: null

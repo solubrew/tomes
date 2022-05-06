@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa8b0f154a688c22142e361707df64277e0a0be66'
+    chainId: null
+    decimals: null
+    description: Rake Finance (RAK) is a cryptocurrency and operates on the Ethereum
+      platform. Rake Finance has a current supply of 7,500 with 0 in circulation.
+      The last known price of Rake Finance is 74.04725168 USD and is up 5.42 over
+      the last 24 hours. It is currently trading on 5 active market(s) with $291,497.50
+      traded over the last 24 hours. More information can be found at https://rake.finance.
+    logoURI: null
+    name: Rake Finance
+    symbol: RAK
+    type: null

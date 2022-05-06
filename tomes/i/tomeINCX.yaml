@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa984a92731c088f1ea4d53b71a2565a399f7d8d5'
+    chainId: null
+    decimals: null
+    description: InternationalCryptoX (INCX) is a cryptocurrency and operates on the
+      Ethereum platform. InternationalCryptoX has a current supply of 599,999,990
+      with 428,755,167 in circulation. The last known price of InternationalCryptoX
+      is 0.00070801 USD and is up 4.85 over the last 24 hours.
+    logoURI: null
+    name: InternationalCryptoX
+    symbol: INCX
+    type: null

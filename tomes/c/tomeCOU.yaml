@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf091cf09c51811819db705710e9634b8bf18f164'
+    chainId: null
+    decimals: null
+    description: Couchain (COU) is a cryptocurrency and operates on the Ethereum platform.
+      Couchain has a current supply of 23,000,000,000 with 17,299,005,000 in circulation.
+      The last known price of Couchain is 0.00006605 USD and is up 1.36 over the last
+      24 hours. It is currently trading on 3 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://couchain.io/.
+    logoURI: null
+    name: Couchain
+    symbol: COU
+    type: null

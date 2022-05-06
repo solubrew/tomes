@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf1aC7A375429719DE0dde33528e2639B9a206ebA'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AMGO - Arena Match Gold
+    symbol: AMGO
+    type: null

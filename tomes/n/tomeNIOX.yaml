@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc813EA5e3b48BEbeedb796ab42A30C5599b01740'
+    chainId: null
+    decimals: null
+    description: Autonio (NIOX) is a cryptocurrency and operates on the Ethereum platform.
+      Autonio has a current supply of 150,000,000 with 106,460,010 in circulation.
+      The last known price of Autonio is 0.02478541 USD and is up 4.27 over the last
+      24 hours. It is currently trading on 7 active market(s) with $39,106.39 traded
+      over the last 24 hours. More information can be found at https://www.autonio.foundation.
+    logoURI: null
+    name: Autonio
+    symbol: NIOX
+    type: null

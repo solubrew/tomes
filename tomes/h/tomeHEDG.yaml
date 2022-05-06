@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF1290473E210b2108A85237fbCd7b6eb42Cc654F'
+    chainId: null
+    decimals: null
+    description: HedgeTrade (HEDG) is a cryptocurrency and operates on the Ethereum
+      platform. HedgeTrade has a current supply of 1,000,000,000 with 339,231,468.3751734
+      in circulation. The last known price of HedgeTrade is 0.6506172 USD and is down
+      -2.78 over the last 24 hours. It is currently trading on 12 active market(s)
+      with $256,420.72 traded over the last 24 hours. More information can be found
+      at https://hedgetrade.com/.
+    logoURI: null
+    name: HedgeTrade
+    symbol: HEDG
+    type: null

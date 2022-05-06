@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb056c38f6b7dc4064367403e26424cd2c60655e1'
+    chainId: null
+    decimals: null
+    description: CEEK VR (CEEK) is a cryptocurrency and operates on the Ethereum platform.
+      CEEK VR has a current supply of 1,000,000,000 with 603,653,460.245471 in circulation.
+      The last known price of CEEK VR is 0.00229804 USD and is down -4.09 over the
+      last 24 hours. It is currently trading on 9 active market(s) with $245,351.61
+      traded over the last 24 hours. More information can be found at https://www.ceek.io/.
+    logoURI: null
+    name: CEEK VR
+    symbol: CEEK
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x03042482d64577a7bdb282260e2ea4c8a89c064b'
+    chainId: null
+    decimals: null
+    description: Centaur (CNTR) is a cryptocurrency and operates on the Ethereum platform.
+      Centaur has a current supply of 6,000,000,000 with 204,409,007 in circulation.
+      The last known price of Centaur is 0.0038263 USD and is up 11.77 over the last
+      24 hours. It is currently trading on 2 active market(s) with $880,146.11 traded
+      over the last 24 hours. More information can be found at https://cntr.finance/.
+    logoURI: null
+    name: Centaur
+    symbol: CNTR
+    type: null

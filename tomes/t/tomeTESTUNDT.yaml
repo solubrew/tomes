@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfa90479a1E17A7A2079C96D9CeB6879e465E24de'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TESTUNDT_V1
+    symbol: TESTUNDT
+    type: null

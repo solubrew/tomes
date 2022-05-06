@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x19d9b17497824081E291115044B567c4722CDaeB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Wrapped CryptoKitties
+    symbol: WCK
+    type: null

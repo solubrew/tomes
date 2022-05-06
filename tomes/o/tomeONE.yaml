@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Menlo One
+    symbol: ONE
+    type: null

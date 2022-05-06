@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x653430560be843c4a3d143d0110e896c2ab8ac0d'
+    chainId: null
+    decimals: null
+    description: Molecular Future (MOF) is a cryptocurrency and operates on the Ethereum
+      platform. Molecular Future has a current supply of 100,000,000 with 85,481,224.8
+      in circulation. The last known price of Molecular Future is 0.15620435 USD and
+      is up 1.53 over the last 24 hours. It is currently trading on 13 active market(s)
+      with $2,166,265.48 traded over the last 24 hours. More information can be found
+      at http://www.molecular.cc/.
+    logoURI: null
+    name: Molecular Future
+    symbol: MOF
+    type: null

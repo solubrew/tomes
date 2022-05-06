@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619'
+    chainId: null
+    decimals: null
+    description: Heart Number (HTN) is a cryptocurrency and operates on the Ethereum
+      platform. Heart Number has a current supply of 7,163,265,272 with 2,212,599,690.061363
+      in circulation. The last known price of Heart Number is 0.00031567 USD and is
+      down -0.11 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $124,672.42 traded over the last 24 hours. More information can be found
+      at http://www.heartnumber.com/.
+    logoURI: null
+    name: Heart Number
+    symbol: HTN
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x554ffc77f4251a9fb3c0e3590a6a205f8d4e067d'
+    chainId: null
+    decimals: null
+    description: ZMINE (ZMN) is a cryptocurrency and operates on the Ethereum platform.
+      ZMINE has a current supply of 220,381,404.9900193 with 147,336,645.76930404
+      in circulation. The last known price of ZMINE is 0 USD and is up 0.00 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://zmine.com.
+    logoURI: null
+    name: ZMINE
+    symbol: ZMN
+    type: null

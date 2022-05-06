@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1'
+    chainId: null
+    decimals: null
+    description: DMarket (DMT) is a cryptocurrency and operates on the Ethereum platform.
+      DMarket has a current supply of 56,921,773.1719715 with 56,921,773.17195558
+      in circulation. The last known price of DMarket is 0.16976204 USD and is up
+      3.37 over the last 24 hours. It is currently trading on 2 active market(s) with
+      $487,924.59 traded over the last 24 hours. More information can be found at
+      https://dmarket.com/.
+    logoURI: null
+    name: DMarket
+    symbol: DMT
+    type: null

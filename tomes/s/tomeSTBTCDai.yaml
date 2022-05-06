@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x20649d97b1393105cf92a5083fd2afF7C99eBe56'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: STBTCDaiRebalancingSetToken
+    symbol: STBTCDai
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf0990eD3804c4c0B5Fd69358626364c9995d1312'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: JJ At Work
+    symbol: DRJ
+    type: null

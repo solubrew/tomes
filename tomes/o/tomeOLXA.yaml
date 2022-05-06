@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5925f67d2767d937f47141dac24166b469558222'
+    chainId: null
+    decimals: null
+    description: OLXA (OLXA) is a cryptocurrency and operates on the Ethereum platform.
+      OLXA has a current supply of 2,600,000,000 with 1,359,419,210 in circulation.
+      The last known price of OLXA is 0.00039452 USD and is up 0.86 over the last
+      24 hours. It is currently trading on 4 active market(s) with $3,504.14 traded
+      over the last 24 hours. More information can be found at https://www.olxacoin.com.
+    logoURI: null
+    name: OLXA
+    symbol: OLXA
+    type: null

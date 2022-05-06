@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa6E0Bc809290257b2972a4F9Ad9dF004a1459Ca7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: THERA
+    symbol: TER
+    type: null

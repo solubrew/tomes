@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x921a5DcE3dfED5CCCfbB2E593F2978533bc66110'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Worldopoly
+    symbol: WPT
+    type: null

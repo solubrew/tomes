@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78'
+    chainId: null
+    decimals: null
+    description: APIX (APIX) is a cryptocurrency and operates on the Ethereum platform.
+      APIX has a current supply of 204,047,845.21 with 115,471,503.37731782 in circulation.
+      The last known price of APIX is 0.07166214 USD and is up 3.52 over the last
+      24 hours. It is currently trading on 7 active market(s) with $389,432.05 traded
+      over the last 24 hours. More information can be found at https://apisplatform.io/.
+    logoURI: null
+    name: APIX
+    symbol: APIX
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEBdc8da065F78048b0b0f3c17c8b5F4348DAF219'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CRYPTOLAND
+    symbol: CRYPTOLAND
+    type: null

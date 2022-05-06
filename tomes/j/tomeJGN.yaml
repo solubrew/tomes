@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x73374ea518de7addd4c2b624c0e8b113955ee041'
+    chainId: null
+    decimals: null
+    description: Juggernaut (JGN) is a cryptocurrency and operates on the Ethereum
+      platform. Juggernaut has a current supply of 150,000,000 with 10,325,000 in
+      circulation. The last known price of Juggernaut is 0.09133862 USD and is up
+      2.50 over the last 24 hours. It is currently trading on 3 active market(s) with
+      $29,267.19 traded over the last 24 hours. More information can be found at https://jgndefi.com/.
+    logoURI: null
+    name: Juggernaut
+    symbol: JGN
+    type: null

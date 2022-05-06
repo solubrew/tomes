@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6B01c3170ae1EFEBEe1a3159172CB3F7A5ECf9E5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BOOTY
+    symbol: BOOTY
+    type: null

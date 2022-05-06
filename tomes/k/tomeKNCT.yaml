@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb5E62A10c362a479Be1F629f01a7E8146eA7a748'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: KnoxsterChain
+    symbol: KNCT
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Edgeless
+    symbol: EDG
+    type: null

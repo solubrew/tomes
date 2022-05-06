@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x72e646b78a2b58CBD9B0282c2E9C812Bc8033293'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Lunox
+    symbol: LNX
+    type: null

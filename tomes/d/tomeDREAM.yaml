@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x82f4dED9Cec9B5750FBFf5C2185AEe35AfC16587'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DreamTeam Token
+    symbol: DREAM
+    type: null

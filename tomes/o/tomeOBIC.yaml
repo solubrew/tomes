@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa8b6d0bD067ce5B2e4E9e225b2e0fF5eb74DEd8A'
+    chainId: null
+    decimals: null
+    description: OBIC (OBIC) is a cryptocurrency and operates on the Ethereum platform.
+      OBIC has a current supply of 20,000,000 with 0 in circulation. The last known
+      price of OBIC is 0.06968781 USD and is down -7.73 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $0.63 traded over the last 24
+      hours. More information can be found at https://orionblackic.com/.
+    logoURI: null
+    name: OBIC
+    symbol: OBIC
+    type: null

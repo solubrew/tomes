@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1fff4dd33105054e853955c6d0dba82859c01cff'
+    chainId: null
+    decimals: null
+    description: Unochain (UNOC) is a cryptocurrency and operates on the Ethereum
+      platform. Unochain has a current supply of 3,999,995,000 with 0 in circulation.
+      The last known price of Unochain is 0.0000001 USD and is up 0.00 over the last
+      24 hours. It is currently trading on 0 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://unochain.io/.
+    logoURI: null
+    name: Unochain
+    symbol: UNOC
+    type: null

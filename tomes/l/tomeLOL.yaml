@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5978708d6ccE1CC9640Eed47422D64c91BbD5171'
+    chainId: null
+    decimals: null
+    description: LOLTOKEN (LOL) is a cryptocurrency and operates on the Ethereum platform.
+      LOLTOKEN has a current supply of 1,000,000,000 with 445,337,555.4317916 in circulation.
+      The last known price of LOLTOKEN is 0.00424555 USD and is down -4.29 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $783.26 traded
+      over the last 24 hours. More information can be found at https://loleiu.io/.
+    logoURI: null
+    name: LOLTOKEN
+    symbol: LOL
+    type: null

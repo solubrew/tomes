@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9f8f7ea504588a58b8b24b832b5d25a4aeb4706f'
+    chainId: null
+    decimals: null
+    description: Celeum (CLX) is a cryptocurrency and operates on the Ethereum platform.
+      Celeum has a current supply of 21,900,000 with 5,127,335 in circulation. The
+      last known price of Celeum is 0.00509526 USD and is down -1.04 over the last
+      24 hours. It is currently trading on 2 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://celeum.co/.
+    logoURI: null
+    name: Celeum
+    symbol: CLX
+    type: null

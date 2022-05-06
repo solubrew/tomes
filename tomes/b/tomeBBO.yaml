@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x84F7c44B6Fed1080f647E354D552595be2Cc602F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bigbom
+    symbol: BBO
+    type: null

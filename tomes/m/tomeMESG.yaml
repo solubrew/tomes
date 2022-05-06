@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x420167D87d35c3A249b32Ef6225872fBD9aB85D2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MESG
+    symbol: MESG
+    type: null

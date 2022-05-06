@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2344871f523cBb28A4f60045531184cF1F03Ad24'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: RoBET - Truly Decentralized Sportsbetting
+    symbol: ROBET
+    type: null

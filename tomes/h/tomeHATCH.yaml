@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6F3009663470475F0749A6b76195375f95495fcB'
+    chainId: null
+    decimals: null
+    description: Hatch DAO (HATCH) is a cryptocurrency and operates on the Ethereum
+      platform. Hatch DAO has a current supply of 520,000 with 0 in circulation. The
+      last known price of Hatch DAO is 0.00574171 USD and is up 3.18 over the last
+      24 hours. It is currently trading on 3 active market(s) with $49.88 traded over
+      the last 24 hours. More information can be found at https://hatchdao.finance/.
+    logoURI: null
+    name: Hatch DAO
+    symbol: HATCH
+    type: null

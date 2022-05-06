@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb052f8a33d8bb068414eade06af6955199f9f010'
+    chainId: null
+    decimals: null
+    description: Ecoreal Estate (ECOREAL) is a cryptocurrency and operates on the
+      Ethereum platform. Ecoreal Estate has a current supply of 1,000,000,000 with
+      208,951,604.6268015 in circulation. The last known price of Ecoreal Estate is
+      0.04318285 USD and is down -4.53 over the last 24 hours. It is currently trading
+      on 2 active market(s) with $3,342.68 traded over the last 24 hours. More information
+      can be found at https://ecoreal.estate/.
+    logoURI: null
+    name: Ecoreal Estate
+    symbol: ECOREAL
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x701C244b988a513c945973dEFA05de933b23Fe1D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: openANX Token
+    symbol: OAX
+    type: null

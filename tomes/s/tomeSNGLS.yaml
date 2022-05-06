@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SingularDTV
+    symbol: SNGLS
+    type: null

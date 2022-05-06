@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf53c580bc4065405bc649cc077ff4f2f28528f4b'
+    chainId: null
+    decimals: null
+    description: Bittwatt (BWT) is a cryptocurrency and operates on the Ethereum platform.
+      Bittwatt has a current supply of 338,600,000 with 307,006,848.2520066 in circulation.
+      The last known price of Bittwatt is 0.00076567 USD and is up 1.31 over the last
+      24 hours. It is currently trading on 1 active market(s) with $152.56 traded
+      over the last 24 hours. More information can be found at https://bittwatt.com/.
+    logoURI: null
+    name: Bittwatt
+    symbol: BWT
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6d01EED438511d9F694758d3b5cF42eE21d382CF'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Googlier Gold
+    symbol: GOOGLIER
+    type: null

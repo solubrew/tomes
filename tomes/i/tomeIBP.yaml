@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7D14b842630cbc2530cB288109E5719e0C4d67d7'
+    chainId: null
+    decimals: null
+    description: Innovation Blockchain Payment (IBP) is a cryptocurrency and operates
+      on the Ethereum platform. Innovation Blockchain Payment has a current supply
+      of 2,000,000,000 with 0 in circulation. The last known price of Innovation Blockchain
+      Payment is 0.06371182 USD and is up 0.18 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $413,838.59 traded over the last 24 hours.
+      More information can be found at https://www.ibp.world/.
+    logoURI: null
+    name: Innovation Blockchain Payment
+    symbol: IBP
+    type: null

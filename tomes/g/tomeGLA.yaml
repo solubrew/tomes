@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Gladius Token
+    symbol: GLA
+    type: null

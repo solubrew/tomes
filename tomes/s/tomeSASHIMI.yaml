@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc28e27870558cf22add83540d2126da2e4b464c2'
+    chainId: null
+    decimals: null
+    description: ''
+    logoURI: null
+    name: Sashimiswap Token
+    symbol: SASHIMI
+    type: null

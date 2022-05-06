@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcfE4F03C3AFbB9857b29fC706180Bf0044900D59'
+    chainId: null
+    decimals: null
+    description: Golden Ratio Coin (GOLDR) is a cryptocurrency and operates on the
+      Ethereum platform. Golden Ratio Coin has a current supply of 1,618,034 with
+      0 in circulation. The last known price of Golden Ratio Coin is 8.13130078 USD
+      and is up 3.09 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $26.67 traded over the last 24 hours. More information can be found at
+      https://goldenratioholdings.com/.
+    logoURI: null
+    name: Golden Ratio Coin
+    symbol: GOLDR
+    type: null

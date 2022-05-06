@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf3a2ace8e48751c965ea0a1d064303aca53842b9'
+    chainId: null
+    decimals: null
+    description: HXY Money (HXY) is a cryptocurrency and operates on the Ethereum
+      platform. HXY Money has a current supply of 60,000,000 with 0 in circulation.
+      The last known price of HXY Money is 0.07098835 USD and is up 4.93 over the
+      last 24 hours. More information can be found at https://hxy.business/index.html.
+    logoURI: null
+    name: HXY Money
+    symbol: HXY
+    type: null

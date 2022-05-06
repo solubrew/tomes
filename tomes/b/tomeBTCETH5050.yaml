@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc06aEc5191bE16b94FfC97B6Fc01393527367365'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BTC ETH Equal Weight Set
+    symbol: BTCETH5050
+    type: null

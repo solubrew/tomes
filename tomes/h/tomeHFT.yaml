@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8c382d6Ebd49a6E3cd6D95b85115e19B881C9C07'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 'Insula IM Token '
+    symbol: HFT
+    type: null

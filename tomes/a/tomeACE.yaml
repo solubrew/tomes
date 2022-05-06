@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x06147110022b768ba8f99a8f385df11a151a9cc8'
+    chainId: null
+    decimals: null
+    description: ACE (TokenStars) (ACE) is a cryptocurrency and operates on the Ethereum
+      platform. ACE (TokenStars) has a current supply of 14,476,036 with 12,095,419
+      in circulation. The last known price of ACE (TokenStars) is 0.00939759 USD and
+      is up 167.61 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $239.54 traded over the last 24 hours. More information can be found at
+      https://tokenstars.com/en/ace.
+    logoURI: null
+    name: ACE (TokenStars)
+    symbol: ACE
+    type: null

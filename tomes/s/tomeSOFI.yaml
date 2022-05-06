@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaea5e11e22e447fa9837738a0cd2848857748adf'
+    chainId: null
+    decimals: null
+    description: Social Finance (SOFI) is a cryptocurrency and operates on the Ethereum
+      platform. Social Finance has a current supply of 0. The last known price of
+      Social Finance is 1.6566183 USD and is down -0.79 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $33.10 traded over the last
+      24 hours. More information can be found at https://socialfi.org/.
+    logoURI: null
+    name: Social Finance
+    symbol: SOFI
+    type: null

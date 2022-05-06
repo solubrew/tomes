@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4770B2F7ac9490bcEC13622526FA714CCBF1A752'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Mol Coin
+    symbol: MOLC
+    type: null

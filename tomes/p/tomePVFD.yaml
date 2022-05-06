@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd0A07a76746707f6D6d36D9d5897B14a8e9ED493'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: PVFD
+    type: null

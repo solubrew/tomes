@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x58c69ed6cd6887c0225d1fccecc055127843c69b'
+    chainId: null
+    decimals: null
+    description: HalalChain (HLC) is a cryptocurrency and operates on the Ethereum
+      platform. HalalChain has a current supply of 1,000,000,000 with 389,009,994.813552
+      in circulation. The last known price of HalalChain is 0.00848611 USD and is
+      up 13.40 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $243,340.59 traded over the last 24 hours. More information can be found
+      at https://www.qitmeer.io/.
+    logoURI: null
+    name: HalalChain
+    symbol: HLC
+    type: null

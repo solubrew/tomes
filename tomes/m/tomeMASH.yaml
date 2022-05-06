@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa0d440c6da37892dc06ee7930b2eede0634fd681'
+    chainId: null
+    decimals: null
+    description: MASTERNET (MASH) is a cryptocurrency and operates on the Ethereum
+      platform. MASTERNET has a current supply of 200,000,000 with 31,686,739.99907625
+      in circulation. The last known price of MASTERNET is 0.00019108 USD and is down
+      -28.33 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $415.17 traded over the last 24 hours. More information can be found at
+      https://akasicglobal.io/.
+    logoURI: null
+    name: MASTERNET
+    symbol: MASH
+    type: null

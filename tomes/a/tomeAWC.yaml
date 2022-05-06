@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaD22f63404f7305e4713CcBd4F296f34770513f4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Atomic Wallet Token
+    symbol: AWC
+    type: null

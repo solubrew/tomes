@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEfdE86Ec7Be1A27dC1eA2A027e5E7c997af5d066'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Rubin
+    symbol: RUBI
+    type: null

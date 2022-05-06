@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd2cC32CC34b0b975bF9b812061a1a040017972fC'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CH123456789013
+    symbol: CH-ZG1235d
+    type: null

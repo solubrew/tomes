@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Small Love Potion
+    symbol: SLP
+    type: null

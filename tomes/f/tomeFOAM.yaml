@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4946Fcea7C692606e8908002e55A582af44AC121'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FOAM Token
+    symbol: FOAM
+    type: null

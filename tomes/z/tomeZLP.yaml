@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x94d8db14831c2c08943798542c450df2844913e5'
+    chainId: null
+    decimals: null
+    description: Zuplo (ZLP) is a cryptocurrency and operates on the Ethereum platform.
+      Zuplo has a current supply of 18,000,000 with 0 in circulation. The last known
+      price of Zuplo is 0.00771703 USD and is down -19.93 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $372.21 traded over the last
+      24 hours. More information can be found at https://www.zuplo.io/.
+    logoURI: null
+    name: Zuplo
+    symbol: ZLP
+    type: null

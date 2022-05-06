@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7fe92ec600f15cd25253b421bc151c51b0276b7d'
+    chainId: null
+    decimals: null
+    description: Japan Content Token (JCT) is a cryptocurrency and operates on the
+      Ethereum platform. Japan Content Token has a current supply of 2,500,000,000
+      with 293,150,782.38522 in circulation. The last known price of Japan Content
+      Token is 0.00185152 USD and is up 2.04 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $0.00 traded over the last 24 hours. More
+      information can be found at https://ja-cket.com.
+    logoURI: null
+    name: Japan Content Token
+    symbol: JCT
+    type: null

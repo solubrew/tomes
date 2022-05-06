@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x783Ba0062326861eE76E0e15429594922e9FE2F5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Andrey Voronkov Ventures Promo
+    symbol: AVVP
+    type: null

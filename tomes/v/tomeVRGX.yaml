@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4861B1a0eAD261897174fD849cA0f5154fcF2442'
+    chainId: null
+    decimals: null
+    description: VROOMGO (VRGX) is a cryptocurrency launched in 2018and operates on
+      the Ethereum platform. VROOMGO has a current supply of 0. The last known price
+      of VROOMGO is 0.00738096 USD and is up 0.00 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $0.00 traded over the last 24 hours. More
+      information can be found at http://vroomgo.com.
+    logoURI: null
+    name: VROOMGO
+    symbol: VRGX
+    type: null

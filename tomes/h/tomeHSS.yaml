@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8c0296be0c5ee8cbdbd6ca4c0f2d2e3640729300'
+    chainId: null
+    decimals: null
+    description: Hashshare (HSS) is a cryptocurrency and operates on the Ethereum
+      platform. Hashshare has a current supply of 200,000,000 with 108,975,821.90497796
+      in circulation. The last known price of Hashshare is 0.02551249 USD and is down
+      -6.00 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $1,172,202.43 traded over the last 24 hours. More information can be found
+      at https://hashshare.org.
+    logoURI: null
+    name: Hashshare
+    symbol: HSS
+    type: null

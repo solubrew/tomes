@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HuntToken
+    symbol: HUNT
+    type: null

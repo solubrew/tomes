@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x06AF07097C9Eeb7fD685c692751D5C66dB49c215'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Chai
+    symbol: CHAI
+    type: null

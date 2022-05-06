@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x38acefad338b870373fb8c810fe705569e1c7225'
+    chainId: null
+    decimals: null
+    description: Yearn4 Finance (YF4) is a cryptocurrency and operates on the Ethereum
+      platform. Yearn4 Finance has a current supply of 30,000 with 0 in circulation.
+      The last known price of Yearn4 Finance is 2.0875836 USD and is down -1.54 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $3,929.37
+      traded over the last 24 hours. More information can be found at https://yearn4.finance/.
+    logoURI: null
+    name: Yearn4 Finance
+    symbol: YF4
+    type: null

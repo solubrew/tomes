@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6ca88cc8d9288f5cad825053b6a1b179b05c76fc'
+    chainId: null
+    decimals: null
+    description: Universal Protocol Token (UPT) is a cryptocurrency and operates on
+      the Ethereum platform. Universal Protocol Token has a current supply of 10,000,000,000
+      with 0 in circulation. The last known price of Universal Protocol Token is 0.00330888
+      USD and is up 1.86 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $170.00 traded over the last 24 hours. More information can be
+      found at https://universalprotocol.io/.
+    logoURI: null
+    name: Universal Protocol Token
+    symbol: UPT
+    type: null

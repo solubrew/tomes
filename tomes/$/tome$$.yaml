@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4d84729AB970546C54549b53438c641d9BeeC1C5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SS Token
+    symbol: $$
+    type: null

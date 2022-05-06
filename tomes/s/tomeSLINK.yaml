@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x10bae51262490b4f4af41e12ed52a0e744c1137a'
+    chainId: null
+    decimals: null
+    description: Soft Link (SLINK) is a cryptocurrency and operates on the Ethereum
+      platform. Soft Link has a current supply of 0. The last known price of Soft
+      Link is 8.00720308 USD and is down -6.96 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $585.67 traded over the last 24 hours. More
+      information can be found at https://slink.finance/.
+    logoURI: null
+    name: Soft Link
+    symbol: SLINK
+    type: null

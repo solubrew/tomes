@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7420Cdf53B7864317E1f07443BA413E933f00906'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GJC
+    symbol: JCB
+    type: null

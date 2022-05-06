@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x25a21c7BE48fAD500169Ed688f070A96Ae8e08f1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PETRO Venezolano
+    symbol: PTRv
+    type: null

@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x25200235ca7113c2541e70de737c41f5e9acd1f6'
+    chainId: null
+    decimals: null
+    description: PATHHIVE  (PHV) is a cryptocurrency and operates on the Ethereum
+      platform. PATHHIVE  has a current supply of 3,500,000,000 with 0 in circulation.
+      The last known price of PATHHIVE  is 0.00118705 USD and is up 0.00 over the
+      last 24 hours. More information can be found at https://pathhive.com/.
+    logoURI: null
+    name: 'PATHHIVE '
+    symbol: PHV
+    type: null

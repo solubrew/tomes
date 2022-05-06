@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x31cbf205e26ba63296fdbd254a6b1be3ed28ce47'
+    chainId: null
+    decimals: null
+    description: 3X Short Tether Gold Token (XAUTBEAR) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Short Tether Gold Token has a current supply of
+      0. The last known price of 3X Short Tether Gold Token is 2,273.5 USD and is
+      up 0.51 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://ftx.com/tokens/XAUTBEAR.
+    logoURI: null
+    name: 3X Short Tether Gold Token
+    symbol: XAUTBEAR
+    type: null

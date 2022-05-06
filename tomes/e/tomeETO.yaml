@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4526Dc4AC8F692535eD9bf235a3A20A2b9Ff3328'
+    chainId: null
+    decimals: null
+    description: Essek Tov (ETO) is a cryptocurrency and operates on the Ethereum
+      platform. Essek Tov has a current supply of 0. The last known price of Essek
+      Tov is 0.0111027 USD and is up 1.31 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $8,233.05 traded over the last 24 hours.
+      More information can be found at https://www.essektov.com/.
+    logoURI: null
+    name: Essek Tov
+    symbol: ETO
+    type: null

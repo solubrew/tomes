@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xba5160ba66b286f1b9b6f3a57a6abcfa440e7aa2'
+    chainId: null
+    decimals: null
+    description: Hubi Token (HUB) is a cryptocurrency and operates on the Ethereum
+      platform. Hubi Token has a current supply of 5,000,000,000 with 0 in circulation.
+      The last known price of Hubi Token is 0.00886021 USD and is down -0.01 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $55,931.04
+      traded over the last 24 hours. More information can be found at https://www.hubi.com/.
+    logoURI: null
+    name: Hubi Token
+    symbol: HUB
+    type: null

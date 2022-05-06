@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8606a8F28e1e2FD50B9074d65C01548B1F040B32'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cryptrust
+    symbol: CTRT
+    type: null

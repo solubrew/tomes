@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5abaff0b83f81dc061c590aadcba013c69237fd7'
+    chainId: null
+    decimals: null
+    description: Jade Currency (JADE) is a cryptocurrency and operates on the Ethereum
+      platform. Jade Currency has a current supply of 125,000,000 with 56,199,999.99999999
+      in circulation. The last known price of Jade Currency is 0.00019143 USD and
+      is up 1.31 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $1.07 traded over the last 24 hours. More information can be found at https://www.jadecurrency.com.
+    logoURI: null
+    name: Jade Currency
+    symbol: JADE
+    type: null

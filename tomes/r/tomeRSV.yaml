@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x196f4727526eA7FB1e17b2071B3d8eAA38486988'
+    chainId: null
+    decimals: null
+    description: Reserve (RSV) is a cryptocurrency and operates on the Ethereum platform.
+      Reserve has a current supply of 1,030,517.792 with 0 in circulation. The last
+      known price of Reserve is 1.00584719 USD and is up 2.23 over the last 24 hours.
+      It is currently trading on 4 active market(s) with $2,602.03 traded over the
+      last 24 hours. More information can be found at https://reserve.org/.
+    logoURI: null
+    name: Reserve
+    symbol: RSV
+    type: null

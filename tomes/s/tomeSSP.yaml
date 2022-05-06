@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x624d520bab2e4ad83935fa503fb130614374e850'
+    chainId: null
+    decimals: null
+    description: Smartshare (SSP) is a cryptocurrency and operates on the Ethereum
+      platform. Smartshare has a current supply of 10,000,000,000 with 4,639,918,910.6189995
+      in circulation. The last known price of Smartshare is 0.00010941 USD and is
+      down -7.44 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $23,175.23 traded over the last 24 hours. More information can be found
+      at https://smartshare.vip/#/.
+    logoURI: null
+    name: Smartshare
+    symbol: SSP
+    type: null

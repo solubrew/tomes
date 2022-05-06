@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x77c07555af5ffdc946fb47ce15ea68620e4e7170'
+    chainId: null
+    decimals: null
+    description: Breezecoin (BRZE) is a cryptocurrency and operates on the Ethereum
+      platform. Breezecoin has a current supply of 200,000,000 with 100,000,000 in
+      circulation. The last known price of Breezecoin is 0.35787168 USD and is down
+      -4.08 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $23,335.34 traded over the last 24 hours. More information can be found
+      at https://www.breezecoin.io.
+    logoURI: null
+    name: Breezecoin
+    symbol: BRZE
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBC86727E770de68B1060C91f6BB6945c73e10388'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ink Protocol
+    symbol: XNK
+    type: null

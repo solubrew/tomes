@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3ccb1FE6d628444fb1C823A3eE3573Ed0a21F338'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bountie
+    symbol: BNTE
+    type: null

@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x880644ddF208E471C6f2230d31f9027578FA6FcC'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: JENKINS
+    type: null

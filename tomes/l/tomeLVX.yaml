@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a'
+    chainId: null
+    decimals: null
+    description: Level01 (LVX) is a cryptocurrency and operates on the Ethereum platform.
+      Level01 has a current supply of 1,200,000,000 with 164,460,195.03187945 in circulation.
+      The last known price of Level01 is 0.06380424 USD and is down -0.86 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $113,681.62
+      traded over the last 24 hours. More information can be found at https://level01.io/.
+    logoURI: null
+    name: Level01
+    symbol: LVX
+    type: null

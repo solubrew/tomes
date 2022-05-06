@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x919d3a363776b1ceec9352610c82dfaf80edc32d'
+    chainId: null
+    decimals: null
+    description: GoldFund (GFUN) is a cryptocurrency and operates on the Ethereum
+      platform. GoldFund has a current supply of 9,998,657,000 with 154,093,551.4954319
+      in circulation. The last known price of GoldFund is 0.00057428 USD and is up
+      27.73 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $30.71 traded over the last 24 hours. More information can be found at
+      https://www.goldfund.io.
+    logoURI: null
+    name: GoldFund
+    symbol: GFUN
+    type: null

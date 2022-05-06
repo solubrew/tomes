@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x039B5649A59967e3e936D7471f9c3700100Ee1ab'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Kucoin Shares
+    symbol: KCS
+    type: null

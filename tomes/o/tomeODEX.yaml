@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: One DEX
+    symbol: ODEX
+    type: null

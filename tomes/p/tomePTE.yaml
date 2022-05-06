@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x51bb9c623226ce781f4a54fc8f4a530a47142b6b'
+    chainId: null
+    decimals: null
+    description: Peet DeFi (PTE) is a cryptocurrency and operates on the Ethereum
+      platform. Peet DeFi has a current supply of 100,000 with 26,202 in circulation.
+      The last known price of Peet DeFi is 11.58007474 USD and is up 6.27 over the
+      last 24 hours. It is currently trading on 4 active market(s) with $6,284.29
+      traded over the last 24 hours. More information can be found at https://peetdecentralized.finance/.
+    logoURI: null
+    name: Peet DeFi
+    symbol: PTE
+    type: null

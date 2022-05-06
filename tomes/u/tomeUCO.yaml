@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8a3d77e9d6968b780564936d15B09805827C21fa'
+    chainId: null
+    decimals: null
+    description: Uniris (UCO) is a cryptocurrency and operates on the Ethereum platform.
+      Uniris has a current supply of 0. The last known price of Uniris is 0.0746513
+      USD and is up 0.62 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $6,532.80 traded over the last 24 hours. More information can
+      be found at https://uniris.io.
+    logoURI: null
+    name: Uniris
+    symbol: UCO
+    type: null

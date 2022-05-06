@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2f8472dd7ecf7ca760c8f6b45db20ca7cf52f8d7'
+    chainId: null
+    decimals: null
+    description: BitStation (BSTN) is a cryptocurrency and operates on the Ethereum
+      platform. BitStation has a current supply of 12,000,000,000 with 4,704,185,602.667455
+      in circulation. The last known price of BitStation is 0.00001032 USD and is
+      up 3.02 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://www.bitstation.co/.
+    logoURI: null
+    name: BitStation
+    symbol: BSTN
+    type: null

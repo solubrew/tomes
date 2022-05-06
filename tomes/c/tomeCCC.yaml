@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB89D6804bEf1164C0B76B975ceF2907C606b5bBE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Controlled Chaos Coin
+    symbol: CCC
+    type: null

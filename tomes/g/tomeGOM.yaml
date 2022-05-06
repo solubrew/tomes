@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb8c6ad2586bb71d518c2aaf510efe91f82022f58'
+    chainId: null
+    decimals: null
+    description: Gomics (GOM) is a cryptocurrency and operates on the Ethereum platform.
+      Gomics has a current supply of 75,000,000 with 0 in circulation. The last known
+      price of Gomics is 0.05526761 USD and is down -20.50 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $7,491.82 traded over the
+      last 24 hours. More information can be found at http://www.gomics.io/.
+    logoURI: null
+    name: Gomics
+    symbol: GOM
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0be34c15f069663FF05eF5EA1E99ab3Dd2d0Fdce'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: KOI
+    symbol: KOI
+    type: null

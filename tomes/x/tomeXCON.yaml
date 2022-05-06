@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0f237d5ea7876e0e2906034d98fdb20d43666ad4'
+    chainId: null
+    decimals: null
+    description: Connect Coin (XCON) is a cryptocurrency and operates on the Ethereum
+      platform. Connect Coin has a current supply of 70,000,000 with 38,996,795.52639499
+      in circulation. The last known price of Connect Coin is 0.00091674 USD and is
+      down -56.56 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $2,746.76 traded over the last 24 hours. More information can be found
+      at https://connectingcoin.io/.
+    logoURI: null
+    name: Connect Coin
+    symbol: XCON
+    type: null

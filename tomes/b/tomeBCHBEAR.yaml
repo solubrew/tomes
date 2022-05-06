@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa9fC65Da36064cE545e87690e06f5de10C52C690'
+    chainId: null
+    decimals: null
+    description: 3x Short Bitcoin Cash Token (BCHBEAR) is a cryptocurrency and operates
+      on the Ethereum platform. 3x Short Bitcoin Cash Token has a current supply of
+      7,962.246 with 0 in circulation. The last known price of 3x Short Bitcoin Cash
+      Token is 4.16259493 USD and is down -7.27 over the last 24 hours. It is currently
+      trading on 5 active market(s) with $107,309.75 traded over the last 24 hours.
+      More information can be found at https://ftx.com/tokens/BCHBEAR.
+    logoURI: null
+    name: 3x Short Bitcoin Cash Token
+    symbol: BCHBEAR
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8E766F57F7d16Ca50B4A0b90b88f6468A09b0439'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Maximine Coin
+    symbol: MXM
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x66a60d14C73dccD1626A909559a83525612700bc'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Beneficent Governance Token
+    symbol: BGT
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x72430a612adc007c50e3b6946dbb1bb0fd3101d1'
+    chainId: null
+    decimals: null
+    description: Thingschain (TIC) is a cryptocurrency and operates on the Ethereum
+      platform. Thingschain has a current supply of 26,000,000,000 with 11,445,000,000
+      in circulation. The last known price of Thingschain is 0.0000056 USD and is
+      down -11.42 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $13,583.55 traded over the last 24 hours. More information can be found
+      at https://thingschain.network/.
+    logoURI: null
+    name: Thingschain
+    symbol: TIC
+    type: null

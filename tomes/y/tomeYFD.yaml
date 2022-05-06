@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4f4f0ef7978737ce928bff395529161b44e27ad9'
+    chainId: null
+    decimals: null
+    description: YfDFI Finance (YFD) is a cryptocurrency and operates on the Ethereum
+      platform. YfDFI Finance has a current supply of 0. The last known price of YfDFI
+      Finance is 209.99151464 USD and is down -8.89 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $507,082.35 traded over the last
+      24 hours. More information can be found at https://yfdfi.finance.
+    logoURI: null
+    name: YfDFI Finance
+    symbol: YFD
+    type: null

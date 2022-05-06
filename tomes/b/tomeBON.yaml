@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcc34366e3842ca1bd36c1f324d15257960fcc801'
+    chainId: null
+    decimals: null
+    description: Bonpay (BON) is a cryptocurrency and operates on the Ethereum platform.
+      Bonpay has a current supply of 21,745,688.3534 with 11,290,301.06 in circulation.
+      The last known price of Bonpay is 0.01263913 USD and is up 1.42 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://bonpay.com/.
+    logoURI: null
+    name: Bonpay
+    symbol: BON
+    type: null

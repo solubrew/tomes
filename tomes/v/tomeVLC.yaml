@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8f7b0b40e27e357540f90f187d90ce06366ac5a5'
+    chainId: null
+    decimals: null
+    description: ValueChain (VLC) is a cryptocurrency and operates on the Ethereum
+      platform. ValueChain has a current supply of 300,000,000 with 0 in circulation.
+      The last known price of ValueChain is 0.00166389 USD and is down -6.05 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.21
+      traded over the last 24 hours. More information can be found at http://valuechain.biz/.
+    logoURI: null
+    name: ValueChain
+    symbol: VLC
+    type: null

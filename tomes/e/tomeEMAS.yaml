@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x29bD0827941B8e3b03758880127dD2Aa2A115f4B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Emas Logam Mulia Token
+    symbol: EMAS
+    type: null

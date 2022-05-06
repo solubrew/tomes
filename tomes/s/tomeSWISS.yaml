@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x692eb773e0b5b7a79efac5a015c8b36a2577f65c'
+    chainId: null
+    decimals: null
+    description: swiss.finance (SWISS) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. swiss.finance has a current supply of 0. The last
+      known price of swiss.finance is 293.64250038 USD and is down -1.26 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $127,275.52
+      traded over the last 24 hours. More information can be found at https://swissfarming.finance/.
+    logoURI: null
+    name: swiss.finance
+    symbol: SWISS
+    type: null

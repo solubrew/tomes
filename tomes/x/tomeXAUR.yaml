@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4DF812F6064def1e5e029f1ca858777CC98D2D81'
+    chainId: null
+    decimals: null
+    description: Xaurum (XAUR) is a cryptocurrency launched in 2016and operates on
+      the Ethereum platform. Xaurum has a current supply of 71,186,256.99216098. The
+      last known price of Xaurum is 0.03291248 USD and is up 0.10 over the last 24
+      hours. It is currently trading on 4 active market(s) with $16,039.14 traded
+      over the last 24 hours. More information can be found at http://www.xaurum.org/.
+    logoURI: null
+    name: Xaurum
+    symbol: XAUR
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe7cd2c56d3f01f9f8ae542ba5b2f00cf2cf994b1'
+    chainId: null
+    decimals: null
+    description: UCX FOUNDATION (UCX) is a cryptocurrency and operates on the Ethereum
+      platform. UCX FOUNDATION has a current supply of 0. The last known price of
+      UCX FOUNDATION is 0.17593016 USD and is down -3.15 over the last 24 hours. It
+      is currently trading on 2 active market(s) with $1,191.87 traded over the last
+      24 hours. More information can be found at https://www.ucx.foundation/.
+    logoURI: null
+    name: UCX FOUNDATION
+    symbol: UCX
+    type: null

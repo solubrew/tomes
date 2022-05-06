@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x045Eb7e34e94B28C7A3641BC5e1A1F61f225Af9F'
+    chainId: null
+    decimals: null
+    description: ZelaaPayAE (ZPAE) is a cryptocurrency and operates on the Ethereum
+      platform. ZelaaPayAE has a current supply of 350,000,000 with 263,222,354.9778464
+      in circulation. The last known price of ZelaaPayAE is 0.00073687 USD and is
+      down -9.50 over the last 24 hours. It is currently trading on 10 active market(s)
+      with $85,390.83 traded over the last 24 hours. More information can be found
+      at https://www.zelaapay.ae.
+    logoURI: null
+    name: ZelaaPayAE
+    symbol: ZPAE
+    type: null

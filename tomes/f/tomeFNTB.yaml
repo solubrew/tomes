@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbD4B60a138b3fce3584EA01f50c0908c18f9677A'
+    chainId: null
+    decimals: null
+    description: Fintab (FNTB) is a cryptocurrency and operates on the Ethereum platform.
+      Fintab has a current supply of 3,079,387 with 2,779,387 in circulation. The
+      last known price of Fintab is 0.00155942 USD and is up 3.43 over the last 24
+      hours. More information can be found at https://fintab.io/ico/.
+    logoURI: null
+    name: Fintab
+    symbol: FNTB
+    type: null

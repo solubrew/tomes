@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa2d77f8353cb2afd709aba4a967257511ecff716'
+    chainId: null
+    decimals: null
+    description: Inex Project (INEX) is a cryptocurrency launched in 2018and operates
+      on the Ethereum platform. Inex Project has a current supply of 10,890,000,000
+      with 8,506,832,163.079096 in circulation. The last known price of Inex Project
+      is 0.00000596 USD and is down -78.19 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $3,014.95 traded over the last 24 hours.
+      More information can be found at https://www.inexprojectofficial.com/.
+    logoURI: null
+    name: Inex Project
+    symbol: INEX
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3506424F91fD33084466F402d5D97f05F8e3b4AF'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: chiliZ
+    symbol: CHZ
+    type: null

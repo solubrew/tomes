@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xff4f56C14b8b59f7d766988a0e0C582E46B7F8AB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MoneyFold Pound Sterling
+    symbol: GBP
+    type: null

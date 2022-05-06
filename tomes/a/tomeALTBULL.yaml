@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd829664cdbf3195b2ce76047a65de29e7ed0a9a8'
+    chainId: null
+    decimals: null
+    description: 3X Long Altcoin Index Token (ALTBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Long Altcoin Index Token has a current supply of
+      30 with 0 in circulation. The last known price of 3X Long Altcoin Index Token
+      is 71.075 USD and is up 12.73 over the last 24 hours. It is currently trading
+      on 2 active market(s) with $29,360.91 traded over the last 24 hours. More information
+      can be found at https://ftx.com/tokens/ALTBULL.
+    logoURI: null
+    name: 3X Long Altcoin Index Token
+    symbol: ALTBULL
+    type: null

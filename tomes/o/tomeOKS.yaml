@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7b68d272eda2185ea2f9283f241b1c44c51e712a'
+    chainId: null
+    decimals: null
+    description: Okschain (OKS) is a cryptocurrency and operates on the Ethereum platform.
+      Okschain has a current supply of 14,680,424,808.7464 with 1,135,330,000 in circulation.
+      The last known price of Okschain is 0.00080836 USD and is down -8.04 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $52,733.02
+      traded over the last 24 hours. More information can be found at https://okschain.com/en.
+    logoURI: null
+    name: Okschain
+    symbol: OKS
+    type: null

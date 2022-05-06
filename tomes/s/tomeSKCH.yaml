@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x70c621f949b6556c4545707a2d5d73a776b98359'
+    chainId: null
+    decimals: null
+    description: Skychain (SKCH) is a cryptocurrency and operates on the Ethereum
+      platform. Skychain has a current supply of 12,360,000 with 7,485,311.148791
+      in circulation. The last known price of Skychain is 0.10613633 USD and is up
+      4.95 over the last 24 hours. It is currently trading on 1 active market(s) with
+      $524.21 traded over the last 24 hours. More information can be found at https://skychain.global/.
+    logoURI: null
+    name: Skychain
+    symbol: SKCH
+    type: null

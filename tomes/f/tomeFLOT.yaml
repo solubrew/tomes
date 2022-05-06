@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x049399a6b048d52971f7d122ae21a1532722285f'
+    chainId: null
+    decimals: null
+    description: Fire Lotto (FLOT) is a cryptocurrency and operates on the Ethereum
+      platform. Fire Lotto has a current supply of 100,000,000 with 27,481,716.73450126
+      in circulation. The last known price of Fire Lotto is 0.02947632 USD and is
+      up 13.46 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $59.67 traded over the last 24 hours. More information can be found at
+      https://firelotto.io/.
+    logoURI: null
+    name: Fire Lotto
+    symbol: FLOT
+    type: null

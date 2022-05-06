@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfca47962d45adfdfd1ab2d972315db4ce7ccf094'
+    chainId: null
+    decimals: null
+    description: IXT (IXT) is a cryptocurrency and operates on the Ethereum platform.
+      IXT has a current supply of 65,778,843.83119764 with 35,778,843.83119764 in
+      circulation. The last known price of IXT is 0.00758822 USD and is down -5.08
+      over the last 24 hours. It is currently trading on 2 active market(s) with $39.32
+      traded over the last 24 hours. More information can be found at https://www.ixt.global/.
+    logoURI: null
+    name: IXT
+    symbol: IXT
+    type: null

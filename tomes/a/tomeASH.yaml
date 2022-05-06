@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x71590D4eD14D9cBAcb2CFF8ABF919ac4d22C5b7b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ash
+    symbol: ASH
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd2bA769293295FFb96cEBAE56396fC77EcA2678D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LyCI service token
+    symbol: LYCI
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53'
+    chainId: null
+    decimals: null
+    description: Crypto Price Index (CPI) is a cryptocurrency and operates on the
+      Ethereum platform. Crypto Price Index has a current supply of 300,000,000 with
+      0 in circulation. The last known price of Crypto Price Index is 0.50205509 USD
+      and is up 2.99 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $340,946.16 traded over the last 24 hours. More information can be found
+      at https://www.cpiindex.io/.
+    logoURI: null
+    name: Crypto Price Index
+    symbol: CPI
+    type: null

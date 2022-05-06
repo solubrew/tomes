@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3108ccFd96816F9E663baA0E8c5951D229E8C6da'
+    chainId: null
+    decimals: null
+    description: Dark.Build (DARK) is a cryptocurrency and operates on the Ethereum
+      platform. Dark.Build has a current supply of 100,000 with 0 in circulation.
+      The last known price of Dark.Build is 10.50194294 USD and is up 9.91 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $29,308.98
+      traded over the last 24 hours. More information can be found at https://www.dark.build/.
+    logoURI: null
+    name: Dark.Build
+    symbol: DARK
+    type: null

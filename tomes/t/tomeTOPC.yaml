@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1b6c5864375b34af3ff5bd2e5f40bc425b4a8d79'
+    chainId: null
+    decimals: null
+    description: TopChain (TOPC) is a cryptocurrency and operates on the Ethereum
+      platform. TopChain has a current supply of 2,100,000,000 with 0 in circulation.
+      The last known price of TopChain is 0.00307113 USD and is down -2.82 over the
+      last 24 hours. It is currently trading on 8 active market(s) with $394,721.36
+      traded over the last 24 hours. More information can be found at http://www.topc.io/.
+    logoURI: null
+    name: TopChain
+    symbol: TOPC
+    type: null

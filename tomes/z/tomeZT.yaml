@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfe39e6a32acd2af7955cb3d406ba2b55c901f247'
+    chainId: null
+    decimals: null
+    description: ZBG Token (ZT) is a cryptocurrency and operates on the Ethereum platform.
+      ZBG Token has a current supply of 500,000,000 with 264,015,941.57215723 in circulation.
+      The last known price of ZBG Token is 0.05012001 USD and is up 1.18 over the
+      last 24 hours. It is currently trading on 4 active market(s) with $1,982,845.99
+      traded over the last 24 hours. More information can be found at https://www.zbg.com/.
+    logoURI: null
+    name: ZBG Token
+    symbol: ZT
+    type: null

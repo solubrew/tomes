@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x09D8b66C48424324b25754A873e290caE5dca439'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Nova Token
+    symbol: NVT
+    type: null

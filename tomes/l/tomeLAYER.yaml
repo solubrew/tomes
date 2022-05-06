@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0fF6ffcFDa92c53F615a4A75D982f399C989366b'
+    chainId: null
+    decimals: null
+    description: UniLayer (LAYER) is a cryptocurrency and operates on the Ethereum
+      platform. UniLayer has a current supply of 40,000,000 with 17,782,943 in circulation.
+      The last known price of UniLayer is 0.13922116 USD and is down -3.62 over the
+      last 24 hours. It is currently trading on 9 active market(s) with $345,308.66
+      traded over the last 24 hours. More information can be found at https://unilayer.app/.
+    logoURI: null
+    name: UniLayer
+    symbol: LAYER
+    type: null

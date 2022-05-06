@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x70d2b7c19352bb76e4409858ff5746e500f2b67c'
+    chainId: null
+    decimals: null
+    description: Pawtocol (UPI) is a cryptocurrency and operates on the Ethereum platform.
+      Pawtocol has a current supply of 1,000,000,000 with 151,432,287 in circulation.
+      The last known price of Pawtocol is 0.00532124 USD and is up 34.80 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $286,344.92
+      traded over the last 24 hours. More information can be found at https://pawtocol.com/.
+    logoURI: null
+    name: Pawtocol
+    symbol: UPI
+    type: null

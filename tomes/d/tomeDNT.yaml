@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0AbdAce70D3790235af448C88547603b945604ea'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: district0x Network Token
+    symbol: DNT
+    type: null

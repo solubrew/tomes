@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf5dce57282a584d2746faf1593d3121fcac444dc'
+    chainId: null
+    decimals: null
+    description: Compound SAI (CSAI) is a cryptocurrency and operates on the Ethereum
+      platform. Compound SAI has a current supply of 17,342,084.47340689 with 0 in
+      circulation. The last known price of Compound SAI is 0.02757685 USD and is up
+      0.00 over the last 24 hours. It is currently trading on 1 active market(s) with
+      $0.00 traded over the last 24 hours. More information can be found at https://compound.finance/.
+    logoURI: null
+    name: Compound SAI
+    symbol: CSAI
+    type: null

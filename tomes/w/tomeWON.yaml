@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1eddee3fa21591a9637f88dab9615c33ee636b9d'
+    chainId: null
+    decimals: null
+    description: WeBlock (WON) is a cryptocurrency and operates on the Ethereum platform.
+      WeBlock has a current supply of 1,000,000,000 with 4,505,536 in circulation.
+      The last known price of WeBlock is 0.01910123 USD and is up 15.83 over the last
+      24 hours. It is currently trading on 1 active market(s) with $143,998.57 traded
+      over the last 24 hours. More information can be found at https://www.weblock.vip/.
+    logoURI: null
+    name: WeBlock
+    symbol: WON
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd5a7d515fb8b3337acb9b053743e0bc18f50c855'
+    chainId: null
+    decimals: null
+    description: Buccaneer V2 (BUCC) is a cryptocurrency and operates on the Ethereum
+      platform. Buccaneer V2 has a current supply of 0. The last known price of Buccaneer
+      V2 is 2.6308707 USD and is up 7.42 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $783.48 traded over the last 24 hours. More information
+      can be found at https://buccaneerv2.web.app/.
+    logoURI: null
+    name: Buccaneer V2
+    symbol: BUCC
+    type: null

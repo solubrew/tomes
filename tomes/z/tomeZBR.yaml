@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xDCedd2F5472128c121b219ae89ed4111E16f5922'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ZEBRA
+    symbol: ZBR
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749'
+    chainId: null
+    decimals: null
+    description: Finswap (FNSP) is a cryptocurrency and operates on the Ethereum platform.
+      Finswap has a current supply of 9,290,918 with 0 in circulation. The last known
+      price of Finswap is 0.13534832 USD and is up 2.97 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $0.00 traded over the last 24
+      hours. More information can be found at https://finswap.app.
+    logoURI: null
+    name: Finswap
+    symbol: FNSP
+    type: null

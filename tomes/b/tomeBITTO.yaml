@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x55a290f08bb4cae8dcf1ea5635a3fcfd4da60456'
+    chainId: null
+    decimals: null
+    description: BITTO (BITTO) is a cryptocurrency and operates on the Ethereum platform.
+      BITTO has a current supply of 17,709,627 with 2,944,004.74 in circulation. The
+      last known price of BITTO is 0.23901041 USD and is up 0.42 over the last 24
+      hours. It is currently trading on 3 active market(s) with $195,487.57 traded
+      over the last 24 hours. More information can be found at http://www.bittoexchange.com/.
+    logoURI: null
+    name: BITTO
+    symbol: BITTO
+    type: null

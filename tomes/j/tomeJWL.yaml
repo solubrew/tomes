@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8275ebf521dc217aa79c88132017a5bcef001dd9'
+    chainId: null
+    decimals: null
+    description: Jewel (JWL) is a cryptocurrency and operates on the Ethereum platform.
+      Jewel has a current supply of 300,000,000 with 54,710,244.99999997 in circulation.
+      The last known price of Jewel is 0.23870219 USD and is down -16.62 over the
+      last 24 hours. It is currently trading on 4 active market(s) with $746.03 traded
+      over the last 24 hours. More information can be found at https://jewelpay.org/.
+    logoURI: null
+    name: Jewel
+    symbol: JWL
+    type: null

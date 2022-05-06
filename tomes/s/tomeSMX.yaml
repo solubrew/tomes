@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8A3CF860ecA6d8e4579BfB052488e336E0Fd9eAE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SaldoMX
+    symbol: SMX
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x67ab11058eF23D0a19178f61A050D3c38F81Ae21'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SELF TOKEN
+    symbol: SELF
+    type: null

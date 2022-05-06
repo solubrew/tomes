@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xef8cf79c21637fc6f951bcac348915508a639a41'
+    chainId: null
+    decimals: null
+    description: SRCOIN (SRCOIN) is a cryptocurrency and operates on the Ethereum
+      platform. SRCOIN has a current supply of 15,000,000,000 with 5,052,048,083.945898
+      in circulation. The last known price of SRCOIN is 0.00001927 USD and is up 25.96
+      over the last 24 hours. It is currently trading on 2 active market(s) with $3.61
+      traded over the last 24 hours. More information can be found at https://www.srcoin.info/.
+    logoURI: null
+    name: SRCOIN
+    symbol: SRCOIN
+    type: null

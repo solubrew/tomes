@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEF9c8a1b3cE9055266E1CE20b98a4c882F0e5c78'
+    chainId: null
+    decimals: null
+    description: Amun Ether 3x Daily Short (ETH3S) is a cryptocurrency and operates
+      on the Ethereum platform. Amun Ether 3x Daily Short has a current supply of
+      2.31209 with 0 in circulation. The last known price of Amun Ether 3x Daily Short
+      is 0.96158935 USD and is up 18.52 over the last 24 hours. It is currently trading
+      on 4 active market(s) with $6,944,755.01 traded over the last 24 hours. More
+      information can be found at https://amun.com/.
+    logoURI: null
+    name: Amun Ether 3x Daily Short
+    symbol: ETH3S
+    type: null

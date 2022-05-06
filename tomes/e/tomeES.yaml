@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xef1344bdf80bef3ff4428d8becec3eea4a2cf574'
+    chainId: null
+    decimals: null
+    description: Era Swap (ES) is a cryptocurrency and operates on the Ethereum platform.
+      Era Swap has a current supply of 1,347,961,718.1928654 with 19,622,270.52746868
+      in circulation. The last known price of Era Swap is 0.04555447 USD and is up
+      3.93 over the last 24 hours. It is currently trading on 2 active market(s) with
+      $312,683.56 traded over the last 24 hours. More information can be found at
+      https://eraswap.life/.
+    logoURI: null
+    name: Era Swap
+    symbol: ES
+    type: null

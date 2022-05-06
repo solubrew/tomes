@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x439cE375e3eE4Dc203D71958BECA3c0f417d65cb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BOI Token
+    symbol: BOI
+    type: null

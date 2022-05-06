@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE0Be388Ab81c47B0f098D2030a1c9Ef190691a8A'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: UNE
+    type: null

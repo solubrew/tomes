@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd0658324074d6249a51876438916f7c423075451'
+    chainId: null
+    decimals: null
+    description: Yearn Land (YLAND) is a cryptocurrency and operates on the Ethereum
+      platform. Yearn Land has a current supply of 9,758 with 0 in circulation. The
+      last known price of Yearn Land is 38.52393284 USD and is down -13.51 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $77,498.75
+      traded over the last 24 hours. More information can be found at https://yland.finance.
+    logoURI: null
+    name: Yearn Land
+    symbol: YLAND
+    type: null

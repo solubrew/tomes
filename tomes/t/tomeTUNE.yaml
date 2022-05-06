@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6b4e0684806fe53902469b6286024db9c6271f53'
+    chainId: null
+    decimals: null
+    description: TUNE TOKEN (TUNE) is a cryptocurrency and operates on the Ethereum
+      platform. TUNE TOKEN has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of TUNE TOKEN is 0.00215127 USD and is up 2.81 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $10,183.44
+      traded over the last 24 hours. More information can be found at https://www.tunetoken.io/.
+    logoURI: null
+    name: TUNE TOKEN
+    symbol: TUNE
+    type: null

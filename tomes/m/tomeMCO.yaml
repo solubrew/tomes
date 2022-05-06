@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Monaco
+    symbol: MCO
+    type: null

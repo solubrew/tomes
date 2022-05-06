@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBB63e3aFf15B9061cb036dA43ED592c5148B5108'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Rajni
+    symbol: RJNI
+    type: null

@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x306b1ea3ecdf94aB739F1910bbda052Ed4A9f949'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: SMTH
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xce5114d7fa8361f0c088ee26fa3a5446c4a1f50b'
+    chainId: null
+    decimals: null
+    description: Blue Whale EXchange (BWX) is a cryptocurrency and operates on the
+      Ethereum platform. Blue Whale EXchange has a current supply of 64,320,000 with
+      43,744,192.94838435 in circulation. The last known price of Blue Whale EXchange
+      is 0.03450865 USD and is down -2.60 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $506,841.34 traded over the last 24 hours.
+      More information can be found at https://www.bluewhale.foundation/.
+    logoURI: null
+    name: Blue Whale EXchange
+    symbol: BWX
+    type: null

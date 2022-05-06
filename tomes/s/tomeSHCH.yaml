@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1C4c60EdBa4C8c09Ce8D3Dc7C09A670a55c57767'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ShcherbaCoin
+    symbol: SHCH
+    type: null

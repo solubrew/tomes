@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa105C740BC012A43a342Ab4A0Ef40143452C8E89'
+    chainId: null
+    decimals: null
+    description: Litbinex Coin (LTB) is a cryptocurrency and operates on the Ethereum
+      platform. Litbinex Coin has a current supply of 8,225,636,997 with 0 in circulation.
+      The last known price of Litbinex Coin is 0.00038358 USD and is up 1.63 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at http://litbinex.com/.
+    logoURI: null
+    name: Litbinex Coin
+    symbol: LTB
+    type: null

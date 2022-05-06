@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x975769557510167d25BEed6E32806537173E292C'
+    chainId: null
+    decimals: null
+    description: Derivex (DVX) is a cryptocurrency and operates on the Ethereum platform.
+      Derivex has a current supply of 0. The last known price of Derivex is 0.0014522
+      USD and is down -58.56 over the last 24 hours. It is currently trading on 1
+      active market(s) with $10,760.14 traded over the last 24 hours. More information
+      can be found at http://derivexglobal.com/.
+    logoURI: null
+    name: Derivex
+    symbol: DVX
+    type: null

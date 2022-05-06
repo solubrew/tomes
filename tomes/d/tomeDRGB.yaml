@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9d3e0892D11f19f5181d4a4C5d04187a9e0d7032'
+    chainId: null
+    decimals: null
+    description: Dragonbit (DRGB) is a cryptocurrency and operates on the Ethereum
+      platform. Dragonbit has a current supply of 0. The last known price of Dragonbit
+      is 0.00038666 USD and is up 1.31 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $0.00 traded over the last 24 hours. More information
+      can be found at https://www.uomoricco.io/.
+    logoURI: null
+    name: Dragonbit
+    symbol: DRGB
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x79cdfa04e3c4eb58c4f49dae78b322e5b0d38788'
+    chainId: null
+    decimals: null
+    description: TrueFeedBack (TFB) is a cryptocurrency and operates on the Ethereum
+      platform. TrueFeedBack has a current supply of 9,730,656,095.63844 with 2,357,675,088.54653
+      in circulation. The last known price of TrueFeedBack is 0.00103383 USD and is
+      up 0.26 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $232,607.07 traded over the last 24 hours. More information can be found
+      at https://www.truefeedbackchain.com/.
+    logoURI: null
+    name: TrueFeedBack
+    symbol: TFB
+    type: null

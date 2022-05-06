@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9e88613418cF03dCa54D6a2cf6Ad934A78C7A17A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Swarm Fund Token
+    symbol: SWM
+    type: null

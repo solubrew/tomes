@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x61CEAc48136d6782DBD83c09f51E23514D12470a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Subscriptions
+    symbol: Subs
+    type: null

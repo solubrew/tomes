@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5935ffc231e93ac04daa089c0f1b94d0fb2449de'
+    chainId: null
+    decimals: null
+    description: Kanva (KNV) is a cryptocurrency and operates on the Ethereum platform.
+      Kanva has a current supply of 0. The last known price of Kanva is 1.59306767
+      USD and is down -6.98 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $206.16 traded over the last 24 hours. More information can be
+      found at https://www.kanva.org/.
+    logoURI: null
+    name: Kanva
+    symbol: KNV
+    type: null

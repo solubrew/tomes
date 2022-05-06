@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x100005BC082d49eeffFdC720864984Bd7f3F7E5E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SudEX
+    symbol: SUX
+    type: null

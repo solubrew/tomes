@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xDB7Eab9bA6be88B869F738f6DEeBa96d49Fe13fd'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BOOM
+    symbol: BOOM
+    type: null

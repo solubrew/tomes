@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532'
+    chainId: null
+    decimals: null
+    description: Freedom Reserve (FR) is a cryptocurrency and operates on the Ethereum
+      platform. Freedom Reserve has a current supply of 0. The last known price of
+      Freedom Reserve is 0.00044187 USD and is down -3.98 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $2,255.29 traded over the
+      last 24 hours. More information can be found at https://freedomreserv.eth.link.
+    logoURI: null
+    name: Freedom Reserve
+    symbol: FR
+    type: null

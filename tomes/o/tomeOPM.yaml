@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d'
+    chainId: null
+    decimals: null
+    description: Omega Protocol Money (OPM) is a cryptocurrency and operates on the
+      Ethereum platform. Omega Protocol Money has a current supply of 9,999,999,999
+      with 0 in circulation. The last known price of Omega Protocol Money is 0.00010461
+      USD and is down -60.49 over the last 24 hours. It is currently trading on 4
+      active market(s) with $2.45 traded over the last 24 hours. More information
+      can be found at https://omgswap.in/.
+    logoURI: null
+    name: Omega Protocol Money
+    symbol: OPM
+    type: null

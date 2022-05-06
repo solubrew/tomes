@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7a9716685f852ee268feb86dffa562d214cc13db'
+    chainId: null
+    decimals: null
+    description: FANBI TOKEN (FBT) is a cryptocurrency and operates on the Ethereum
+      platform. FANBI TOKEN has a current supply of 0. The last known price of FANBI
+      TOKEN is 0.00017516 USD and is up 2.79 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $216,254.84 traded over the last 24 hours.
+      More information can be found at https://www.fanbi.com/.
+    logoURI: null
+    name: FANBI TOKEN
+    symbol: FBT
+    type: null

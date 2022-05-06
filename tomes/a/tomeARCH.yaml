@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1f3f9d3068568f8040775be2e8c03c103c61f3af'
+    chainId: null
+    decimals: null
+    description: Archer DAO Governance Token (ARCH) is a cryptocurrency and operates
+      on the Ethereum platform. Archer DAO Governance Token has a current supply of
+      100,000,000 with 0 in circulation. The last known price of Archer DAO Governance
+      Token is 0.4524193 USD and is up 2.79 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $322,011.04 traded over the last 24 hours.
+      More information can be found at https://archerdao.io/.
+    logoURI: null
+    name: Archer DAO Governance Token
+    symbol: ARCH
+    type: null

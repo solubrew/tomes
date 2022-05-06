@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x72a6344185B383035d6665C3f44a9DfCC73873c8'
+    chainId: null
+    decimals: null
+    description: ROONEX (RNX) is a cryptocurrency and operates on the Ethereum platform.
+      ROONEX has a current supply of 0. The last known price of ROONEX is 0.0002874
+      USD and is up 3.76 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $109,379.98 traded over the last 24 hours. More information can
+      be found at http://roonex.io/.
+    logoURI: null
+    name: ROONEX
+    symbol: RNX
+    type: null

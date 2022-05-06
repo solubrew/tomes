@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Monolith TKN
+    symbol: TKN
+    type: null

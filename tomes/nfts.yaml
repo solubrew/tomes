@@ -1,0 +1,210 @@
+---
+<(META)>:
+  docid: ''
+  name: 'TOMEs YAML Configuration Document'
+  description: >
+    family represents a token connection to another token with the family being
+    identified by the flagship token for the given protocol
+  expirary: '<[expiration]>'
+  version: '<[version]>'
+  authority: 'document|this'
+  security: 'sec|lvl2'
+  <(WT)>: -32
+0xOGPASS:
+  allow: True
+10KTF:
+  allow: True
+3L:
+  allow: True
+ADI:
+  allow: True
+AKUTARMP:
+  allow: True
+ALIENFRENS:
+  allow: True
+ALPHASHARKS:
+  allow: True
+ANATA:
+  allow: True
+ARCLAND:
+  allow: True
+ASMBrain:
+  allow: True
+ASSOC:
+  allow: True
+AZUKI:
+  allow: True
+BACC:
+  allow: True
+BAKC:
+  allow: True
+  family: BAYC
+BAYC:
+  allow: True
+BEARS:
+  allow: True
+BFF:
+  allow: True
+BIT:
+  allow: True
+BLIT:
+  allow: True
+BLOCKS:
+  allow: True
+BYOPILL:
+  allow: True
+CCH:
+  allow: True
+CDB:
+  allow: True
+CK:
+  allow: True
+CLONE:
+  allow: True
+CloneX:
+  allow: True
+COOL:
+  allow: True
+CPASS:
+  allow: True
+CYBERBROKERS:
+  allow: True
+DEADFELLAZ:
+  allow: True
+dino:
+  allow: True
+DGGLASS:
+  allow: True
+DOODLE:
+  allow: True
+DOPE:
+  allow: True
+dotdotdot:
+  allow: True
+EMT:
+  allow: True
+ETHERTHINGS:
+  allow: True
+EveraiDuo:
+  allow: True
+FIC:
+  allow: True
+FLUF:
+  allow: True
+GA:
+  allow: True
+GALS:
+  allow: True
+GDOG:
+  allow: True
+HERO:
+  allow: True
+HOWL:
+  allow: True
+JENKINS:
+  allow: True
+JUICE:
+  allow: True
+KARAFURU:
+  allow: True
+KITTEN:
+  allow: True
+KONGZ:
+  allow: True
+LOOMI:
+  allow: True
+MAYC:
+  allow: True
+  family: BAYC
+Meebits:
+  allow: True
+MEMS:
+  allow: True
+MFER:
+  allow: True
+MICE:
+  allow: True
+MNLTHBIS:
+  allow: True
+MNLTHSKIN:
+  allow: True
+MNLTHRVLD:
+  allow: True
+MOONBIRD:
+  allow: True
+MTS:
+  allow: True
+MURI:
+  allow: True
+NFT Worlds:
+  allow: True
+NINJA:
+  allow: True
+NP:
+  allow: True
+OCMONK:
+  allow: True
+PA:
+  allow: True
+PASS:
+  allow: True
+PASS2:
+  allow: True
+PETS:
+  allow: True
+PPG:
+  allow: True
+PREMINT:
+  allow: True
+PVFD:
+  allow: True
+QKR:
+  allow: True
+QRKS:
+  allow: True
+RATS:
+  allow: True
+RSB:
+  allow: True
+RTFKT-MNLTH:
+  allow: True
+SD:
+  allow: True
+SEED:
+  allow: True
+SLOTIE:
+  allow: True
+SMOL:
+  allow: True
+SMTH:
+  allow: True
+TAOS:
+  allow: True
+TENDER:
+  allow: True
+TERRAFORMS:
+  allow: True
+TOADZ:
+  allow: True
+TOONZ:
+  allow: True
+TRV:
+  allow: True
+TURF:
+  allow: True
+UPG:
+  allow: True
+UNE:
+  allow: True
+VF2:
+  allow: True
+WIZARDS:
+  allow: True
+WOWG:
+  allow: True
+YOU:
+  allow: True
+ZEN:
+  allow: True
+zNS:
+  allow: True

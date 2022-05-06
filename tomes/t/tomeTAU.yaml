@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc27A2F05fa577a83BA0fDb4c38443c0718356501'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Lamden Tau
+    symbol: TAU
+    type: null

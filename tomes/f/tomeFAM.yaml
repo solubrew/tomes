@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x190e569bE071F40c704e15825F285481CB74B6cC'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Fame
+    symbol: FAM
+    type: null

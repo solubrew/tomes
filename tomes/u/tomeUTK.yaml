@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c'
+    chainId: null
+    decimals: null
+    description: Utrust (UTK) is a cryptocurrency and operates on the Ethereum platform.
+      Utrust has a current supply of 500,000,000 with 450,000,000 in circulation.
+      The last known price of Utrust is 0.11204111 USD and is down -2.67 over the
+      last 24 hours. It is currently trading on 31 active market(s) with $3,454,985.13
+      traded over the last 24 hours. More information can be found at https://utrust.com/.
+    logoURI: null
+    name: Utrust
+    symbol: UTK
+    type: null

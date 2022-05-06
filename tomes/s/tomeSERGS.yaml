@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x79BA92DDA26FcE15e1e9af47D5cFdFD2A093E000'
+    chainId: null
+    decimals: null
+    description: SERGS (SERGS) is a cryptocurrency and operates on the Ethereum platform.
+      SERGS has a current supply of 1,100,000 with 0 in circulation. The last known
+      price of SERGS is 0.4075647 USD and is down -14.81 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $14,260.51 traded over the last
+      24 hours. More information can be found at https://www.sergsave.link/.
+    logoURI: null
+    name: SERGS
+    symbol: SERGS
+    type: null

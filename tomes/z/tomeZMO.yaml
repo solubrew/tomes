@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa538CC79644C7522cA3C1f150B4979E06Cc71804'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ZmeenaOrrCoin
+    symbol: ZMO
+    type: null

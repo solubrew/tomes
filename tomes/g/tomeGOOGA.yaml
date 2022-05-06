@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBFdadDB93178A4Efc99E136891FF44FB98C1F62E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Googlier Aluminium
+    symbol: GOOGA
+    type: null

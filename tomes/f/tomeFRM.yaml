@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe5caef4af8780e59df925470b050fb23c43ca68c'
+    chainId: null
+    decimals: null
+    description: Ferrum Network (FRM) is a cryptocurrency and operates on the Ethereum
+      platform. Ferrum Network has a current supply of 329,218,749 with 142,346,334.8130624
+      in circulation. The last known price of Ferrum Network is 0.04926285 USD and
+      is up 10.61 over the last 24 hours. It is currently trading on 10 active market(s)
+      with $579,451.90 traded over the last 24 hours. More information can be found
+      at https://ferrum.network/.
+    logoURI: null
+    name: Ferrum Network
+    symbol: FRM
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x39550DC5919A990a5786fcDc1d5b7C392d362ddE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DeToxTheWorld
+    symbol: DTOX
+    type: null

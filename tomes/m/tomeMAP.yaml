@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9e976f211daea0d652912ab99b0dc21a7fd728e4'
+    chainId: null
+    decimals: null
+    description: MAP Protocol (MAP) is a cryptocurrency and operates on the Ethereum
+      platform. MAP Protocol has a current supply of 10,000,000,000 with 318,474,888.999999
+      in circulation. The last known price of MAP Protocol is 0.01972994 USD and is
+      up 2.52 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $7,292.19 traded over the last 24 hours. More information can be found
+      at https://www.maplabs.io/.
+    logoURI: null
+    name: MAP Protocol
+    symbol: MAP
+    type: null

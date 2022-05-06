@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeb7c20027172e5d143fb030d50f91cece2d1485d'
+    chainId: null
+    decimals: null
+    description: eBitcoin (EBTC) is a cryptocurrency and operates on the Ethereum
+      platform. eBitcoin has a current supply of 21,000,000 with 18,897,126 in circulation.
+      The last known price of eBitcoin is 0.20580201 USD and is up 3.02 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://ebitcoin.org/.
+    logoURI: null
+    name: eBitcoin
+    symbol: EBTC
+    type: null

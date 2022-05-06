@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1014613e2b3cbc4d575054d4982e580d9b99d7b1'
+    chainId: null
+    decimals: null
+    description: BitCapitalVendor (BCV) is a cryptocurrency and operates on the Ethereum
+      platform. BitCapitalVendor has a current supply of 1,200,000,000 with 1,021,199,994.51
+      in circulation. The last known price of BitCapitalVendor is 0.00187022 USD and
+      is up 2.04 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $4,621.74 traded over the last 24 hours. More information can be found
+      at https://www.bitcv.com.
+    logoURI: null
+    name: BitCapitalVendor
+    symbol: BCV
+    type: null

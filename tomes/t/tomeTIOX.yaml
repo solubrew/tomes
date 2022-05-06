@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd947b0ceab2a8885866b9a04a06ae99de852a3d4'
+    chainId: null
+    decimals: null
+    description: Trade Token X (TIOX) is a cryptocurrency and operates on the Ethereum
+      platform. Trade Token X has a current supply of 223,534,822.66102275 with 85,223,647.08511147
+      in circulation. The last known price of Trade Token X is 0.0444 USD and is down
+      -0.72 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://trade.io/.
+    logoURI: null
+    name: Trade Token X
+    symbol: TIOX
+    type: null

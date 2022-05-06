@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3d371413dd5489f3a04c07c0c2ce369c20986ceb'
+    chainId: null
+    decimals: null
+    description: yOUcash (YOUC) is a cryptocurrency and operates on the Ethereum platform.
+      yOUcash has a current supply of 11,000,000,000 with 1,534,704,952 in circulation.
+      The last known price of yOUcash is 0.006923 USD and is up 0.54 over the last
+      24 hours. It is currently trading on 9 active market(s) with $2,358.91 traded
+      over the last 24 hours. More information can be found at https://youengine.io.
+    logoURI: null
+    name: yOUcash
+    symbol: YOUC
+    type: null

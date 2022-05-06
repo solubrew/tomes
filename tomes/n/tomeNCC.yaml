@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5d48f293baed247a2d0189058ba37aa238bd4725'
+    chainId: null
+    decimals: null
+    description: NeuroChain (NCC) is a cryptocurrency and operates on the Ethereum
+      platform. NeuroChain has a current supply of 657,440,000 with 441,032,504.1161402
+      in circulation. The last known price of NeuroChain is 0.00087338 USD and is
+      up 0.19 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $36,728.52 traded over the last 24 hours. More information can be found
+      at https://www.neurochaintech.io/.
+    logoURI: null
+    name: NeuroChain
+    symbol: NCC
+    type: null

@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x49cF6f5d44E70224e2E23fDcdd2C053F30aDA28B'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: CloneX
+    type: null

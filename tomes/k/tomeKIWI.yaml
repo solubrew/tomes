@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: KIWI Token
+    symbol: KIWI
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x33c2DA7Fd5B125E629B3950f3c38d7f721D7B30D'
+    chainId: null
+    decimals: null
+    description: Seal Finance (SEAL) is a cryptocurrency and operates on the Ethereum
+      platform. Seal Finance has a current supply of 3,486. The last known price of
+      Seal Finance is 33.33246008 USD and is up 5.25 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $629.37 traded over the last 24
+      hours. More information can be found at https://seal.finance/.
+    logoURI: null
+    name: Seal Finance
+    symbol: SEAL
+    type: null

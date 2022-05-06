@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F'
+    chainId: null
+    decimals: null
+    description: Meter Governance mapped by Meter.io (eMTRG) is a cryptocurrency and
+      operates on the Ethereum platform. Meter Governance mapped by Meter.io has a
+      current supply of 3,000,000 with 0 in circulation. The last known price of Meter
+      Governance mapped by Meter.io is 0.38825063 USD and is up 4.08 over the last
+      24 hours. It is currently trading on 2 active market(s) with $1,482.15 traded
+      over the last 24 hours. More information can be found at https://www.meter.io/.
+    logoURI: null
+    name: Meter Governance mapped by Meter.io
+    symbol: eMTRG
+    type: null

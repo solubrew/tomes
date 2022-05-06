@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe1aFe1Fd76Fd88f78cBf599ea1846231B8bA3B6B'
+    chainId: null
+    decimals: null
+    description: sDEFI (SDEFI) is a cryptocurrency and operates on the Ethereum platform.
+      sDEFI has a current supply of 862.0891 with 0 in circulation. The last known
+      price of sDEFI is 3,728.41975976 USD and is up 3.72 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://www.synthetix.io/tokens/.
+    logoURI: null
+    name: sDEFI
+    symbol: SDEFI
+    type: null

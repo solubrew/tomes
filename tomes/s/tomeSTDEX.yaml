@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdF44A80c17813789f60090638827aEb23698B122'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: stableDEX
+    symbol: STDEX
+    type: null

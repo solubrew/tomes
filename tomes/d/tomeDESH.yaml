@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x95ba34760ac3d7fbe98ee8b2ab33b4f1a6d18878'
+    chainId: null
+    decimals: null
+    description: DeCash (DESH) is a cryptocurrency and operates on the Ethereum platform.
+      DeCash has a current supply of 0. The last known price of DeCash is 0.13462535
+      USD and is down -6.45 over the last 24 hours. It is currently trading on 6 active
+      market(s) with $118,749.30 traded over the last 24 hours. More information can
+      be found at https://www.decash.co.
+    logoURI: null
+    name: DeCash
+    symbol: DESH
+    type: null

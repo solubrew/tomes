@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x39aa39c021dfbae8fac545936693ac917d5e7563'
+    chainId: null
+    decimals: null
+    description: Compound USD Coin (CUSDC) is a cryptocurrency and operates on the
+      Ethereum platform. Compound USD Coin has a current supply of 9,803,299,805.036442
+      with 0 in circulation. The last known price of Compound USD Coin is 0.02130741
+      USD and is up 0.03 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $8,284,652.04 traded over the last 24 hours. More information
+      can be found at https://compound.finance/.
+    logoURI: null
+    name: Compound USD Coin
+    symbol: CUSDC
+    type: null

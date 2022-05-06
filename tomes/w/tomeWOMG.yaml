@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc46D19C06DeFE3aDAb78712bBbAe08FfAAf1402D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Wrapped OMG
+    symbol: WOMG
+    type: null

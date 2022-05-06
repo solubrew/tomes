@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9885cA101DFd8f23D364874F799554C52BFee820'
+    chainId: null
+    decimals: null
+    description: 3X Long BitMax Token Token (BTMXBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Long BitMax Token Token has a current supply of
+      1,106.02529708 with 0 in circulation. The last known price of 3X Long BitMax
+      Token Token is 3.01025829 USD and is up 0.28 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $614.97 traded over the last 24 hours. More
+      information can be found at https://ftx.com/tokens/BTMXBULL.
+    logoURI: null
+    name: 3X Long BitMax Token Token
+    symbol: BTMXBULL
+    type: null

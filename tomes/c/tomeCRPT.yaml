@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x80A7E048F37A50500351C204Cb407766fA3baE7f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CrypteriumToken
+    symbol: CRPT
+    type: null

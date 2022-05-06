@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe5dada80aa6477e85d09747f2842f7993d0df71c'
+    chainId: null
+    decimals: null
+    description: Dock (DOCK) is a cryptocurrency and operates on the Ethereum platform.
+      Dock has a current supply of 1,000,000,000 with 616,638,242.9231502 in circulation.
+      The last known price of Dock is 0.01368042 USD and is up 1.06 over the last
+      24 hours. It is currently trading on 23 active market(s) with $5,060,046.82
+      traded over the last 24 hours. More information can be found at https://dock.io.
+    logoURI: null
+    name: Dock
+    symbol: DOCK
+    type: null

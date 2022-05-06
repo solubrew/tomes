@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8AF17a6396c8f315f6b6DBC6AA686C85f9b3E554'
+    chainId: null
+    decimals: null
+    description: 3x Long Tezos Token (XTZBULL) is a cryptocurrency and operates on
+      the Ethereum platform. 3x Long Tezos Token has a current supply of 184.013 with
+      0 in circulation. The last known price of 3x Long Tezos Token is 96.49449133
+      USD and is up 4.15 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $21,975.66 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/XTZBULL.
+    logoURI: null
+    name: 3x Long Tezos Token
+    symbol: XTZBULL
+    type: null

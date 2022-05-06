@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2c50ba1ed5e4574c1b613b044bd1876f0b0b87a9'
+    chainId: null
+    decimals: null
+    description: Kids Cash (KASH) is a cryptocurrency and operates on the Ethereum
+      platform. Kids Cash has a current supply of 21,000,000 with 0 in circulation.
+      The last known price of Kids Cash is 0.02775255 USD and is up 3.18 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded
+      over the last 24 hours. More information can be found at https://kash.community.
+    logoURI: null
+    name: Kids Cash
+    symbol: KASH
+    type: null

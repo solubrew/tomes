@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7cA4408137eb639570F8E647d9bD7B7E8717514A'
+    chainId: null
+    decimals: null
+    description: Alpaca City (ALPA) is a cryptocurrency and operates on the Ethereum
+      platform. Alpaca City has a current supply of 0. The last known price of Alpaca
+      City is 0.19605515 USD and is up 0.94 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $89,812.27 traded over the last 24 hours.
+      More information can be found at https://alpaca.city.
+    logoURI: null
+    name: Alpaca City
+    symbol: ALPA
+    type: null

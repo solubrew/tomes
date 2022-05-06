@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2Ad180cBAFFbc97237F572148Fc1B283b68D8861'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: IZX Token
+    symbol: IZX
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e'
+    chainId: null
+    decimals: null
+    description: SwftCoin (SWFTC) is a cryptocurrency and operates on the Ethereum
+      platform. SwftCoin has a current supply of 10,000,000,000 with 4,004,999,999
+      in circulation. The last known price of SwftCoin is 0.00103943 USD and is up
+      1.59 over the last 24 hours. It is currently trading on 22 active market(s)
+      with $4,128,945.61 traded over the last 24 hours. More information can be found
+      at http://www.swft.pro/.
+    logoURI: null
+    name: SwftCoin
+    symbol: SWFTC
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa7fc5d2453e3f68af0cc1b78bcfee94a1b293650'
+    chainId: null
+    decimals: null
+    description: Spiking (SPIKE) is a cryptocurrency and operates on the Ethereum
+      platform. Spiking has a current supply of 5,000,000,000 with 442,894,597.98001194
+      in circulation. The last known price of Spiking is 0.00388975 USD and is up
+      2.04 over the last 24 hours. It is currently trading on 4 active market(s) with
+      $0.00 traded over the last 24 hours. More information can be found at https://spiking.com/.
+    logoURI: null
+    name: Spiking
+    symbol: SPIKE
+    type: null

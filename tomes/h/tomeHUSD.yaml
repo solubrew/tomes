@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdf574c24545e5ffecb9a659c229253d4111d87e1'
+    chainId: null
+    decimals: null
+    description: HUSD (HUSD) is a cryptocurrency and operates on the Ethereum platform.
+      HUSD has a current supply of 254,574,135.05032268. The last known price of HUSD
+      is 0.99911398 USD and is down -0.12 over the last 24 hours. It is currently
+      trading on 52 active market(s) with $22,663,422.65 traded over the last 24 hours.
+      More information can be found at http://www.stcoins.com/.
+    logoURI: null
+    name: HUSD
+    symbol: HUSD
+    type: null

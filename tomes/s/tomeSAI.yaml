@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf5B403Abd806EFF15B339909943e2c22EcbAc54C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Sai
+    symbol: SAI
+    type: null

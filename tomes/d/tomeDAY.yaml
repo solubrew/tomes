@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE814aeE960a85208C3dB542C53E7D4a6C8D5f60F'
+    chainId: null
+    decimals: null
+    description: Chronologic (DAY) is a cryptocurrency and operates on the Ethereum
+      platform. Chronologic has a current supply of 1,378,519.24519918 with 1,170,639.17263653
+      in circulation. The last known price of Chronologic is 0.10196268 USD and is
+      up 11.03 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $494.92 traded over the last 24 hours. More information can be found at
+      https://chronologic.network/.
+    logoURI: null
+    name: Chronologic
+    symbol: DAY
+    type: null

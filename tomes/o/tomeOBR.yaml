@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x595643d83b35df38e29058976c04000acfa31570'
+    chainId: null
+    decimals: null
+    description: Order of the Black Rose (OBR) is a cryptocurrency launched in 2020and
+      operates on the Ethereum platform. Order of the Black Rose has a current supply
+      of 0. The last known price of Order of the Black Rose is 240.34791992 USD and
+      is up 2.89 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $149,070.09 traded over the last 24 hours. More information can be found
+      at https://nftobr.com.
+    logoURI: null
+    name: Order of the Black Rose
+    symbol: OBR
+    type: null

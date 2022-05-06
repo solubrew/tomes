@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x88C64A7D2ecC882D558DD16aBC1537515a78BB7D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Shifted BTC
+    symbol: zBTC
+    type: null

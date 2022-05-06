@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0bc61dded5f6710c637cf8288eb6058766ce1921'
+    chainId: null
+    decimals: null
+    description: Coinsuper Ecosystem Network (CEN) is a cryptocurrency and operates
+      on the Ethereum platform. Coinsuper Ecosystem Network has a current supply of
+      898,614,083.223577 with 358,497,292.593577 in circulation. The last known price
+      of Coinsuper Ecosystem Network is 0.00033019 USD and is down -3.23 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $172.67 traded
+      over the last 24 hours. More information can be found at https://www.coinsuper.com/#/home.
+    logoURI: null
+    name: Coinsuper Ecosystem Network
+    symbol: CEN
+    type: null

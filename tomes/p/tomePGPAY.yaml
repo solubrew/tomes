@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC949fC82A15964FB5B97e5cf8f9ffed139086821'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PGPAY
+    symbol: PGPAY
+    type: null

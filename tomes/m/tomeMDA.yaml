@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x51db5ad35c671a87207d88fc11d593ac0c8415bd'
+    chainId: null
+    decimals: null
+    description: Moeda Loyalty Points (MDA) is a cryptocurrency and operates on the
+      Ethereum platform. Moeda Loyalty Points has a current supply of 19,628,888.
+      The last known price of Moeda Loyalty Points is 0.47929326 USD and is up 0.37
+      over the last 24 hours. It is currently trading on 5 active market(s) with $315,692.11
+      traded over the last 24 hours. More information can be found at https://moedaseeds.com/.
+    logoURI: null
+    name: Moeda Loyalty Points
+    symbol: MDA
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x76974c7b79dc8a6a109fd71fd7ceb9e40eff5382'
+    chainId: null
+    decimals: null
+    description: DOWCOIN (DOW) is a cryptocurrency and operates on the Ethereum platform.
+      DOWCOIN has a current supply of 2,000,000,000 with 11,845,265.5 in circulation.
+      The last known price of DOWCOIN is 0.00364926 USD and is up 2.83 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://www.dowcoin.io/.
+    logoURI: null
+    name: DOWCOIN
+    symbol: DOW
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x83eB94cB563146a42Fe0a8b3D051F2387A7FB81f'
+    chainId: null
+    decimals: null
+    description: Cipher Core Token (CIPHC) is a cryptocurrency and operates on the
+      Ethereum platform. Cipher Core Token has a current supply of 200,000,000 with
+      7,426,564.73254904 in circulation. The last known price of Cipher Core Token
+      is 33.85604426 USD and is down -0.27 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $101,488.55 traded over the last 24 hours.
+      More information can be found at https://www.cipher-core.com/.
+    logoURI: null
+    name: Cipher Core Token
+    symbol: CIPHC
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x84294fc9710e1252d407d3d80a84bc39001bd4a8'
+    chainId: null
+    decimals: null
+    description: Squirrel Finance (NUTS) is a cryptocurrency and operates on the Ethereum
+      platform. Squirrel Finance has a current supply of 1,000,000 with 0 in circulation.
+      The last known price of Squirrel Finance is 0.82639461 USD and is up 3.75 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $3,140.66
+      traded over the last 24 hours. More information can be found at https://squirrel.finance/.
+    logoURI: null
+    name: Squirrel Finance
+    symbol: NUTS
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8D063fF3a621718A31892cA7de7704D34e988f0C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Lexington
+    symbol: LEX
+    type: null

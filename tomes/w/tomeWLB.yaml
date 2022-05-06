@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb8e2e9dddc504688cfe925b9ace8017d48d3e095'
+    chainId: null
+    decimals: null
+    description: Wallabee (WLB) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. Wallabee has a current supply of 88,000,000 with 0 in
+      circulation. The last known price of Wallabee is 0.59693506 USD and is up 0.00
+      over the last 24 hours. It is currently trading on 1 active market(s) with $5.65
+      traded over the last 24 hours. More information can be found at https://www.wallabee.io.
+    logoURI: null
+    name: Wallabee
+    symbol: WLB
+    type: null

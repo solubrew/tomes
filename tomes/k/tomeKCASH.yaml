@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x32d74896f05204d1b6ae7b0a3cebd7fc0cd8f9c7'
+    chainId: null
+    decimals: null
+    description: Kcash (KCASH) is a cryptocurrency and operates on the Ethereum platform.
+      Kcash has a current supply of 1,000,000,000 with 445,499,083.49600005 in circulation.
+      The last known price of Kcash is 0.02675837 USD and is down -7.14 over the last
+      24 hours. It is currently trading on 13 active market(s) with $4,418,830.73
+      traded over the last 24 hours. More information can be found at https://www.kcash.com/.
+    logoURI: null
+    name: Kcash
+    symbol: KCASH
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8b6cda5cc518c904e8844f445e1a7c7d2db0ff16'
+    chainId: null
+    decimals: null
+    description: SF Capital (SFCP) is a cryptocurrency and operates on the Ethereum
+      platform. SF Capital has a current supply of 100,000,000 with 99,999,500 in
+      circulation. The last known price of SF Capital is 0.00038168 USD and is up
+      11.17 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $51.40 traded over the last 24 hours. More information can be found at
+      https://www.sfcapital.io/.
+    logoURI: null
+    name: SF Capital
+    symbol: SFCP
+    type: null

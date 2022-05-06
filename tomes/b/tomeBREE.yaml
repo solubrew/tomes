@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F'
+    chainId: null
+    decimals: null
+    description: CBDAO (BREE) is a cryptocurrency and operates on the Ethereum platform.
+      CBDAO has a current supply of 1,508,819 with 1,067,840 in circulation. The last
+      known price of CBDAO is 0.02468938 USD and is down -15.33 over the last 24 hours.
+      It is currently trading on 7 active market(s) with $3,158.94 traded over the
+      last 24 hours. More information can be found at https://coinbreeder.com/.
+    logoURI: null
+    name: CBDAO
+    symbol: BREE
+    type: null

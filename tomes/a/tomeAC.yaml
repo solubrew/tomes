@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9a0aba393aac4dfbff4333b06c407458002c6183'
+    chainId: null
+    decimals: null
+    description: ACoconut (AC) is a cryptocurrency and operates on the Ethereum platform.
+      ACoconut has a current supply of 420,000 with 0 in circulation. The last known
+      price of ACoconut is 1.00441056 USD and is down -4.70 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $347,629.59 traded over the
+      last 24 hours. More information can be found at https://acbtc.fi.
+    logoURI: null
+    name: ACoconut
+    symbol: AC
+    type: null

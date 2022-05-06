@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131'
+    chainId: null
+    decimals: null
+    description: NAGA (NGC) is a cryptocurrency and operates on the Ethereum platform.
+      NAGA has a current supply of 77,910,266.15769064 with 71,960,164.81416984 in
+      circulation. The last known price of NAGA is 0.05147315 USD and is up 3.60 over
+      the last 24 hours. It is currently trading on 14 active market(s) with $758.35
+      traded over the last 24 hours. More information can be found at https://www.thenagacoin.com/.
+    logoURI: null
+    name: NAGA
+    symbol: NGC
+    type: null

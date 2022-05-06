@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3b7f247f21bf3a07088c2d3423f64233d4b069f7'
+    chainId: null
+    decimals: null
+    description: Dynamite (DYNMT) is a cryptocurrency and operates on the Ethereum
+      platform. Dynamite has a current supply of 793,915.02 with 372,878.64 in circulation.
+      The last known price of Dynamite is 0.16495933 USD and is up 9.84 over the last
+      24 hours. It is currently trading on 8 active market(s) with $46,398.11 traded
+      over the last 24 hours. More information can be found at https://dynamitetoken.io/.
+    logoURI: null
+    name: Dynamite
+    symbol: DYNMT
+    type: null

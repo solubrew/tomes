@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB6eD7644C69416d67B522e20bC294A9a9B405B31'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 0xBitcoin Token
+    symbol: 0xBTC
+    type: null

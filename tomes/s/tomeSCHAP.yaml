@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe503A034a8C288DfA9583C43691A7B8233e27013'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AshleighCoin
+    symbol: SCHAP
+    type: null

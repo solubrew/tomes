@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6ef5bca539A4A01157af842B4823F54F9f7E9968'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ZeroGold
+    symbol: 0GOLD
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfc4b9e2d71a7795102Eb0C0e8b5DA992946a62De'
+    chainId: null
+    decimals: null
+    description: Coupon Chain (CCT) is a cryptocurrency and operates on the Ethereum
+      platform. Coupon Chain has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of Coupon Chain is 0.08783341 USD and is up 0.00 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $43,916.71
+      traded over the last 24 hours. More information can be found at https://www.coupon-chain.org.
+    logoURI: null
+    name: Coupon Chain
+    symbol: CCT
+    type: null

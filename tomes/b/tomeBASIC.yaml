@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf25c91c87e0b1fd9b4064af0f427157aab0193a7'
+    chainId: null
+    decimals: null
+    description: BASIC (BASIC) is a cryptocurrency and operates on the Ethereum platform.
+      BASIC has a current supply of 8,326,258,166.69 with 2,125,827,901.147081 in
+      circulation. The last known price of BASIC is 0.01029513 USD and is down -0.54
+      over the last 24 hours. It is currently trading on 2 active market(s) with $578,439.63
+      traded over the last 24 hours. More information can be found at https://basic.finance/.
+    logoURI: null
+    name: BASIC
+    symbol: BASIC
+    type: null

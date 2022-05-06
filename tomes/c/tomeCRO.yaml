@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CRO
+    symbol: CRO
+    type: null

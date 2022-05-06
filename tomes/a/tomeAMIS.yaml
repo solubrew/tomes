@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x949bEd886c739f1A3273629b3320db0C5024c719'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AMIS
+    symbol: AMIS
+    type: null

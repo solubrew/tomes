@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2dcd9b1a7ed408ff48bd4918a1f9c0535dc54ead'
+    chainId: null
+    decimals: null
+    description: WeSing Coin (WSC) is a cryptocurrency and operates on the Ethereum
+      platform. WeSing Coin has a current supply of 0. The last known price of WeSing
+      Coin is 0.00109792 USD and is up 0.00 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $55.29 traded over the last 24 hours. More
+      information can be found at http://wesingcoin.com/.
+    logoURI: null
+    name: WeSing Coin
+    symbol: WSC
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4d953cf077c0c95ba090226e59a18fcf97db44ec'
+    chainId: null
+    decimals: null
+    description: MiniSwap (MINI) is a cryptocurrency and operates on the Ethereum
+      platform. MiniSwap has a current supply of 0. The last known price of MiniSwap
+      is 0.03573263 USD and is down -2.20 over the last 24 hours. It is currently
+      trading on 5 active market(s) with $85,335.82 traded over the last 24 hours.
+      More information can be found at https://www.miniswap.org.
+    logoURI: null
+    name: MiniSwap
+    symbol: MINI
+    type: null

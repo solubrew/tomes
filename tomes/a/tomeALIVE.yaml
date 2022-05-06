@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1e0C1f1eF51BFC6F9C7e1cca86574C7fC3D3A050'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PROOF OF LIFE
+    symbol: ALIVE
+    type: null

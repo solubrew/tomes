@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEb7355C2f217b3485a591332Fe13C8c5A76A581D'
+    chainId: null
+    decimals: null
+    description: Jubi Token (JT) is a cryptocurrency and operates on the Ethereum
+      platform. Jubi Token has a current supply of 0. The last known price of Jubi
+      Token is 0.08856127 USD and is down -2.12 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $1,693,704.00 traded over the last 24 hours.
+      More information can be found at https://www.jbex.com/.
+    logoURI: null
+    name: Jubi Token
+    symbol: JT
+    type: null

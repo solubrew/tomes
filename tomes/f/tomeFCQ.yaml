@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6710CeE627Fa3A988200ffD5687cc1C814cEf0F6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Fotrem Capital Token
+    symbol: FCQ
+    type: null

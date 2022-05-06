@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9709907Cb2cF9e16Df841f7b145b78c230d8205E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Proof of work
+    symbol: POW
+    type: null

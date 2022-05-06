@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4317Ea4820F8D9ea6A103553A89Cb261B6Ea7F2a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Alxocity
+    symbol: ALXO
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x773dCEFa15b47E77c7955e5d0383BaFECd672734'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SignalCoin
+    symbol: SGC
+    type: null

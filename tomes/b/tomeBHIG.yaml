@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x996229D0c6a485c7F4B52E092EAa907cB2def5C6'
+    chainId: null
+    decimals: null
+    description: BuckHathCoin (BHIG) is a cryptocurrency and operates on the Ethereum
+      platform. BuckHathCoin has a current supply of 500,000,000 with 0 in circulation.
+      The last known price of BuckHathCoin is 0.05210038 USD and is down -4.92 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $265.07
+      traded over the last 24 hours. More information can be found at https://www.bhigtoken.com/.
+    logoURI: null
+    name: BuckHathCoin
+    symbol: BHIG
+    type: null

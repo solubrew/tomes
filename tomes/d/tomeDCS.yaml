@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbdeD3f7537E75D6c38C036a3A788A549AfdE12B1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DCS TOKEN
+    symbol: DCS
+    type: null

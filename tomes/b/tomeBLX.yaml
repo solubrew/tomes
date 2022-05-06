@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x48fa42D579CE56Cc2797E4d678AD7345A27999B9'
+    chainId: null
+    decimals: null
+    description: Balloon-X (BLX) is a cryptocurrency and operates on the Ethereum
+      platform. Balloon-X has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of Balloon-X is 0.07214887 USD and is up 1.96 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $103,224.16
+      traded over the last 24 hours. More information can be found at http://www.balloon-x.com/.
+    logoURI: null
+    name: Balloon-X
+    symbol: BLX
+    type: null

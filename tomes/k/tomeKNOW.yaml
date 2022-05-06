@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb41f09a973a85c7f497c10b00a939de667b55a78'
+    chainId: null
+    decimals: null
+    description: KNOW (KNOW) is a cryptocurrency and operates on the Ethereum platform.
+      KNOW has a current supply of 1,000,000,000 with 0 in circulation. The last known
+      price of KNOW is 0.00256213 USD and is down -10.21 over the last 24 hours. It
+      is currently trading on 3 active market(s) with $772,615.49 traded over the
+      last 24 hours. More information can be found at https://kryptono.exchange.
+    logoURI: null
+    name: KNOW
+    symbol: KNOW
+    type: null

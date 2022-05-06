@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x37f04d2c3ae075fad5483bb918491f656b12bdb6'
+    chainId: null
+    decimals: null
+    description: VestChain (VEST) is a cryptocurrency and operates on the Ethereum
+      platform. VestChain has a current supply of 3,945,951,380.8970037. The last
+      known price of VestChain is 0.00668455 USD and is down -0.46 over the last 24
+      hours. It is currently trading on 2 active market(s) with $31,003.42 traded
+      over the last 24 hours. More information can be found at https://vestchain.io/.
+    logoURI: null
+    name: VestChain
+    symbol: VEST
+    type: null

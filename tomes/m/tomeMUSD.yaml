@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe2f2a5c287993345a840db3b0845fbc70f5935a5'
+    chainId: null
+    decimals: null
+    description: mStable USD (MUSD) is a cryptocurrency and operates on the Ethereum
+      platform. mStable USD has a current supply of 28,371,071.3929014. The last known
+      price of mStable USD is 0.99610393 USD and is down -0.75 over the last 24 hours.
+      It is currently trading on 6 active market(s) with $490,027.24 traded over the
+      last 24 hours. More information can be found at https://mstable.org/.
+    logoURI: null
+    name: mStable USD
+    symbol: MUSD
+    type: null

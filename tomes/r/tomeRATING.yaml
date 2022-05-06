@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe8663a64a96169ff4d95b4299e7ae9a76b905b31'
+    chainId: null
+    decimals: null
+    description: DPRating (RATING) is a cryptocurrency and operates on the Ethereum
+      platform. DPRating has a current supply of 9,362,961,677.089724 with 2,140,429,992.569523
+      in circulation. The last known price of DPRating is 0.00013738 USD and is down
+      -6.31 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $8,505.00 traded over the last 24 hours. More information can be found
+      at http://token.dprating.com/.
+    logoURI: null
+    name: DPRating
+    symbol: RATING
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x286ae10228C274a9396a05A56B9E3B8f42D1cE14'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Sparkle!
+    symbol: SPRK
+    type: null

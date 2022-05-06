@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6ec47a178a9d50d4ec4683003d8324f19ca35382'
+    chainId: null
+    decimals: null
+    description: NDN Link (NDN) is a cryptocurrency and operates on the Ethereum platform.
+      NDN Link has a current supply of 5,000,000,000 with 0 in circulation. The last
+      known price of NDN Link is 0.00369913 USD and is up 2.80 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $435,806.60 traded over the
+      last 24 hours. More information can be found at https://www.ndn.link/#/.
+    logoURI: null
+    name: NDN Link
+    symbol: NDN
+    type: null

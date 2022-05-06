@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x95a41fB80ca70306e9Ecf4e51ceA31bD18379C18'
+    chainId: null
+    decimals: null
+    description: Aladdin (ADN) is a cryptocurrency and operates on the Ethereum platform.
+      Aladdin has a current supply of 100,000,000,000 with 43,807,200,917.50199 in
+      circulation. The last known price of Aladdin is 0.00019173 USD and is up 2.07
+      over the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://adncoin.com/.
+    logoURI: null
+    name: Aladdin
+    symbol: ADN
+    type: null

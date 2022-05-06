@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4'
+    chainId: null
+    decimals: null
+    description: CyberFi Token (CFi) is a cryptocurrency and operates on the Ethereum
+      platform. CyberFi Token has a current supply of 2,400,000 with 0 in circulation.
+      The last known price of CyberFi Token is 2.60998491 USD and is down -8.06 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $337,623.89
+      traded over the last 24 hours. More information can be found at https://cyberfi.tech/.
+    logoURI: null
+    name: CyberFi Token
+    symbol: CFi
+    type: null

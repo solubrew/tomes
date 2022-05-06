@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x05984006707585f66465e8a6505341f46b64fa7a'
+    chainId: null
+    decimals: null
+    description: NAM COIN (NAM) is a cryptocurrency and operates on the Ethereum platform.
+      NAM COIN has a current supply of 120,000,000,000 with 0 in circulation. The
+      last known price of NAM COIN is 0.00000427 USD and is up 0.00 over the last
+      24 hours. More information can be found at https://namchain.net.
+    logoURI: null
+    name: NAM COIN
+    symbol: NAM
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x10BC518c32fbAE5e38Ecb50A612160571bD81e44'
+    chainId: null
+    decimals: null
+    description: VeraOne (VRO) is a cryptocurrency and operates on the Ethereum platform.
+      VeraOne has a current supply of 0. The last known price of VeraOne is 59.63220882
+      USD and is up 0.68 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $7,080.54 traded over the last 24 hours. More information can
+      be found at https://veraone.io/.
+    logoURI: null
+    name: VeraOne
+    symbol: VRO
+    type: null

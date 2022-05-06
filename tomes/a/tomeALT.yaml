@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x419b8ed155180a8c9c64145e76dad49c0a4efb97'
+    chainId: null
+    decimals: null
+    description: Alt.Estate token (ALT) is a cryptocurrency and operates on the Ethereum
+      platform. Alt.Estate token has a current supply of 1,069,639,374 with 724,180,756
+      in circulation. The last known price of Alt.Estate token is 0.00022056 USD and
+      is up 2.09 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://alt.estate/.
+    logoURI: null
+    name: Alt.Estate token
+    symbol: ALT
+    type: null

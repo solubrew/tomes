@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa4f779074850d320b5553c9db5fc6a8ab15bd34a'
+    chainId: null
+    decimals: null
+    description: YFIX Finance (YFIX) is a cryptocurrency and operates on the Ethereum
+      platform. YFIX Finance has a current supply of 50,000 with 0 in circulation.
+      The last known price of YFIX Finance is 4.08901023 USD and is up 23.84 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $33,166.03
+      traded over the last 24 hours. More information can be found at https://yfix.finance/.
+    logoURI: null
+    name: YFIX Finance
+    symbol: YFIX
+    type: null

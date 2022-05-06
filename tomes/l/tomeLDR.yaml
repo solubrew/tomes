@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x180819c2a7D12d0B24Fb7A3a4e001FCDe32d95De'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: lexDAO Research
+    symbol: LDR
+    type: null

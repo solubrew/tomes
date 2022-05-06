@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x69c4BB240cF05D51eeab6985Bab35527d04a8C64'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: OPEN
+    symbol: OPEN
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x07150e919b4de5fd6a63de1f9384828396f25fdc'
+    chainId: null
+    decimals: null
+    description: Base Protocol (BASE) is a cryptocurrency and operates on the Ethereum
+      platform. Base Protocol has a current supply of 81,716,603 with 14,014,520 in
+      circulation. The last known price of Base Protocol is 0.80584358 USD and is
+      down -23.39 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $65,409,693.47 traded over the last 24 hours. More information can be found
+      at https://www.baseprotocol.org/.
+    logoURI: null
+    name: Base Protocol
+    symbol: BASE
+    type: null

@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x784561b89a160990f46de6db19571ca1b5f14bce'
+    chainId: null
+    decimals: null
+    description: MOST Protocol (MOST) is a cryptocurrency and operates on the Ethereum
+      platform. MOST Protocol has a current supply of 988,332.9 with 0 in circulation.
+      The last known price of MOST Protocol is 0 USD and is up 0.00 over the last
+      24 hours. More information can be found at https://mostprotocol.org/.
+    logoURI: null
+    name: MOST Protocol
+    symbol: MOST
+    type: null

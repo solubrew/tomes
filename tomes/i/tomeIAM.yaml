@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6025Fb154B7C30E13657d5304DaFdb55B194E5Dd'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: iAM
+    symbol: IAM
+    type: null

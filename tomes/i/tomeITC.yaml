@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5e6b6d9abad9093fdc861ea1600eba1b355cd940'
+    chainId: null
+    decimals: null
+    description: IoT Chain (ITC) is a cryptocurrency and operates on the Ethereum
+      platform. IoT Chain has a current supply of 99,999,999 with 87,214,657.4756
+      in circulation. The last known price of IoT Chain is 0.06673578 USD and is down
+      -0.10 over the last 24 hours. It is currently trading on 16 active market(s)
+      with $2,208,399.44 traded over the last 24 hours. More information can be found
+      at https://iotchain.io/.
+    logoURI: null
+    name: IoT Chain
+    symbol: ITC
+    type: null

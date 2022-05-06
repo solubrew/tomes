@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x46EdAa477b313a77d51564DdA448E385116d3F36'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Perigrine Lacrosse
+    symbol: LACRS
+    type: null

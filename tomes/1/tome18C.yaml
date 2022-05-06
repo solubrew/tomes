@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB3ce281F0DEe8c6f7af19b9664109c4030BEC3fA'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Block18
+    symbol: 18C
+    type: null

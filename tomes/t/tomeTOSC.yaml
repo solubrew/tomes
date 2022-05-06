@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd50649aab1d39d68bc965e0f6d1cfe0010e4908b'
+    chainId: null
+    decimals: null
+    description: T.OS (TOSC) is a cryptocurrency and operates on the Ethereum platform.
+      T.OS has a current supply of 2,088,368,121.484905 with 827,016,433.7432284 in
+      circulation. The last known price of T.OS is 0.00446602 USD and is down -3.31
+      over the last 24 hours. It is currently trading on 2 active market(s) with $826.99
+      traded over the last 24 hours. More information can be found at http://www.tosblock.com.
+    logoURI: null
+    name: T.OS
+    symbol: TOSC
+    type: null

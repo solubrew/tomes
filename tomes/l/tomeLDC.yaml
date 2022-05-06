@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5102791ca02fc3595398400bfe0e33d7b6c82267'
+    chainId: null
+    decimals: null
+    description: Leadcoin (LDC) is a cryptocurrency and operates on the Ethereum platform.
+      Leadcoin has a current supply of 2,627,412,705.53219 with 784,399,591.7100949
+      in circulation. The last known price of Leadcoin is 0.00020784 USD and is up
+      3.36 over the last 24 hours. It is currently trading on 1 active market(s) with
+      $0.00 traded over the last 24 hours. More information can be found at https://www.leadcoin.network/.
+    logoURI: null
+    name: Leadcoin
+    symbol: LDC
+    type: null

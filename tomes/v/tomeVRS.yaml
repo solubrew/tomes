@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xAbC430136A4dE71c9998242de8c1b4B97D2b9045'
+    chainId: null
+    decimals: null
+    description: Veros (VRS) is a cryptocurrency and operates on the Ethereum platform.
+      Veros has a current supply of 10,000,000 with 1,227,693.190955 in circulation.
+      The last known price of Veros is 0.58916031 USD and is down -23.45 over the
+      last 24 hours. It is currently trading on 7 active market(s) with $99,364.19
+      traded over the last 24 hours. More information can be found at http://vedh.io.
+    logoURI: null
+    name: Veros
+    symbol: VRS
+    type: null

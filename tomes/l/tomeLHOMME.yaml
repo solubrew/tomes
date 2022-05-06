@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x116803242736faD67c16239050b5e213972e104f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LHOMME COIN
+    symbol: LHOMME
+    type: null

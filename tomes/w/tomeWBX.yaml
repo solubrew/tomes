@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbb97e381f1d1e94ffa2a5844f6875e6146981009'
+    chainId: null
+    decimals: null
+    description: WiBX (WBX) is a cryptocurrency and operates on the Ethereum platform.
+      WiBX has a current supply of 11,751,286,309 with 0 in circulation. The last
+      known price of WiBX is 0.00499135 USD and is up 0.85 over the last 24 hours.
+      It is currently trading on 4 active market(s) with $103,468.16 traded over the
+      last 24 hours. More information can be found at https://www.wibx.io/.
+    logoURI: null
+    name: WiBX
+    symbol: WBX
+    type: null

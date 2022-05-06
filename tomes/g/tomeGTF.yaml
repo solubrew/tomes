@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x40f8b7a82b6355d26546d363ce9c12ce104cf0ce'
+    chainId: null
+    decimals: null
+    description: GLOBALTRUSTFUND TOKEN (GTF) is a cryptocurrency and operates on the
+      Ethereum platform. GLOBALTRUSTFUND TOKEN has a current supply of 20,200,000
+      with 0 in circulation. The last known price of GLOBALTRUSTFUND TOKEN is 0.00129314
+      USD and is up 242.62 over the last 24 hours. It is currently trading on 4 active
+      market(s) with $0.00 traded over the last 24 hours. More information can be
+      found at https://www.gtftoken.com/.
+    logoURI: null
+    name: GLOBALTRUSTFUND TOKEN
+    symbol: GTF
+    type: null

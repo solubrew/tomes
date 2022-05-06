@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc3e2de0b661cf58f66bde8e896905399ded58af5'
+    chainId: null
+    decimals: null
+    description: Matrexcoin (MAC) is a cryptocurrency and operates on the Ethereum
+      platform. Matrexcoin has a current supply of 90,000,000 with 22,176,440 in circulation.
+      The last known price of Matrexcoin is 0.00840866 USD and is up 8.68 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $0.06 traded
+      over the last 24 hours. More information can be found at https://matrexcoin.com/.
+    logoURI: null
+    name: Matrexcoin
+    symbol: MAC
+    type: null

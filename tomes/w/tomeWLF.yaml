@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x02b1669bc9ee893edaff3cadfd326a294d643f99'
+    chainId: null
+    decimals: null
+    description: Wolfs Group (WLF) is a cryptocurrency and operates on the Ethereum
+      platform. Wolfs Group has a current supply of 0. The last known price of Wolfs
+      Group is 0.02223324 USD and is up 0.00 over the last 24 hours. It is currently
+      trading on 0 active market(s) with $0.00 traded over the last 24 hours. More
+      information can be found at https://wolfs.group/.
+    logoURI: null
+    name: Wolfs Group
+    symbol: WLF
+    type: null

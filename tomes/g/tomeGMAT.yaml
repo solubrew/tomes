@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA110eeebc0751407bDCAeA4CD230F04A2b82a33a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GoWithMi
+    symbol: GMAT
+    type: null

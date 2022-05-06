@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a'
+    chainId: null
+    decimals: null
+    description: Sapien (SPN) is a cryptocurrency and operates on the Ethereum platform.
+      Sapien has a current supply of 500,000,000 with 220,657,459.673352 in circulation.
+      The last known price of Sapien is 0.05592711 USD and is up 3.00 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://www.sapien.network/.
+    logoURI: null
+    name: Sapien
+    symbol: SPN
+    type: null

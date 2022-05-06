@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x212DD60D4Bf0DA8372fe8116474602d429E5735F'
+    chainId: null
+    decimals: null
+    description: Stobox Token (STBU) is a cryptocurrency and operates on the Ethereum
+      platform. Stobox Token has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of Stobox Token is 0.11499161 USD and is down -19.15 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $87,101.01
+      traded over the last 24 hours. More information can be found at https://www.stobox.io/.
+    logoURI: null
+    name: Stobox Token
+    symbol: STBU
+    type: null

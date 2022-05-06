@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x20945ca1df56d237fd40036d47e866c7dccd2114'
+    chainId: null
+    decimals: null
+    description: Nsure.Network (NSURE) is a cryptocurrency and operates on the Ethereum
+      platform. Nsure.Network has a current supply of 45,000,000 with 5,668,964 in
+      circulation. The last known price of Nsure.Network is 0.66889459 USD and is
+      up 8.52 over the last 24 hours. It is currently trading on 11 active market(s)
+      with $2,569,010.59 traded over the last 24 hours. More information can be found
+      at https://nsure.network/#/.
+    logoURI: null
+    name: Nsure.Network
+    symbol: NSURE
+    type: null

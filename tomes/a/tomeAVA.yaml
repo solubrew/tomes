@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa16001DD47f505B7B7c5639c710A52209E4e8904'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Alpha Fund
+    symbol: AVA
+    type: null

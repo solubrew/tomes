@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc3ed0908D7F588F900648B81414f7DE8Fc7ce3C4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Thanks Dollar
+    symbol: THD
+    type: null

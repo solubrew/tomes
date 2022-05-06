@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5b322514ff727253292637d9054301600c2c81e8'
+    chainId: null
+    decimals: null
+    description: DAD (DAD) is a cryptocurrency and operates on the Ethereum platform.
+      DAD has a current supply of 1,000,000,000 with 134,601,733 in circulation. The
+      last known price of DAD is 0.21902129 USD and is up 6.56 over the last 24 hours.
+      It is currently trading on 6 active market(s) with $1,769,874.30 traded over
+      the last 24 hours. More information can be found at https://dad.one/.
+    logoURI: null
+    name: DAD
+    symbol: DAD
+    type: null

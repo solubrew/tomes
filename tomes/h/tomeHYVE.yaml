@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd794DD1CAda4cf79C9EebaAb8327a1B0507ef7d4'
+    chainId: null
+    decimals: null
+    description: Hyve (HYVE) is a cryptocurrency launched in 2020and operates on the
+      Ethereum platform. Hyve has a current supply of 0. The last known price of Hyve
+      is 0.01574512 USD and is up 10.68 over the last 24 hours. It is currently trading
+      on 3 active market(s) with $6,100.36 traded over the last 24 hours. More information
+      can be found at https://hyve.works.
+    logoURI: null
+    name: Hyve
+    symbol: HYVE
+    type: null

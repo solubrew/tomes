@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x96cd3fa86724f2f15D61B2A7faeb9e6Cd0a0a587'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 0 DardosHungary
+    symbol: 0DARCOIN
+    type: null

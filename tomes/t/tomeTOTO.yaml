@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe3278df3eb2085ba9b6899812a99a10f9ca5e0df'
+    chainId: null
+    decimals: null
+    description: Tourist Token (TOTO) is a cryptocurrency and operates on the Ethereum
+      platform. Tourist Token has a current supply of 6,599,974,662.57506 with 5,433,323,629.519762
+      in circulation. The last known price of Tourist Token is 0.00000372 USD and
+      is down -2.51 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $1,454.81 traded over the last 24 hours. More information can be found
+      at https://globaltourist.io/.
+    logoURI: null
+    name: Tourist Token
+    symbol: TOTO
+    type: null

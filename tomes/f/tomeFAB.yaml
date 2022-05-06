@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x12683dc9eec95a5f742d40206e73319e6b9d8a91'
+    chainId: null
+    decimals: null
+    description: FABRK (FAB) is a cryptocurrency and operates on the Ethereum platform.
+      FABRK has a current supply of 55,000,000,000 with 4,794,443,396.556404 in circulation.
+      The last known price of FABRK is 0.00102164 USD and is down -0.02 over the last
+      24 hours. It is currently trading on 2 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://www.fabrk.io/.
+    logoURI: null
+    name: FABRK
+    symbol: FAB
+    type: null

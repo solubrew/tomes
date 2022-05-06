@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x03b155af3f4459193a276395dd76e357bb472da1'
+    chainId: null
+    decimals: null
+    description: Swace (SWACE) is a cryptocurrency and operates on the Ethereum platform.
+      Swace has a current supply of 2,700,000,000 with 513,292,589 in circulation.
+      The last known price of Swace is 0.00546862 USD and is up 1.87 over the last
+      24 hours. It is currently trading on 3 active market(s) with $21.12 traded over
+      the last 24 hours. More information can be found at https://swace.io/.
+    logoURI: null
+    name: Swace
+    symbol: SWACE
+    type: null

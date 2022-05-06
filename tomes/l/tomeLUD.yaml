@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe64b47931f28f89cc7a0c6965ecf89eadb4975f5'
+    chainId: null
+    decimals: null
+    description: Ludos Protocol (LUD) is a cryptocurrency and operates on the Ethereum
+      platform. Ludos Protocol has a current supply of 10,000,000,000 with 0 in circulation.
+      The last known price of Ludos Protocol is 0.0002214 USD and is down -2.01 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $125,215.13
+      traded over the last 24 hours. More information can be found at http://ludos.one/.
+    logoURI: null
+    name: Ludos Protocol
+    symbol: LUD
+    type: null

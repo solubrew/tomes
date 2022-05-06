@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfD107B473AB90e8Fbd89872144a3DC92C40Fa8C9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LALA
+    symbol: LALA
+    type: null

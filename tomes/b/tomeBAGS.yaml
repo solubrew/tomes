@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe7Bf3aEE922367c10c8acEc3793fE7D809A38eef'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BAGS
+    symbol: BAGS
+    type: null

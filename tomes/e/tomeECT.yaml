@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4CcC3759eB48fAF1c6cfadaD2619E7038db6b212'
+    chainId: null
+    decimals: null
+    description: SuperEdge (ECT) is a cryptocurrency and operates on the Ethereum
+      platform. SuperEdge has a current supply of 2,000,000,000 with 0 in circulation.
+      The last known price of SuperEdge is 0.00001641 USD and is up 1.23 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $109.08 traded
+      over the last 24 hours. More information can be found at https://superedge.info.
+    logoURI: null
+    name: SuperEdge
+    symbol: ECT
+    type: null

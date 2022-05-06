@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf3924df14812b3d3db29124aa9da4353ed5e04a3'
+    chainId: null
+    decimals: null
+    description: Easticoin (ESTI) is a cryptocurrency and operates on the Ethereum
+      platform. Easticoin has a current supply of 0. The last known price of Easticoin
+      is 0.01955211 USD and is down -1.84 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $1,246.29 traded over the last 24 hours.
+      More information can be found at https://easticoin.org/.
+    logoURI: null
+    name: Easticoin
+    symbol: ESTI
+    type: null

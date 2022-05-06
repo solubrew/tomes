@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x583A9c440893eD5d563e68A60b12f1cc323d4862'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TBOMB
+    symbol: TBOMB
+    type: null

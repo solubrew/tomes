@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1519aff03b3e23722511d2576c769a77baf09580'
+    chainId: null
+    decimals: null
+    description: B91 (B91) is a cryptocurrency and operates on the Ethereum platform.
+      B91 has a current supply of 5,100,000,000 with 0 in circulation. The last known
+      price of B91 is 0.00659668 USD and is up 0.38 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $302.25 traded over the last 24
+      hours. More information can be found at https://www.b91.com/.
+    logoURI: null
+    name: B91
+    symbol: B91
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb526fd41360c98929006f3bdcbd16d55de4b0069'
+    chainId: null
+    decimals: null
+    description: Thirm Protocol (THIRM) is a cryptocurrency and operates on the Ethereum
+      platform. Thirm Protocol has a current supply of 100,000 with 0 in circulation.
+      The last known price of Thirm Protocol is 7.43098659 USD and is up 18.77 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $618.28
+      traded over the last 24 hours. More information can be found at https://thirm.com.
+    logoURI: null
+    name: Thirm Protocol
+    symbol: THIRM
+    type: null

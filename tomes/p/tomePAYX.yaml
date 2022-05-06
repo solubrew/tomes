@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x62a56a4a2ef4d355d34d10fbf837e747504d38d4'
+    chainId: null
+    decimals: null
+    description: Paypex (PAYX) is a cryptocurrency and operates on the Ethereum platform.
+      Paypex has a current supply of 150,000,000 with 149,998,018.29 in circulation.
+      The last known price of Paypex is 0.00004777 USD and is up 17.74 over the last
+      24 hours. It is currently trading on 2 active market(s) with $0.48 traded over
+      the last 24 hours. More information can be found at https://paypex.org/.
+    logoURI: null
+    name: Paypex
+    symbol: PAYX
+    type: null

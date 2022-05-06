@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x78f5bbc74fb9137a75d85f3c9c3c599be49f0a56'
+    chainId: null
+    decimals: null
+    description: Smartup (SMARTUP) is a cryptocurrency and operates on the Ethereum
+      platform. Smartup has a current supply of 5,000,000,000 with 0 in circulation.
+      The last known price of Smartup is 0.000018 USD and is down -14.36 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $1.62 traded
+      over the last 24 hours. More information can be found at https://www.smartup.global/.
+    logoURI: null
+    name: Smartup
+    symbol: SMARTUP
+    type: null

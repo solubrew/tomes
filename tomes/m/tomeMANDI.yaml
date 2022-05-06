@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5aA485E6b794bcf5F834BF5c7FF43B9B83322764'
+    chainId: null
+    decimals: null
+    description: Mandi Token (MANDI) is a cryptocurrency and operates on the Ethereum
+      platform. Mandi Token has a current supply of 10,000,000,000 with 0 in circulation.
+      The last known price of Mandi Token is 0.01110653 USD and is down -0.90 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $6,185.67
+      traded over the last 24 hours. More information can be found at https://manditoken.io/.
+    logoURI: null
+    name: Mandi Token
+    symbol: MANDI
+    type: null

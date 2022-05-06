@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2e2f3246b6c65ccc4239c9ee556ec143a7e5de2c'
+    chainId: null
+    decimals: null
+    description: Yfi.mobi (YFIM) is a cryptocurrency and operates on the Ethereum
+      platform. Yfi.mobi has a current supply of 60,000 with 0 in circulation. The
+      last known price of Yfi.mobi is 113.29673287 USD and is down -6.30 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $674,774.54
+      traded over the last 24 hours. More information can be found at https://app.yfi.mobi/#/.
+    logoURI: null
+    name: Yfi.mobi
+    symbol: YFIM
+    type: null

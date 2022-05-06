@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x491c9a23db85623eed455a8efdd6aba9b911c5df'
+    chainId: null
+    decimals: null
+    description: HeroNode (HER) is a cryptocurrency and operates on the Ethereum platform.
+      HeroNode has a current supply of 2,000,000,000 with 1,099,244,081 in circulation.
+      The last known price of HeroNode is 0.00007277 USD and is up 3.24 over the last
+      24 hours. It is currently trading on 2 active market(s) with $162.17 traded
+      over the last 24 hours. More information can be found at https://heronode.io/.
+    logoURI: null
+    name: HeroNode
+    symbol: HER
+    type: null

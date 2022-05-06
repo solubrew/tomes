@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x687BfC3E73f6af55F0CccA8450114D107E781a0e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: QChi
+    symbol: QCH
+    type: null

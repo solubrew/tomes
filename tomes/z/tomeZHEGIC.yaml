@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x837010619aeb2AE24141605aFC8f66577f6fb2e7'
+    chainId: null
+    decimals: null
+    description: zHEGIC (ZHEGIC) is a cryptocurrency and operates on the Ethereum
+      platform. zHEGIC has a current supply of 0. The last known price of zHEGIC is
+      0.21802957 USD and is down -0.71 over the last 24 hours. It is currently trading
+      on 3 active market(s) with $34,821.60 traded over the last 24 hours. More information
+      can be found at https://zlot.finance/.
+    logoURI: null
+    name: zHEGIC
+    symbol: ZHEGIC
+    type: null

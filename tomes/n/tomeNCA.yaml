@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7542013f90Df4D24ae1b18641bd9E223f5524320'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Nuclear
+    symbol: NCA
+    type: null

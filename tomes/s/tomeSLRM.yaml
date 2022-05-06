@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x56eE8C9BD1d445a3324ad83E86D8be309Db8f85d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Solareum
+    symbol: SLRM
+    type: null

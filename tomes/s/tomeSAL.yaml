@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x868b0bD0f4fEE14BBE0157FE3ed1359e8431Ea63'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SalariumCoin
+    symbol: SAL
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x722F2f3EaC7e9597C73a593f7CF3de33Fbfc3308'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CoinUs
+    symbol: CNUS
+    type: null

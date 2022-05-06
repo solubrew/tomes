@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6dddf4111ad997a8c7be9b2e502aa476bf1f4251'
+    chainId: null
+    decimals: null
+    description: Unimonitor (UNT) is a cryptocurrency and operates on the Ethereum
+      platform. Unimonitor has a current supply of 0. The last known price of Unimonitor
+      is 0.0062153 USD and is down -1.07 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $0.00 traded over the last 24 hours. More information
+      can be found at https://www.unimonitor.io.
+    logoURI: null
+    name: Unimonitor
+    symbol: UNT
+    type: null

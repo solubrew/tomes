@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc28e931814725bbeb9e670676fabbcb694fe7df2'
+    chainId: null
+    decimals: null
+    description: QuadrantProtocol (EQUAD) is a cryptocurrency and operates on the
+      Ethereum platform. QuadrantProtocol has a current supply of 1,000,000,000 with
+      391,775,330.3896644 in circulation. The last known price of QuadrantProtocol
+      is 0.00257331 USD and is up 1.62 over the last 24 hours. It is currently trading
+      on 4 active market(s) with $27,546.35 traded over the last 24 hours. More information
+      can be found at https://www.quadrantprotocol.com/.
+    logoURI: null
+    name: QuadrantProtocol
+    symbol: EQUAD
+    type: null

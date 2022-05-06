@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9181EEf2ea5624C187d1147134B847552302da2A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DOYLE COIN
+    symbol: DOYLE
+    type: null

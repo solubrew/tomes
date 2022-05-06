@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SIRIN
+    symbol: SRN
+    type: null

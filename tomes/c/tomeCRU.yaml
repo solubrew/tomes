@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x32a7C02e79c4ea1008dD6564b35F131428673c41'
+    chainId: null
+    decimals: null
+    description: Crust (CRU) is a cryptocurrency and operates on the Ethereum platform.
+      Crust has a current supply of 2,000,010 with 914,159.16059378 in circulation.
+      The last known price of Crust is 5.34515669 USD and is up 6.86 over the last
+      24 hours. It is currently trading on 13 active market(s) with $5,036,521.82
+      traded over the last 24 hours. More information can be found at https://www.crust.network/.
+    logoURI: null
+    name: Crust
+    symbol: CRU
+    type: null

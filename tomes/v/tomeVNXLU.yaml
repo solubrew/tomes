@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x00fc270c9cc13e878ab5363d00354bebf6f05c15'
+    chainId: null
+    decimals: null
+    description: VNX Exchange (VNXLU) is a cryptocurrency and operates on the Ethereum
+      platform. VNX Exchange has a current supply of 80,000,000 with 28,104,700 in
+      circulation. The last known price of VNX Exchange is 0.28374831 USD and is down
+      -4.21 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $75,753.33 traded over the last 24 hours. More information can be found
+      at https://vnx.io/.
+    logoURI: null
+    name: VNX Exchange
+    symbol: VNXLU
+    type: null

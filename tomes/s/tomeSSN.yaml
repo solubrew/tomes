@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa5b46ff9a887180c8fb2d97146398ddfc5fef1cd'
+    chainId: null
+    decimals: null
+    description: SuperSkynet (SSN) is a cryptocurrency launched in 2018and operates
+      on the Ethereum platform. SuperSkynet has a current supply of 45,000,000,000
+      with 0 in circulation. The last known price of SuperSkynet is 0.00001179 USD
+      and is down -1.16 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $0.00 traded over the last 24 hours. More information can be
+      found at http://www.superskynet.io.
+    logoURI: null
+    name: SuperSkynet
+    symbol: SSN
+    type: null

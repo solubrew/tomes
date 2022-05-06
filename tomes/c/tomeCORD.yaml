@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x74fb9da15d4f9a34d8c825798da0fa5c400dade1'
+    chainId: null
+    decimals: null
+    description: Cord DeFi (CORD) is a cryptocurrency and operates on the Ethereum
+      platform. Cord DeFi has a current supply of 19,000 with 0 in circulation. The
+      last known price of Cord DeFi is 4.09583862 USD and is down -6.14 over the last
+      24 hours. It is currently trading on 1 active market(s) with $3,220.67 traded
+      over the last 24 hours. More information can be found at https://coronadefi.com.
+    logoURI: null
+    name: Cord DeFi
+    symbol: CORD
+    type: null

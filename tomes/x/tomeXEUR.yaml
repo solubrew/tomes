@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe577e0B200d00eBdecbFc1cd3F7E8E04C70476BE'
+    chainId: null
+    decimals: null
+    description: xEURO (XEUR) is a cryptocurrency and operates on the Ethereum platform.
+      xEURO has a current supply of 20,419. The last known price of xEURO is 1.10482135
+      USD and is up 0.00 over the last 24 hours. More information can be found at
+      https://xeuro.online.
+    logoURI: null
+    name: xEURO
+    symbol: XEUR
+    type: null

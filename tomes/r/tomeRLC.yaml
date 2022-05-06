@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf09209cC5EaE846ee2cc4a493e7B962CA7BCfbbb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: iEx.ec Network Token
+    symbol: RLC
+    type: null

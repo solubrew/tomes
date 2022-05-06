@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x07f9b3ba425cDb68F96147c7CD6a29dcd02A4B51'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bushwick Generator SpaceTime
+    symbol: BGST
+    type: null

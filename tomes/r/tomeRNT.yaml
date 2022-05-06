@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xff603f43946a3a28df5e6a73172555d8c8b02386'
+    chainId: null
+    decimals: null
+    description: OneRoot Network (RNT) is a cryptocurrency and operates on the Ethereum
+      platform. OneRoot Network has a current supply of 400,000,000 with 284,073,816.715856
+      in circulation. The last known price of OneRoot Network is 0.01427859 USD and
+      is up 0.26 over the last 24 hours. It is currently trading on 9 active market(s)
+      with $357,261.67 traded over the last 24 hours. More information can be found
+      at https://www.oneroot.io/en.
+    logoURI: null
+    name: OneRoot Network
+    symbol: RNT
+    type: null

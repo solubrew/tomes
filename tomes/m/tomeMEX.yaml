@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2ba6b1e4424e19816382d15937739959f7da5fd8'
+    chainId: null
+    decimals: null
+    description: MEX (MEX) is a cryptocurrency and operates on the Ethereum platform.
+      MEX has a current supply of 1,939,999,970 with 0 in circulation. The last known
+      price of MEX is 0.00018185 USD and is up 4.61 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $37,808.54 traded over the last
+      24 hours. More information can be found at http://introduce.mex.link/.
+    logoURI: null
+    name: MEX
+    symbol: MEX
+    type: null

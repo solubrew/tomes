@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6a8C66Cab4F766E5E30b4e9445582094303cc322'
+    chainId: null
+    decimals: null
+    description: Farm Defi (PFARM) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. Farm Defi has a current supply of 0. The last known
+      price of Farm Defi is 1,728.51106292 USD and is up 2.97 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://farm.plaas.io.
+    logoURI: null
+    name: Farm Defi
+    symbol: PFARM
+    type: null

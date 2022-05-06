@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x24Dc3617963E0422C826bC7705B378Ab43da517A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Wrapped BNB
+    symbol: WBNB
+    type: null

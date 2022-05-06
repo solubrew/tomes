@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd433138d12beB9929FF6fd583DC83663eea6Aaa5'
+    chainId: null
+    decimals: null
+    description: Bitrue Coin (BTR) is a cryptocurrency and operates on the Ethereum
+      platform. Bitrue Coin has a current supply of 878,515,205.3484074 with 88,627,236.34840733
+      in circulation. The last known price of Bitrue Coin is 0.03767414 USD and is
+      up 4.26 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $4,327,043.07 traded over the last 24 hours. More information can be found
+      at https://www.bitrue.com/.
+    logoURI: null
+    name: Bitrue Coin
+    symbol: BTR
+    type: null

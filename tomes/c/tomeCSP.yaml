@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa6446d655a0c34bc4f05042ee88170d056cbaf45'
+    chainId: null
+    decimals: null
+    description: Caspian (CSP) is a cryptocurrency and operates on the Ethereum platform.
+      Caspian has a current supply of 1,000,000,000 with 449,036,296 in circulation.
+      The last known price of Caspian is 0.00478344 USD and is down -10.17 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $4,279.86
+      traded over the last 24 hours. More information can be found at https://caspian.tech.
+    logoURI: null
+    name: Caspian
+    symbol: CSP
+    type: null

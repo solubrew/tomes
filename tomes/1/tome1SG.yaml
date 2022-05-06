@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0f72714b35a366285df85886a2ee174601292a17'
+    chainId: null
+    decimals: null
+    description: 1SG (1SG) is a cryptocurrency and operates on the Ethereum platform.
+      1SG has a current supply of 22,227,000 with 2,177,310.382175 in circulation.
+      The last known price of 1SG is 4.0089334 USD and is up 2.45 over the last 24
+      hours. It is currently trading on 3 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://1.sg/.
+    logoURI: null
+    name: 1SG
+    symbol: 1SG
+    type: null

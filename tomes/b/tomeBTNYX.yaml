@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8fb6c8a44a4e23fd1f5a936818b39083b4cdc865'
+    chainId: null
+    decimals: null
+    description: BitOnyx (BTNYX) is a cryptocurrency and operates on the Ethereum
+      platform. BitOnyx has a current supply of 0. The last known price of BitOnyx
+      is 0.5003662 USD and is up 11.72 over the last 24 hours. It is currently trading
+      on 5 active market(s) with $0.73 traded over the last 24 hours. More information
+      can be found at https://bitonyx.io.
+    logoURI: null
+    name: BitOnyx
+    symbol: BTNYX
+    type: null

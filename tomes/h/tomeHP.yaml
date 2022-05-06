@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xab55bdef7057b76482914e79f037999f4ebb6bf1'
+    chainId: null
+    decimals: null
+    description: Healing Plus (HP) is a cryptocurrency and operates on the Ethereum
+      platform. Healing Plus has a current supply of 0. The last known price of Healing
+      Plus is 0.47883971 USD and is down -15.85 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $246.70 traded over the last 24 hours. More
+      information can be found at https://healingplus.kr/.
+    logoURI: null
+    name: Healing Plus
+    symbol: HP
+    type: null

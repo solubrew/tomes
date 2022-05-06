@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x179e31fb25e433441a2839389a7b8ec9c4654b7b'
+    chainId: null
+    decimals: null
+    description: SynchroBitcoin (SNB) is a cryptocurrency and operates on the Ethereum
+      platform. SynchroBitcoin has a current supply of 1,000,000,000 with 79,521,464.8681085
+      in circulation. The last known price of SynchroBitcoin is 0.05361212 USD and
+      is up 52.76 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $3,636.19 traded over the last 24 hours. More information can be found
+      at https://www.snbtoken.io.
+    logoURI: null
+    name: SynchroBitcoin
+    symbol: SNB
+    type: null

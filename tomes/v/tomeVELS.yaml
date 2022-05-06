@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x30E39d0a38db74aC783F42C13DDe1EA06e858992'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Velareum
+    symbol: VELS
+    type: null

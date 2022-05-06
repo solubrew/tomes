@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA823E6722006afe99E91c30FF5295052fe6b8E32'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Neumark
+    symbol: NEU
+    type: null

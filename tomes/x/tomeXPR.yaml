@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd7efb00d12c2c13131fd319336fdf952525da2af'
+    chainId: null
+    decimals: null
+    description: Proton (XPR) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. Proton has a current supply of 10,000,000,000 with 2,108,013,475.3119
+      in circulation. The last known price of Proton is 0.0074748 USD and is down
+      -1.15 over the last 24 hours. It is currently trading on 11 active market(s)
+      with $1,013,922.90 traded over the last 24 hours. More information can be found
+      at https://www.protonchain.com.
+    logoURI: null
+    name: Proton
+    symbol: XPR
+    type: null

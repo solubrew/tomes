@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c'
+    chainId: null
+    decimals: null
+    description: Datum (DAT) is a cryptocurrency and operates on the Ethereum platform.
+      Datum has a current supply of 2,653,841,597.973272 with 1,001,935,124.3850232
+      in circulation. The last known price of Datum is 0.0007856 USD and is up 0.49
+      over the last 24 hours. It is currently trading on 4 active market(s) with $91,515.76
+      traded over the last 24 hours. More information can be found at https://datum.org/.
+    logoURI: null
+    name: Datum
+    symbol: DAT
+    type: null

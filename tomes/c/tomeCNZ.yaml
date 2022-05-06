@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc1965d7d18f37062b18ab3d5d1fe7f69873b30dd'
+    chainId: null
+    decimals: null
+    description: Coinzo Token (CNZ) is a cryptocurrency and operates on the Ethereum
+      platform. Coinzo Token has a current supply of 0. The last known price of Coinzo
+      Token is 0.04281008 USD and is up 2.36 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $108,404.59 traded over the last 24 hours.
+      More information can be found at https://www.coinzo.com/cnz.
+    logoURI: null
+    name: Coinzo Token
+    symbol: CNZ
+    type: null

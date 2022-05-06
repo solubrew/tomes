@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe44061F043682ff77C1d51D4E0F93Ab2bb5b2ae0'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bitnomo
+    symbol: NOMO
+    type: null

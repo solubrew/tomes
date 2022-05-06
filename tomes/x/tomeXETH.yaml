@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaA19673aA1b483a5c4f73B446B4f851629a7e7D6'
+    chainId: null
+    decimals: null
+    description: Xplosive Ethereum (XETH) is a cryptocurrency and operates on the
+      Ethereum platform. Xplosive Ethereum has a current supply of 486,476 with 0
+      in circulation. The last known price of Xplosive Ethereum is 0.0634923 USD and
+      is down -4.50 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at http://xeth.finance.
+    logoURI: null
+    name: Xplosive Ethereum
+    symbol: XETH
+    type: null

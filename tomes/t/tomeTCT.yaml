@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7'
+    chainId: null
+    decimals: null
+    description: TokenClub (TCT) is a cryptocurrency and operates on the Ethereum
+      platform. TokenClub has a current supply of 995,239,500 with 692,992,169.4440348
+      in circulation. The last known price of TokenClub is 0.00776268 USD and is up
+      6.33 over the last 24 hours. It is currently trading on 12 active market(s)
+      with $801,495.90 traded over the last 24 hours. More information can be found
+      at http://www.tokenclub.com/.
+    logoURI: null
+    name: TokenClub
+    symbol: TCT
+    type: null

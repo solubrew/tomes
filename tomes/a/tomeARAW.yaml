@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x30680ac0a8a993088223925265fd7a76beb87e7f'
+    chainId: null
+    decimals: null
+    description: ARAW (ARAW) is a cryptocurrency and operates on the Ethereum platform.
+      ARAW has a current supply of 4,665,366,360 with 1,993,576,187.5 in circulation.
+      The last known price of ARAW is 0.0000706 USD and is up 2.25 over the last 24
+      hours. It is currently trading on 3 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://arawtoken.io.
+    logoURI: null
+    name: ARAW
+    symbol: ARAW
+    type: null

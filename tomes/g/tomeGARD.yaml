@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5c64031c62061865e5fd0f53d3cdaef80f72e99d'
+    chainId: null
+    decimals: null
+    description: Hashgard (GARD) is a cryptocurrency and operates on the Ethereum
+      platform. Hashgard has a current supply of 100,000,000,000 with 99,144,999,909.99997
+      in circulation. The last known price of Hashgard is 0.00017549 USD and is up
+      3.55 over the last 24 hours. It is currently trading on 11 active market(s)
+      with $75,504.09 traded over the last 24 hours. More information can be found
+      at https://www.hashgard.io/.
+    logoURI: null
+    name: Hashgard
+    symbol: GARD
+    type: null

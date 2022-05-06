@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x06404399e748cd83f25ab163711f9f4d61cfd0e6'
+    chainId: null
+    decimals: null
+    description: FunKeyPay (FNK) is a cryptocurrency and operates on the Ethereum
+      platform. FunKeyPay has a current supply of 0. The last known price of FunKeyPay
+      is 0.00005554 USD and is up 1.42 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $8,805.79 traded over the last 24 hours. More information
+      can be found at https://funkeypay.com/.
+    logoURI: null
+    name: FunKeyPay
+    symbol: FNK
+    type: null

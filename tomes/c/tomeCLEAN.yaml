@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4Cc888882eb5BEA6E8790DB749B558aB38dDCDB6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Housekeeping Coin
+    symbol: CLEAN
+    type: null

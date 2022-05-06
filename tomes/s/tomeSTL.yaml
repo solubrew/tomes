@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC1Ad68c43508dD5AdDb8d0ac0927dbE752d149D6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Stablecoinswap
+    symbol: STL
+    type: null

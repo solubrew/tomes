@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3557CF904f5384d79885bcb93Af2Aff94c36D8C1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Kyndness
+    symbol: KYND
+    type: null

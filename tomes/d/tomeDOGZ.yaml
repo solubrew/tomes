@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x82a77710495a35549d2add797412b4a4497d33ef'
+    chainId: null
+    decimals: null
+    description: Dogz (DOGZ) is a cryptocurrency and operates on the Ethereum platform.
+      Dogz has a current supply of 0. The last known price of Dogz is 0.00001861 USD
+      and is up 3.80 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $4,643.91 traded over the last 24 hours. More information can be found
+      at http://www.dogz.vip/.
+    logoURI: null
+    name: Dogz
+    symbol: DOGZ
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x228ba514309ffdf03a81a205a6d040e429d6e80c'
+    chainId: null
+    decimals: null
+    description: Global Social Chain (GSC) is a cryptocurrency and operates on the
+      Ethereum platform. Global Social Chain has a current supply of 1,000,000,000
+      with 572,806,485.9145601 in circulation. The last known price of Global Social
+      Chain is 0.00332611 USD and is down -3.53 over the last 24 hours. It is currently
+      trading on 5 active market(s) with $181,115.86 traded over the last 24 hours.
+      More information can be found at https://www.gsc.social.
+    logoURI: null
+    name: Global Social Chain
+    symbol: GSC
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xDF0960778C6E6597f197Ed9a25F12F5d971da86c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Vials of Goo
+    symbol: GOO
+    type: null

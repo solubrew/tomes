@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a'
+    chainId: null
+    decimals: null
+    description: Populous (PPT) is a cryptocurrency and operates on the Ethereum platform.
+      Populous has a current supply of 53,252,246 with 53,252,245.99438964 in circulation.
+      The last known price of Populous is 0.26499796 USD and is up 5.84 over the last
+      24 hours. It is currently trading on 21 active market(s) with $833,340.83 traded
+      over the last 24 hours. More information can be found at https://populous.world/.
+    logoURI: null
+    name: Populous
+    symbol: PPT
+    type: null

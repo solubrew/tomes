@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x40b92fCE37CEfA03baf7603e7913C1d34dD1a4EC'
+    chainId: null
+    decimals: null
+    description: YeaFinance (YEA) is a cryptocurrency and operates on the Ethereum
+      platform. YeaFinance has a current supply of 4,750 with 0 in circulation. The
+      last known price of YeaFinance is 2.65919881 USD and is down -16.94 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $38.09 traded
+      over the last 24 hours. More information can be found at http://yea.finance/.
+    logoURI: null
+    name: YeaFinance
+    symbol: YEA
+    type: null

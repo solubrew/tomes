@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe48972fcd82a274411c01834e2f031d4377fa2c0'
+    chainId: null
+    decimals: null
+    description: 2key.network (2KEY) is a cryptocurrency and operates on the Ethereum
+      platform. 2key.network has a current supply of 599,020,418.7745987 with 34,457,700.59660485
+      in circulation. The last known price of 2key.network is 0.01898993 USD and is
+      up 1.30 over the last 24 hours. It is currently trading on 10 active market(s)
+      with $111,060.33 traded over the last 24 hours. More information can be found
+      at https://2key.network.
+    logoURI: null
+    name: 2key.network
+    symbol: 2KEY
+    type: null

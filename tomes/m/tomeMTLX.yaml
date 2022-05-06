@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2e1e15c44ffe4df6a0cb7371cd00d5028e571d14'
+    chainId: null
+    decimals: null
+    description: Mettalex (MTLX) is a cryptocurrency and operates on the Ethereum
+      platform. Mettalex has a current supply of 40,000,000 with 958,917 in circulation.
+      The last known price of Mettalex is 1.43148581 USD and is down -10.46 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $66,668.43
+      traded over the last 24 hours. More information can be found at https://mettalex.com/.
+    logoURI: null
+    name: Mettalex
+    symbol: MTLX
+    type: null

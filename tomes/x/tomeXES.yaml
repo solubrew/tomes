@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA017ac5faC5941f95010b12570B812C974469c2C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Proxeus
+    symbol: XES
+    type: null

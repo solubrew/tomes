@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1A915888faAB504C0afCeC5d4041922fb3630812'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Y0Ct0
+    symbol: Y0Ct0
+    type: null

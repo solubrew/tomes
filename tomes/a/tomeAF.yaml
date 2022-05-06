@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF76D54904e4679f1e583bB0f07A8C58caE1dcf3e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Alex
+    symbol: AF
+    type: null

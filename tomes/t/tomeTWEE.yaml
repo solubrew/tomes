@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2b6ff53fc2493ccd5202d80a6c439741414c5ff2'
+    chainId: null
+    decimals: null
+    description: Tweebaa (TWEE) is a cryptocurrency launched in 2019and operates on
+      the Ethereum platform. Tweebaa has a current supply of 2,000,000,000 with 0
+      in circulation. The last known price of Tweebaa is 2.06305177 USD and is down
+      -0.06 over the last 24 hours. More information can be found at https://tweebaa.com/.
+    logoURI: null
+    name: Tweebaa
+    symbol: TWEE
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1e00a1Bc70dE783963c5c9B28b5162AaCa7570A2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: NPT
+    symbol: NPTX
+    type: null

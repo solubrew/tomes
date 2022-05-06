@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x108d27f9c4b2a98c025c94c76ca78c6ce6c7a4eb'
+    chainId: null
+    decimals: null
+    description: Metaprediction (METP) is a cryptocurrency and operates on the Ethereum
+      platform. Metaprediction has a current supply of 1,850,000,000 with 0 in circulation.
+      The last known price of Metaprediction is 0.00000596 USD and is up 2.83 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://metaprediction.com/.
+    logoURI: null
+    name: Metaprediction
+    symbol: METP
+    type: null

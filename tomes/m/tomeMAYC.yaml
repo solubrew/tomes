@@ -1,0 +1,12 @@
+family: BAYC
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0e5B1348BDdC08b24efB3CCa4f2A519Da305Cd4F'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: MAYC
+    type: null

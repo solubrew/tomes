@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8f87Ec6aAd3B2A8C44f1298A1af56169B8e574cf'
+    chainId: null
+    decimals: null
+    description: LYNC Network (LYNC) is a cryptocurrency and operates on the Ethereum
+      platform. LYNC Network has a current supply of 1,000,000 with 933,205.13138867
+      in circulation. The last known price of LYNC Network is 0.27835691 USD and is
+      up 2.76 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $78.75 traded over the last 24 hours. More information can be found at
+      https://lync.network/.
+    logoURI: null
+    name: LYNC Network
+    symbol: LYNC
+    type: null

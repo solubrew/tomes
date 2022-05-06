@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0fb4cd45b77273C3B51b361Dc94BC736176FCDa6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Mortgage S.I. Coin
+    symbol: MORTG
+    type: null

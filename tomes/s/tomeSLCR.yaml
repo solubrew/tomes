@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf6e26Fd7F9918dD602ff90F7CDa96dA963d30995'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Slicer
+    symbol: SLCR
+    type: null

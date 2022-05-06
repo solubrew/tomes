@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97'
+    chainId: null
+    decimals: null
+    description: CorionX (CORX) is a cryptocurrency and operates on the Ethereum platform.
+      CorionX has a current supply of 400,000,000 with 0 in circulation. The last
+      known price of CorionX is 0.00184362 USD and is down -23.77 over the last 24
+      hours. It is currently trading on 4 active market(s) with $103,191.23 traded
+      over the last 24 hours. More information can be found at https://corion.io/corionx/.
+    logoURI: null
+    name: CorionX
+    symbol: CORX
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0affa06e7fbe5bc9a764c979aa66e8256a631f02'
+    chainId: null
+    decimals: null
+    description: Polybius (PLBT) is a cryptocurrency and operates on the Ethereum
+      platform. Polybius has a current supply of 3,969,564.998325. The last known
+      price of Polybius is 0.87046192 USD and is up 2.62 over the last 24 hours. It
+      is currently trading on 6 active market(s) with $1,552.19 traded over the last
+      24 hours. More information can be found at https://polybius.io/.
+    logoURI: null
+    name: Polybius
+    symbol: PLBT
+    type: null

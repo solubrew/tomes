@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xECD8e185782a845bDe1Bf50F201F250f22fC4213'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Grosh
+    symbol: GROSH
+    type: null

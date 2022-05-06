@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x607C794cDa77efB21F8848B7910ecf27451Ae842'
+    chainId: null
+    decimals: null
+    description: DeFiPie (PIE) is a cryptocurrency and operates on the Ethereum platform.
+      DeFiPie has a current supply of 0. The last known price of DeFiPie is 0.03944133
+      USD and is up 48.60 over the last 24 hours. It is currently trading on 4 active
+      market(s) with $41,418.74 traded over the last 24 hours. More information can
+      be found at https://defipie.com/.
+    logoURI: null
+    name: DeFiPie
+    symbol: PIE
+    type: null

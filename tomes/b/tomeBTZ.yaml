@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa085edaF9E9688611D5390046eF28f206DfC1dFE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: "\u5065\u5EB7\u901A\u8BC1"
+    symbol: BTZ
+    type: null

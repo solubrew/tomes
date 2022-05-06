@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x660e71483785f66133548B10f6926dC332b06e61'
+    chainId: null
+    decimals: null
+    description: Adelphoi (ADL) is a cryptocurrency and operates on the Ethereum platform.
+      Adelphoi has a current supply of 100,000,000 with 20,722,224 in circulation.
+      The last known price of Adelphoi is 0.02714665 USD and is up 4.60 over the last
+      24 hours. It is currently trading on 2 active market(s) with $745.86 traded
+      over the last 24 hours. More information can be found at https://adel.io.
+    logoURI: null
+    name: Adelphoi
+    symbol: ADL
+    type: null

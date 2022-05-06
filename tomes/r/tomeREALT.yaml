@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x46cc7EC70746F4cbd56CE5FA9Bb7d648398EaA5C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: REAL-T
+    symbol: REALT
+    type: null

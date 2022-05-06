@@ -1,0 +1,15 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0f86b24dA64e16d9B21585a8734B8b0c94a43C18'
+    chainId: null
+    decimals: null
+    description: Fidelity claims to be a decentralized utility token powered by ethereum
+      BlockChain with the aim of providing users with full control of their funds
+    logoURI: null
+    name: Fidelity Token
+    symbol: FDT
+    type: null

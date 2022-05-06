@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x336492A0601CC85e08C14D390BF07d960328aaf4'
+    chainId: null
+    decimals: null
+    description: Blueshare Token (BST1) is a cryptocurrency and operates on the Ethereum
+      platform. Blueshare Token has a current supply of 0. The last known price of
+      Blueshare Token is 0.40725848 USD and is up 12.44 over the last 24 hours. It
+      is currently trading on 3 active market(s) with $0.00 traded over the last 24
+      hours. More information can be found at https://blueshare.live/.
+    logoURI: null
+    name: Blueshare Token
+    symbol: BST1
+    type: null

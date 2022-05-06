@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcDd0A6B15B49A9eb3Ce011CCE22FAc2ccf09ecE6'
+    chainId: null
+    decimals: null
+    description: ARMTOKEN (TARM) is a cryptocurrency and operates on the Ethereum
+      platform. ARMTOKEN has a current supply of 330,000,000 with 0 in circulation.
+      The last known price of ARMTOKEN is 0.01596426 USD and is up 2.19 over the last
+      24 hours. It is currently trading on 3 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://armtoken.io.
+    logoURI: null
+    name: ARMTOKEN
+    symbol: TARM
+    type: null

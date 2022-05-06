@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9205c049c231dda51bace0ba569f047e3e1e9979'
+    chainId: null
+    decimals: null
+    description: Latamcash (LMCH) is a cryptocurrency launched in 2019and operates
+      on the Ethereum platform. Latamcash has a current supply of 1,000,000,000 with
+      0 in circulation. The last known price of Latamcash is 0.08030341 USD and is
+      down -3.11 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $180,939.45 traded over the last 24 hours. More information can be found
+      at https://latamcash.io/.
+    logoURI: null
+    name: Latamcash
+    symbol: LMCH
+    type: null

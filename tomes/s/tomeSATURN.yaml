@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb9440022a095343B440D590FCD2d7A3794Bd76c8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Saturn DAO Token
+    symbol: SATURN
+    type: null

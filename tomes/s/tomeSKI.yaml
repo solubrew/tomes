@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d'
+    chainId: null
+    decimals: null
+    description: Skillchain (SKI) is a cryptocurrency and operates on the Ethereum
+      platform. Skillchain has a current supply of 190,800,000 with 0 in circulation.
+      The last known price of Skillchain is 0.02001158 USD and is down -53.61 over
+      the last 24 hours. It is currently trading on 4 active market(s) with $1.82
+      traded over the last 24 hours. More information can be found at https://www.skillchain.io/.
+    logoURI: null
+    name: Skillchain
+    symbol: SKI
+    type: null

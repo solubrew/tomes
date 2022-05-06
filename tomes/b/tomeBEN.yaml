@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x108C05cAc356D93B351375434101cfD3E14f7E44'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Token of Szczepan Bentyn
+    symbol: BEN
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEeDdaa78E0b2De769e969bd049c8faFf3280dF97'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Gold Pressed Latinum
+    symbol: GPL
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9d8be94d0612170ce533ac4d7b43cc3cd91e5a1a'
+    chainId: null
+    decimals: null
+    description: BQT (BQTX) is a cryptocurrency and operates on the Ethereum platform.
+      BQT has a current supply of 800,000,000 with 584,505,736.8126774 in circulation.
+      The last known price of BQT is 0.00132308 USD and is up 0.92 over the last 24
+      hours. It is currently trading on 4 active market(s) with $1,431.94 traded over
+      the last 24 hours. More information can be found at https://bqt.io/.
+    logoURI: null
+    name: BQT
+    symbol: BQTX
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x87AB739464881af0011052D4Ca0B0d657e8c3B48'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MikeTangoBravo19
+    symbol: MTB19
+    type: null

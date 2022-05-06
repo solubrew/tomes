@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6E9DA81ce622fB65ABf6a8d8040e460fF2543Add'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: GDOG
+    type: null

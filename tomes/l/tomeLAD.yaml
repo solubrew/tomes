@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4129d3b7a6a2c5c997774077ac02bdafd1af1d6a'
+    chainId: null
+    decimals: null
+    description: Ladder Network Token (LAD) is a cryptocurrency and operates on the
+      Ethereum platform. Ladder Network Token has a current supply of 1,000,000,000
+      with 0 in circulation. The last known price of Ladder Network Token is 0.00300284
+      USD and is up 0.01 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $21.16 traded over the last 24 hours. More information can be
+      found at http://laddernetwork.io/.
+    logoURI: null
+    name: Ladder Network Token
+    symbol: LAD
+    type: null

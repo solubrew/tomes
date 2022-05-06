@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1A5F9352Af8aF974bFC03399e3767DF6370d82e4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: OWL Token
+    symbol: OWL
+    type: null

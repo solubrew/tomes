@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf151980e7a781481709e8195744bf2399fb3cba4'
+    chainId: null
+    decimals: null
+    description: Freeway Token (FWT) is a cryptocurrency and operates on the Ethereum
+      platform. Freeway Token has a current supply of 10,000,000,000 with 0 in circulation.
+      The last known price of Freeway Token is 0.00374741 USD and is up 7.14 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $499,666.08
+      traded over the last 24 hours. More information can be found at https://aubit.io/.
+    logoURI: null
+    name: Freeway Token
+    symbol: FWT
+    type: null

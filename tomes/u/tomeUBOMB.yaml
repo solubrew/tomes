@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x265Ba42daF2D20F3F358a7361D9f69Cb4E28F0E6'
+    chainId: null
+    decimals: null
+    description: Unibomb (UBOMB) is a cryptocurrency and operates on the Ethereum
+      platform. Unibomb has a current supply of 8,508,187.45796374 with 0 in circulation.
+      The last known price of Unibomb is 0.01112138 USD and is up 4.93 over the last
+      24 hours. More information can be found at https://unibomb.it/.
+    logoURI: null
+    name: Unibomb
+    symbol: UBOMB
+    type: null

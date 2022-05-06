@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2515905Dd027Cc38f139fEDa8e7E6945C7F9d07A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CREEKCOIN CRKC ERC20
+    symbol: CRKC
+    type: null

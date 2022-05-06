@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd1ef9a7310d0806855c672288ef5a1bab62cef33'
+    chainId: null
+    decimals: null
+    description: BELIEVER (BLVR) is a cryptocurrency and operates on the Ethereum
+      platform. BELIEVER has a current supply of 17,500,000 with 0 in circulation.
+      The last known price of BELIEVER is 2.52190085 USD and is up 10.19 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $45,023.20
+      traded over the last 24 hours. More information can be found at https://www.believercards.com/.
+    logoURI: null
+    name: BELIEVER
+    symbol: BLVR
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCdeee767beD58c5325f68500115d4B722b3724EE'
+    chainId: null
+    decimals: null
+    description: Carbon (CRBN) is a cryptocurrency and operates on the Ethereum platform.
+      Carbon has a current supply of 41,194,443 with 16,874,711 in circulation. The
+      last known price of Carbon is 0.04286115 USD and is down -2.76 over the last
+      24 hours. It is currently trading on 4 active market(s) with $174,315.30 traded
+      over the last 24 hours. More information can be found at https://crbn.io.
+    logoURI: null
+    name: Carbon
+    symbol: CRBN
+    type: null

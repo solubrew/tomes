@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb2c822a1b923e06dbd193d2cfc7ad15388ea09dd'
+    chainId: null
+    decimals: null
+    description: Vampire Protocol (VAMP) is a cryptocurrency and operates on the Ethereum
+      platform. Vampire Protocol has a current supply of 0. The last known price of
+      Vampire Protocol is 0.01044794 USD and is up 10.00 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $2,956.82 traded over the last
+      24 hours. More information can be found at https://vampire.finance/.
+    logoURI: null
+    name: Vampire Protocol
+    symbol: VAMP
+    type: null

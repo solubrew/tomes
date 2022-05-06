@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFbaf48e57CAB46F4c2E03eDB90a421D9fC6c7cBF'
+    chainId: null
+    decimals: null
+    description: MIKS COIN (MIKS) is a cryptocurrency and operates on the Ethereum
+      platform. MIKS COIN has a current supply of 0. The last known price of MIKS
+      COIN is 0.00010076 USD and is down -1.85 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $10,016.34 traded over the last 24 hours.
+      More information can be found at https://mikscoin.ph/.
+    logoURI: null
+    name: MIKS COIN
+    symbol: MIKS
+    type: null

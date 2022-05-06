@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc3Eb2622190c57429aac3901808994443b64B466'
+    chainId: null
+    decimals: null
+    description: ORO (ORO) is a cryptocurrency and operates on the Ethereum platform.
+      ORO has a current supply of 100,000,000 with 0 in circulation. The last known
+      price of ORO is 0.48238519 USD and is down -21.18 over the last 24 hours. It
+      is currently trading on 2 active market(s) with $1,046,465.09 traded over the
+      last 24 hours. More information can be found at https://t.me/oropocket.
+    logoURI: null
+    name: ORO
+    symbol: ORO
+    type: null

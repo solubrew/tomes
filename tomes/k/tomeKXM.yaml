@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x63518FA947A0b9C61Fc69369015C68630fdA910e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: KXM Token
+    symbol: KXM
+    type: null

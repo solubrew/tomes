@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5750a2117C14cAdd1cc523fD8a600559C89C83bb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Wrapped Tether
+    symbol: WUSDT
+    type: null

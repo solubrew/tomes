@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x668DbF100635f593A3847c0bDaF21f0a09380188'
+    chainId: null
+    decimals: null
+    description: BNSD Finance (BNSD) is a cryptocurrency and operates on the Ethereum
+      platform. BNSD Finance has a current supply of 11,037,567.27272727 with 0 in
+      circulation. The last known price of BNSD Finance is 0.01266605 USD and is up
+      2.21 over the last 24 hours. It is currently trading on 2 active market(s) with
+      $2,352.09 traded over the last 24 hours. More information can be found at https://bns.finance/.
+    logoURI: null
+    name: BNSD Finance
+    symbol: BNSD
+    type: null

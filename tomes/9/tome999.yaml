@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbf05571988daab22d33c28bbb13566eae9dee626'
+    chainId: null
+    decimals: null
+    description: 999 (999) is a cryptocurrency and operates on the Ethereum platform.
+      999 has a current supply of 999,999,999 with 217,101,154 in circulation. The
+      last known price of 999 is 0.00000215 USD and is up 0.00 over the last 24 hours.
+      It is currently trading on 0 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://coin999.cash/.
+    logoURI: null
+    name: '999'
+    symbol: '999'
+    type: null

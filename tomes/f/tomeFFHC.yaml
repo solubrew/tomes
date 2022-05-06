@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9645F9CB0AF410F170Afe062bfbEA0FC51e524e8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: flashflip HC
+    symbol: FFHC
+    type: null

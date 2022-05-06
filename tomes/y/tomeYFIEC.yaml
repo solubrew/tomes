@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2e6e152d29053b6337e434bc9be17504170f8a5b'
+    chainId: null
+    decimals: null
+    description: Yearn Finance Ecosystem (YFIEC) is a cryptocurrency and operates
+      on the Ethereum platform. Yearn Finance Ecosystem has a current supply of 25,000
+      with 0 in circulation. The last known price of Yearn Finance Ecosystem is 4.81641246
+      USD and is down -4.76 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $271.62 traded over the last 24 hours. More information can be
+      found at https://yfiec.finance.
+    logoURI: null
+    name: Yearn Finance Ecosystem
+    symbol: YFIEC
+    type: null

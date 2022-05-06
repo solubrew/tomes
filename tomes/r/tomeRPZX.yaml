@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x68350d30d9f58c81aaaa41929f1bfc52fff4ea49'
+    chainId: null
+    decimals: null
+    description: Rapidz (RPZX) is a cryptocurrency and operates on the Ethereum platform.
+      Rapidz has a current supply of 5,000,000,000 with 1,717,254,284.0272279 in circulation.
+      The last known price of Rapidz is 0.00140095 USD and is down -28.12 over the
+      last 24 hours. It is currently trading on 4 active market(s) with $3,801.87
+      traded over the last 24 hours. More information can be found at https://www.rapidz.io/.
+    logoURI: null
+    name: Rapidz
+    symbol: RPZX
+    type: null

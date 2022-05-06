@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FARAD
+    symbol: FRD
+    type: null

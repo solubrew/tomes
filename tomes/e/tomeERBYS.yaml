@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x29c8682e6cABd9485413Cf81057fFA8fd4c399a4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ErrbodysToken
+    symbol: ERBYS
+    type: null

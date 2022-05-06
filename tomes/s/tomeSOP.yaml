@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x076641af1b8f06b7f8c92587156143c109002cbe'
+    chainId: null
+    decimals: null
+    description: SoPay (SOP) is a cryptocurrency and operates on the Ethereum platform.
+      SoPay has a current supply of 4,500,000,000 with 0 in circulation. The last
+      known price of SoPay is 0.00003409 USD and is down -0.95 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $2,331.78 traded over the
+      last 24 hours. More information can be found at https://sopay.org/en.
+    logoURI: null
+    name: SoPay
+    symbol: SOP
+    type: null

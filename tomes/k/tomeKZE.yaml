@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x71944c7953c93dBc0cd977e0ee1bBd9C2494B7B1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ALMEELA
+    symbol: KZE
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbd301be09eb78df47019aa833d29edc5d815d838'
+    chainId: null
+    decimals: null
+    description: YFUEL (YFUEL) is a cryptocurrency and operates on the Ethereum platform.
+      YFUEL has a current supply of 24,400 with 0 in circulation. The last known price
+      of YFUEL is 1.60884167 USD and is up 2.59 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $29.96 traded over the last 24 hours. More
+      information can be found at https://home.yfuel.finance/.
+    logoURI: null
+    name: YFUEL
+    symbol: YFUEL
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e'
+    chainId: null
+    decimals: null
+    description: Cryptopay (CPAY) is a cryptocurrency and operates on the Ethereum
+      platform. Cryptopay has a current supply of 90,414,745 with 68,372,416 in circulation.
+      The last known price of Cryptopay is 0.05794579 USD and is up 12.28 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $199.38 traded
+      over the last 24 hours. More information can be found at https://cryptopay.me/.
+    logoURI: null
+    name: Cryptopay
+    symbol: CPAY
+    type: null

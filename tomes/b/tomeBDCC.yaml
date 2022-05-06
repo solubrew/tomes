@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc87f95aa269dd300d9f1ce49d8e1fd8119a10456'
+    chainId: null
+    decimals: null
+    description: BDCC Bitica COIN (BDCC) is a cryptocurrency and operates on the Ethereum
+      platform. BDCC Bitica COIN has a current supply of 18,000,000 with 3,723,082.139
+      in circulation. The last known price of BDCC Bitica COIN is 0.94348008 USD and
+      is down -2.22 over the last 24 hours. It is currently trading on 15 active market(s)
+      with $5,190,557.73 traded over the last 24 hours. More information can be found
+      at http://thebitica.com/.
+    logoURI: null
+    name: BDCC Bitica COIN
+    symbol: BDCC
+    type: null

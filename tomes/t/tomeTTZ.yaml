@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd21Ba1c2C0e8Fbd236553Efa39137165B3A68E75'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TestTokenZ
+    symbol: TTZ
+    type: null

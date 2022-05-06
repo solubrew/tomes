@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc05d14442a510de4d3d71a3d316585aa0ce32b50'
+    chainId: null
+    decimals: null
+    description: LINA (LINA) is a cryptocurrency and operates on the Ethereum platform.
+      LINA has a current supply of 900,000,000 with 303,774,966.7491917 in circulation.
+      The last known price of LINA is 0.00478744 USD and is up 3.20 over the last
+      24 hours. It is currently trading on 7 active market(s) with $1,917.18 traded
+      over the last 24 hours. More information can be found at https://lina.network.
+    logoURI: null
+    name: LINA
+    symbol: LINA
+    type: null

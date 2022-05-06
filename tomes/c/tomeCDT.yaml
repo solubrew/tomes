@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af'
+    chainId: null
+    decimals: null
+    description: Blox (CDT) is a cryptocurrency and operates on the Ethereum platform.
+      Blox has a current supply of 1,000,000,000 with 674,579,184.17 in circulation.
+      The last known price of Blox is 0.00647661 USD and is down -4.07 over the last
+      24 hours. It is currently trading on 13 active market(s) with $7,094.81 traded
+      over the last 24 hours. More information can be found at https://www.bloxstaking.com/.
+    logoURI: null
+    name: Blox
+    symbol: CDT
+    type: null

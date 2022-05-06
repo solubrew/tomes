@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd45247c07379d94904e0a87b4481f0a1ddfa0c64'
+    chainId: null
+    decimals: null
+    description: Buggyra Coin Zero (BCZERO) is a cryptocurrency and operates on the
+      Ethereum platform. Buggyra Coin Zero has a current supply of 10,000,000,000
+      with 2,010,775,988.46 in circulation. The last known price of Buggyra Coin Zero
+      is 0.01181261 USD and is down -0.03 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $2,953.35 traded over the last 24 hours.
+      More information can be found at https://buggyracoinzero.com.
+    logoURI: null
+    name: Buggyra Coin Zero
+    symbol: BCZERO
+    type: null

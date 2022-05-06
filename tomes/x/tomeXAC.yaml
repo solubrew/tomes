@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xDe4C5a791913838027a2185709E98c5C6027EA63'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: XACToken
+    symbol: XAC
+    type: null

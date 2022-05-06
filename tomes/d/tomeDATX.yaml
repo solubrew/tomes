@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab'
+    chainId: null
+    decimals: null
+    description: DATx (DATX) is a cryptocurrency and operates on the Ethereum platform.
+      DATx has a current supply of 10,000,000,000 with 1,391,302,551.3276196 in circulation.
+      The last known price of DATx is 0.00017305 USD and is down -1.32 over the last
+      24 hours. It is currently trading on 12 active market(s) with $371,809.83 traded
+      over the last 24 hours. More information can be found at https://www.datx.co/.
+    logoURI: null
+    name: DATx
+    symbol: DATX
+    type: null

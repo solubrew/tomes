@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x063b98a414eaa1d4a5d4fc235a22db1427199024'
+    chainId: null
+    decimals: null
+    description: VOMER (VMR) is a cryptocurrency and operates on the Ethereum platform.
+      VOMER has a current supply of 50,000,000 with 0 in circulation. The last known
+      price of VOMER is 0.299 USD and is up 3.35 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $2,977.08 traded over the last 24 hours.
+      More information can be found at https://my.vomer.com.ua/.
+    logoURI: null
+    name: VOMER
+    symbol: VMR
+    type: null

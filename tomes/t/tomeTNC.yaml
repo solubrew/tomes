@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd59ffBE33F93aA0ec95EA563c676333100d1dfE0'
+    chainId: null
+    decimals: null
+    description: TNC Coin (TNC) is a cryptocurrency and operates on the Ethereum platform.
+      TNC Coin has a current supply of 1,000,000,000,000 with 2,310,424,689 in circulation.
+      The last known price of TNC Coin is 0.10993814 USD and is up 0.43 over the last
+      24 hours. It is currently trading on 30 active market(s) with $6,400,073.09
+      traded over the last 24 hours. More information can be found at https://tnccoin.com/.
+    logoURI: null
+    name: TNC Coin
+    symbol: TNC
+    type: null

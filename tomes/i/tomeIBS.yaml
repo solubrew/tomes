@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf0e6019c0f16d31294937b3334229909349e00f4'
+    chainId: null
+    decimals: null
+    description: IBStoken (IBS) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. IBStoken has a current supply of 1,500,000,000 with 1,043,994.808
+      in circulation. The last known price of IBStoken is 0.01393977 USD and is up
+      47.16 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $53,582.17 traded over the last 24 hours. More information can be found
+      at https://www.ibstoken.org.
+    logoURI: null
+    name: IBStoken
+    symbol: IBS
+    type: null

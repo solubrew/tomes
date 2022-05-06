@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaB689100AD5bC9fdE7267Da1299265FE740D243c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FXT Victory
+    symbol: FXV
+    type: null

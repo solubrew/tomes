@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5ACdC58a2dDF7832A6494B6d8b8CB9bfE1c9f460'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ID Crypto Net
+    symbol: IDCN
+    type: null

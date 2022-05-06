@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5A63Eb358a751b76e58325eadD86c2473fC40e87'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Newb
+    symbol: NEWB
+    type: null

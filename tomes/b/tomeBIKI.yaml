@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930'
+    chainId: null
+    decimals: null
+    description: BIKI (BIKI) is a cryptocurrency launched in 2018and operates on the
+      Ethereum platform. BIKI has a current supply of 510,728,078.8999999 with 314,898,566.8999999
+      in circulation. The last known price of BIKI is 0.03242379 USD and is up 3.22
+      over the last 24 hours. It is currently trading on 6 active market(s) with $758,936.63
+      traded over the last 24 hours. More information can be found at https://www.biki.com/zh_CN/trade/BIKI_USDT.
+    logoURI: null
+    name: BIKI
+    symbol: BIKI
+    type: null

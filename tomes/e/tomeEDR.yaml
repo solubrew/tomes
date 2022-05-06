@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc528c28FEC0A90C083328BC45f587eE215760A0F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Endor Protocol Token
+    symbol: EDR
+    type: null

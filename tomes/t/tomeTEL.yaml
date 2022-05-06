@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x467bccd9d29f223bce8043b84e8c8b282827790f'
+    chainId: null
+    decimals: null
+    description: Telcoin (TEL) is a cryptocurrency and operates on the Ethereum platform.
+      Telcoin has a current supply of 100,000,000,000 with 47,270,110,195 in circulation.
+      The last known price of Telcoin is 0.00017281 USD and is down -1.06 over the
+      last 24 hours. It is currently trading on 8 active market(s) with $75,749.29
+      traded over the last 24 hours. More information can be found at https://www.telco.in/.
+    logoURI: null
+    name: Telcoin
+    symbol: TEL
+    type: null

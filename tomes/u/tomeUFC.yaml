@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x995de3d961b40ec6cdee0009059d48768ccbdd48'
+    chainId: null
+    decimals: null
+    description: Union Fair Coin (UFC) is a cryptocurrency and operates on the Ethereum
+      platform. Union Fair Coin has a current supply of 20,999,986 with 0 in circulation.
+      The last known price of Union Fair Coin is 0.11014681 USD and is up 7.52 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $4,286,600.99
+      traded over the last 24 hours. More information can be found at http://www.ufc.today/.
+    logoURI: null
+    name: Union Fair Coin
+    symbol: UFC
+    type: null

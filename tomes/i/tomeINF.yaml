@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x00e150d741eda1d49d341189cae4c08a73a49c95'
+    chainId: null
+    decimals: null
+    description: Infinitus Token (INF) is a cryptocurrency and operates on the Ethereum
+      platform. Infinitus Token has a current supply of 100,000,000 with 41,585,239.5086698
+      in circulation. The last known price of Infinitus Token is 0.01224355 USD and
+      is up 2.78 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $10,614.49 traded over the last 24 hours. More information can be found
+      at https://inftech.io/.
+    logoURI: null
+    name: Infinitus Token
+    symbol: INF
+    type: null

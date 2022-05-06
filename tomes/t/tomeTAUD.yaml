@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x00006100F7090010005F1bd7aE6122c3C2CF0090'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TrueAUD
+    symbol: TAUD
+    type: null

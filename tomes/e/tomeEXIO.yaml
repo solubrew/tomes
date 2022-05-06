@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA41E11Fa5338bD68e1Dac52Fa21d893D025A2ec5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: nETHx10
+    symbol: EXIO
+    type: null

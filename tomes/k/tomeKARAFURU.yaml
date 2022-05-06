@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: KARAFURU
+    type: null

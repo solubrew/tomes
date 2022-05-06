@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48'
+    chainId: null
+    decimals: null
+    description: Beowulf (BWF) is a cryptocurrency and operates on the Ethereum platform.
+      Beowulf has a current supply of 3,000,000,000 with 1,000,000,099 in circulation.
+      The last known price of Beowulf is 0.01001816 USD and is down -12.24 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $662,654.52
+      traded over the last 24 hours. More information can be found at https://beowulfchain.com.
+    logoURI: null
+    name: Beowulf
+    symbol: BWF
+    type: null

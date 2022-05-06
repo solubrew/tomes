@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa'
+    chainId: null
+    decimals: null
+    description: KittenFinance (KIF) is a cryptocurrency and operates on the Ethereum
+      platform. KittenFinance has a current supply of 0. The last known price of KittenFinance
+      is 42.66891872 USD and is down -6.18 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $161,374.72 traded over the last 24 hours.
+      More information can be found at https://www.kitten.finance/.
+    logoURI: null
+    name: KittenFinance
+    symbol: KIF
+    type: null

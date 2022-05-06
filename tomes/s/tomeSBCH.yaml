@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x36a2422a863D5B950882190Ff5433E513413343a'
+    chainId: null
+    decimals: null
+    description: sBCH (SBCH) is a cryptocurrency and operates on the Ethereum platform.
+      sBCH has a current supply of 158.45313836 with 0 in circulation. The last known
+      price of sBCH is 0 USD and is up 0.00 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $0.00 traded over the last 24 hours. More
+      information can be found at https://www.synthetix.io/.
+    logoURI: null
+    name: sBCH
+    symbol: SBCH
+    type: null

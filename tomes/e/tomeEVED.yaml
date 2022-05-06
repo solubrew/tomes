@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd'
+    chainId: null
+    decimals: null
+    description: Evedo (EVED) is a cryptocurrency and operates on the Ethereum platform.
+      Evedo has a current supply of 17,756,589.687825 with 13,671,789.68781993 in
+      circulation. The last known price of Evedo is 0.02558305 USD and is down -7.95
+      over the last 24 hours. It is currently trading on 5 active market(s) with $767,394.11
+      traded over the last 24 hours. More information can be found at https://www.evedo.co/.
+    logoURI: null
+    name: Evedo
+    symbol: EVED
+    type: null

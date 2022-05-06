@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7'
+    chainId: null
+    decimals: null
+    description: FirstBlood (1ST) is a cryptocurrency and operates on the Ethereum
+      platform. FirstBlood has a current supply of 93,468,691 with 85,558,370.5 in
+      circulation. The last known price of FirstBlood is 0.11660657 USD and is down
+      -5.95 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $708.58 traded over the last 24 hours. More information can be found at
+      https://firstblood.io/.
+    logoURI: null
+    name: FirstBlood
+    symbol: 1ST
+    type: null

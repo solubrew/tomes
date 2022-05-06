@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x76a6Baa20598B6d203d3EAe6CC87E326bCB60e43'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Law Diamond Token
+    symbol: LDT
+    type: null

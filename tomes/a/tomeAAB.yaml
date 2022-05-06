@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x686c650dbcfeaa75d09b883621ad810f5952bd5d'
+    chainId: null
+    decimals: null
+    description: AAX Token (AAB) is a cryptocurrency and operates on the Ethereum
+      platform. AAX Token has a current supply of 25,000,000.00000028 with 3,500,005
+      in circulation. The last known price of AAX Token is 0.1032449 USD and is down
+      -3.74 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $1,036,641.40 traded over the last 24 hours. More information can be found
+      at https://aab.aax.com/en/.
+    logoURI: null
+    name: AAX Token
+    symbol: AAB
+    type: null

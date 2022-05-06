@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x979ebc09e55ea0ab563cf7175e4c4b1a03afc19a'
+    chainId: null
+    decimals: null
+    description: UTEMIS (UTS) is a cryptocurrency and operates on the Ethereum platform.
+      UTEMIS has a current supply of 700,000,000 with 0 in circulation. The last known
+      price of UTEMIS is 0.00050115 USD and is up 5.17 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $0.00 traded over the last 24
+      hours. More information can be found at https://utemis.com/.
+    logoURI: null
+    name: UTEMIS
+    symbol: UTS
+    type: null

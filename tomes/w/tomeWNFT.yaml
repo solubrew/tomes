@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2B3e6Bcc143D82a2AAB4f7768A42A57007a3f890'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Wrapped NFT
+    symbol: WNFT
+    type: null

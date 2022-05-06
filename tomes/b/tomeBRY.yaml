@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x120B06F17392A9ea9EF848De35eb90f6Ad6Daa63'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Attebery
+    symbol: BRY
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x07e3c70653548B04f0A75970C1F81B4CBbFB606f'
+    chainId: null
+    decimals: null
+    description: Agrello (DLT) is a cryptocurrency and operates on the Ethereum platform.
+      Agrello has a current supply of 130,271,020.035721 with 96,151,688.99419266
+      in circulation. The last known price of Agrello is 0.03295348 USD and is up
+      3.81 over the last 24 hours. It is currently trading on 4 active market(s) with
+      $504,022.69 traded over the last 24 hours. More information can be found at
+      https://www.agrello.id/.
+    logoURI: null
+    name: Agrello
+    symbol: DLT
+    type: null

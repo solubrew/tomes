@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x657FFC4FB2c4625Adbb3452556F7a482B76e5011'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: VULTUR
+    symbol: VLTR
+    type: null

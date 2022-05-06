@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x95172ccBe8344fecD73D0a30F54123652981BD6F'
+    chainId: null
+    decimals: null
+    description: Meridian Network (LOCK) is a cryptocurrency and operates on the Ethereum
+      platform. Meridian Network has a current supply of 10,947,704.54242852 with
+      10,420,424.66113783 in circulation. The last known price of Meridian Network
+      is 0.19744903 USD and is up 42.26 over the last 24 hours. It is currently trading
+      on 2 active market(s) with $968,404.70 traded over the last 24 hours. More information
+      can be found at https://meridian-network.co/.
+    logoURI: null
+    name: Meridian Network
+    symbol: LOCK
+    type: null

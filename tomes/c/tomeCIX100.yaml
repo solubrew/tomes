@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6393e822874728f8afa7e1c9944e417d37ca5878'
+    chainId: null
+    decimals: null
+    description: Cryptoindex.com 100 (CIX100) is a cryptocurrency and operates on
+      the Ethereum platform. Cryptoindex.com 100 has a current supply of 300,000,000
+      with 62,409,479.63226125 in circulation. The last known price of Cryptoindex.com
+      100 is 0.47343841 USD and is down -0.39 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $650.47 traded over the last 24 hours. More
+      information can be found at https://cryptoindex.com.
+    logoURI: null
+    name: Cryptoindex.com 100
+    symbol: CIX100
+    type: null

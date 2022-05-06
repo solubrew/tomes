@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf26893f89b23084c4c6216038d6ebdbe9e96c5cb'
+    chainId: null
+    decimals: null
+    description: Mega Lottery Services Global (MLR) is a cryptocurrency and operates
+      on the Ethereum platform. Mega Lottery Services Global has a current supply
+      of 1,000,000,000 with 0 in circulation. The last known price of Mega Lottery
+      Services Global is 0.01967741 USD and is up 2.83 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $0.00 traded over the last 24
+      hours. More information can be found at https://megaltr.com.
+    logoURI: null
+    name: Mega Lottery Services Global
+    symbol: MLR
+    type: null

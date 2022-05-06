@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4571f3a386d1bd18E25d70d117e7067FA0Bd9D08'
+    chainId: null
+    decimals: null
+    description: Dexter G (DXG) is a cryptocurrency and operates on the Ethereum platform.
+      Dexter G has a current supply of 91,834,502.8781996 with 0 in circulation. The
+      last known price of Dexter G is 0.12916678 USD and is down -5.41 over the last
+      24 hours. It is currently trading on 1 active market(s) with $4,205.22 traded
+      over the last 24 hours. More information can be found at https://coinbit.co.kr.
+    logoURI: null
+    name: Dexter G
+    symbol: DXG
+    type: null

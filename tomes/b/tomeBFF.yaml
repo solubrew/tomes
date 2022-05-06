@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x708aA4e8AaeAaD6074dD09cc4e5C52A70452eB39'
+    chainId: null
+    decimals: null
+    description: Bitcoffeen (BFF) is a cryptocurrency and operates on the Ethereum
+      platform. Bitcoffeen has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of Bitcoffeen is 0.01932161 USD and is down -48.95 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://bitcoffeen.com/.
+    logoURI: null
+    name: Bitcoffeen
+    symbol: BFF
+    type: null

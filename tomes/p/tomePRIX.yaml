@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3ADfc4999F77D04c8341BAC5F3A76f58DfF5B37A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Privatix
+    symbol: PRIX
+    type: null

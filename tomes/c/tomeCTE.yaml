@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xac397B0fe4EF28eD11EAc6063d9eC3550e94a8CD'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cloud too chain
+    symbol: CTE
+    type: null

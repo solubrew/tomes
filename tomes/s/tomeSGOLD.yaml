@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5cAc3991e1d10d62dF007A3559f652887735AEDb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SPACEGOLD
+    symbol: SGOLD
+    type: null

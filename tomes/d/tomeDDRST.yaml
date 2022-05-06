@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3ef36D53A168c44ed2Ec7a98129CA0308BC1AE45'
+    chainId: null
+    decimals: null
+    description: DigiDinar Stable Token (DDRST) is a cryptocurrency and operates on
+      the Ethereum platform. DigiDinar Stable Token has a current supply of 0. The
+      last known price of DigiDinar Stable Token is 3.2929344 USD and is up 1.43 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://www.digidinar.com/.
+    logoURI: null
+    name: DigiDinar Stable Token
+    symbol: DDRST
+    type: null

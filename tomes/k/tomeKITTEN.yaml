@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC4771c27FB631FF6046845d06561bF20eF753DaB'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: KITTEN
+    type: null

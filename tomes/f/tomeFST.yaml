@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x310c93dfc1c5e34cdf51678103f63c41762089cd'
+    chainId: null
+    decimals: null
+    description: 1irstcoin (FST) is a cryptocurrency and operates on the Ethereum
+      platform. 1irstcoin has a current supply of 100,000,000 with 34,968,118.099488
+      in circulation. The last known price of 1irstcoin is 0.94624679 USD and is up
+      3.85 over the last 24 hours. It is currently trading on 4 active market(s) with
+      $71,053.68 traded over the last 24 hours. More information can be found at https://1irstcoin.com.
+    logoURI: null
+    name: 1irstcoin
+    symbol: FST
+    type: null

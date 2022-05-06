@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1'
+    chainId: null
+    decimals: null
+    description: UniLend (UFT) is a cryptocurrency and operates on the Ethereum platform.
+      UniLend has a current supply of 100,000,000 with 10,800,000 in circulation.
+      The last known price of UniLend is 0.64041712 USD and is down -12.44 over the
+      last 24 hours. It is currently trading on 9 active market(s) with $1,262,560.66
+      traded over the last 24 hours. More information can be found at https://unilend.finance/.
+    logoURI: null
+    name: UniLend
+    symbol: UFT
+    type: null

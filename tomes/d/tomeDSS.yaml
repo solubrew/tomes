@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x213c53c96a01a89e6dcc5683cf16473203e17513'
+    chainId: null
+    decimals: null
+    description: Defi Shopping Stake (DSS) is a cryptocurrency and operates on the
+      Ethereum platform. Defi Shopping Stake has a current supply of 22,228,036 with
+      0 in circulation. The last known price of Defi Shopping Stake is 0.00905405
+      USD and is down -0.52 over the last 24 hours. It is currently trading on 8 active
+      market(s) with $24,438.36 traded over the last 24 hours. More information can
+      be found at https://defi.uquid.com/.
+    logoURI: null
+    name: Defi Shopping Stake
+    symbol: DSS
+    type: null

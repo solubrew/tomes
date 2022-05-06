@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc9d6382e5ABFed97cc856216CEd900B64324E502'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bethon Digital Ecosystem
+    symbol: BTDE
+    type: null

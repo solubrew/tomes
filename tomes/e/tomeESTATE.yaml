@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6671c24DD5B8e4CED34033991418E4BC0CcA05aF'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AgentMile Estate Tokens
+    symbol: ESTATE
+    type: null

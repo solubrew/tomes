@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1ad606adde97c0c28bd6ac85554176bc55783c01'
+    chainId: null
+    decimals: null
+    description: Moonday Finance (MOONDAY) is a cryptocurrency launched in 2020and
+      operates on the Ethereum platform. Moonday Finance has a current supply of 0.
+      The last known price of Moonday Finance is 312.05822708 USD and is up 30.27
+      over the last 24 hours. It is currently trading on 3 active market(s) with $179,185.71
+      traded over the last 24 hours. More information can be found at https://moondayfinance.com/.
+    logoURI: null
+    name: Moonday Finance
+    symbol: MOONDAY
+    type: null

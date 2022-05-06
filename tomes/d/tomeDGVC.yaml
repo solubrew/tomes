@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x26E43759551333e57F073bb0772F50329A957b30'
+    chainId: null
+    decimals: null
+    description: DegenVC (DGVC) is a cryptocurrency and operates on the Ethereum platform.
+      DegenVC has a current supply of 0. The last known price of DegenVC is 0.58079102
+      USD and is up 2.16 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $4,416.76 traded over the last 24 hours. More information can
+      be found at https://www.degen.vc/.
+    logoURI: null
+    name: DegenVC
+    symbol: DGVC
+    type: null

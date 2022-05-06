@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd536bbd5414a8c2beed82a63737b9327d2fa35a6'
+    chainId: null
+    decimals: null
+    description: Aitheon (ACU) is a cryptocurrency and operates on the Ethereum platform.
+      Aitheon has a current supply of 17,094,865.02285714 with 0 in circulation. The
+      last known price of Aitheon is 0.00301714 USD and is up 4.42 over the last 24
+      hours. It is currently trading on 2 active market(s) with $414,983.75 traded
+      over the last 24 hours. More information can be found at https://www.aitheon.com/.
+    logoURI: null
+    name: Aitheon
+    symbol: ACU
+    type: null

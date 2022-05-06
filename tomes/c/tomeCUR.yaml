@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x13339fd07934cd674269726edf3b5ccee9dd93de'
+    chainId: null
+    decimals: null
+    description: Curio (CUR) is a cryptocurrency and operates on the Ethereum platform.
+      Curio has a current supply of 2,000,000 with 0 in circulation. The last known
+      price of Curio is 0.70422201 USD and is down -8.53 over the last 24 hours. It
+      is currently trading on 9 active market(s) with $62,154.99 traded over the last
+      24 hours. More information can be found at https://curioinvest.com/.
+    logoURI: null
+    name: Curio
+    symbol: CUR
+    type: null

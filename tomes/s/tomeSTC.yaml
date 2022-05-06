@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEf7E0f278b149feAB9ba6c98eCEbCFC449D47d02'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Shift Token
+    symbol: STC
+    type: null

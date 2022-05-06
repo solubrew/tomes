@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD7B397eDad16ca8111CA4A3B832d0a5E3ae2438C'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: RSB
+    type: null

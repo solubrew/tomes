@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe25b0bba01dc5630312b6a21927e578061a13f55'
+    chainId: null
+    decimals: null
+    description: ShipChain (SHIP) is a cryptocurrency and operates on the Ethereum
+      platform. ShipChain has a current supply of 500,000,000 with 478,598,259.681331
+      in circulation. The last known price of ShipChain is 0.004885 USD and is up
+      1.42 over the last 24 hours. It is currently trading on 3 active market(s) with
+      $551.32 traded over the last 24 hours. More information can be found at https://www.shipchain.io/.
+    logoURI: null
+    name: ShipChain
+    symbol: SHIP
+    type: null

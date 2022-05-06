@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb069DEF42294288402156484C9b18639D1bc2bCe'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BK Coin
+    symbol: CH7
+    type: null

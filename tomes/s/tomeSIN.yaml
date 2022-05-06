@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb448846FF602A6cB206FfAfC45b93AD6fB7DD716'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Casino La Crosse
+    symbol: SIN
+    type: null

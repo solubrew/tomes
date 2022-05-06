@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7E1d8a8b01374Ab1Aa26b40e7C6733E6c168568a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Winsusu Token
+    symbol: SUSU
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1ed7ae1f0e2fa4276dd7ddc786334a3df81d50c0'
+    chainId: null
+    decimals: null
+    description: FSBT API Token (FSBT) is a cryptocurrency and operates on the Ethereum
+      platform. FSBT API Token has a current supply of 3,699,483.44590379 with 3,509,535.10131341
+      in circulation. The last known price of FSBT API Token is 0.01528875 USD and
+      is up 3.88 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $24,871.56 traded over the last 24 hours. More information can be found
+      at https://www.fsbt.tech/.
+    logoURI: null
+    name: FSBT API Token
+    symbol: FSBT
+    type: null

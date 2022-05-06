@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e'
+    chainId: null
+    decimals: null
+    description: yearn.finance (YFI) is a cryptocurrency and operates on the Ethereum
+      platform. yearn.finance has a current supply of 30,000 with 29,968.02689046
+      in circulation. The last known price of yearn.finance is 28,398.46501929 USD
+      and is down -2.69 over the last 24 hours. It is currently trading on 204 active
+      market(s) with $464,938,010.96 traded over the last 24 hours. More information
+      can be found at https://yearn.finance/.
+    logoURI: null
+    name: yearn.finance
+    symbol: YFI
+    type: null

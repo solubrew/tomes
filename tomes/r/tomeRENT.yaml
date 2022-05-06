@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe17e2C31F480f618bE0ED4e46D629862cD05eC64'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Real Estate Networking Token
+    symbol: RENT
+    type: null

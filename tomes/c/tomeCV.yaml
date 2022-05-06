@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xda6cb58a0d0c01610a29c5a65c303e13e885887c'
+    chainId: null
+    decimals: null
+    description: carVertical (CV) is a cryptocurrency and operates on the Ethereum
+      platform. carVertical has a current supply of 9,835,745,291.659302 with 7,625,478,191.712701
+      in circulation. The last known price of carVertical is 0.00022522 USD and is
+      up 5.75 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $25,412.63 traded over the last 24 hours. More information can be found
+      at https://www.carvertical.com/investors.
+    logoURI: null
+    name: carVertical
+    symbol: CV
+    type: null

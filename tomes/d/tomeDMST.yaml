@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85'
+    chainId: null
+    decimals: null
+    description: DMScript (DMST) is a cryptocurrency and operates on the Ethereum
+      platform. DMScript has a current supply of 100,000,000 with 0 in circulation.
+      The last known price of DMScript is 0.03704402 USD and is down -12.40 over the
+      last 24 hours. It is currently trading on 8 active market(s) with $218,346.29
+      traded over the last 24 hours. More information can be found at https://dmscript.com/.
+    logoURI: null
+    name: DMScript
+    symbol: DMST
+    type: null

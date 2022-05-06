@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x64a03cE1E52B4e579f0A1cf44cF95C0D7898B5A3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ohDAI 1:1 USDC B
+    symbol: OHDAIUSDC:B
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x70da48f4b7e83c386ef983d4cef4e58c2c09d8ac'
+    chainId: null
+    decimals: null
+    description: QURAS (XQC) is a cryptocurrency and operates on the Ethereum platform.
+      QURAS has a current supply of 888,888,888 with 0 in circulation. The last known
+      price of QURAS is 0.03341799 USD and is down -4.22 over the last 24 hours. It
+      is currently trading on 3 active market(s) with $162,044.91 traded over the
+      last 24 hours. More information can be found at https://quras.io.
+    logoURI: null
+    name: QURAS
+    symbol: XQC
+    type: null

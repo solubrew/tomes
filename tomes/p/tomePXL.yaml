@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf88951d7b676798705fd3a362ba5b1dbca2b233b'
+    chainId: null
+    decimals: null
+    description: PIXEL (PXL) is a cryptocurrency and operates on the Ethereum platform.
+      PIXEL has a current supply of 987,500,000 with 37,187,752.74934731 in circulation.
+      The last known price of PIXEL is 0.01482599 USD and is down -5.96 over the last
+      24 hours. It is currently trading on 4 active market(s) with $2,300,497.84 traded
+      over the last 24 hours. More information can be found at https://piction.network/en/.
+    logoURI: null
+    name: PIXEL
+    symbol: PXL
+    type: null

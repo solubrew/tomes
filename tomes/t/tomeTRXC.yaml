@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TRONCLASSIC
+    symbol: TRXC
+    type: null

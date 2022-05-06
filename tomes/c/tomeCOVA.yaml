@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb37a769b37224449d92aac57de379e1267cd3b00'
+    chainId: null
+    decimals: null
+    description: COVA (COVA) is a cryptocurrency and operates on the Ethereum platform.
+      COVA has a current supply of 6,500,000,000.000001 with 2,496,011,000.000001
+      in circulation. The last known price of COVA is 0.00018379 USD and is up 0.33
+      over the last 24 hours. It is currently trading on 6 active market(s) with $189,743.51
+      traded over the last 24 hours. More information can be found at https://covalent.ai/.
+    logoURI: null
+    name: COVA
+    symbol: COVA
+    type: null

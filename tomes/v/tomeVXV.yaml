@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7D29A64504629172a429e64183D6673b9dAcbFCe'
+    chainId: null
+    decimals: null
+    description: Vectorspace AI (VXV) is a cryptocurrency and operates on the Ethereum
+      platform. Vectorspace AI has a current supply of 50,000,000 with 0 in circulation.
+      The last known price of Vectorspace AI is 0.18173536 USD and is up 1.26 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $8,801.84
+      traded over the last 24 hours. More information can be found at https://vectorspace.ai.
+    logoURI: null
+    name: Vectorspace AI
+    symbol: VXV
+    type: null

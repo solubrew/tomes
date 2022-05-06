@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xca0e7269600d353f70b14ad118a49575455c0f2f'
+    chainId: null
+    decimals: null
+    description: AMLT (AMLT) is a cryptocurrency and operates on the Ethereum platform.
+      AMLT has a current supply of 400,000,000 with 251,196,296.2273763 in circulation.
+      The last known price of AMLT is 0.00522061 USD and is up 12.47 over the last
+      24 hours. It is currently trading on 3 active market(s) with $227.21 traded
+      over the last 24 hours. More information can be found at https://amlt.coinfirm.com/.
+    logoURI: null
+    name: AMLT
+    symbol: AMLT
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x16980b3b4a3f9d89e33311b5aa8f80303e5ca4f8'
+    chainId: null
+    decimals: null
+    description: Kira Network (KEX) is a cryptocurrency and operates on the Ethereum
+      platform. Kira Network has a current supply of 300,000,000 with 12,532,083 in
+      circulation. The last known price of Kira Network is 0.24147232 USD and is up
+      7.17 over the last 24 hours. It is currently trading on 1 active market(s) with
+      $295,820.62 traded over the last 24 hours. More information can be found at
+      https://kira.network/.
+    logoURI: null
+    name: Kira Network
+    symbol: KEX
+    type: null

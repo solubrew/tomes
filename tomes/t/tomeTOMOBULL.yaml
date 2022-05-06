@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa38920C00D1a5303dB538A3Ea08da7a779e1F751'
+    chainId: null
+    decimals: null
+    description: 3X Long TomoChain Token (TOMOBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Long TomoChain Token has a current supply of 12,532.23145055
+      with 0 in circulation. The last known price of 3X Long TomoChain Token is 0.3448
+      USD and is up 3.23 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $14,136.01 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/TOMOBULL.
+    logoURI: null
+    name: 3X Long TomoChain Token
+    symbol: TOMOBULL
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1EBDa9b505AD2c6CceE86bfC18f58035DcFDC26a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: RomikaHungary
+    symbol: RMK
+    type: null

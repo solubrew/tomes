@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x23352036e911a22cfc692b5e2e196692658aded9'
+    chainId: null
+    decimals: null
+    description: Friendz (FDZ) is a cryptocurrency and operates on the Ethereum platform.
+      Friendz has a current supply of 1,131,842,156.3806603 with 546,677,631.3092417
+      in circulation. The last known price of Friendz is 0.00094551 USD and is down
+      -1.23 over the last 24 hours. It is currently trading on 7 active market(s)
+      with $32,192.86 traded over the last 24 hours. More information can be found
+      at https://friendz.io/.
+    logoURI: null
+    name: Friendz
+    symbol: FDZ
+    type: null

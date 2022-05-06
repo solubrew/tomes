@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE9A95d175a5f4C9369f3b74222402eB1b837693b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ChangeNOW
+    symbol: NOW
+    type: null

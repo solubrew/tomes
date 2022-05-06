@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8a1e3930fde1f151471c368fdbb39f3f63a65b55'
+    chainId: null
+    decimals: null
+    description: Bezop (BEZ) is a cryptocurrency and operates on the Ethereum platform.
+      Bezop has a current supply of 89,267,250 with 55,685,930.70219573 in circulation.
+      The last known price of Bezop is 0.00426831 USD and is up 2.00 over the last
+      24 hours. It is currently trading on 4 active market(s) with $394.90 traded
+      over the last 24 hours. More information can be found at https://bezop.com/.
+    logoURI: null
+    name: Bezop
+    symbol: BEZ
+    type: null

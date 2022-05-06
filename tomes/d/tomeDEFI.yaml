@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1Ba4dd5306528A92906193b070980cCB2322A2E4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DEFI-ORG-TUTORIAL
+    symbol: DEFI
+    type: null

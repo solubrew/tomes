@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5ca381bbfb58f0092df149bd3d243b08b9a8386e'
+    chainId: null
+    decimals: null
+    description: MXC (MXC) is a cryptocurrency and operates on the Ethereum platform.
+      MXC has a current supply of 2,642,132,373 with 2,531,438,083.3783226 in circulation.
+      The last known price of MXC is 0.01215149 USD and is up 8.93 over the last 24
+      hours. It is currently trading on 13 active market(s) with $2,904,943.71 traded
+      over the last 24 hours. More information can be found at https://www.mxc.org/.
+    logoURI: null
+    name: MXC
+    symbol: MXC
+    type: null

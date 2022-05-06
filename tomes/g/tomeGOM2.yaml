@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7'
+    chainId: null
+    decimals: null
+    description: AnimalGo (GOM2) is a cryptocurrency and operates on the Ethereum
+      platform. AnimalGo has a current supply of 993,993,561 with 0 in circulation.
+      The last known price of AnimalGo is 0.01713224 USD and is up 3.24 over the last
+      24 hours. It is currently trading on 6 active market(s) with $1,508,996.35 traded
+      over the last 24 hours. More information can be found at https://animalgo.io/.
+    logoURI: null
+    name: AnimalGo
+    symbol: GOM2
+    type: null

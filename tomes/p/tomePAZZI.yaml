@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbcd8756ea481608ea3dd5a555493305cf0a79640'
+    chainId: null
+    decimals: null
+    description: Paparazzi (PAZZI) is a cryptocurrency and operates on the Ethereum
+      platform. Paparazzi has a current supply of 168,717,761 with 42,734,738.00570001
+      in circulation. The last known price of Paparazzi is 0.01344389 USD and is up
+      20.63 over the last 24 hours. It is currently trading on 7 active market(s)
+      with $93,017.28 traded over the last 24 hours. More information can be found
+      at http://pazzi.io.
+    logoURI: null
+    name: Paparazzi
+    symbol: PAZZI
+    type: null

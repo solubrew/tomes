@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0dafe2b22323dac2940d43cede16cd8790c5d4e6'
+    chainId: null
+    decimals: null
+    description: Charged Finance (CHARGED) is a cryptocurrency and operates on the
+      Ethereum platform. Charged Finance has a current supply of 0. The last known
+      price of Charged Finance is 48.91404541 USD and is up 2.98 over the last 24
+      hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://charged.finance/.
+    logoURI: null
+    name: Charged Finance
+    symbol: CHARGED
+    type: null

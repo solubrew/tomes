@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xDB61354E9cf2217a29770E9811832B360a8DAad3'
+    chainId: null
+    decimals: null
+    description: 3x Long Litecoin Token (LTCBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3x Long Litecoin Token has a current supply of 337,514.865
+      with 0 in circulation. The last known price of 3x Long Litecoin Token is 4.59882071
+      USD and is up 6.86 over the last 24 hours. It is currently trading on 4 active
+      market(s) with $160,867.61 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/LTCBULL.
+    logoURI: null
+    name: 3x Long Litecoin Token
+    symbol: LTCBULL
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x78a52e12c7b63d05c12f9608307587cf654ec3d0'
+    chainId: null
+    decimals: null
+    description: Crypto Village Accelerator (CVA) is a cryptocurrency and operates
+      on the Ethereum platform. Crypto Village Accelerator has a current supply of
+      100,000,000 with 71,663,873.54041478 in circulation. The last known price of
+      Crypto Village Accelerator is 0.14885255 USD and is down -10.49 over the last
+      24 hours. It is currently trading on 20 active market(s) with $12,500,187.88
+      traded over the last 24 hours. More information can be found at https://cryptovillageaccelerator.com/.
+    logoURI: null
+    name: Crypto Village Accelerator
+    symbol: CVA
+    type: null

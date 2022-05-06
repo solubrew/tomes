@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6d2c508fc4a588a41713ff59212f85489291d244'
+    chainId: null
+    decimals: null
+    description: Bloomzed Loyalty Club Ticket (BLCT) is a cryptocurrency and operates
+      on the Ethereum platform. Bloomzed Loyalty Club Ticket has a current supply
+      of 100,000,000 with 37,999,999.99999994 in circulation. The last known price
+      of Bloomzed Loyalty Club Ticket is 1.70727792 USD and is up 2.49 over the last
+      24 hours. It is currently trading on 8 active market(s) with $84,271.17 traded
+      over the last 24 hours. More information can be found at https://bloomzed.io/.
+    logoURI: null
+    name: Bloomzed Loyalty Club Ticket
+    symbol: BLCT
+    type: null

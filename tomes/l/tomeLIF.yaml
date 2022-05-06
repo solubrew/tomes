@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeb9951021698b42e4399f9cbb6267aa35f82d59d'
+    chainId: null
+    decimals: null
+    description: Winding Tree (LIF) is a cryptocurrency and operates on the Ethereum
+      platform. Winding Tree has a current supply of 24,976,439.45135637 with 21,639,227.16108509
+      in circulation. The last known price of Winding Tree is 0.09135035 USD and is
+      up 5.17 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://windingtree.com/.
+    logoURI: null
+    name: Winding Tree
+    symbol: LIF
+    type: null

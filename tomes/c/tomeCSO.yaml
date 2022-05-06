@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2a469a22101f1f672b745d729d13ab8dbd203c9b'
+    chainId: null
+    decimals: null
+    description: Coinsto (CSO) is a cryptocurrency and operates on the Ethereum platform.
+      Coinsto has a current supply of 888,888,888,888 with 0 in circulation. The last
+      known price of Coinsto is 0.00000596 USD and is up 2.83 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://coinstoplatform.com.
+    logoURI: null
+    name: Coinsto
+    symbol: CSO
+    type: null

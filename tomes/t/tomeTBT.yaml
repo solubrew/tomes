@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x62a7dA217d6a55A983455e5fd6C4a025aC786879'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TBT
+    symbol: TBT
+    type: null

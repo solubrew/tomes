@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD24d520Eb55ea010998303110fA188673122416a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Hours
+    symbol: JSH
+    type: null

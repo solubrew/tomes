@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x725440512cb7b78bf56b334e50e31707418231cb'
+    chainId: null
+    decimals: null
+    description: DEXA COIN (DEXA) is a cryptocurrency and operates on the Ethereum
+      platform. DEXA COIN has a current supply of 100,000,000,000 with 25,000,000,000
+      in circulation. The last known price of DEXA COIN is 0.00001387 USD and is up
+      20.78 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $29,679.80 traded over the last 24 hours. More information can be found
+      at https://dexacoin.net/.
+    logoURI: null
+    name: DEXA COIN
+    symbol: DEXA
+    type: null

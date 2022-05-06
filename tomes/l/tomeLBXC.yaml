@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xffe510a92434a0df346c5e72a3494b043cf249eb'
+    chainId: null
+    decimals: null
+    description: Lux Bio Cell (LBXC) is a cryptocurrency and operates on the Ethereum
+      platform. Lux Bio Cell has a current supply of 9,674,560,934 with 0 in circulation.
+      The last known price of Lux Bio Cell is 0.00408881 USD and is down -1.15 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $526,099.79
+      traded over the last 24 hours. More information can be found at http://www.lbxc.io.
+    logoURI: null
+    name: Lux Bio Cell
+    symbol: LBXC
+    type: null

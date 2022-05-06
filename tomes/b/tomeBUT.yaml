@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb2e260f12406c401874ecc960893c0f74cd6afcd'
+    chainId: null
+    decimals: null
+    description: BitUP Token (BUT) is a cryptocurrency and operates on the Ethereum
+      platform. BitUP Token has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of BitUP Token is 0.00115492 USD and is down -0.54 over
+      the last 24 hours. It is currently trading on 4 active market(s) with $184,210.13
+      traded over the last 24 hours. More information can be found at https://bitup.com/.
+    logoURI: null
+    name: BitUP Token
+    symbol: BUT
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xde1e0ae6101b46520cf66fdc0b1059c5cc3d106c'
+    chainId: null
+    decimals: null
+    description: DeltaChain (DELTA) is a cryptocurrency and operates on the Ethereum
+      platform. DeltaChain has a current supply of 7,500,000,000. The last known price
+      of DeltaChain is 0.00006668 USD and is up 1,051.06 over the last 24 hours. It
+      is currently trading on 3 active market(s) with $0.00 traded over the last 24
+      hours. More information can be found at https://deltachain.co/.
+    logoURI: null
+    name: DeltaChain
+    symbol: DELTA
+    type: null

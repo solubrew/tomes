@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC7178AE1696C3702846340D4A1631223446d3733'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 8e5333c4d71e0b11b3e5e5e42a733bad0b07d53123c15386e445571867d86a8a
+    symbol: GOODS
+    type: null

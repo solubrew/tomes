@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Simple Token
+    symbol: ST
+    type: null

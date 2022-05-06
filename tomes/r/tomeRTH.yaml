@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3fd8f39a962efda04956981c31ab89fab5fb8bc8'
+    chainId: null
+    decimals: null
+    description: Rotharium (RTH) is a cryptocurrency and operates on the Ethereum
+      platform. Rotharium has a current supply of 5,207,470.24862486 with 3,357,270.20862486
+      in circulation. The last known price of Rotharium is 0.59093336 USD and is up
+      0.60 over the last 24 hours. It is currently trading on 3 active market(s) with
+      $108,728.83 traded over the last 24 hours. More information can be found at
+      https://www.rotharium.io.
+    logoURI: null
+    name: Rotharium
+    symbol: RTH
+    type: null

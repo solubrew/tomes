@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbd0793332e9fb844a52a205a233ef27a5b34b927'
+    chainId: null
+    decimals: null
+    description: ZB Token (ZB) is a cryptocurrency and operates on the Ethereum platform.
+      ZB Token has a current supply of 2,100,000,000 with 463,288,810 in circulation.
+      The last known price of ZB Token is 0.26217806 USD and is down -4.50 over the
+      last 24 hours. It is currently trading on 11 active market(s) with $8,737,032.93
+      traded over the last 24 hours. More information can be found at https://www.zb.com/.
+    logoURI: null
+    name: ZB Token
+    symbol: ZB
+    type: null

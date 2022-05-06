@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x875773784Af8135eA0ef43b5a374AaD105c5D39e'
+    chainId: null
+    decimals: null
+    description: Idle (IDLE) is a cryptocurrency launched in 2020and operates on the
+      Ethereum platform. Idle has a current supply of 13,000,000 with 345,389 in circulation.
+      The last known price of Idle is 2.57022673 USD and is up 57.47 over the last
+      24 hours. It is currently trading on 2 active market(s) with $221,821.98 traded
+      over the last 24 hours. More information can be found at https://idle.finance/.
+    logoURI: null
+    name: Idle
+    symbol: IDLE
+    type: null

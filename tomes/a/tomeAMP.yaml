@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xff20817765cb7f73d4bde2e66e067e58d11095c2'
+    chainId: null
+    decimals: null
+    description: Amp (AMP) is a cryptocurrency and operates on the Ethereum platform.
+      Amp has a current supply of 92,362,959,394.08081 with 9,654,475,689.787683 in
+      circulation. The last known price of Amp is 0.00643133 USD and is up 16.98 over
+      the last 24 hours. It is currently trading on 6 active market(s) with $263,217.35
+      traded over the last 24 hours. More information can be found at https://amptoken.org.
+    logoURI: null
+    name: Amp
+    symbol: AMP
+    type: null

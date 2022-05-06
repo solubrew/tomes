@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0488401c3f535193fa8df029d9ffe615a06e74e6'
+    chainId: null
+    decimals: null
+    description: SparkPoint (SRK) is a cryptocurrency and operates on the Ethereum
+      platform. SparkPoint has a current supply of 14,368,540,937 with 6,487,897,182.472064
+      in circulation. The last known price of SparkPoint is 0.00081766 USD and is
+      down -15.19 over the last 24 hours. It is currently trading on 10 active market(s)
+      with $34,049.65 traded over the last 24 hours. More information can be found
+      at https://sparkpoint.io.
+    logoURI: null
+    name: SparkPoint
+    symbol: SRK
+    type: null

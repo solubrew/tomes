@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD533a949740bb3306d119CC777fa900bA034cd52'
+    chainId: null
+    decimals: null
+    description: Curve DAO Token (CRV) is a cryptocurrency and operates on the Ethereum
+      platform. Curve DAO Token has a current supply of 1,382,519,970.7747436 with
+      140,923,325.23002005 in circulation. The last known price of Curve DAO Token
+      is 0.71585709 USD and is up 2.43 over the last 24 hours. It is currently trading
+      on 80 active market(s) with $43,282,105.41 traded over the last 24 hours. More
+      information can be found at https://guides.curve.fi/everything-you-need-to-know-about-crv/.
+    logoURI: null
+    name: Curve DAO Token
+    symbol: CRV
+    type: null

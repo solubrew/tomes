@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3'
+    chainId: null
+    decimals: null
+    description: All Sports (SOC) is a cryptocurrency and operates on the Ethereum
+      platform. All Sports has a current supply of 1,500,000,000 with 1,499,865,881.6973062
+      in circulation. The last known price of All Sports is 0.00324357 USD and is
+      down -3.99 over the last 24 hours. It is currently trading on 12 active market(s)
+      with $230,793.80 traded over the last 24 hours. More information can be found
+      at https://www.allsportschain.com/.
+    logoURI: null
+    name: All Sports
+    symbol: SOC
+    type: null

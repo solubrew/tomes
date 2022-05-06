@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x19b58d95929586ad750893caad43e77aa6e8ce9e'
+    chainId: null
+    decimals: null
+    description: CelCoin (CELC) is a cryptocurrency launched in 2019and operates on
+      the Ethereum platform. CelCoin has a current supply of 1,680,000,000 with 0
+      in circulation. The last known price of CelCoin is 0.0000383 USD and is up 1.39
+      over the last 24 hours. It is currently trading on 2 active market(s) with $59.86
+      traded over the last 24 hours. More information can be found at https://www.celcoin.io/.
+    logoURI: null
+    name: CelCoin
+    symbol: CELC
+    type: null

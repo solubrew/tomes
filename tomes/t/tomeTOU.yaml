@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1E29ca8c874b4dFF828297cc2e9856819eea0933'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TOURISTOKEN
+    symbol: TOU
+    type: null

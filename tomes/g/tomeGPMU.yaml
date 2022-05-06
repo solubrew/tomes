@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x72a7d948b23528e421334bCF783Db723232d1633'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GPM Utility Token
+    symbol: GPMU
+    type: null

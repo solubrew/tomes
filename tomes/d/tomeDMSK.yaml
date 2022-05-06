@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xBFfd431BA4aDAc00673c87577A55C192A03821d5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Damski
+    symbol: DMSK
+    type: null

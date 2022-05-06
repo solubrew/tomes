@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf6cFe53d6FEbaEEA051f400ff5fc14F0cBBDacA1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DigiPulse Token
+    symbol: DGPT
+    type: null

@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf2ba4afcbe22f0e626d67d8f31e96428706282e9'
+    chainId: null
+    decimals: null
+    description: GolderGames (GLDR) is a cryptocurrency and operates on the Ethereum
+      platform. GolderGames has a current supply of 2,571,428,570,000 with 0 in circulation.
+      The last known price of GolderGames is 0.00824771 USD and is down -1.34 over
+      the last 24 hours. More information can be found at https://goldergames.com/.
+    logoURI: null
+    name: GolderGames
+    symbol: GLDR
+    type: null

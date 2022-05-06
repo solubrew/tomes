@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4FBb0B4cD8f960aC3428194F1c94c805D5b35836'
+    chainId: null
+    decimals: null
+    description: Big Bang Game Coin (BBGC) is a cryptocurrency and operates on the
+      Ethereum platform. Big Bang Game Coin has a current supply of 10,000,000,000
+      with 0 in circulation. The last known price of Big Bang Game Coin is 0.00005102
+      USD and is down -3.78 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $4,034.74 traded over the last 24 hours. More information can
+      be found at https://www.bbgc.games/.
+    logoURI: null
+    name: Big Bang Game Coin
+    symbol: BBGC
+    type: null

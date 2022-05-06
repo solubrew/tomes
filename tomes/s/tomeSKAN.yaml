@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9cB79101f795287585843D71c1B0A33A0724C2Bb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LakesCash
+    symbol: SKAN
+    type: null

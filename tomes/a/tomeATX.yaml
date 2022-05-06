@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1a0f2ab46ec630f9fd638029027b552afa64b94c'
+    chainId: null
+    decimals: null
+    description: Aston (ATX) is a cryptocurrency and operates on the Ethereum platform.
+      Aston has a current supply of 1,000,000,000 with 824,000,000 in circulation.
+      The last known price of Aston is 0.00019173 USD and is up 2.07 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://www.aston.company/.
+    logoURI: null
+    name: Aston
+    symbol: ATX
+    type: null

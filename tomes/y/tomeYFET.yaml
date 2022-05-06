@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc151ca64D66eA44EE4BE9D47c3ce7E031b2fccb7'
+    chainId: null
+    decimals: null
+    description: YFET (YFET) is a cryptocurrency launched in 2020and operates on the
+      Ethereum platform. YFET has a current supply of 21,000 with 0 in circulation.
+      The last known price of YFET is 1.05312 USD and is down -84.73 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://www.yfet.finance/.
+    logoURI: null
+    name: YFET
+    symbol: YFET
+    type: null

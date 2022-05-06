@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9f22A13204C09E0f89144b63Da0588a836c07931'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Momentum
+    symbol: MMTM
+    type: null

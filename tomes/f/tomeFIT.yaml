@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC98449EF8a017cfD29AED8b21B9B26492978a898'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Fitness Chain
+    symbol: FIT
+    type: null

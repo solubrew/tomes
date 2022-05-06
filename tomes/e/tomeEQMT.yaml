@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195'
+    chainId: null
+    decimals: null
+    description: Equus Mining Token (EQMT) is a cryptocurrency and operates on the
+      Ethereum platform. Equus Mining Token has a current supply of 0. The last known
+      price of Equus Mining Token is 0.00030293 USD and is up 3.48 over the last 24
+      hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://www.equus.dev.
+    logoURI: null
+    name: Equus Mining Token
+    symbol: EQMT
+    type: null

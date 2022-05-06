@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6999d699a8210d728A9b2C34B4aD89E96cE34df8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: DD Gold
+    symbol: DDG
+    type: null

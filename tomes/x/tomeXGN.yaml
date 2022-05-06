@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9B4e167AEA30f94929017F747F5496284141aA96'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TransGen
+    symbol: XGN
+    type: null

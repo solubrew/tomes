@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x943ed852dadb5c3938ecdc6883718df8142de4c8'
+    chainId: null
+    decimals: null
+    description: FansTime (FTI) is a cryptocurrency and operates on the Ethereum platform.
+      FansTime has a current supply of 10,000,000,000 with 2,850,000,000 in circulation.
+      The last known price of FansTime is 0.00013349 USD and is up 0.58 over the last
+      24 hours. It is currently trading on 12 active market(s) with $273,206.90 traded
+      over the last 24 hours. More information can be found at https://fanstime.org/.
+    logoURI: null
+    name: FansTime
+    symbol: FTI
+    type: null

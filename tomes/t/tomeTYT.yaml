@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x614FD8F06cE4D93AA2361B342C86554eB5CB39f1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TYT
+    symbol: TYT
+    type: null

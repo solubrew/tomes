@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x92ef4ffbfe0df030837b65d7fccfe1abd6549579'
+    chainId: null
+    decimals: null
+    description: Swirge (SWG) is a cryptocurrency and operates on the Ethereum platform.
+      Swirge has a current supply of 0. The last known price of Swirge is 0.05847601
+      USD and is up 3.14 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $109,034.33 traded over the last 24 hours. More information can
+      be found at https://swirgepay.com/.
+    logoURI: null
+    name: Swirge
+    symbol: SWG
+    type: null

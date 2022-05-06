@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x96b0bf939d9460095c15251f71fda11e41dcbddb'
+    chainId: null
+    decimals: null
+    description: Sharpay (S) is a cryptocurrency and operates on the Ethereum platform.
+      Sharpay has a current supply of 4,000,000,000 with 1,190,302,597 in circulation.
+      The last known price of Sharpay is 0.00003882 USD and is down -78.79 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $905.28 traded
+      over the last 24 hours. More information can be found at https://sharpay.io.
+    logoURI: null
+    name: Sharpay
+    symbol: S
+    type: null

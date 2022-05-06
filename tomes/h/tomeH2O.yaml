@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFeeD1a53bd53FFE453D265FC6E70dD85f8e993b6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: H2O Token
+    symbol: H2O
+    type: null

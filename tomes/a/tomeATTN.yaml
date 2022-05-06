@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdF3A0a958F5a599Aa8f3071AA6488C22416EFB89'
+    chainId: null
+    decimals: null
+    description: ATTN (ATTN) is a cryptocurrency and operates on the Ethereum platform.
+      ATTN has a current supply of 0. The last known price of ATTN is 0.02651453 USD
+      and is up 18.65 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $357,202.13 traded over the last 24 hours. More information can
+      be found at https://www.attn.one/.
+    logoURI: null
+    name: ATTN
+    symbol: ATTN
+    type: null

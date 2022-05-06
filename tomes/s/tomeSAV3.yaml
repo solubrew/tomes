@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6e10aacb89a28d6fa0fe68790777fec7e7f01890'
+    chainId: null
+    decimals: null
+    description: Sav3Token (SAV3) is a cryptocurrency and operates on the Ethereum
+      platform. Sav3Token has a current supply of 26,734,226 with 0 in circulation.
+      The last known price of Sav3Token is 0.0488096 USD and is down -5.72 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $26,742.04
+      traded over the last 24 hours. More information can be found at https://sav3.org/#/.
+    logoURI: null
+    name: Sav3Token
+    symbol: SAV3
+    type: null

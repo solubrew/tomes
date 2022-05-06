@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe33f363351186e185470f35F6DeB94ABa44347D8'
+    chainId: null
+    decimals: null
+    description: Basid Coin (BASID) is a cryptocurrency and operates on the Ethereum
+      platform. Basid Coin has a current supply of 10,000,000,000 with 367,099,726.000002
+      in circulation. The last known price of Basid Coin is 0.8663759 USD and is up
+      0.72 over the last 24 hours. It is currently trading on 7 active market(s) with
+      $3,471,138.19 traded over the last 24 hours. More information can be found at
+      https://basidcoin.com/.
+    logoURI: null
+    name: Basid Coin
+    symbol: BASID
+    type: null

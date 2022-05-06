@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD0Df51CeC800D1F8045722377f6faceba8d15A4d'
+    chainId: null
+    decimals: null
+    description: The Hash Speed (THS) is a cryptocurrency and operates on the Ethereum
+      platform. The Hash Speed has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of The Hash Speed is 0.06913732 USD and is up 16.61 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $168,445.42
+      traded over the last 24 hours. More information can be found at http://thehashspeed.com/.
+    logoURI: null
+    name: The Hash Speed
+    symbol: THS
+    type: null

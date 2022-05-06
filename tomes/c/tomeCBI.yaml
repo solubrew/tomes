@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x43E5F59247b235449E16eC84c46BA43991Ef6093'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Coin Bank Int
+    symbol: CBI
+    type: null

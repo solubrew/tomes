@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE5f7ef61443Fc36AE040650aa585B0395AEf77c8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: RealToken 9943 Marlowe Street Detroit MI
+    symbol: REALTOKEN-9943-MARLOWE-ST-DETROIT-MI
+    type: null

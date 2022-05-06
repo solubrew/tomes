@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6768063279e2b185dc0c972b97f11f231d0b45ad'
+    chainId: null
+    decimals: null
+    description: Yield-Farming (YIELD) is a cryptocurrency and operates on the Ethereum
+      platform. Yield-Farming has a current supply of 24,963,325.76612903 with 0 in
+      circulation. The last known price of Yield-Farming is 0.00003285 USD and is
+      down -3.18 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://yield-farming.io/index.html.
+    logoURI: null
+    name: Yield-Farming
+    symbol: YIELD
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x50ec35d1e18d439f02fa895746fc3e1bef311780'
+    chainId: null
+    decimals: null
+    description: Epanus (EPS) is a cryptocurrency and operates on the Ethereum platform.
+      Epanus has a current supply of 15,000,000 with 0 in circulation. The last known
+      price of Epanus is 0.76367709 USD and is down -11.69 over the last 24 hours.
+      It is currently trading on 4 active market(s) with $15.24 traded over the last
+      24 hours. More information can be found at https://epanus.com/.
+    logoURI: null
+    name: Epanus
+    symbol: EPS
+    type: null

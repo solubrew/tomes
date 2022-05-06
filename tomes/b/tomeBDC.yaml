@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xac4dF2D98F14495263b9dfBC47451c46d8aB0A30'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Belden Coin
+    symbol: BDC
+    type: null

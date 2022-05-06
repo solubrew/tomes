@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x14da230d6726C50F759Bc1838717F8CE6373509C'
+    chainId: null
+    decimals: null
+    description: Kambria (KAT) is a cryptocurrency and operates on the Ethereum platform.
+      Kambria has a current supply of 3,100,000,000 with 1,186,300,218 in circulation.
+      The last known price of Kambria is 0.00211034 USD and is up 6.03 over the last
+      24 hours. It is currently trading on 8 active market(s) with $9,123.10 traded
+      over the last 24 hours. More information can be found at https://kambria.io.
+    logoURI: null
+    name: Kambria
+    symbol: KAT
+    type: null

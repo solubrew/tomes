@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x78c2aa2C1a2a04feace91f5b227a5958145E4311'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Droplex Token
+    symbol: DROP
+    type: null

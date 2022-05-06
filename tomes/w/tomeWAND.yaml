@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x27f610BF36ecA0939093343ac28b1534a721DBB4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Wand Token
+    symbol: WAND
+    type: null

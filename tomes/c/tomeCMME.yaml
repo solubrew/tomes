@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9f949124e2A23492005A9BB937aCb29BDa2CaB9E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CMMEToken
+    symbol: CMME
+    type: null

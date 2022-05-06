@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4995Ff1C49BAA6576029b7398479068ba664449C'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: ETHERTHINGS
+    type: null

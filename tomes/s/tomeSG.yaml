@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xddf7fd345d54ff4b40079579d4c4670415dbfd0a'
+    chainId: null
+    decimals: null
+    description: SocialGood (SG) is a cryptocurrency and operates on the Ethereum
+      platform. SocialGood has a current supply of 700,000 with 0 in circulation.
+      The last known price of SocialGood is 4.30994203 USD and is down -0.15 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $2,907,023.51
+      traded over the last 24 hours. More information can be found at https://socialgood-foundation.com/.
+    logoURI: null
+    name: SocialGood
+    symbol: SG
+    type: null

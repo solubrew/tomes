@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd91a6162f146ef85922d9a15ee6eb14a00344586'
+    chainId: null
+    decimals: null
+    description: Sessia (KICKS) is a cryptocurrency and operates on the Ethereum platform.
+      Sessia has a current supply of 100,000,000 with 9,006,388.78337438 in circulation.
+      The last known price of Sessia is 0.11309962 USD and is up 0.26 over the last
+      24 hours. It is currently trading on 4 active market(s) with $334,219.23 traded
+      over the last 24 hours. More information can be found at https://sessia.com/.
+    logoURI: null
+    name: Sessia
+    symbol: KICKS
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbaca8d824f471a6b20fdbac25e9e8943b9cd743b'
+    chainId: null
+    decimals: null
+    description: Lukiu (LKU) is a cryptocurrency and operates on the Ethereum platform.
+      Lukiu has a current supply of 10,000,000,000 with 0 in circulation. The last
+      known price of Lukiu is 0.00004165 USD and is up 0.00 over the last 24 hours.
+      It is currently trading on 0 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at http://lukiu.com.
+    logoURI: null
+    name: Lukiu
+    symbol: LKU
+    type: null

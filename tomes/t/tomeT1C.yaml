@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa7C71d444bf9aF4bfEd2adE75595d7512Eb4DD39'
+    chainId: null
+    decimals: null
+    description: Travel1Click (T1C) is a cryptocurrency and operates on the Ethereum
+      platform. Travel1Click has a current supply of 1 with 0 in circulation. The
+      last known price of Travel1Click is 0 USD and is up 0.00 over the last 24 hours.
+      More information can be found at https://travel1click.com.
+    logoURI: null
+    name: Travel1Click
+    symbol: T1C
+    type: null

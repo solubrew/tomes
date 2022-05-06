@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d'
+    chainId: null
+    decimals: null
+    description: Cartesi (CTSI) is a cryptocurrency and operates on the Ethereum platform.
+      Cartesi has a current supply of 1,000,000,000 with 198,403,547.9999999 in circulation.
+      The last known price of Cartesi is 0.04049663 USD and is up 1.30 over the last
+      24 hours. It is currently trading on 20 active market(s) with $1,120,604.20
+      traded over the last 24 hours. More information can be found at https://cartesi.io/.
+    logoURI: null
+    name: Cartesi
+    symbol: CTSI
+    type: null

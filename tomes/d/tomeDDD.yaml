@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9F5F3CFD7a32700C93F971637407ff17b91c7342'
+    chainId: null
+    decimals: null
+    description: Scry.info (DDD) is a cryptocurrency and operates on the Ethereum
+      platform. Scry.info has a current supply of 1,000,000,000 with 440,057,074 in
+      circulation. The last known price of Scry.info is 0.00210446 USD and is down
+      -0.48 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $95,201.35 traded over the last 24 hours. More information can be found
+      at https://home.scry.info/.
+    logoURI: null
+    name: Scry.info
+    symbol: DDD
+    type: null

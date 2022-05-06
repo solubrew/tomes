@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x013ae307648f529aa72c5767a334ddd37aab43c3'
+    chainId: null
+    decimals: null
+    description: sBNB (SBNB) is a cryptocurrency and operates on the Ethereum platform.
+      sBNB has a current supply of 3,717.83610091 with 0 in circulation. The last
+      known price of sBNB is 29.36882383 USD and is up 0.32 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://www.synthetix.io/.
+    logoURI: null
+    name: sBNB
+    symbol: SBNB
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb1f871Ae9462F1b2C6826E88A7827e76f86751d4'
+    chainId: null
+    decimals: null
+    description: GNY (GNY) is a cryptocurrency and operates on the Ethereum platform.
+      GNY has a current supply of 400,000,000 with 192,376,657 in circulation. The
+      last known price of GNY is 0.14458129 USD and is up 38.87 over the last 24 hours.
+      It is currently trading on 5 active market(s) with $136,878.82 traded over the
+      last 24 hours. More information can be found at https://www.gny.io/.
+    logoURI: null
+    name: GNY
+    symbol: GNY
+    type: null

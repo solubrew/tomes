@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA8f732224456a795061BF3964416C1B69C083Dfa'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cisco Dollarz
+    symbol: CDZ
+    type: null

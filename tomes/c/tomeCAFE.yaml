@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0f7f08A1b784d2a51357EfCFB5f4874cBf5DEE28'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Single Coffee Token
+    symbol: CAFE
+    type: null

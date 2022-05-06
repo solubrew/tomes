@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf21661d0d1d76d3ecb8e1b9f1c923dbfffae4097'
+    chainId: null
+    decimals: null
+    description: Realio Network (RIO) is a cryptocurrency and operates on the Ethereum
+      platform. Realio Network has a current supply of 96,381,237.9575625 with 6,568,515.0792935
+      in circulation. The last known price of Realio Network is 0.79756089 USD and
+      is down -5.76 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $519,432.94 traded over the last 24 hours. More information can be found
+      at http://www.realio.fund/.
+    logoURI: null
+    name: Realio Network
+    symbol: RIO
+    type: null

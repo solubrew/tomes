@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x93065b5c7eb63333b8e57a73012d25f687895785'
+    chainId: null
+    decimals: null
+    description: Colletrix (CIPX) is a cryptocurrency and operates on the Ethereum
+      platform. Colletrix has a current supply of 1,838,477,280 with 0 in circulation.
+      The last known price of Colletrix is 0.00000105 USD and is down -0.01 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $45.47 traded
+      over the last 24 hours. More information can be found at https://www.colletrix.com/#/.
+    logoURI: null
+    name: Colletrix
+    symbol: CIPX
+    type: null

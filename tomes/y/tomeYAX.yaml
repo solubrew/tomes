@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb1dc9124c395c1e97773ab855d66e879f053a289'
+    chainId: null
+    decimals: null
+    description: yAxis (YAX) is a cryptocurrency and operates on the Ethereum platform.
+      yAxis has a current supply of 0. The last known price of yAxis is 7.16701178
+      USD and is up 0.52 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $279,796.47 traded over the last 24 hours. More information can
+      be found at https://yaxis.io/.
+    logoURI: null
+    name: yAxis
+    symbol: YAX
+    type: null

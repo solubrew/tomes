@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x26E75307Fc0C021472fEb8F727839531F112f317'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Crypto20
+    symbol: C20
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x27FBDD15fB0820b50B9c3683ea628bb6aB9B2D70'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Basic Attention Token
+    symbol: BAT
+    type: null

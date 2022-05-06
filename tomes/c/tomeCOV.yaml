@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7'
+    chainId: null
+    decimals: null
+    description: Covesting (COV) is a cryptocurrency and operates on the Ethereum
+      platform. Covesting has a current supply of 20,000,000 with 18,000,000 in circulation.
+      The last known price of Covesting is 0.52882251 USD and is up 7.03 over the
+      last 24 hours. It is currently trading on 5 active market(s) with $30,884.54
+      traded over the last 24 hours. More information can be found at https://covesting.io/.
+    logoURI: null
+    name: Covesting
+    symbol: COV
+    type: null

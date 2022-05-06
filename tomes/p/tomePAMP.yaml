@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1'
+    chainId: null
+    decimals: null
+    description: Pamp Network (PAMP) is a cryptocurrency and operates on the Ethereum
+      platform. Pamp Network has a current supply of 3,083,377.85452 with 2,431,244.00794
+      in circulation. The last known price of Pamp Network is 0.00072854 USD and is
+      down -4.49 over the last 24 hours. It is currently trading on 9 active market(s)
+      with $50,335.86 traded over the last 24 hours. More information can be found
+      at https://pamp.network/.
+    logoURI: null
+    name: Pamp Network
+    symbol: PAMP
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7cf74238d48ce383db00a1efff8da99303552cb0'
+    chainId: null
+    decimals: null
+    description: i9 Coin (I9C) is a cryptocurrency and operates on the Ethereum platform.
+      i9 Coin has a current supply of 0. The last known price of i9 Coin is 0.00171851
+      USD and is down -0.35 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $1,660.92 traded over the last 24 hours. More information can
+      be found at http://i9coin.org.
+    logoURI: null
+    name: i9 Coin
+    symbol: I9C
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD776291eC1ae42D57642b9C512832d880edc668B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CometX
+    symbol: CXO
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4CBDD06fcc050c7E0bd77478Ed0FE4ea5eec651C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cepheus
+    symbol: CEP
+    type: null

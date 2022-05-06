@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3810a4ddf41e586fa0dba1463a7951b748cecfca'
+    chainId: null
+    decimals: null
+    description: MenaPay (MPAY) is a cryptocurrency and operates on the Ethereum platform.
+      MenaPay has a current supply of 400,000,000 with 134,137,876.2052 in circulation.
+      The last known price of MenaPay is 0.00964834 USD and is down -33.68 over the
+      last 24 hours. It is currently trading on 7 active market(s) with $14,463.48
+      traded over the last 24 hours. More information can be found at https://www.menapay.io/.
+    logoURI: null
+    name: MenaPay
+    symbol: MPAY
+    type: null

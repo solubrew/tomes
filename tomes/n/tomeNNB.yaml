@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb66a2131a6b840dd020151f80723caed603efb51'
+    chainId: null
+    decimals: null
+    description: NNB Token (NNB) is a cryptocurrency and operates on the Ethereum
+      platform. NNB Token has a current supply of 6,000,000,000 with 0 in circulation.
+      The last known price of NNB Token is 0.00037757 USD and is down -1.12 over the
+      last 24 hours. It is currently trading on 4 active market(s) with $38,003.87
+      traded over the last 24 hours. More information can be found at https://www.coinbull.one/.
+    logoURI: null
+    name: NNB Token
+    symbol: NNB
+    type: null

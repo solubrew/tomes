@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x81b4d08645da11374a03749ab170836e4e539767'
+    chainId: null
+    decimals: null
+    description: Paymon (PMNT) is a cryptocurrency and operates on the Ethereum platform.
+      Paymon has a current supply of 1,000,000,000 with 611,226,584.438 in circulation.
+      The last known price of Paymon is 0.00006727 USD and is up 1.56 over the last
+      24 hours. More information can be found at https://paymon.org/.
+    logoURI: null
+    name: Paymon
+    symbol: PMNT
+    type: null

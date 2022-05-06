@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414'
+    chainId: null
+    decimals: null
+    description: Radix (EXRD) is a cryptocurrency and operates on the Ethereum platform.
+      Radix has a current supply of 0. The last known price of Radix is 0.09532381
+      USD and is up 2.88 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $252,942.91 traded over the last 24 hours. More information can
+      be found at https://www.radixdlt.com/.
+    logoURI: null
+    name: Radix
+    symbol: EXRD
+    type: null

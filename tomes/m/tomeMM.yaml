@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC3c221fE28c33814c28c822b631fd76047eF1a63'
+    chainId: null
+    decimals: null
+    description: MilliMeter (MM) is a cryptocurrency and operates on the Ethereum
+      platform. MilliMeter has a current supply of 2,000,000,000 with 0 in circulation.
+      The last known price of MilliMeter is 0.28702618 USD and is up 0.02 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $196,293.83
+      traded over the last 24 hours. More information can be found at http://mmeter.kr/.
+    logoURI: null
+    name: MilliMeter
+    symbol: MM
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xff8be4b22cedc440591dcb1e641eb2a0dd9d25a5'
+    chainId: null
+    decimals: null
+    description: Uranus (URAC) is a cryptocurrency and operates on the Ethereum platform.
+      Uranus has a current supply of 3,500,000,000 with 0 in circulation. The last
+      known price of Uranus is 0.00044667 USD and is down -74.21 over the last 24
+      hours. It is currently trading on 3 active market(s) with $1,023.83 traded over
+      the last 24 hours. More information can be found at https://www.uranus.io/.
+    logoURI: null
+    name: Uranus
+    symbol: URAC
+    type: null

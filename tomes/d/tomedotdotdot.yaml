@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcE25E60A89F200B1fA40f6c313047FFe386992c3'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: dotdotdot
+    type: null

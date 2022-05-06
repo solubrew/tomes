@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf278c1ca969095ffddded020290cf8b5c424ace2'
+    chainId: null
+    decimals: null
+    description: Ruff (RUFF) is a cryptocurrency and operates on the Ethereum platform.
+      Ruff has a current supply of 1,880,000,000 with 980,500,000 in circulation.
+      The last known price of Ruff is 0.00504705 USD and is down -1.53 over the last
+      24 hours. It is currently trading on 14 active market(s) with $364,791.01 traded
+      over the last 24 hours. More information can be found at http://ruffchain.com/.
+    logoURI: null
+    name: Ruff
+    symbol: RUFF
+    type: null

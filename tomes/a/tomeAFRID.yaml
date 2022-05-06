@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4515DfBF9366369eD8d8bC8f4fc5567b550502F4'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AFRIDOLLAR
+    symbol: AFRID
+    type: null

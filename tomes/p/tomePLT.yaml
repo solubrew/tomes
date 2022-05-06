@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9fbfed658919a896b5dc7b00456ce22d780f9b65'
+    chainId: null
+    decimals: null
+    description: Add.xyz (PLT) is a cryptocurrency and operates on the Ethereum platform.
+      Add.xyz has a current supply of 107,790,337.524 with 21,072,987.4325 in circulation.
+      The last known price of Add.xyz is 0.02299324 USD and is down -1.77 over the
+      last 24 hours. It is currently trading on 12 active market(s) with $514,779.25
+      traded over the last 24 hours. More information can be found at https://add.xyz/.
+    logoURI: null
+    name: Add.xyz
+    symbol: PLT
+    type: null

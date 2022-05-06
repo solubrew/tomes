@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x445f51299Ef3307dBD75036dd896565F5B4BF7A5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: V-ID Token
+    symbol: VIDT
+    type: null

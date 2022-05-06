@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5ab2d437Ec6D8E52b2191eFAFD985826A73D97dE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AKJ
+    symbol: AKJ
+    type: null

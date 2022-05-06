@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Black Hole
+    symbol: HOLE
+    type: null

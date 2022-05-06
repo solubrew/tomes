@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4B61413D4392c806E6d0fF5Ee91E6073C21d6430'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: MURI
+    type: null

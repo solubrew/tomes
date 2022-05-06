@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x000000002647e16d9BaB9e46604D75591D289277'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FinneyVote
+    symbol: FV
+    type: null

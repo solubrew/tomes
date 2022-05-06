@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x74db83feba1574fec860413eb509d1ddfb1b730b'
+    chainId: null
+    decimals: null
+    description: Future-Cash Digital (FCD) is a cryptocurrency and operates on the
+      Ethereum platform. Future-Cash Digital has a current supply of 0. The last known
+      price of Future-Cash Digital is 60.03530495 USD and is down -0.01 over the last
+      24 hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://future-cash.digital/#road-map.
+    logoURI: null
+    name: Future-Cash Digital
+    symbol: FCD
+    type: null

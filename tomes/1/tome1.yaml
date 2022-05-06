@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x880BCd7A5C8434FD964ec9020963ADF3bc2413de'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ONESIE
+    symbol: '1'
+    type: null

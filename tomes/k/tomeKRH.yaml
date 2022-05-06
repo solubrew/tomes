@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4dadF81edf74e9b1a9Ad1F364D51a176be48f0ac'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: KryptoHub
+    symbol: KRH
+    type: null

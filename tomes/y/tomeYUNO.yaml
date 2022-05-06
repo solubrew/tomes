@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4B4F5286e0f93E965292B922B9Cd1677512F1222'
+    chainId: null
+    decimals: null
+    description: YUNo.finance (YUNO) is a cryptocurrency and operates on the Ethereum
+      platform. YUNo.finance has a current supply of 2,648,654.44990445 with 0 in
+      circulation. The last known price of YUNo.finance is 0.0082805 USD and is up
+      4.18 over the last 24 hours. More information can be found at https://yuno.finance/.
+    logoURI: null
+    name: YUNo.finance
+    symbol: YUNO
+    type: null

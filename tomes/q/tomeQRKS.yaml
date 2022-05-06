@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3903d4fFaAa700b62578a66e7a67Ba4cb67787f9'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: QRKS
+    type: null

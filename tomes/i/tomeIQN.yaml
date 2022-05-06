@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0db8d8b76bc361bacbb72e2c491e06085a97ab31'
+    chainId: null
+    decimals: null
+    description: IQeon (IQN) is a cryptocurrency and operates on the Ethereum platform.
+      IQeon has a current supply of 5,491,860.1987553. The last known price of IQeon
+      is 2.05639867 USD and is down -3.38 over the last 24 hours. It is currently
+      trading on 10 active market(s) with $285,303.74 traded over the last 24 hours.
+      More information can be found at https://iqeon.io.
+    logoURI: null
+    name: IQeon
+    symbol: IQN
+    type: null

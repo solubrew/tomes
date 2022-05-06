@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9'
+    chainId: null
+    decimals: null
+    description: Markaccy (MKCY) is a cryptocurrency and operates on the Ethereum
+      platform. Markaccy has a current supply of 100,000,000 with 0 in circulation.
+      The last known price of Markaccy is 0.02911787 USD and is down -1.35 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $27,077.20
+      traded over the last 24 hours. More information can be found at https://markaccy.io/.
+    logoURI: null
+    name: Markaccy
+    symbol: MKCY
+    type: null

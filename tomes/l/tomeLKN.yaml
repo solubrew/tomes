@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9f549ebfd4974cd4ed4a1550d40394b44a7382aa'
+    chainId: null
+    decimals: null
+    description: LinkCoin Token (LKN) is a cryptocurrency and operates on the Ethereum
+      platform. LinkCoin Token has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of LinkCoin Token is 0.00025416 USD and is up 2.84 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $2,523.47
+      traded over the last 24 hours. More information can be found at https://www.linkcoin.pro/.
+    logoURI: null
+    name: LinkCoin Token
+    symbol: LKN
+    type: null

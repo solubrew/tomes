@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8AF22fBDeFe01b4dC7960EC04Ec73e8502F4a6B0'
+    chainId: null
+    decimals: null
+    description: BIOKKOIN (BKKG) is a cryptocurrency and operates on the Ethereum
+      platform. BIOKKOIN has a current supply of 0. The last known price of BIOKKOIN
+      is 15.97781371 USD and is up 9.87 over the last 24 hours. It is currently trading
+      on 3 active market(s) with $44,493.88 traded over the last 24 hours. More information
+      can be found at https://www.bkkglobal.io/.
+    logoURI: null
+    name: BIOKKOIN
+    symbol: BKKG
+    type: null

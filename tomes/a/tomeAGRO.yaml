@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4fCE19caa366f69Ed6Cc2793B83050E24D2c82e2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AGRONEUM
+    symbol: AGRO
+    type: null

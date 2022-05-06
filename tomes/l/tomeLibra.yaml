@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6f9aFEe7645ed0F115f39a64346e7Cb2Cd17B26F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LibraNetwork
+    symbol: Libra
+    type: null

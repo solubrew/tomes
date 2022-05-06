@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1062FDf250B44697216D07e41Df93824519F47aa'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Cryptolandy
+    symbol: CRYPL
+    type: null

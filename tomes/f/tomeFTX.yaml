@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd559f20296FF4895da39b5bd9ADd54b442596a61'
+    chainId: null
+    decimals: null
+    description: FintruX Network (FTX) is a cryptocurrency and operates on the Ethereum
+      platform. FintruX Network has a current supply of 100,000,000 with 95,000,000
+      in circulation. The last known price of FintruX Network is 0.00314 USD and is
+      up 14.14 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $249.51 traded over the last 24 hours. More information can be found at
+      https://www.fintrux.com/.
+    logoURI: null
+    name: FintruX Network
+    symbol: FTX
+    type: null

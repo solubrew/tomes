@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9e7D713d6bCeAEd3A694459C297A45FC2aB54B19'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: HoneyCoin
+    symbol: HNY
+    type: null

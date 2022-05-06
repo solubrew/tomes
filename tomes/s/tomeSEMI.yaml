@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6D7917864003a9bb13CBbEC8F1CdD4E36dDf6fc8'
+    chainId: null
+    decimals: null
+    description: Semitoken (SEMI) is a cryptocurrency and operates on the Ethereum
+      platform. Semitoken has a current supply of 300,000,000 with 0 in circulation.
+      The last known price of Semitoken is 0.019011 USD and is up 5.54 over the last
+      24 hours. It is currently trading on 1 active market(s) with $1,202.21 traded
+      over the last 24 hours. More information can be found at http://www.semitokenglobal.com/.
+    logoURI: null
+    name: Semitoken
+    symbol: SEMI
+    type: null

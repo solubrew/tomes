@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3123Ff80CbdFd35577628A41FF50598ceFc2D236'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: OMNIS-BIT
+    symbol: OMNIS
+    type: null

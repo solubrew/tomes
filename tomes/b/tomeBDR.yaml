@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd626547ec8f44e7075f36091e7fd898af4342ee6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Boardroom Cash
+    symbol: BDR
+    type: null

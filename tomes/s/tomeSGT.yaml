@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc4199fB6FFDb30A829614becA030f9042f1c3992'
+    chainId: null
+    decimals: null
+    description: snglsDAO (SGT) is a cryptocurrency and operates on the Ethereum platform.
+      snglsDAO has a current supply of 1,000,000,000 with 0 in circulation. The last
+      known price of snglsDAO is 0.00027081 USD and is up 6.75 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $23,853.18 traded over the
+      last 24 hours. More information can be found at https://snglsdao.io/.
+    logoURI: null
+    name: snglsDAO
+    symbol: SGT
+    type: null

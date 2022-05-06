@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x37Ee79E0B44866876de2fB7F416d0443DD5ae481'
+    chainId: null
+    decimals: null
+    description: Tatcoin (TAT) is a cryptocurrency launched in 2020and operates on
+      the Ethereum platform. Tatcoin has a current supply of 0. The last known price
+      of Tatcoin is 0.035811 USD and is up 0.35 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $95,304.25 traded over the last 24 hours.
+      More information can be found at https://abitnetwork.com/.
+    logoURI: null
+    name: Tatcoin
+    symbol: TAT
+    type: null

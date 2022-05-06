@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x86aaBCc646f290b9Fc9Bd05CE17C3858d1511Da1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: WETC
+    symbol: WETC
+    type: null

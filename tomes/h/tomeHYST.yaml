@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6Dc0a2A91D15461e8A0DfC64A387a7c4637b3fdb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Help YourSelf Token
+    symbol: HYST
+    type: null

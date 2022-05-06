@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2'
+    chainId: null
+    decimals: null
+    description: Pylon Finance (PYLON) is a cryptocurrency and operates on the Ethereum
+      platform. Pylon Finance has a current supply of 14,700 with 7,759 in circulation.
+      The last known price of Pylon Finance is 188.60507094 USD and is up 4.93 over
+      the last 24 hours. More information can be found at https://pylon.finance/#/.
+    logoURI: null
+    name: Pylon Finance
+    symbol: PYLON
+    type: null

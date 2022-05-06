@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc12d099be31567add4e4e4d0D45691C3F58f5663'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Auctus Token
+    symbol: AUC
+    type: null

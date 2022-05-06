@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA8b919680258d369114910511cc87595aec0be6D'
+    chainId: null
+    decimals: null
+    description: LUKSO (LYXe) is a cryptocurrency and operates on the Ethereum platform.
+      LUKSO has a current supply of 100,000,000 with 3,803,994.48929212 in circulation.
+      The last known price of LUKSO is 0.82512515 USD and is down -0.82 over the last
+      24 hours. It is currently trading on 3 active market(s) with $1,312,216.75 traded
+      over the last 24 hours. More information can be found at https://lukso.network.
+    logoURI: null
+    name: LUKSO
+    symbol: LYXe
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x23693431dE4CcCAe05d0CAF63bE0f1dcFcDf4906'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Tezos
+    symbol: XTZ
+    type: null

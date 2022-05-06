@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x341A1c534248966c4b6AFaD165B98DAED4B964ef'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: SEED
+    type: null

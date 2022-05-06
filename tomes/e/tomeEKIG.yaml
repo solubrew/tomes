@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x30859D6387CB28E68756be606d6724c7d29da9c3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ETHERKING
+    symbol: EKIG
+    type: null

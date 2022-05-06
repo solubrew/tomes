@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6bC1F3A1ae56231DbB64d3E82E070857EAe86045'
+    chainId: null
+    decimals: null
+    description: Xensor (XSR) is a cryptocurrency and operates on the Ethereum platform.
+      Xensor has a current supply of 4,800,000,000 with 4,637,578,586.101805 in circulation.
+      The last known price of Xensor is 0.00440125 USD and is up 0.84 over the last
+      24 hours. It is currently trading on 10 active market(s) with $705,419.23 traded
+      over the last 24 hours. More information can be found at https://xensor.cc/.
+    logoURI: null
+    name: Xensor
+    symbol: XSR
+    type: null

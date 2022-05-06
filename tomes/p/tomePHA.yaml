@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6c5bA91642F10282b576d91922Ae6448C9d52f4E'
+    chainId: null
+    decimals: null
+    description: Phala.Network (PHA) is a cryptocurrency and operates on the Ethereum
+      platform. Phala.Network has a current supply of 1,000,000,000 with 128,070,568.0467883
+      in circulation. The last known price of Phala.Network is 0.08901242 USD and
+      is down -1.20 over the last 24 hours. It is currently trading on 15 active market(s)
+      with $2,832,371.68 traded over the last 24 hours. More information can be found
+      at https://phala.network/.
+    logoURI: null
+    name: Phala.Network
+    symbol: PHA
+    type: null

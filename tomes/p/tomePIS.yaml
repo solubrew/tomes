@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xce1298ef635326d9f197963e49e1e67422761897'
+    chainId: null
+    decimals: null
+    description: PiSwap Token (PIS) is a cryptocurrency and operates on the Ethereum
+      platform. PiSwap Token has a current supply of 0. The last known price of PiSwap
+      Token is 2.22947932 USD and is up 26.99 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $101,743.97 traded over the last 24 hours.
+      More information can be found at https://piswap.io/.
+    logoURI: null
+    name: PiSwap Token
+    symbol: PIS
+    type: null

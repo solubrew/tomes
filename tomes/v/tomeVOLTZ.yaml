@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x60715e436c37444e29772c0d26a98ae1e8e1a989'
+    chainId: null
+    decimals: null
+    description: Voltz (VOLTZ) is a cryptocurrency and operates on the Ethereum platform.
+      Voltz has a current supply of 888,888,888,888 with 0 in circulation. The last
+      known price of Voltz is 0.00790465 USD and is up -0.00 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $33.45 traded over the last
+      24 hours. More information can be found at https://voltz.io/.
+    logoURI: null
+    name: Voltz
+    symbol: VOLTZ
+    type: null

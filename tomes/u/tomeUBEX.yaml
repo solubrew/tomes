@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1'
+    chainId: null
+    decimals: null
+    description: Ubex (UBEX) is a cryptocurrency and operates on the Ethereum platform.
+      Ubex has a current supply of 3,973,553,853.7873 with 3,355,935,101.6663256 in
+      circulation. The last known price of Ubex is 0.00018099 USD and is down -4.37
+      over the last 24 hours. It is currently trading on 11 active market(s) with
+      $178,369.04 traded over the last 24 hours. More information can be found at
+      https://www.ubex.com/.
+    logoURI: null
+    name: Ubex
+    symbol: UBEX
+    type: null

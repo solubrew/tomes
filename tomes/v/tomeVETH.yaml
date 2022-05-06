@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4ba6ddd7b89ed838fed25d208d4f644106e34279'
+    chainId: null
+    decimals: null
+    description: Vether (VETH) is a cryptocurrency and operates on the Ethereum platform.
+      Vether has a current supply of 1,000,000 with 220,491.36632599 in circulation.
+      The last known price of Vether is 1.94468361 USD and is up 0.00 over the last
+      24 hours. More information can be found at https://vetherasset.org/.
+    logoURI: null
+    name: Vether
+    symbol: VETH
+    type: null

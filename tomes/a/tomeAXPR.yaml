@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdD0020B1D5Ba47A54E2EB16800D73Beb6546f91A'
+    chainId: null
+    decimals: null
+    description: AXPR (AXPR) is a cryptocurrency and operates on the Ethereum platform.
+      AXPR has a current supply of 344,674,001.40087 with 279,674,001.40087 in circulation.
+      The last known price of AXPR is 0.00435067 USD and is down -5.66 over the last
+      24 hours. It is currently trading on 5 active market(s) with $532.43 traded
+      over the last 24 hours. More information can be found at https://www.axpire.com/consumer.
+    logoURI: null
+    name: AXPR
+    symbol: AXPR
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf6c151ea50a4f1a50983eb98998a18be0a549ad5'
+    chainId: null
+    decimals: null
+    description: YEARN2.FINANCE (YFI2) is a cryptocurrency and operates on the Ethereum
+      platform. YEARN2.FINANCE has a current supply of 0. The last known price of
+      YEARN2.FINANCE is 1.84469483 USD and is down -2.63 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $306.92 traded over the last
+      24 hours. More information can be found at https://yearn2.finance/.
+    logoURI: null
+    name: YEARN2.FINANCE
+    symbol: YFI2
+    type: null

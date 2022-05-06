@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfA2c0229600E24e0C44E70ACD5CA73071ff5593E'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Golden Ethereum
+    symbol: GETH
+    type: null

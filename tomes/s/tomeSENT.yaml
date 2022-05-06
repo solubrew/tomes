@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037'
+    chainId: null
+    decimals: null
+    description: Sentinel (SENT) is a cryptocurrency and operates on the Ethereum
+      platform. Sentinel has a current supply of 1,999,970,000 with 1,999,969,999.154657
+      in circulation. The last known price of Sentinel is 0.00306456 USD and is down
+      -8.84 over the last 24 hours. It is currently trading on 10 active market(s)
+      with $20,973.79 traded over the last 24 hours. More information can be found
+      at https://sentinel.co/.
+    logoURI: null
+    name: Sentinel
+    symbol: SENT
+    type: null

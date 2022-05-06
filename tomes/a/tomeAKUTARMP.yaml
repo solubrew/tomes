@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x94B6f3978B0A32f7Fa0B15243E86af1aEc23Deb5'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: AKUTARMP
+    type: null

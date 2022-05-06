@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd24DFf6117936B6ff97108CF26c1dD8865743d87'
+    chainId: null
+    decimals: null
+    description: Medium (MDM) is a cryptocurrency and operates on the Ethereum platform.
+      Medium has a current supply of 1,000,000,000 with 0 in circulation. The last
+      known price of Medium is 0.37292295 USD and is down -0.07 over the last 24 hours.
+      It is currently trading on 3 active market(s) with $741,632.58 traded over the
+      last 24 hours. More information can be found at http://themedium.io/en/index.do.
+    logoURI: null
+    name: Medium
+    symbol: MDM
+    type: null

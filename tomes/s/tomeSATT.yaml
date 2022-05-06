@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xDF49C9F599A0A9049D97CFF34D0C30E468987389'
+    chainId: null
+    decimals: null
+    description: SaTT (SATT) is a cryptocurrency and operates on the Ethereum platform.
+      SaTT has a current supply of 12,270,063,309.622978 with 3,054,350,634.252978
+      in circulation. The last known price of SaTT is 0.00082592 USD and is down -3.71
+      over the last 24 hours. It is currently trading on 2 active market(s) with $150,304.80
+      traded over the last 24 hours. More information can be found at http://www.satt-token.com/.
+    logoURI: null
+    name: SaTT
+    symbol: SATT
+    type: null

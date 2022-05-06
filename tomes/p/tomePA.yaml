@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x75E95ba5997Eb235F40eCF8347cDb11F18ff640B'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: PA
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xf65b5c5104c4fafd4b709d9d60a185eae063276c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Trubit
+    symbol: TRU
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6eA40D8c8F275C274461BB97E7dC4535f77DE6a0'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BIZATCOIN
+    symbol: BZT
+    type: null

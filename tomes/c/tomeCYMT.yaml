@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x78c292d1445e6b9558bf42e8bc369271ded062ea'
+    chainId: null
+    decimals: null
+    description: CyberMusic (CYMT) is a cryptocurrency and operates on the Ethereum
+      platform. CyberMusic has a current supply of 15,500,000,000 with 15,200,000,000
+      in circulation. The last known price of CyberMusic is 0.00000153 USD and is
+      down -9.80 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $1.16 traded over the last 24 hours. More information can be found at https://cybermusic.io.
+    logoURI: null
+    name: CyberMusic
+    symbol: CYMT
+    type: null

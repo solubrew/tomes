@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0'
+    chainId: null
+    decimals: null
+    description: Growth DeFi (GRO) is a cryptocurrency and operates on the Ethereum
+      platform. Growth DeFi has a current supply of 996,861.52870735 with 147,213.48122198
+      in circulation. The last known price of Growth DeFi is 17.57068481 USD and is
+      up 3.14 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $658.50 traded over the last 24 hours. More information can be found at
+      https://app.growthdefi.com/.
+    logoURI: null
+    name: Growth DeFi
+    symbol: GRO
+    type: null

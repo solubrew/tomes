@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x51954E7045fc33413f5fE55D0Bff4a7B71dba6c7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Offer for Goods
+    symbol: OFFER
+    type: null

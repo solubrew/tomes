@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5A844590c5b8f40ae56190771d06c60b9ab1Da1C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ross Campbell Legal Engineering
+    symbol: RCLE
+    type: null

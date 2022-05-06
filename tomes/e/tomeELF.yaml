@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e'
+    chainId: null
+    decimals: null
+    description: aelf (ELF) is a cryptocurrency and operates on the Ethereum platform.
+      aelf has a current supply of 879,999,999.9864658 with 544,480,199.9864658 in
+      circulation. The last known price of aelf is 0.12576158 USD and is up 7.09 over
+      the last 24 hours. It is currently trading on 79 active market(s) with $18,722,335.20
+      traded over the last 24 hours. More information can be found at http://aelf.io/.
+    logoURI: null
+    name: aelf
+    symbol: ELF
+    type: null

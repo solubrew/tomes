@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215'
+    chainId: null
+    decimals: null
+    description: Foresight (FORS) is a cryptocurrency and operates on the Ethereum
+      platform. Foresight has a current supply of 0. The last known price of Foresight
+      is 0.02417182 USD and is up 19.96 over the last 24 hours. It is currently trading
+      on 4 active market(s) with $12,691.84 traded over the last 24 hours. More information
+      can be found at https://foresightdefi.io/.
+    logoURI: null
+    name: Foresight
+    symbol: FORS
+    type: null

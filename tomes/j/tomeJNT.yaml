@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7'
+    chainId: null
+    decimals: null
+    description: Jibrel Network (JNT) is a cryptocurrency and operates on the Ethereum
+      platform. Jibrel Network has a current supply of 200,000,000 with 169,843,068.9013809
+      in circulation. The last known price of Jibrel Network is 0.0133532 USD and
+      is up 12.46 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $52,992.86 traded over the last 24 hours. More information can be found
+      at https://jibrel.com/en.
+    logoURI: null
+    name: Jibrel Network
+    symbol: JNT
+    type: null

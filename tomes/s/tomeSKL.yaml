@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7'
+    chainId: null
+    decimals: null
+    description: SKALE Network (SKL) is a cryptocurrency and operates on the Ethereum
+      platform. SKALE Network has a current supply of 4,072,194,681 with 564,166,667
+      in circulation. The last known price of SKALE Network is 0.12157372 USD and
+      is up 3.67 over the last 24 hours. It is currently trading on 13 active market(s)
+      with $20,466,151.76 traded over the last 24 hours. More information can be found
+      at https://skale.network/.
+    logoURI: null
+    name: SKALE Network
+    symbol: SKL
+    type: null

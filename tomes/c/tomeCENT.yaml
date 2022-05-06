@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x262b6a8b044ab9b7a345353ded8f541c1ac37bd3'
+    chainId: null
+    decimals: null
+    description: CENTERCOIN (CENT) is a cryptocurrency and operates on the Ethereum
+      platform. CENTERCOIN has a current supply of 3,500,002,431.6288257 with 0 in
+      circulation. The last known price of CENTERCOIN is 0.00055032 USD and is down
+      -6.78 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $107,796.53 traded over the last 24 hours. More information can be found
+      at http://centercoin.co.
+    logoURI: null
+    name: CENTERCOIN
+    symbol: CENT
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1abdb309aa592f00a101c545168bfdf9a6ec61ce'
+    chainId: null
+    decimals: null
+    description: Business Credit Alliance Chain (BCAC) is a cryptocurrency and operates
+      on the Ethereum platform. Business Credit Alliance Chain has a current supply
+      of 512,122,609.3851905 with 464,084,436.60776347 in circulation. The last known
+      price of Business Credit Alliance Chain is 0.00005635 USD and is down -1.70
+      over the last 24 hours. It is currently trading on 2 active market(s) with $147.69
+      traded over the last 24 hours. More information can be found at http://www.bcachain.org/.
+    logoURI: null
+    name: Business Credit Alliance Chain
+    symbol: BCAC
+    type: null

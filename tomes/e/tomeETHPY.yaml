@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x601938988f0fdd937373ea185c33751462b1d194'
+    chainId: null
+    decimals: null
+    description: Etherpay (ETHPY) is a cryptocurrency and operates on the Ethereum
+      platform. Etherpay has a current supply of 100,000,000 with 0 in circulation.
+      The last known price of Etherpay is 0.11790911 USD and is down -34.28 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $12,523.66
+      traded over the last 24 hours. More information can be found at https://etherpay.tech/.
+    logoURI: null
+    name: Etherpay
+    symbol: ETHPY
+    type: null

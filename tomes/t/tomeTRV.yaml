@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x72955ecff76e48f2c8abcce11d54e5734d6f3657'
+    chainId: null
+    decimals: null
+    description: TrustVerse (TRV) is a cryptocurrency and operates on the Ethereum
+      platform. TrustVerse has a current supply of 1,000,000,000 with 420,720,687.20324206
+      in circulation. The last known price of TrustVerse is 0.02128063 USD and is
+      down -6.58 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $366,954.60 traded over the last 24 hours. More information can be found
+      at https://trustverse.io/.
+    logoURI: null
+    name: TrustVerse
+    symbol: TRV
+    type: null

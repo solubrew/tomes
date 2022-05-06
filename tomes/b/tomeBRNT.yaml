@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2eb1E8FD394222df25638CfA8f0e5e7998A9dc1f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Burninator Token
+    symbol: BRNT
+    type: null

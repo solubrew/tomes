@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE4FFEe3b33360e21Ea2aec37a39901CB720Eb84c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MEDIEX
+    symbol: MDX
+    type: null

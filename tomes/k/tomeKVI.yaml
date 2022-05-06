@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8868ff4893113193313465A0Ccc5F1bd370D7751'
+    chainId: null
+    decimals: null
+    description: KVI (KVI) is a cryptocurrency and operates on the Ethereum platform.
+      KVI has a current supply of 0. The last known price of KVI is 0.00065137 USD
+      and is up 61.93 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $235,326.05 traded over the last 24 hours. More information can
+      be found at http://kvichain.com/.
+    logoURI: null
+    name: KVI
+    symbol: KVI
+    type: null

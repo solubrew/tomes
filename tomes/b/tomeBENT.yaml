@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4cda1F2e5c9b32BE8420AFdcD3cE84Ee4d3d5EBb'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BENT
+    symbol: BENT
+    type: null

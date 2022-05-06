@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd7394087e1dbbe477fe4f1cf373b9ac9459565ff'
+    chainId: null
+    decimals: null
+    description: RealTract (RET) is a cryptocurrency and operates on the Ethereum
+      platform. RealTract has a current supply of 24,600,000,000 with 10,600,000,000
+      in circulation. The last known price of RealTract is 0.00001038 USD and is down
+      -70.63 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $736.22 traded over the last 24 hours. More information can be found at
+      https://realtract.network/.
+    logoURI: null
+    name: RealTract
+    symbol: RET
+    type: null

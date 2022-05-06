@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1E71034C89dD191ACcB27dC35f18a3d8b6f91311'
+    chainId: null
+    decimals: null
+    description: Free Tool Box Coin (FTB) is a cryptocurrency and operates on the
+      Ethereum platform. Free Tool Box Coin has a current supply of 5,000,000,000
+      with 861,507,504.7334973 in circulation. The last known price of Free Tool Box
+      Coin is 0.01189257 USD and is down -1.60 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $36,731.82 traded over the last 24 hours.
+      More information can be found at http://ftbshare.io/index_en.html.
+    logoURI: null
+    name: Free Tool Box Coin
+    symbol: FTB
+    type: null

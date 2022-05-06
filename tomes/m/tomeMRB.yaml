@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x96A093025637C0376E322A0ea91f823DDe52b0aC'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: mrblock
+    symbol: MRB
+    type: null

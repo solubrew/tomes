@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x06f65b8CfCb13a9FE37d836fE9708dA38Ecb29B2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 'SAINT FAME: Genesis Shirt'
+    symbol: FAME
+    type: null

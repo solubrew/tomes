@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd379700999f4805ce80aa32db46a94df64561108'
+    chainId: null
+    decimals: null
+    description: Dextrust (DETS) is a cryptocurrency and operates on the Ethereum
+      platform. Dextrust has a current supply of 0. The last known price of Dextrust
+      is 0.0181488 USD and is up 2.90 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $182.14 traded over the last 24 hours. More information
+      can be found at https://dextrust.org/.
+    logoURI: null
+    name: Dextrust
+    symbol: DETS
+    type: null

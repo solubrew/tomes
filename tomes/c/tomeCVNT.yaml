@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6400b5522f8d448c0803e6245436dd1c81df09ce'
+    chainId: null
+    decimals: null
+    description: Content Value Network (CVNT) is a cryptocurrency and operates on
+      the Ethereum platform. Content Value Network has a current supply of 1,000,000,000
+      with 925,000,000 in circulation. The last known price of Content Value Network
+      is 0.00817013 USD and is down -3.82 over the last 24 hours. It is currently
+      trading on 5 active market(s) with $246,408.74 traded over the last 24 hours.
+      More information can be found at http://cvn.io/.
+    logoURI: null
+    name: Content Value Network
+    symbol: CVNT
+    type: null

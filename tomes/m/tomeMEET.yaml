@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7f121d4EC6c2C07eB6BC7989d91d2d4fF654c068'
+    chainId: null
+    decimals: null
+    description: CoinMeet (MEET) is a cryptocurrency launched in 2018and operates
+      on the Ethereum platform. CoinMeet has a current supply of 400,000,000 with
+      0 in circulation. The last known price of CoinMeet is 0.00358363 USD and is
+      up 1.50 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $192,687.70 traded over the last 24 hours. More information can be found
+      at https://coinmeet.io/.
+    logoURI: null
+    name: CoinMeet
+    symbol: MEET
+    type: null

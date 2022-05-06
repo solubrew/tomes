@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x86225C165b61472c83599270B4C916566a784861'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Hotmedia Coin
+    symbol: H-C
+    type: null

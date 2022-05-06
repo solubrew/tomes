@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x34453c84b6D18bC285a80e31f6C6395934434e92'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PASSIVE
+    symbol: PAS
+    type: null

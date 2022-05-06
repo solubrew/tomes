@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x700bef66897073c75c037869Ae7681F6e42D73F2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Aptro Token
+    symbol: APTRO
+    type: null

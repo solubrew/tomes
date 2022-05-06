@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8b40761142b9aa6dc8964e61d0585995425c3d94'
+    chainId: null
+    decimals: null
+    description: Tripio (TRIO) is a cryptocurrency and operates on the Ethereum platform.
+      Tripio has a current supply of 5,000,000,000 with 3,750,000,000 in circulation.
+      The last known price of Tripio is 0.00077044 USD and is up 17.17 over the last
+      24 hours. It is currently trading on 10 active market(s) with $763,605.84 traded
+      over the last 24 hours. More information can be found at https://trip.io/.
+    logoURI: null
+    name: Tripio
+    symbol: TRIO
+    type: null

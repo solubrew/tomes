@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x58002a6b6e659a16de9f02f529b10536e307b0d9'
+    chainId: null
+    decimals: null
+    description: Crypto Holding Frank Token (CHFT) is a cryptocurrency and operates
+      on the Ethereum platform. Crypto Holding Frank Token has a current supply of
+      100,000,000,000 with 0 in circulation. The last known price of Crypto Holding
+      Frank Token is 1.12248745 USD and is down -0.06 over the last 24 hours. It is
+      currently trading on 20 active market(s) with $269,233.06 traded over the last
+      24 hours. More information can be found at https://www.cryptoholding.com.
+    logoURI: null
+    name: Crypto Holding Frank Token
+    symbol: CHFT
+    type: null

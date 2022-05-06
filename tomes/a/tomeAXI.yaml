@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x73ee6d7e6b203125add89320e9f343d65ec7c39a'
+    chainId: null
+    decimals: null
+    description: Axioms (AXI) is a cryptocurrency and operates on the Ethereum platform.
+      Axioms has a current supply of 100,000,000 with 0 in circulation. The last known
+      price of Axioms is 0.00736693 USD and is up 11.64 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $1,666.13 traded over the last
+      24 hours. More information can be found at https://axioms.app/.
+    logoURI: null
+    name: Axioms
+    symbol: AXI
+    type: null

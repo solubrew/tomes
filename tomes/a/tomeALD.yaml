@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb339FcA531367067e98d7c4f9303Ffeadff7B881'
+    chainId: null
+    decimals: null
+    description: Aludra Network (ALD) is a cryptocurrency and operates on the Ethereum
+      platform. Aludra Network has a current supply of 115,000,000 with 0 in circulation.
+      The last known price of Aludra Network is 0.0004745 USD and is up 385.91 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $18.13
+      traded over the last 24 hours. More information can be found at https://aludra.network.
+    logoURI: null
+    name: Aludra Network
+    symbol: ALD
+    type: null

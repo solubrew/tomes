@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x46f4e420c75401494a39b70653f4bbb88ad2d728'
+    chainId: null
+    decimals: null
+    description: Wenburn (WENB) is a cryptocurrency and operates on the Ethereum platform.
+      Wenburn has a current supply of 1,808,943.659 with 0 in circulation. The last
+      known price of Wenburn is 0.02370172 USD and is up 5.09 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $49.87 traded over the last
+      24 hours. More information can be found at https://wenburn.com.
+    logoURI: null
+    name: Wenburn
+    symbol: WENB
+    type: null

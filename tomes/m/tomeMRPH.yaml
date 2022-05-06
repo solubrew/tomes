@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7B0C06043468469967DBA22d1AF33d77d44056c8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Morpheus.Network
+    symbol: MRPH
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7a647637e75d34a7798ba06bd1adf5c084bb5dd5'
+    chainId: null
+    decimals: null
+    description: Bestay (BSY) is a cryptocurrency and operates on the Ethereum platform.
+      Bestay has a current supply of 60,010 with 0 in circulation. The last known
+      price of Bestay is 0.42025327 USD and is up 1.90 over the last 24 hours. It
+      is currently trading on 2 active market(s) with $453.54 traded over the last
+      24 hours. More information can be found at https://bestay.io.
+    logoURI: null
+    name: Bestay
+    symbol: BSY
+    type: null

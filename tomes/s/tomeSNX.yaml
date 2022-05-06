@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Synthetix Network Token
+    symbol: SNX
+    type: null

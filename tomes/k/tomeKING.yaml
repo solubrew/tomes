@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x13d9f3DDCDf57F73Fb5Dfdf04847508C1Cc6AB1A'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: KING Token
+    symbol: KING
+    type: null

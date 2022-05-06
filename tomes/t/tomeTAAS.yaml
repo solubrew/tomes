@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Token-as-a-Service
+    symbol: TAAS
+    type: null

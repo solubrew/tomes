@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x03ef30e1aee25aBd320AD961B8CD31Aa1a011c97'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: CPASS
+    type: null

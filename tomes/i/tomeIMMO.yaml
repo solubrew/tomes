@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9c3E7E016389661473Ac64f4C37f5f7F2955e499'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: blockimmo
+    symbol: IMMO
+    type: null

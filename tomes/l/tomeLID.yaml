@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0417912b3a7af768051765040a55bb0925d4ddcf'
+    chainId: null
+    decimals: null
+    description: Liquidity Dividends Protocol (LID) is a cryptocurrency and operates
+      on the Ethereum platform. Liquidity Dividends Protocol has a current supply
+      of 0. The last known price of Liquidity Dividends Protocol is 0.02565929 USD
+      and is up 1.72 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $36,962.52 traded over the last 24 hours. More information can be found
+      at https://www.lid.sh.
+    logoURI: null
+    name: Liquidity Dividends Protocol
+    symbol: LID
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Raiden Token
+    symbol: RDN
+    type: null

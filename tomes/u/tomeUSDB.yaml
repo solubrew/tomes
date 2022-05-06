@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x309627af60F0926daa6041B8279484312f2bf060'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bancor USD Token
+    symbol: USDB
+    type: null

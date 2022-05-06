@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6fff3806bbac52a20e0d79bc538d527f6a22c96b'
+    chainId: null
+    decimals: null
+    description: CDX Network (CDX) is a cryptocurrency and operates on the Ethereum
+      platform. CDX Network has a current supply of 120,000,000 with 32,546,000 in
+      circulation. The last known price of CDX Network is 0.00134052 USD and is up
+      1.42 over the last 24 hours. It is currently trading on 1 active market(s) with
+      $415.60 traded over the last 24 hours. More information can be found at https://cdxnet.com.
+    logoURI: null
+    name: CDX Network
+    symbol: CDX
+    type: null

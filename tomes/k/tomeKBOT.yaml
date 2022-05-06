@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcd64aa18ddbce84411adbfe6da49354ba5187a45'
+    chainId: null
+    decimals: null
+    description: Korbot (KBOT) is a cryptocurrency and operates on the Ethereum platform.
+      Korbot has a current supply of 200,000,000 with 0 in circulation. The last known
+      price of Korbot is 0.04199871 USD and is up 0.87 over the last 24 hours. It
+      is currently trading on 2 active market(s) with $0.00 traded over the last 24
+      hours. More information can be found at https://www.korbot.com/.
+    logoURI: null
+    name: Korbot
+    symbol: KBOT
+    type: null

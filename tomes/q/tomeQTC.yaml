@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x923C90B98ee834D118c85DDf44906EE1769Df648'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Qitcoin
+    symbol: QTC
+    type: null

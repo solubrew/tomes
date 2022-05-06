@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0C8cDC16973E88FAb31DD0FCB844DdF0e1056dE2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Genesis Raffle Token
+    symbol: GRT
+    type: null

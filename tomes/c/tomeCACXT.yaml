@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe2b8c4938a3103c1ab5c19a6b93d07ab6f9da2ba'
+    chainId: null
+    decimals: null
+    description: Convertible ACXT (CACXT) is a cryptocurrency and operates on the
+      Ethereum platform. Convertible ACXT has a current supply of 0. The last known
+      price of Convertible ACXT is 4.73322213 USD and is up 3.48 over the last 24
+      hours. It is currently trading on 1 active market(s) with $0.00 traded over
+      the last 24 hours. More information can be found at https://www.acdx.io.
+    logoURI: null
+    name: Convertible ACXT
+    symbol: CACXT
+    type: null

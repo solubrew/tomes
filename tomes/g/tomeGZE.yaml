@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4AC00f287f36A6Aad655281fE1cA6798C9cb727b'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GazeCoin Metaverse Token
+    symbol: GZE
+    type: null

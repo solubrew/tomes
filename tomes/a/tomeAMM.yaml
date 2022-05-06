@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8b1f49491477e0fb46a29fef53f1ea320d13c349'
+    chainId: null
+    decimals: null
+    description: MicroMoney (AMM) is a cryptocurrency and operates on the Ethereum
+      platform. MicroMoney has a current supply of 17,532,943.47918 with 15,777,256.479179
+      in circulation. The last known price of MicroMoney is 0.00911237 USD and is
+      down -4.98 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $42,598.60 traded over the last 24 hours. More information can be found
+      at https://www.micromoney.io/.
+    logoURI: null
+    name: MicroMoney
+    symbol: AMM
+    type: null

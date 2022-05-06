@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c'
+    chainId: null
+    decimals: null
+    description: Consentium (CSM) is a cryptocurrency and operates on the Ethereum
+      platform. Consentium has a current supply of 240,000,000 with 0 in circulation.
+      The last known price of Consentium is 0.00628386 USD and is down -6.82 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $6,956.94
+      traded over the last 24 hours. More information can be found at https://www.consentium.net/.
+    logoURI: null
+    name: Consentium
+    symbol: CSM
+    type: null

@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x123b30E25973FeCd8354dd5f41Cc45A3065eF88C'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: ALIENFRENS
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB97FaF860045483E0C7F08c56acb31333084a988'
+    chainId: null
+    decimals: null
+    description: Vanilla Network (VNLA) is a cryptocurrency launched in 1970and operates
+      on the Ethereum platform. Vanilla Network has a current supply of 948,753 with
+      584,325 in circulation. The last known price of Vanilla Network is 0.19357372
+      USD and is down -3.88 over the last 24 hours. It is currently trading on 2 active
+      market(s) with $23,230.30 traded over the last 24 hours. More information can
+      be found at https://vanilla.network.
+    logoURI: null
+    name: Vanilla Network
+    symbol: VNLA
+    type: null

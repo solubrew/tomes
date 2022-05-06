@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x19810559df63f19cfe88923313250550edadb743'
+    chainId: null
+    decimals: null
+    description: Toast.finance (HOUSE) is a cryptocurrency and operates on the Ethereum
+      platform. Toast.finance has a current supply of 20,000. The last known price
+      of Toast.finance is 1.67041263 USD and is up 7.75 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $224.11 traded over the last
+      24 hours. More information can be found at https://toast.finance/.
+    logoURI: null
+    name: Toast.finance
+    symbol: HOUSE
+    type: null

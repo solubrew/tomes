@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1602af2C782cC03F9241992E243290Fccf73Bb13'
+    chainId: null
+    decimals: null
+    description: Qubitica (QBIT) is a cryptocurrency and operates on the Ethereum
+      platform. Qubitica has a current supply of 10,000,000 with 808,674.9028 in circulation.
+      The last known price of Qubitica is 4.37987883 USD and is up 7.14 over the last
+      24 hours. It is currently trading on 8 active market(s) with $6,604.79 traded
+      over the last 24 hours. More information can be found at https://www.qubitica.net.
+    logoURI: null
+    name: Qubitica
+    symbol: QBIT
+    type: null

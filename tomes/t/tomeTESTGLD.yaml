@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0FaC12Df2Fc6C2499CCa50d7dBDC4d691c3a94f9'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: TESTGOLD
+    symbol: TESTGLD
+    type: null

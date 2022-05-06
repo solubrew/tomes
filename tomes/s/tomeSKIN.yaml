@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2bdc0d42996017fce214b21607a515da41a9e0c5'
+    chainId: null
+    decimals: null
+    description: SkinCoin (SKIN) is a cryptocurrency and operates on the Ethereum
+      platform. SkinCoin has a current supply of 388,183,483.291 with 88,183,483 in
+      circulation. The last known price of SkinCoin is 0.00067482 USD and is up 1.18
+      over the last 24 hours. It is currently trading on 2 active market(s) with $8,403.42
+      traded over the last 24 hours. More information can be found at https://skincoin.org/.
+    logoURI: null
+    name: SkinCoin
+    symbol: SKIN
+    type: null

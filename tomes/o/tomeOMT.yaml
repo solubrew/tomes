@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x54e529f3673eb585c1690880186EaC3C4dd30b09'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: OgroMagicToken
+    symbol: OMT
+    type: null

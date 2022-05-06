@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x42237Af8B1b3b2063d8377C5dE8a4549E7b09AC5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Bee Token
+    symbol: BEE
+    type: null

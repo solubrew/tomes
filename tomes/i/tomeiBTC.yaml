@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD6014EA05BDe904448B743833dDF07c3C7837481'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Synth iBTC
+    symbol: iBTC
+    type: null

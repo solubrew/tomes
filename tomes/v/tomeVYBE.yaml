@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3A1c1d1c06bE03cDDC4d3332F7C20e1B37c97CE9'
+    chainId: null
+    decimals: null
+    description: Vybe (VYBE) is a cryptocurrency and operates on the Ethereum platform.
+      Vybe has a current supply of 2,005,821.1341 with 0 in circulation. The last
+      known price of Vybe is 0.16206183 USD and is up 13.46 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $7,459.85 traded over the
+      last 24 hours. More information can be found at https://vybe.finance.
+    logoURI: null
+    name: Vybe
+    symbol: VYBE
+    type: null

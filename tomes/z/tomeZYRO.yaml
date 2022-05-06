@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1f6bd8766f8a8AA58F7441C8dd3709aFA3a56202'
+    chainId: null
+    decimals: null
+    description: Zyro (ZYRO) is a cryptocurrency and operates on the Ethereum platform.
+      Zyro has a current supply of 300,000,000 with 0 in circulation. The last known
+      price of Zyro is 0.03764511 USD and is down -7.64 over the last 24 hours. It
+      is currently trading on 4 active market(s) with $537,600.68 traded over the
+      last 24 hours. More information can be found at https://zyro.finance/.
+    logoURI: null
+    name: Zyro
+    symbol: ZYRO
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeeaa34af95b034bada4baf565063132c765b1fa5'
+    chainId: null
+    decimals: null
+    description: OLPORTAL (OLCF) is a cryptocurrency and operates on the Ethereum
+      platform. OLPORTAL has a current supply of 0. The last known price of OLPORTAL
+      is 0.00087653 USD and is down -0.03 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $1,240.64 traded over the last 24 hours.
+      More information can be found at https://olportal.ai.
+    logoURI: null
+    name: OLPORTAL
+    symbol: OLCF
+    type: null

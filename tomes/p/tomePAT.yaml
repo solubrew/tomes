@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624'
+    chainId: null
+    decimals: null
+    description: Patron (PAT) is a cryptocurrency and operates on the Ethereum platform.
+      Patron has a current supply of 400,000,000 with 393,939,792.859328 in circulation.
+      The last known price of Patron is 0.00174013 USD and is up 3.73 over the last
+      24 hours. It is currently trading on 3 active market(s) with $4,894.67 traded
+      over the last 24 hours. More information can be found at https://patron-influencers.com.
+    logoURI: null
+    name: Patron
+    symbol: PAT
+    type: null

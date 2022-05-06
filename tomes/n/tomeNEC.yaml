@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Ethfinex Nectar Token
+    symbol: NEC
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9c23d67aea7b95d80942e3836bcdf7e708a747c2'
+    chainId: null
+    decimals: null
+    description: LOCIcoin (LOCI) is a cryptocurrency and operates on the Ethereum
+      platform. LOCIcoin has a current supply of 100,000,000 with 41,387,231.66022032
+      in circulation. The last known price of LOCIcoin is 0.00157546 USD and is up
+      3.36 over the last 24 hours. It is currently trading on 1 active market(s) with
+      $0.00 traded over the last 24 hours. More information can be found at https://loci.io/.
+    logoURI: null
+    name: LOCIcoin
+    symbol: LOCI
+    type: null

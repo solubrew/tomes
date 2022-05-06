@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x572E2bf037bF0eff8718dC37aeC53C0517b4e5Cf'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Snatch
+    symbol: STH
+    type: null

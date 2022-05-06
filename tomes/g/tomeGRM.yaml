@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xC8c6FC3c4f6342c5291e747268625f979A888EBF'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Green Money
+    symbol: GRM
+    type: null

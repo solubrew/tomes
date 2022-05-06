@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xff44b5719f0b77a9951636fc5e69d3a1fc9e7d73'
+    chainId: null
+    decimals: null
+    description: 4ART Coin (4ART) is a cryptocurrency and operates on the Ethereum
+      platform. 4ART Coin has a current supply of 0. The last known price of 4ART
+      Coin is 0.01352111 USD and is up 3.03 over the last 24 hours. It is currently
+      trading on 2 active market(s) with $919.72 traded over the last 24 hours. More
+      information can be found at https://www.4art-technologies.com/.
+    logoURI: null
+    name: 4ART Coin
+    symbol: 4ART
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFF59c6A13B272Db7b278f04E5300e53b46fAad78'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ToknTrade
+    symbol: TOKN
+    type: null

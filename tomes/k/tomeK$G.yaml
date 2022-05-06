@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xF9D290f3fe0b151F2ebb9321b7b3f5ecc11ea549'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: KGreen
+    symbol: K$G
+    type: null

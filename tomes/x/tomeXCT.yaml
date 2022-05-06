@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD2bb16cf38Ca086Cab5128D5c25DE9477eBD596B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: xCrypt Token
+    symbol: XCT
+    type: null

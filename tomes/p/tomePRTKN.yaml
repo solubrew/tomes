@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4136dD480327e24E0908D829e03B08559e7D9B8D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Pirate Token
+    symbol: PRTKN
+    type: null

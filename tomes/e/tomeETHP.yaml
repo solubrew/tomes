@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEED736b2b809550D89A941C2005dE93588c628e2'
+    chainId: null
+    decimals: null
+    description: ETHPlus (ETHP) is a cryptocurrency and operates on the Ethereum platform.
+      ETHPlus has a current supply of 20,000,000 with 1,308,522 in circulation. The
+      last known price of ETHPlus is 0.04022752 USD and is up 1.77 over the last 24
+      hours. It is currently trading on 10 active market(s) with $10,001.01 traded
+      over the last 24 hours. More information can be found at https://ethplus.net.
+    logoURI: null
+    name: ETHPlus
+    symbol: ETHP
+    type: null

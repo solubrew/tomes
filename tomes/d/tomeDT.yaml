@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1da015ea4ad2d3e5586e54b9fb0682ca3ca8a17a'
+    chainId: null
+    decimals: null
+    description: Dragon Token (DT) is a cryptocurrency and operates on the Ethereum
+      platform. Dragon Token has a current supply of 21,406,200 with 0 in circulation.
+      The last known price of Dragon Token is 1.39157592 USD and is up 1.37 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $3,033,299.42
+      traded over the last 24 hours. More information can be found at https://dragonex.io/en-us/.
+    logoURI: null
+    name: Dragon Token
+    symbol: DT
+    type: null

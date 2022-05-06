@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2d39ec4da54329d28d230b4973f5aa27886c3aee'
+    chainId: null
+    decimals: null
+    description: NFX Coin (NFXC) is a cryptocurrency and operates on the Ethereum
+      platform. NFX Coin has a current supply of 148,512,871.70444357 with 122,480,543.70442913
+      in circulation. The last known price of NFX Coin is 0.01053265 USD and is down
+      -12.84 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $616.32 traded over the last 24 hours. More information can be found at
+      https://nfxcoin.io/.
+    logoURI: null
+    name: NFX Coin
+    symbol: NFXC
+    type: null

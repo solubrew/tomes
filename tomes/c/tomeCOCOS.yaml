@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0c6f5f7d555e7518f6841a79436bd2b1eef03381'
+    chainId: null
+    decimals: null
+    description: Cocos-BCX (COCOS) is a cryptocurrency and operates on the Ethereum
+      platform. Cocos-BCX has a current supply of 100,000,000,000 with 39,326,586,220
+      in circulation. The last known price of Cocos-BCX is 0.00029799 USD and is up
+      3.77 over the last 24 hours. It is currently trading on 15 active market(s)
+      with $842,420.43 traded over the last 24 hours. More information can be found
+      at https://www.cocosbcx.io/.
+    logoURI: null
+    name: Cocos-BCX
+    symbol: COCOS
+    type: null

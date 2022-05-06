@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5Af2Be193a6ABCa9c8817001F45744777Db30756'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Voyager
+    symbol: VGX
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LGO Token
+    symbol: LGO
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe0b7927c4af23765cb51314a0e0521a9645f0e2a'
+    chainId: null
+    decimals: null
+    description: DigixDAO (DGD) is a cryptocurrency and operates on the Ethereum platform.
+      DigixDAO has a current supply of 141,383.95941203. The last known price of DigixDAO
+      is 114.99847909 USD and is up 3.24 over the last 24 hours. It is currently trading
+      on 12 active market(s) with $65,021.16 traded over the last 24 hours. More information
+      can be found at https://digix.global/dgd/.
+    logoURI: null
+    name: DigixDAO
+    symbol: DGD
+    type: null

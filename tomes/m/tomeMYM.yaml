@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb9892F9A892f3e251fc58B9076c56aDD528eb8A6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Moyom
+    symbol: MYM
+    type: null

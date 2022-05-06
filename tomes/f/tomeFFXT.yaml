@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xCc2661d5b68A02BEd6508377c499E1144b97200c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FORTUNEFX
+    symbol: FFXT
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE6796E5e1FF3052b71E76bB5958d4841C9E9DDf1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Reichsmark
+    symbol: RM
+    type: null

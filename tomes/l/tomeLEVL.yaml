@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x09970aec766b6f3223aca9111555e99dc50ff13a'
+    chainId: null
+    decimals: null
+    description: Levolution (LEVL) is a cryptocurrency and operates on the Ethereum
+      platform. Levolution has a current supply of 311,000,000 with 60,907,834.40870435
+      in circulation. The last known price of Levolution is 0.25974123 USD and is
+      up 2.14 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $295,408.44 traded over the last 24 hours. More information can be found
+      at https://levolution.io/.
+    logoURI: null
+    name: Levolution
+    symbol: LEVL
+    type: null

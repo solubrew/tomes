@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6b9f031d718dded0d681c20cb754f97b3bb81b78'
+    chainId: null
+    decimals: null
+    description: Geeq (GEEQ) is a cryptocurrency and operates on the Ethereum platform.
+      Geeq has a current supply of 100,000,000 with 6,788,887 in circulation. The
+      last known price of Geeq is 0.307776 USD and is up 0.89 over the last 24 hours.
+      It is currently trading on 9 active market(s) with $214,739.08 traded over the
+      last 24 hours. More information can be found at https://geeq.io/.
+    logoURI: null
+    name: Geeq
+    symbol: GEEQ
+    type: null

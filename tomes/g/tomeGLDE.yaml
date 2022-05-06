@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x90b199690284B75220Ce016bE1Fc5F31c0a6D171'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GOLDENEYE Fixed Supply Token
+    symbol: GLDE
+    type: null

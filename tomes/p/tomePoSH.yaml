@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x685aea4F02E39E5a5BB7f7117E88DB1151F38364'
+    chainId: null
+    decimals: null
+    description: Shill & Win (PoSH) is a cryptocurrency and operates on the Ethereum
+      platform. Shill & Win has a current supply of 1,531,306,115.1594458 with 0 in
+      circulation. The last known price of Shill & Win is 0.00002353 USD and is down
+      -6.28 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://shill.win/.
+    logoURI: null
+    name: Shill & Win
+    symbol: PoSH
+    type: null

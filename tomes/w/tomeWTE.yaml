@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcCEe121e2F303283c5EEF616F92295A33Be5A25F'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Washington Trust Estate
+    symbol: WTE
+    type: null

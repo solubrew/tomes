@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a'
+    chainId: null
+    decimals: null
+    description: Basis Cash (BAC) is a cryptocurrency and operates on the Ethereum
+      platform. Basis Cash has a current supply of 50,001 with 3,628 in circulation.
+      The last known price of Basis Cash is 125.32730671 USD and is up 26.90 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $4,630,443.98
+      traded over the last 24 hours. More information can be found at https://basis.cash/.
+    logoURI: null
+    name: Basis Cash
+    symbol: BAC
+    type: null

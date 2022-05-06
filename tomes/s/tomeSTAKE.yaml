@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0Ae055097C6d159879521C384F1D2123D1f195e6'
+    chainId: null
+    decimals: null
+    description: xDai (STAKE) is a cryptocurrency and operates on the Ethereum platform.
+      xDai has a current supply of 8,296,898.07318944 with 3,465,474.61770794 in circulation.
+      The last known price of xDai is 11.43861379 USD and is down -19.55 over the
+      last 24 hours. It is currently trading on 16 active market(s) with $3,608,889.07
+      traded over the last 24 hours. More information can be found at http://xdaichain.com/.
+    logoURI: null
+    name: xDai
+    symbol: STAKE
+    type: null

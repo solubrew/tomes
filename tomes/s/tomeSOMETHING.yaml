@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA550A3489765A9dB8Cc688c4007d8650a8563fAE'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 'LORD UNKNOWN: END PANTS'
+    symbol: SOMETHING
+    type: null

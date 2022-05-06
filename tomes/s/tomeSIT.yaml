@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe5E7D48aBbb999880eA0F6533068DFd3944F0e7e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SInitiatives
+    symbol: SIT
+    type: null

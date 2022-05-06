@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x209c1808febf6c1ab7c65764bb61ad67d3923fcc'
+    chainId: null
+    decimals: null
+    description: APEcoin (APE) is a cryptocurrency and operates on the Ethereum platform.
+      APEcoin has a current supply of 10,000,000 with 0 in circulation. The last known
+      price of APEcoin is 0.32634157 USD and is up 10.25 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $6,927.77 traded over the last
+      24 hours. More information can be found at https://apecoin.dev/.
+    logoURI: null
+    name: APEcoin
+    symbol: APE
+    type: null

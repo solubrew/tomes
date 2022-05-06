@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE02784175C3BE0DEa7CC0F284041b64503639E66'
+    chainId: null
+    decimals: null
+    description: TouchCon (TOC) is a cryptocurrency and operates on the Ethereum platform.
+      TouchCon has a current supply of 250,000,000 with 102,200,364.2315193 in circulation.
+      The last known price of TouchCon is 0.00764295 USD and is up 3.59 over the last
+      24 hours. It is currently trading on 3 active market(s) with $6,719.62 traded
+      over the last 24 hours. More information can be found at http://www.touchcon.org/.
+    logoURI: null
+    name: TouchCon
+    symbol: TOC
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2c433f2914729C07be748AD3cf976C688b2a38be'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AltinGunleri
+    symbol: BAGL
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5C84bc60a796534bfeC3439Af0E6dB616A966335'
+    chainId: null
+    decimals: null
+    description: Bone (BONE) is a cryptocurrency and operates on the Ethereum platform.
+      Bone has a current supply of 1,000,000,000 with 0 in circulation. The last known
+      price of Bone is 0.3522677 USD and is up 1.47 over the last 24 hours. It is
+      currently trading on 2 active market(s) with $5,141.41 traded over the last
+      24 hours. More information can be found at https://mydogdata.com/.
+    logoURI: null
+    name: Bone
+    symbol: BONE
+    type: null

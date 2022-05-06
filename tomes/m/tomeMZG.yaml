@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfe4455fd433ed3ca025ec7c43cb8686ed89826cd'
+    chainId: null
+    decimals: null
+    description: Moozicore (MZG) is a cryptocurrency and operates on the Ethereum
+      platform. Moozicore has a current supply of 999,999,999 with 0 in circulation.
+      The last known price of Moozicore is 0.00025026 USD and is down -15.04 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $153,671.20
+      traded over the last 24 hours. More information can be found at https://tokensale.moozicore.com.
+    logoURI: null
+    name: Moozicore
+    symbol: MZG
+    type: null

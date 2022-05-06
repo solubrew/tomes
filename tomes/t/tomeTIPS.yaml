@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4E17C88842c8B4E4e79AB74F851df790C23944E7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Waitstaff Coin
+    symbol: TIPS
+    type: null

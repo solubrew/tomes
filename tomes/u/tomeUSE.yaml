@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a'
+    chainId: null
+    decimals: null
+    description: Usechain Token (USE) is a cryptocurrency and operates on the Ethereum
+      platform. Usechain Token has a current supply of 20,000,000,000 with 0 in circulation.
+      The last known price of Usechain Token is 0.00043053 USD and is down -7.66 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $178.15
+      traded over the last 24 hours. More information can be found at https://www.usechain.net/.
+    logoURI: null
+    name: Usechain Token
+    symbol: USE
+    type: null

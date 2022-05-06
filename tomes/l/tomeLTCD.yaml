@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x100a6e7a8710726BC28d0213dA0B4f06702cE349'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LitecoinDiamond
+    symbol: LTCD
+    type: null

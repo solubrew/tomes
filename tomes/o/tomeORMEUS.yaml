@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc96df921009b790dffca412375251ed1a2b75c60'
+    chainId: null
+    decimals: null
+    description: Ormeus Coin (ORMEUS) is a cryptocurrency and operates on the Ethereum
+      platform. Ormeus Coin has a current supply of 200,000,000 with 35,904,998 in
+      circulation. The last known price of Ormeus Coin is 0.0280664 USD and is up
+      7.09 over the last 24 hours. It is currently trading on 6 active market(s) with
+      $24,087.89 traded over the last 24 hours. More information can be found at https://ormeuscoin.com/.
+    logoURI: null
+    name: Ormeus Coin
+    symbol: ORMEUS
+    type: null

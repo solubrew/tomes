@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xA7211022b34A84905dbc54bcF11D9d395ca4155f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Heath
+    symbol: Hth
+    type: null

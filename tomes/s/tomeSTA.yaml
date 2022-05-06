@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa7DE087329BFcda5639247F96140f9DAbe3DeED1'
+    chainId: null
+    decimals: null
+    description: STATERA (STA) is a cryptocurrency and operates on the Ethereum platform.
+      STATERA has a current supply of 84,772,343.44776441 with 84,731,896.23834522
+      in circulation. The last known price of STATERA is 0.03916989 USD and is up
+      5.52 over the last 24 hours. It is currently trading on 10 active market(s)
+      with $157,504.35 traded over the last 24 hours. More information can be found
+      at https://stateratoken.com/.
+    logoURI: null
+    name: STATERA
+    symbol: STA
+    type: null

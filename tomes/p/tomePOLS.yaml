@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa'
+    chainId: null
+    decimals: null
+    description: Polkastarter (POLS) is a cryptocurrency and operates on the Ethereum
+      platform. Polkastarter has a current supply of 100,000,000 with 36,526,523 in
+      circulation. The last known price of Polkastarter is 0.42311249 USD and is up
+      0.47 over the last 24 hours. It is currently trading on 2 active market(s) with
+      $1,208,701.41 traded over the last 24 hours. More information can be found at
+      https://www.polkastarter.com/token.
+    logoURI: null
+    name: Polkastarter
+    symbol: POLS
+    type: null

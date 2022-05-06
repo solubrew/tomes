@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x28d3E409bb9bC58F1ca6E009f8fC78A1db85e6b7'
+    chainId: null
+    decimals: null
+    description: Gem Exchange And Trading (GXT) is a cryptocurrency and operates on
+      the Ethereum platform. Gem Exchange And Trading has a current supply of 500,000,000
+      with 42,816,267 in circulation. The last known price of Gem Exchange And Trading
+      is 0.42724275 USD and is down -5.04 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $14,478.43 traded over the last 24 hours.
+      More information can be found at https://www.gxtglobal.com/.
+    logoURI: null
+    name: Gem Exchange And Trading
+    symbol: GXT
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfa0f26d2334764cE9f9582d8aD0514B5712589cf'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AweCoin
+    symbol: AWE
+    type: null

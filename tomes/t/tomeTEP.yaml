@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2e65e12b5f0fd1d58738c6f38da7d57f5f183d1c'
+    chainId: null
+    decimals: null
+    description: Tepleton (TEP) is a cryptocurrency and operates on the Ethereum platform.
+      Tepleton has a current supply of 1,000,000,000 with 0 in circulation. The last
+      known price of Tepleton is 0.00618019 USD and is up 1.04 over the last 24 hours.
+      It is currently trading on 4 active market(s) with $6,422.59 traded over the
+      last 24 hours. More information can be found at http://tepleton.io/.
+    logoURI: null
+    name: Tepleton
+    symbol: TEP
+    type: null

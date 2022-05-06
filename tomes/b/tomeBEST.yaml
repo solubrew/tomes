@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f'
+    chainId: null
+    decimals: null
+    description: Bitpanda Ecosystem Token (BEST) is a cryptocurrency and operates
+      on the Ethereum platform. Bitpanda Ecosystem Token has a current supply of 919,348,514
+      with 405,844,684 in circulation. The last known price of Bitpanda Ecosystem
+      Token is 0.13891592 USD and is up 6.60 over the last 24 hours. It is currently
+      trading on 3 active market(s) with $11,730.20 traded over the last 24 hours.
+      More information can be found at https://www.bitpanda.com/en/best.
+    logoURI: null
+    name: Bitpanda Ecosystem Token
+    symbol: BEST
+    type: null

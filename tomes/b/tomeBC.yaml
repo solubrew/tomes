@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeB5d66b16a87Cb392DE8F8CFA996A5233F8A3AD1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: '"Bullion Coin" Bullion Troy Grain Coin'
+    symbol: BC
+    type: null

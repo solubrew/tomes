@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x66186008C1050627F979d464eABb258860563dbE'
+    chainId: null
+    decimals: null
+    description: MediShares (MDS) is a cryptocurrency and operates on the Ethereum
+      platform. MediShares has a current supply of 2,000,000,000 with 1,199,999,624.0728
+      in circulation. The last known price of MediShares is 0.00289653 USD and is
+      up 4.50 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $491,431.77 traded over the last 24 hours. More information can be found
+      at http://www.medishares.org/.
+    logoURI: null
+    name: MediShares
+    symbol: MDS
+    type: null

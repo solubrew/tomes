@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3918c42f14f2eb1168365f911f63e540e5a306b5'
+    chainId: null
+    decimals: null
+    description: Neural Protocol (NRP) is a cryptocurrency and operates on the Ethereum
+      platform. Neural Protocol has a current supply of 9,500,000,000 with 9,497,994,014
+      in circulation. The last known price of Neural Protocol is 0.00001913 USD and
+      is up 1,152.26 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $117.29 traded over the last 24 hours. More information can be found at
+      https://www.nrp.world.
+    logoURI: null
+    name: Neural Protocol
+    symbol: NRP
+    type: null

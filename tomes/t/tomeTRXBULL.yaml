@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc175E77b04F2341517334Ea3Ed0b198A01A97383'
+    chainId: null
+    decimals: null
+    description: 3X Long TRX Token (TRXBULL) is a cryptocurrency and operates on the
+      Ethereum platform. 3X Long TRX Token has a current supply of 482,143.2229 with
+      0 in circulation. The last known price of 3X Long TRX Token is 2.19027263 USD
+      and is down -24.90 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $151,504.22 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/TRXBULL.
+    logoURI: null
+    name: 3X Long TRX Token
+    symbol: TRXBULL
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xba3a79d758f19efe588247388754b8e4d6edda81'
+    chainId: null
+    decimals: null
+    description: VeriSafe (VSF) is a cryptocurrency and operates on the Ethereum platform.
+      VeriSafe has a current supply of 20,000,000,000 with 10,880,544,815.152706 in
+      circulation. The last known price of VeriSafe is 0.00010768 USD and is up 1.64
+      over the last 24 hours. It is currently trading on 2 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://www.verisafe.io/.
+    logoURI: null
+    name: VeriSafe
+    symbol: VSF
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdb096cc19b8227e2115855c5b39dcc247470013c'
+    chainId: null
+    decimals: null
+    description: Bitfex (BFX) is a cryptocurrency and operates on the Ethereum platform.
+      Bitfex has a current supply of 216,525,879 with 200,325,879 in circulation.
+      The last known price of Bitfex is 0.00153802 USD and is up 2.09 over the last
+      24 hours. It is currently trading on 1 active market(s) with $15.95 traded over
+      the last 24 hours. More information can be found at https://bitfex.com/.
+    logoURI: null
+    name: Bitfex
+    symbol: BFX
+    type: null

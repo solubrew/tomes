@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1dd80016e3d4ae146ee2ebb484e8edd92dacc4ce'
+    chainId: null
+    decimals: null
+    description: Lead Wallet (LEAD) is a cryptocurrency and operates on the Ethereum
+      platform. Lead Wallet has a current supply of 964,310,845.9547057 with 505,310,846
+      in circulation. The last known price of Lead Wallet is 0.00129643 USD and is
+      up 2.44 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $7,148.45 traded over the last 24 hours. More information can be found
+      at https://www.leadwallet.io.
+    logoURI: null
+    name: Lead Wallet
+    symbol: LEAD
+    type: null

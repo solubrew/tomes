@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x40AdFc7c23c22Cc06f94F199a4750D7196F46fbe'
+    chainId: null
+    decimals: null
+    description: Coinchase Token (CCH) is a cryptocurrency and operates on the Ethereum
+      platform. Coinchase Token has a current supply of 10,000,000,000 with 1,594,527,406.188527
+      in circulation. The last known price of Coinchase Token is 0.00000923 USD and
+      is up 0.00 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://coinchase.com/cch.
+    logoURI: null
+    name: Coinchase Token
+    symbol: CCH
+    type: null

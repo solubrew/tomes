@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3166c570935a7d8554c8f4ea792ff965d2efe1f2'
+    chainId: null
+    decimals: null
+    description: Q DAO Governance token v1.0 (QDAO) is a cryptocurrency and operates
+      on the Ethereum platform. Q DAO Governance token v1.0 has a current supply of
+      999,081.58 with 161,527.9154 in circulation. The last known price of Q DAO Governance
+      token v1.0 is 2.85408808 USD and is up 0.95 over the last 24 hours. It is currently
+      trading on 4 active market(s) with $0.00 traded over the last 24 hours. More
+      information can be found at https://qdefi.io/en.
+    logoURI: null
+    name: Q DAO Governance token v1.0
+    symbol: QDAO
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8A6Ed334B561842B7Bf3f8130BE02aFAF69832AF'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CMDX
+    symbol: CMDX
+    type: null

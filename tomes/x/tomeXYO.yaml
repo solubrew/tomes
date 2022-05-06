@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x55296f69f40Ea6d20E478533C15A6B08B654E758'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: XY Oracle
+    symbol: XYO
+    type: null

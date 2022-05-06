@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee'
+    chainId: null
+    decimals: null
+    description: EchoLink (EKO) is a cryptocurrency and operates on the Ethereum platform.
+      EchoLink has a current supply of 500,000,000. The last known price of EchoLink
+      is 0.00287193 USD and is down -0.38 over the last 24 hours. It is currently
+      trading on 8 active market(s) with $232,045.06 traded over the last 24 hours.
+      More information can be found at https://echolink.info/.
+    logoURI: null
+    name: EchoLink
+    symbol: EKO
+    type: null

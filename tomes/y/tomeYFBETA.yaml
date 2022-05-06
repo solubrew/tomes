@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x89ee58af4871b474c30001982c3d7439c933c838'
+    chainId: null
+    decimals: null
+    description: yfBeta (YFBETA) is a cryptocurrency and operates on the Ethereum
+      platform. yfBeta has a current supply of 0. The last known price of yfBeta is
+      6.30531737 USD and is down -6.26 over the last 24 hours. It is currently trading
+      on 1 active market(s) with $6,260.92 traded over the last 24 hours. More information
+      can be found at https://yfbeta.finance/.
+    logoURI: null
+    name: yfBeta
+    symbol: YFBETA
+    type: null

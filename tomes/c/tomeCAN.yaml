@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CanYaCoin
+    symbol: CAN
+    type: null

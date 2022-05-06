@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x13f11C9905A08ca76e3e853bE63D4f0944326C72'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Divi Exchange Token
+    symbol: DIVX
+    type: null

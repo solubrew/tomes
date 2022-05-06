@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4b4a70cae3F7c84E36ce9aa19Abc98F85Db7f058'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Financial Aid Coin
+    symbol: FAC
+    type: null

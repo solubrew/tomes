@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x86825dFCa7A6224cfBd2DA48e85DF2fc3Aa7C4B1'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: RTFKT - MNLTH
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1DB2804a750FDed073bD5497c775cf8f1eF75ec3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Concert Coin
+    symbol: STAGE
+    type: null

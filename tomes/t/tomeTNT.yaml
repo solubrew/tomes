@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Tierion Network Token
+    symbol: TNT
+    type: null

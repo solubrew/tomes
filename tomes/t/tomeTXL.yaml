@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41'
+    chainId: null
+    decimals: null
+    description: Tixl [NEW] (TXL) is a cryptocurrency and operates on the Ethereum
+      platform. Tixl [NEW] has a current supply of 900,000,000 with 0 in circulation.
+      The last known price of Tixl [NEW] is 0.05589508 USD and is down -6.73 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $210,120.73
+      traded over the last 24 hours. More information can be found at https://tixl.me.
+    logoURI: null
+    name: Tixl [NEW]
+    symbol: TXL
+    type: null

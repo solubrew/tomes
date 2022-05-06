@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2207BC0AAc812fA3e03463d73d65A5FAe9B9bf83'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PeasantCoin
+    symbol: PSNT
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeca82185adce47f39c684352b0439f030f860318'
+    chainId: null
+    decimals: null
+    description: Perlin (PERL) is a cryptocurrency and operates on the Ethereum platform.
+      Perlin has a current supply of 1,033,200,000 with 483,139,908.137 in circulation.
+      The last known price of Perlin is 0.02021168 USD and is up 1.71 over the last
+      24 hours. It is currently trading on 15 active market(s) with $1,095,508.33
+      traded over the last 24 hours. More information can be found at https://perlinx.finance/.
+    logoURI: null
+    name: Perlin
+    symbol: PERL
+    type: null

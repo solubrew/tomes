@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD6c67B93a7b248dF608a653d82a100556144c5DA'
+    chainId: null
+    decimals: null
+    description: ExNetwork Token (EXNT) is a cryptocurrency and operates on the Ethereum
+      platform. ExNetwork Token has a current supply of 0. The last known price of
+      ExNetwork Token is 0.07206553 USD and is up 4.93 over the last 24 hours. More
+      information can be found at https://exnetwork.community.
+    logoURI: null
+    name: ExNetwork Token
+    symbol: EXNT
+    type: null

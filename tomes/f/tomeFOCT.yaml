@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x66946bC3E6738C70bbC4E69Eb38a507F8eb9bC20'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Forcount
+    symbol: FOCT
+    type: null

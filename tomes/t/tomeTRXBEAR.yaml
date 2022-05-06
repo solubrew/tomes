@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x86807Da5B92d31F67E128771CAcb85F3579646eA'
+    chainId: null
+    decimals: null
+    description: 3X Short TRX Token (TRXBEAR) is a cryptocurrency and operates on
+      the Ethereum platform. 3X Short TRX Token has a current supply of 18,694.789
+      with 0 in circulation. The last known price of 3X Short TRX Token is 0.06892761
+      USD and is up 24.02 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $77,930.54 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/TRXBEAR.
+    logoURI: null
+    name: 3X Short TRX Token
+    symbol: TRXBEAR
+    type: null

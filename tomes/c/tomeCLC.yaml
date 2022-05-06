@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7b8343Ce76cE8e5792599FAF7cF60351aF9A6DE3'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CALYCOIN
+    symbol: CLC
+    type: null

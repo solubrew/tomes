@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x77FE30b2cf39245267C0a5084B66a560f1cF9E1f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Azbit
+    symbol: AZ
+    type: null

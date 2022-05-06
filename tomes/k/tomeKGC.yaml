@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa8262eb913fccea4c3f77fc95b8b4043b384cfbb'
+    chainId: null
+    decimals: null
+    description: Krypton Galaxy Coin (KGC) is a cryptocurrency and operates on the
+      Ethereum platform. Krypton Galaxy Coin has a current supply of 3,000,000,000
+      with 0 in circulation. The last known price of Krypton Galaxy Coin is 0.00014549
+      USD and is down -1.63 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $406.76 traded over the last 24 hours. More information can be
+      found at https://kexingqiu.net/en.
+    logoURI: null
+    name: Krypton Galaxy Coin
+    symbol: KGC
+    type: null

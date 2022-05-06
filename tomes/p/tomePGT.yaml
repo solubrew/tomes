@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1'
+    chainId: null
+    decimals: null
+    description: Polyient Games Governance Token (PGT) is a cryptocurrency and operates
+      on the Ethereum platform. Polyient Games Governance Token has a current supply
+      of 20,000 with 16,573 in circulation. The last known price of Polyient Games
+      Governance Token is 118.69000122 USD and is up 2.97 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $210,193.40 traded over the
+      last 24 hours. More information can be found at https://www.polyient.games/.
+    logoURI: null
+    name: Polyient Games Governance Token
+    symbol: PGT
+    type: null

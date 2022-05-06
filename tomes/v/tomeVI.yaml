@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A'
+    chainId: null
+    decimals: null
+    description: Vid (VI) is a cryptocurrency launched in 2019and operates on the
+      Ethereum platform. Vid has a current supply of 888,888,888 with 22,331,399.9399727
+      in circulation. The last known price of Vid is 0.10288611 USD and is down -8.91
+      over the last 24 hours. It is currently trading on 2 active market(s) with $62,570.26
+      traded over the last 24 hours. More information can be found at https://vid.camera.
+    logoURI: null
+    name: Vid
+    symbol: VI
+    type: null

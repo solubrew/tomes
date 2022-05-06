@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x21d5678A62DFe63a47062469Ebb2fAc2817D8832'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: YoloCash
+    symbol: YLC
+    type: null

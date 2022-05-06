@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe66747a101bff2dba3697199dcce5b743b454759'
+    chainId: null
+    decimals: null
+    description: GateToken (GT) is a cryptocurrency and operates on the Ethereum platform.
+      GateToken has a current supply of 300,000,000 with 74,085,988.2810448 in circulation.
+      The last known price of GateToken is 0.4520377 USD and is up 0.44 over the last
+      24 hours. It is currently trading on 17 active market(s) with $22,199,126.67
+      traded over the last 24 hours. More information can be found at https://gatechain.io/.
+    logoURI: null
+    name: GateToken
+    symbol: GT
+    type: null

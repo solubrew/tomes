@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9c197c4b58527faaab67cb35e3145166b23d242e'
+    chainId: null
+    decimals: null
+    description: HashNet BitEco (HNB) is a cryptocurrency and operates on the Ethereum
+      platform. HashNet BitEco has a current supply of 1,000,000,000 with 29,640,456.26316714
+      in circulation. The last known price of HashNet BitEco is 0.00188112 USD and
+      is up 1.61 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $1,501.36 traded over the last 24 hours. More information can be found
+      at https://hnb.eco/.
+    logoURI: null
+    name: HashNet BitEco
+    symbol: HNB
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2bba3cf6de6058cc1b4457ce00deb359e2703d7f'
+    chainId: null
+    decimals: null
+    description: HashCoin (HSC) is a cryptocurrency and operates on the Ethereum platform.
+      HashCoin has a current supply of 50,000,000,000 with 12,863,911,325.5 in circulation.
+      The last known price of HashCoin is 0.00002032 USD and is up 1.83 over the last
+      24 hours. It is currently trading on 3 active market(s) with $1,505.20 traded
+      over the last 24 hours. More information can be found at https://www.hashfuture.io/.
+    logoURI: null
+    name: HashCoin
+    symbol: HSC
+    type: null

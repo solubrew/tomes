@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x282a6e0EcF37F15680B1F0f6F506AD4D0B756999'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EtherReefer
+    symbol: REEF
+    type: null

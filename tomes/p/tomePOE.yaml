@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195'
+    chainId: null
+    decimals: null
+    description: Po.et (POE) is a cryptocurrency and operates on the Ethereum platform.
+      Po.et has a current supply of 3,141,592,653. The last known price of Po.et is
+      0.00021639 USD and is down -13.82 over the last 24 hours. It is currently trading
+      on 4 active market(s) with $1,821.58 traded over the last 24 hours. More information
+      can be found at https://po.et/.
+    logoURI: null
+    name: Po.et
+    symbol: POE
+    type: null

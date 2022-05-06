@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc2b58812c24020ea924c3d7c241c441605f12e75'
+    chainId: null
+    decimals: null
+    description: Entherfound (ETF) is a cryptocurrency and operates on the Ethereum
+      platform. Entherfound has a current supply of 500,000,000 with 0 in circulation.
+      The last known price of Entherfound is 1.8188522 USD and is up 0.87 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $1,131,045.22
+      traded over the last 24 hours. More information can be found at https://entherfound.io.
+    logoURI: null
+    name: Entherfound
+    symbol: ETF
+    type: null

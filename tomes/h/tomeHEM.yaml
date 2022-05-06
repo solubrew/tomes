@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x19747816A030fECDa3394C6062CDF6b9B4dB0E0b'
+    chainId: null
+    decimals: null
+    description: Hemelios (HEM) is a cryptocurrency and operates on the Ethereum platform.
+      Hemelios has a current supply of 0. The last known price of Hemelios is 37,917.52463996
+      USD and is up 1.93 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $33,609.52 traded over the last 24 hours. More information can
+      be found at https://www.hemelios.io/.
+    logoURI: null
+    name: Hemelios
+    symbol: HEM
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x648d19d775a8d4bafba09e189090bdcbf8ef31c1'
+    chainId: null
+    decimals: null
+    description: Safari (SFR) is a cryptocurrency and operates on the Ethereum platform.
+      Safari has a current supply of 100,000,000 with 0 in circulation. The last known
+      price of Safari is 0.00015321 USD and is down -1.16 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $0.00 traded over the last
+      24 hours. More information can be found at https://www.safaritoken.online.
+    logoURI: null
+    name: Safari
+    symbol: SFR
+    type: null

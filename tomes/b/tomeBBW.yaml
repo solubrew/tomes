@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x27B5B94A7269E175864d2C5E584d8f1414A2d94f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BBWCoin
+    symbol: BBW
+    type: null

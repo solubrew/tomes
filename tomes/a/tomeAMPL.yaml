@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd46ba6d942050d489dbd938a2c909a5d5039a161'
+    chainId: null
+    decimals: null
+    description: Ampleforth (AMPL) is a cryptocurrency and operates on the Ethereum
+      platform. Ampleforth has a current supply of 394,182,810.50453866 with 220,939,104.82811853
+      in circulation. The last known price of Ampleforth is 1.4182936 USD and is down
+      -10.74 over the last 24 hours. It is currently trading on 58 active market(s)
+      with $40,770,005.97 traded over the last 24 hours. More information can be found
+      at https://www.ampleforth.org/.
+    logoURI: null
+    name: Ampleforth
+    symbol: AMPL
+    type: null

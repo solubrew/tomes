@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2'
+    chainId: null
+    decimals: null
+    description: XinFin Network (XDC) is a cryptocurrency and operates on the Ethereum
+      platform. XinFin Network has a current supply of 37,628,775,662 with 12,198,000,000
+      in circulation. The last known price of XinFin Network is 0.00690242 USD and
+      is down -2.32 over the last 24 hours. It is currently trading on 17 active market(s)
+      with $447,905.93 traded over the last 24 hours. More information can be found
+      at https://xinfin.org/.
+    logoURI: null
+    name: XinFin Network
+    symbol: XDC
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x558ec3152e2eb2174905cd19aea4e34a23de9ad6'
+    chainId: null
+    decimals: null
+    description: Bread (BRD) is a cryptocurrency and operates on the Ethereum platform.
+      Bread has a current supply of 88,862,718 with 88,733,977.6930047 in circulation.
+      The last known price of Bread is 0.07606205 USD and is up 8.34 over the last
+      24 hours. It is currently trading on 6 active market(s) with $401,475.93 traded
+      over the last 24 hours. More information can be found at https://BRD.com .
+    logoURI: null
+    name: Bread
+    symbol: BRD
+    type: null

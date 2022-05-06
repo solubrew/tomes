@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x454CB9D0845bB4a28462F98C21a4fAFD16ceb25f'
+    chainId: null
+    decimals: null
+    description: Yearn-finance Infrastructure Labs (YLAB) is a cryptocurrency and
+      operates on the Ethereum platform. Yearn-finance Infrastructure Labs has a current
+      supply of 9,000 with 0 in circulation. The last known price of Yearn-finance
+      Infrastructure Labs is 1.96921893 USD and is up 0.41 over the last 24 hours.
+      It is currently trading on 2 active market(s) with $27,467.47 traded over the
+      last 24 hours. More information can be found at https://yfilabs.finance/.
+    logoURI: null
+    name: Yearn-finance Infrastructure Labs
+    symbol: YLAB
+    type: null

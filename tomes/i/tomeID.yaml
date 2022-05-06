@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Everest ID
+    symbol: ID
+    type: null

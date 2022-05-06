@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2216e873ea4282ebef7a02ac5aea220be6391a7c'
+    chainId: null
+    decimals: null
+    description: Smol (SMOL) is a cryptocurrency and operates on the Ethereum platform.
+      Smol has a current supply of 55,000 with 0 in circulation. The last known price
+      of Smol is 11.31209035 USD and is down -10.72 over the last 24 hours. It is
+      currently trading on 1 active market(s) with $6,026.06 traded over the last
+      24 hours. More information can be found at https://www.smol.finance/.
+    logoURI: null
+    name: Smol
+    symbol: SMOL
+    type: null

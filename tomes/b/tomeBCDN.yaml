@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40'
+    chainId: null
+    decimals: null
+    description: BlockCDN (BCDN) is a cryptocurrency and operates on the Ethereum
+      platform. BlockCDN has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of BlockCDN is 0.00099943 USD and is down -10.59 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $249.36 traded
+      over the last 24 hours. More information can be found at http://www.blockcdn.org/.
+    logoURI: null
+    name: BlockCDN
+    symbol: BCDN
+    type: null

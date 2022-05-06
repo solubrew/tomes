@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFE76BE9cEC465ed3219a9972c21655D57d21aec6'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PalletOneToken
+    symbol: PTN
+    type: null

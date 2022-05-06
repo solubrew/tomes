@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FOX
+    symbol: FOX
+    type: null

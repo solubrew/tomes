@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x24b80fba4b2ecaf0c4df522354408f0a59a775c8'
+    chainId: null
+    decimals: null
+    description: AdsByWiFi (WADS) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. AdsByWiFi has a current supply of 175,162,000 with
+      0 in circulation. The last known price of AdsByWiFi is 74.90795781 USD and is
+      up 2.98 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://adsbywifi.com.
+    logoURI: null
+    name: AdsByWiFi
+    symbol: WADS
+    type: null

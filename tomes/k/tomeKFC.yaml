@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfb918f8AB041fF4E2C6D70Dba716915865D1bB71'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Kung Fu Coin
+    symbol: KFC
+    type: null

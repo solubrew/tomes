@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x696acc2de564b48682d71d0847b3632f87c9a402'
+    chainId: null
+    decimals: null
+    description: AurusGOLD (AWG) is a cryptocurrency and operates on the Ethereum
+      platform. AurusGOLD has a current supply of 10,000,000 with 0 in circulation.
+      The last known price of AurusGOLD is 32.87429673 USD and is down -44.42 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $7,270.48
+      traded over the last 24 hours. More information can be found at https://aurus.io/.
+    logoURI: null
+    name: AurusGOLD
+    symbol: AWG
+    type: null

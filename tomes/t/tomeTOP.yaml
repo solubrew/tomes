@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b'
+    chainId: null
+    decimals: null
+    description: TOP (TOP) is a cryptocurrency and operates on the Ethereum platform.
+      TOP has a current supply of 20,000,000,000 with 5,150,266,133.819998 in circulation.
+      The last known price of TOP is 0.00123443 USD and is up 1.54 over the last 24
+      hours. It is currently trading on 12 active market(s) with $407,385.51 traded
+      over the last 24 hours. More information can be found at https://www.topnetwork.org/.
+    logoURI: null
+    name: TOP
+    symbol: TOP
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfE75B71b348165f60b5Be7F356b42da9b333b2B7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Passive Silver
+    symbol: PASS
+    type: null

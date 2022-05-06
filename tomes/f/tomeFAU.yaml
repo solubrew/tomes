@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xFab46E002BbF0b4509813474841E0716E6730136'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: FaucetToken
+    symbol: FAU
+    type: null

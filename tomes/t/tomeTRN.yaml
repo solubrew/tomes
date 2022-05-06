@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x70968feaf13299d0dbf78f66860bab9dbe3856bc'
+    chainId: null
+    decimals: null
+    description: Treelion (TRN) is a cryptocurrency and operates on the Ethereum platform.
+      Treelion has a current supply of 1,000,000,000 with 0 in circulation. The last
+      known price of Treelion is 0.05517851 USD and is up 0.00 over the last 24 hours.
+      More information can be found at http://treelion.com/.
+    logoURI: null
+    name: Treelion
+    symbol: TRN
+    type: null

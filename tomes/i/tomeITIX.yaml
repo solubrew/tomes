@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7e6Fdfa3A51a3e05a33894b98832d1B753e7953e'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: iTicket
+    symbol: ITIX
+    type: null

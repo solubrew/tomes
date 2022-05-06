@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7f383463279dAcc75cC3FFA39E85E78F548df4a1'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Brex Coin
+    symbol: BRX
+    type: null

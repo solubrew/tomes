@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5d3a536e4d6dbd6114cc1ead35777bab948e3643'
+    chainId: null
+    decimals: null
+    description: Compound Dai (CDAI) is a cryptocurrency and operates on the Ethereum
+      platform. Compound Dai has a current supply of 2,025,596,474 with 0 in circulation.
+      The last known price of Compound Dai is 0.02090172 USD and is up 0.11 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $25,691,619.57
+      traded over the last 24 hours. More information can be found at https://compound.finance/.
+    logoURI: null
+    name: Compound Dai
+    symbol: CDAI
+    type: null

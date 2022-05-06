@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4f27053f32eda8af84956437bc00e5ffa7003287'
+    chainId: null
+    decimals: null
+    description: Thrive Token (THRT) is a cryptocurrency and operates on the Ethereum
+      platform. Thrive Token has a current supply of 202,027,489.6 with 103,246,212.30351873
+      in circulation. The last known price of Thrive Token is 0.00511732 USD and is
+      down -37.65 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://ico.thrivelabs.io/.
+    logoURI: null
+    name: Thrive Token
+    symbol: THRT
+    type: null

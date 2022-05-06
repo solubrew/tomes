@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa89ac6e529acf391cfbbd377f3ac9d93eae9664e'
+    chainId: null
+    decimals: null
+    description: Keep4r (KP4R) is a cryptocurrency and operates on the Ethereum platform.
+      Keep4r has a current supply of 100,000 with 68,610.68300538 in circulation.
+      The last known price of Keep4r is 10.3356237 USD and is down -20.25 over the
+      last 24 hours. It is currently trading on 2 active market(s) with $135,882.52
+      traded over the last 24 hours. More information can be found at https://kp4r.network/#/.
+    logoURI: null
+    name: Keep4r
+    symbol: KP4R
+    type: null

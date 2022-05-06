@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x51bc0deaf7bbe82bc9006b0c3531668a4206d27f'
+    chainId: null
+    decimals: null
+    description: RAKUN (RAKU) is a cryptocurrency launched in 2017and operates on
+      the Ethereum platform. RAKUN has a current supply of 500,000,000 with 0 in circulation.
+      The last known price of RAKUN is 0.02445411 USD and is down -0.71 over the last
+      24 hours. It is currently trading on 1 active market(s) with $258,395.02 traded
+      over the last 24 hours. More information can be found at https://rakunworld.com/.
+    logoURI: null
+    name: RAKUN
+    symbol: RAKU
+    type: null

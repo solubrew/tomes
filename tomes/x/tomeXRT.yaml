@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7de91b204c1c737bcee6f000aaa6569cf7061cb7'
+    chainId: null
+    decimals: null
+    description: Robonomics.network (XRT) is a cryptocurrency and operates on the
+      Ethereum platform. Robonomics.network has a current supply of 9,984,036.33128895
+      with 738,053.7467928 in circulation. The last known price of Robonomics.network
+      is 20.31984268 USD and is down -8.97 over the last 24 hours. It is currently
+      trading on 13 active market(s) with $2,883,314.63 traded over the last 24 hours.
+      More information can be found at https://robonomics.network/.
+    logoURI: null
+    name: Robonomics.network
+    symbol: XRT
+    type: null

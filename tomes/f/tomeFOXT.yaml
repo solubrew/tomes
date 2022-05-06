@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfbe878ced08132bd8396988671b450793c44bc12'
+    chainId: null
+    decimals: null
+    description: Fox Trading (FOXT) is a cryptocurrency and operates on the Ethereum
+      platform. Fox Trading has a current supply of 8,793,499 with 8,663,498.9434
+      in circulation. The last known price of Fox Trading is 0.01079708 USD and is
+      down -0.79 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $69,245.27 traded over the last 24 hours. More information can be found
+      at https://foxtrading.io/.
+    logoURI: null
+    name: Fox Trading
+    symbol: FOXT
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb7e77aebbe0687d2eff24cc90c41a3b6ea74bdab'
+    chainId: null
+    decimals: null
+    description: Project WITH (WIKEN) is a cryptocurrency and operates on the Ethereum
+      platform. Project WITH has a current supply of 1,057,786,429 with 335,451,107.297197
+      in circulation. The last known price of Project WITH is 0.00125198 USD and is
+      down -6.05 over the last 24 hours. It is currently trading on 3 active market(s)
+      with $39,030.02 traded over the last 24 hours. More information can be found
+      at http://projectwith.io/.
+    logoURI: null
+    name: Project WITH
+    symbol: WIKEN
+    type: null

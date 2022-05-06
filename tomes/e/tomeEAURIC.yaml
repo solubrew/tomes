@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc36c65693ea9e207ad35d4ee2fb6c5f6f43bdec8'
+    chainId: null
+    decimals: null
+    description: Eauric (EAURIC) is a cryptocurrency and operates on the Ethereum
+      platform. Eauric has a current supply of 31,650,114 with 27,240,513 in circulation.
+      The last known price of Eauric is 0.50291113 USD and is up 1.77 over the last
+      24 hours. It is currently trading on 5 active market(s) with $171,832.40 traded
+      over the last 24 hours. More information can be found at https://eauric.com/.
+    logoURI: null
+    name: Eauric
+    symbol: EAURIC
+    type: null

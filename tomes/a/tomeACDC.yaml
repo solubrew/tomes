@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfc44ec51c80e35a87bc2140299b1636ec83dfb04'
+    chainId: null
+    decimals: null
+    description: Volt (ACDC) is a cryptocurrency and operates on the Ethereum platform.
+      Volt has a current supply of 4,000,000,000 with 0 in circulation. The last known
+      price of Volt is 0.00027766 USD and is down -0.04 over the last 24 hours. It
+      is currently trading on 4 active market(s) with $65.21 traded over the last
+      24 hours. More information can be found at https://volttech.io/.
+    logoURI: null
+    name: Volt
+    symbol: ACDC
+    type: null

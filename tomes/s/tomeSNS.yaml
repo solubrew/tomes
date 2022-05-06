@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0189d31F6629c359007f72B8D5Ec8Fa1C126f95c'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SNSTOKEN
+    symbol: SNS
+    type: null

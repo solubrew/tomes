@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Compound Ether
+    symbol: cETH
+    type: null

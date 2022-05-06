@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0371a82e4a9d0a4312f3ee2ac9c6958512891372'
+    chainId: null
+    decimals: null
+    description: bitJob (STU) is a cryptocurrency and operates on the Ethereum platform.
+      bitJob has a current supply of 200,000,000 with 87,816,093.05451672 in circulation.
+      The last known price of bitJob is 0.0001299 USD and is up 1.44 over the last
+      24 hours. More information can be found at https://bitjob.io/.
+    logoURI: null
+    name: bitJob
+    symbol: STU
+    type: null

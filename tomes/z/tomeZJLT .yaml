@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb2af8d4d286e2087590f085EE7e8CCb05d3c7F29'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: ZJLT  Distributed Factoring Network
+    symbol: 'ZJLT '
+    type: null

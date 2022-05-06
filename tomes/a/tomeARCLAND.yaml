@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4a8C9D751EEAbc5521A68FB080DD7E72E46462aF'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: ARCLAND
+    type: null

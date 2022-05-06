@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4CF488387F035FF08c371515562CBa712f9015d4'
+    chainId: null
+    decimals: null
+    description: WePower (WPR) is a cryptocurrency and operates on the Ethereum platform.
+      WePower has a current supply of 745,248,183.0967742 with 674,917,907.0038898
+      in circulation. The last known price of WePower is 0.00844729 USD and is down
+      -0.22 over the last 24 hours. It is currently trading on 8 active market(s)
+      with $123,759.83 traded over the last 24 hours. More information can be found
+      at https://wepower.network/.
+    logoURI: null
+    name: WePower
+    symbol: WPR
+    type: null

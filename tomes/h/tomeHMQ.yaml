@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xcbcc0f036ed4788f63fc0fee32873d6a7487b908'
+    chainId: null
+    decimals: null
+    description: Humaniq (HMQ) is a cryptocurrency and operates on the Ethereum platform.
+      Humaniq has a current supply of 207,143,695.03559843 with 185,811,695.03559843
+      in circulation. The last known price of Humaniq is 0.00802868 USD and is up
+      1.50 over the last 24 hours. It is currently trading on 7 active market(s) with
+      $28,403.93 traded over the last 24 hours. More information can be found at https://humaniq.com/.
+    logoURI: null
+    name: Humaniq
+    symbol: HMQ
+    type: null

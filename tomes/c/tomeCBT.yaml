@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x076C97e1c869072eE22f8c91978C99B4bcB02591'
+    chainId: null
+    decimals: null
+    description: CommerceBlock (CBT) is a cryptocurrency and operates on the Ethereum
+      platform. CommerceBlock has a current supply of 174,866,686. The last known
+      price of CommerceBlock is 0.0086117 USD and is up 2.73 over the last 24 hours.
+      It is currently trading on 5 active market(s) with $4,438.60 traded over the
+      last 24 hours. More information can be found at https://www.commerceblock.com/.
+    logoURI: null
+    name: CommerceBlock
+    symbol: CBT
+    type: null

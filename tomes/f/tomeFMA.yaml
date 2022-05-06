@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0f8794f66C7170c4f9163a8498371A747114f6C4'
+    chainId: null
+    decimals: null
+    description: FLAMA (FMA) is a cryptocurrency and operates on the Ethereum platform.
+      FLAMA has a current supply of 40,886,294.92697032 with 0 in circulation. The
+      last known price of FLAMA is 0.00763968 USD and is up 12.27 over the last 24
+      hours. It is currently trading on 4 active market(s) with $4,727.55 traded over
+      the last 24 hours. More information can be found at https://flamanet.io.
+    logoURI: null
+    name: FLAMA
+    symbol: FMA
+    type: null

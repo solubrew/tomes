@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdAC17F958D2ee523a2206206994597C13D831ec7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Tether USD
+    symbol: USDT
+    type: null

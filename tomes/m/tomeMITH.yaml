@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Mithril Token
+    symbol: MITH
+    type: null

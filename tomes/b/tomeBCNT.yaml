@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9669890e48f330acd88b78d63e1a6b3482652cd9'
+    chainId: null
+    decimals: null
+    description: Bincentive (BCNT) is a cryptocurrency and operates on the Ethereum
+      platform. Bincentive has a current supply of 1,000,000,000 with 0 in circulation.
+      The last known price of Bincentive is 0.00652144 USD and is down -1.89 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $18,224.15
+      traded over the last 24 hours. More information can be found at https://bincentive.com/.
+    logoURI: null
+    name: Bincentive
+    symbol: BCNT
+    type: null

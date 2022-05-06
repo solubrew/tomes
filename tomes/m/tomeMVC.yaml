@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xEbfc4Fa869A6DB3cbD6a849b5B656baE4aba68F0'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MaiVangCity
+    symbol: MVC
+    type: null

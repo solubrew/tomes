@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6e13A9e4AE3d0678E511Fb6d2ad531fcF0e247bf'
+    chainId: null
+    decimals: null
+    description: 3x Long Bitcoin SV Token (BSVBULL) is a cryptocurrency and operates
+      on the Ethereum platform. 3x Long Bitcoin SV Token has a current supply of 1,304,254.808
+      with 0 in circulation. The last known price of 3x Long Bitcoin SV Token is 0.20579273
+      USD and is down -3.85 over the last 24 hours. It is currently trading on 4 active
+      market(s) with $244,410.44 traded over the last 24 hours. More information can
+      be found at https://ftx.com/tokens/BSVBULL.
+    logoURI: null
+    name: 3x Long Bitcoin SV Token
+    symbol: BSVBULL
+    type: null

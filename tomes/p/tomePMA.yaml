@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x846C66cf71C43f80403B51fE3906B3599D63336f'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: PumaPay
+    symbol: PMA
+    type: null

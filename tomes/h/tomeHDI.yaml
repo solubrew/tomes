@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x58a3520d738b268c2353ecee518a1ad8e28e4ae5'
+    chainId: null
+    decimals: null
+    description: HEIDI (HDI) is a cryptocurrency and operates on the Ethereum platform.
+      HEIDI has a current supply of 12,910,000 with 903,700 in circulation. The last
+      known price of HEIDI is 0.07501048 USD and is up 1.67 over the last 24 hours.
+      It is currently trading on 4 active market(s) with $586.45 traded over the last
+      24 hours. More information can be found at https://www.heidicoin.ch.
+    logoURI: null
+    name: HEIDI
+    symbol: HDI
+    type: null

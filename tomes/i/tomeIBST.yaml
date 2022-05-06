@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x34f49e2Ea4FB9B80714f8776932528A79C39dE28'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Inbest Token
+    symbol: IBST
+    type: null

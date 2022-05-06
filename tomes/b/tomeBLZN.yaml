@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x70eFDc485a10210B056eF8e0A32993Bc6529995E'
+    chainId: null
+    decimals: null
+    description: Blaze Network (BLZN) is a cryptocurrency and operates on the Ethereum
+      platform. Blaze Network has a current supply of 187,663.322 with 0 in circulation.
+      The last known price of Blaze Network is 0.13844712 USD and is up 3.93 over
+      the last 24 hours. It is currently trading on 2 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://www.blazenetwork.online/.
+    logoURI: null
+    name: Blaze Network
+    symbol: BLZN
+    type: null

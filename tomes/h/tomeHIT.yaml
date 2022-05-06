@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566'
+    chainId: null
+    decimals: null
+    description: HitChain (HIT) is a cryptocurrency and operates on the Ethereum platform.
+      HitChain has a current supply of 102,400,000,000 with 61,440,000,000 in circulation.
+      The last known price of HitChain is 0.00003843 USD and is down -0.97 over the
+      last 24 hours. It is currently trading on 8 active market(s) with $135,345.34
+      traded over the last 24 hours. More information can be found at http://hitchain.org/index.html.
+    logoURI: null
+    name: HitChain
+    symbol: HIT
+    type: null

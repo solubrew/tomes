@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9A2681935C2775b7ABF0649ec5c306EEA7561930'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: EasyOption.io Token
+    symbol: EOPT
+    type: null

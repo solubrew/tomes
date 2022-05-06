@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x122A86b5DFF2D085AfB49600b4cd7375D0d94A5f'
+    chainId: null
+    decimals: null
+    description: Italian Lira (ITL) is a cryptocurrency and operates on the Ethereum
+      platform. Italian Lira has a current supply of 100,000,000,000 with 24,999,999,997.80094
+      in circulation. The last known price of Italian Lira is 0.00000191 USD and is
+      up 1.31 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://www.italianlira.ws/.
+    logoURI: null
+    name: Italian Lira
+    symbol: ITL
+    type: null

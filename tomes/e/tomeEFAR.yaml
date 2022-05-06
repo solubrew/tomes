@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe1431643574ba7bac71a3b2ca52b00aca852e4a4'
+    chainId: null
+    decimals: null
+    description: Fridn (EFAR) is a cryptocurrency and operates on the Ethereum platform.
+      Fridn has a current supply of 0. The last known price of Fridn is 0.219535 USD
+      and is up 0.05 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $63,259.89 traded over the last 24 hours. More information can be found
+      at https://fridn.com.
+    logoURI: null
+    name: Fridn
+    symbol: EFAR
+    type: null

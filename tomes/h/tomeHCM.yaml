@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6126747B7d21c5860CBFFbb7654Fbc8d3E63A2bB'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Hcmcoin
+    symbol: HCM
+    type: null

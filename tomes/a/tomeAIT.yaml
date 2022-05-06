@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x79650799e7899a802cb96c0bc33a6a8d4ce4936c'
+    chainId: null
+    decimals: null
+    description: AICHAIN (AIT) is a cryptocurrency and operates on the Ethereum platform.
+      AICHAIN has a current supply of 2,100,000,000 with 535,067,071.1559999 in circulation.
+      The last known price of AICHAIN is 0.00190475 USD and is up 2.00 over the last
+      24 hours. It is currently trading on 6 active market(s) with $58,699.89 traded
+      over the last 24 hours. More information can be found at http://www.aichain.me/.
+    logoURI: null
+    name: AICHAIN
+    symbol: AIT
+    type: null

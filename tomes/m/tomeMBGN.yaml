@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdde19c145c1eE51B48f7a28e8dF125da0Cc440be'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Embiggen
+    symbol: MBGN
+    type: null

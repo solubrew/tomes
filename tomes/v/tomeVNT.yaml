@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x69d2779533a4d2c780639713558b2cc98c46a9b7'
+    chainId: null
+    decimals: null
+    description: VNT Chain (VNT) is a cryptocurrency and operates on the Ethereum
+      platform. VNT Chain has a current supply of 10,000,000,000 with 2,717,613,095.393633
+      in circulation. The last known price of VNT Chain is 0.00095389 USD and is up
+      0.51 over the last 24 hours. It is currently trading on 5 active market(s) with
+      $149,005.33 traded over the last 24 hours. More information can be found at
+      http://vntchain.io/?language=en.
+    logoURI: null
+    name: VNT Chain
+    symbol: VNT
+    type: null

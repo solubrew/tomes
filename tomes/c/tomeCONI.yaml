@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2c949199cff14aeaf1b33d64db01f48fb57f592f'
+    chainId: null
+    decimals: null
+    description: Coni (CONI) is a cryptocurrency and operates on the Ethereum platform.
+      Coni has a current supply of 1,000,000,000 with 0 in circulation. The last known
+      price of Coni is 0.00805494 USD and is down -0.24 over the last 24 hours. It
+      is currently trading on 1 active market(s) with $598,020.36 traded over the
+      last 24 hours. More information can be found at https://www.coinbene.com.
+    logoURI: null
+    name: Coni
+    symbol: CONI
+    type: null

@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x28472a58A490c5e09A238847F66A68a47cC76f0f'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: ADI
+    type: null

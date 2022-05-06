@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4E15361FD6b4BB609Fa63C81A2be19d873717870'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Fantom Token
+    symbol: FTM
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xE41d2489571d322189246DaFA5ebDe1F4699F498'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: 0x Protocol Token
+    symbol: ZRX
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xd0c59798f986d333554688cd667033d469c2398e'
+    chainId: null
+    decimals: null
+    description: Ymen.Finance (YMEN) is a cryptocurrency and operates on the Ethereum
+      platform. Ymen.Finance has a current supply of 64,700 with 0 in circulation.
+      The last known price of Ymen.Finance is 1.04262571 USD and is up 4.27 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $201.67 traded
+      over the last 24 hours. More information can be found at https://ymen.finance/.
+    logoURI: null
+    name: Ymen.Finance
+    symbol: YMEN
+    type: null

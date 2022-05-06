@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xed35A93b1D52D66D6F9e840D85412730ee206CBC'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BlockXV
+    symbol: BXV
+    type: null

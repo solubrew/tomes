@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1063ce524265d5a3a624f4914acd573dd89ce988'
+    chainId: null
+    decimals: null
+    description: Aigang (AIX) is a cryptocurrency and operates on the Ethereum platform.
+      Aigang has a current supply of 29,274,566.72446256. The last known price of
+      Aigang is 0.0022762 USD and is up 4.30 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $0.00 traded over the last 24 hours. More
+      information can be found at https://aigang.network/.
+    logoURI: null
+    name: Aigang
+    symbol: AIX
+    type: null

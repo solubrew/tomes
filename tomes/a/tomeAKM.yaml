@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5f02cf3c7ada49DFC4A3645Fc85C8aE86808Dd9b'
+    chainId: null
+    decimals: null
+    description: COST COIN+ (AKM) is a cryptocurrency and operates on the Ethereum
+      platform. COST COIN+ has a current supply of 0. The last known price of COST
+      COIN+ is 0.00132304 USD and is up 5.67 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $1,769.85 traded over the last 24 hours.
+      More information can be found at https://costcoin.cc/.
+    logoURI: null
+    name: COST COIN+
+    symbol: AKM
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5635ddeabf9cdda686995fe90beb5411831563fc'
+    chainId: null
+    decimals: null
+    description: TravelNote (TVNT) is a cryptocurrency and operates on the Ethereum
+      platform. TravelNote has a current supply of 2,333,333 with 2,153,333 in circulation.
+      The last known price of TravelNote is 0.00993133 USD and is up 56.92 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $4,557.85
+      traded over the last 24 hours. More information can be found at https://ico.travelnote.io.
+    logoURI: null
+    name: TravelNote
+    symbol: TVNT
+    type: null

@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x9378368ba6b85c1FbA5b131b530f5F5bEdf21A18'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: VF2
+    type: null

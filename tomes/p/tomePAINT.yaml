@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4c6ec08cf3fc987c6c4beb03184d335a2dfc4042'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: MurAll
+    symbol: PAINT
+    type: null

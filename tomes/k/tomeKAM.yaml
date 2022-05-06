@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xbdbb0ee6144544ec814d417b0ad41f16fc8b858e'
+    chainId: null
+    decimals: null
+    description: BitKAM (KAM) is a cryptocurrency and operates on the Ethereum platform.
+      BitKAM has a current supply of 21,000,000,000 with 0 in circulation. The last
+      known price of BitKAM is 0.00015237 USD and is up 2.42 over the last 24 hours.
+      It is currently trading on 5 active market(s) with $11.53 traded over the last
+      24 hours. More information can be found at https://bitkam.io.
+    logoURI: null
+    name: BitKAM
+    symbol: KAM
+    type: null

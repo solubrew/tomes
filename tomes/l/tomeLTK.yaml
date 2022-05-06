@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8a732bc91c33c167f868e0af7e6f31e0776d0f71'
+    chainId: null
+    decimals: null
+    description: LitecoinToken (LTK) is a cryptocurrency and operates on the Ethereum
+      platform. LitecoinToken has a current supply of 840,000,000,000 with 93,798,013,227.9
+      in circulation. The last known price of LitecoinToken is 0.00000002 USD and
+      is up 0.00 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $17.12 traded over the last 24 hours. More information can be found at
+      https://ltk.community.
+    logoURI: null
+    name: LitecoinToken
+    symbol: LTK
+    type: null

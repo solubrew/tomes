@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xc72ed4445b3fe9f0863106e344e241530d338906'
+    chainId: null
+    decimals: null
+    description: Mallcoin (MLC) is a cryptocurrency and operates on the Ethereum platform.
+      Mallcoin has a current supply of 231,228,611.40253773 with 176,136,853.48640126
+      in circulation. The last known price of Mallcoin is 0.00661785 USD and is up
+      2.54 over the last 24 hours. It is currently trading on 2 active market(s) with
+      $0.00 traded over the last 24 hours. More information can be found at https://flogmall.com.
+    logoURI: null
+    name: Mallcoin
+    symbol: MLC
+    type: null

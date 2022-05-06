@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4FbB350052Bca5417566f188eB2EBCE5b19BC964'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Rigo Token
+    symbol: GRG
+    type: null

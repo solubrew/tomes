@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3aBb1D520Cc30dAe52E193a881290cda0bE6BbFC'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Xenon
+    symbol: XNON
+    type: null

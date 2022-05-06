@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xee0f286776639cd363da810daf3e0623f82576b0'
+    chainId: null
+    decimals: null
+    description: Lung Protocol (L2P) is a cryptocurrency and operates on the Ethereum
+      platform. Lung Protocol has a current supply of 75,000,000 with 0 in circulation.
+      The last known price of Lung Protocol is 0.00015386 USD and is up 16.67 over
+      the last 24 hours. It is currently trading on 4 active market(s) with $216,657.68
+      traded over the last 24 hours. More information can be found at https://lungprotocol.info/.
+    logoURI: null
+    name: Lung Protocol
+    symbol: L2P
+    type: null

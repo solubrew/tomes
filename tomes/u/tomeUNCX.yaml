@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xaDB2437e6F65682B85F814fBc12FeC0508A7B1D0'
+    chainId: null
+    decimals: null
+    description: UniCrypt (UNCX) is a cryptocurrency and operates on the Ethereum
+      platform. UniCrypt has a current supply of 0. The last known price of UniCrypt
+      is 28.36236995 USD and is down -10.38 over the last 24 hours. It is currently
+      trading on 1 active market(s) with $17,517.32 traded over the last 24 hours.
+      More information can be found at https://www.unicrypt.network.
+    logoURI: null
+    name: UniCrypt
+    symbol: UNCX
+    type: null

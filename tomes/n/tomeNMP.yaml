@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4D6b9f281AF31916a0f16D1cEA2ec7384851EAAb'
+    chainId: null
+    decimals: null
+    description: Neuromorphic.io (NMP) is a cryptocurrency and operates on the Ethereum
+      platform. Neuromorphic.io has a current supply of 10,000,000 with 2,400,000
+      in circulation. The last known price of Neuromorphic.io is 0.01378887 USD and
+      is up 22.08 over the last 24 hours. It is currently trading on 6 active market(s)
+      with $118,628.13 traded over the last 24 hours. More information can be found
+      at https://neuromorphic.io.
+    logoURI: null
+    name: Neuromorphic.io
+    symbol: NMP
+    type: null

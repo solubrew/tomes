@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4D9e23a3842fE7Eb7682B9725cF6c507C424A41B'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CarBlock.io
+    symbol: CAR
+    type: null

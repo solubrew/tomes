@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x80037BA0B221beFe2c578f8c42b7D4DFe463fD96'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: leibniz
+    symbol: POC
+    type: null

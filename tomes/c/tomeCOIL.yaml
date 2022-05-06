@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3936ad01cf109a36489d93cabda11cf062fd3d48'
+    chainId: null
+    decimals: null
+    description: COIL (COIL) is a cryptocurrency and operates on the Ethereum platform.
+      COIL has a current supply of 2,221,737.68328531 with 0 in circulation. The last
+      known price of COIL is 1.04628517 USD and is down -0.16 over the last 24 hours.
+      It is currently trading on 1 active market(s) with $1,284.39 traded over the
+      last 24 hours. More information can be found at https://coilcrypto.com/.
+    logoURI: null
+    name: COIL
+    symbol: COIL
+    type: null

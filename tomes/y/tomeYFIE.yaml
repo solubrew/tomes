@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8f57e8e38e61975a0433fa792542f453d8ed4d7d'
+    chainId: null
+    decimals: null
+    description: YFIEXCHANGE.FINANCE (YFIE) is a cryptocurrency and operates on the
+      Ethereum platform. YFIEXCHANGE.FINANCE has a current supply of 0. The last known
+      price of YFIEXCHANGE.FINANCE is 2.33097894 USD and is down -2.07 over the last
+      24 hours. It is currently trading on 4 active market(s) with $97.43 traded over
+      the last 24 hours. More information can be found at https://yfiexchange.finance/.
+    logoURI: null
+    name: YFIEXCHANGE.FINANCE
+    symbol: YFIE
+    type: null

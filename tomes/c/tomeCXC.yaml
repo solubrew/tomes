@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5cA2754FC2D4D09Cf95fD81Fdf12a5C74efa9088'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: CruxCoin
+    symbol: CXC
+    type: null

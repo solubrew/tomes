@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x47eb79217f42f92dbd741add1b1a6783a2c873cf'
+    chainId: null
+    decimals: null
+    description: Bast (BAST) is a cryptocurrency and operates on the Ethereum platform.
+      Bast has a current supply of 0. The last known price of Bast is 20.5706624 USD
+      and is up 3.29 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $3,745.10 traded over the last 24 hours. More information can be found
+      at https://bastdfo.xyz/.
+    logoURI: null
+    name: Bast
+    symbol: BAST
+    type: null

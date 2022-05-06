@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4bbbc57af270138ef2ff2c50dbfad684e9e0e604'
+    chainId: null
+    decimals: null
+    description: WABnetwork (WAB) is a cryptocurrency and operates on the Ethereum
+      platform. WABnetwork has a current supply of 17,869,541,765 with 13,953,531,973
+      in circulation. The last known price of WABnetwork is 0.00000096 USD and is
+      down -1.92 over the last 24 hours. It is currently trading on 4 active market(s)
+      with $14.07 traded over the last 24 hours. More information can be found at
+      https://wab.network/.
+    logoURI: null
+    name: WABnetwork
+    symbol: WAB
+    type: null

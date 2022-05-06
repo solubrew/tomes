@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Compound 0x
+    symbol: cZRX
+    type: null

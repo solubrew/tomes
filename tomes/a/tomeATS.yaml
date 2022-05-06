@@ -1,0 +1,17 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x2dAEE1AA61D60A252DC80564499A69802853583A'
+    chainId: null
+    decimals: null
+    description: Authorship (ATS) is a cryptocurrency and operates on the Ethereum
+      platform. Authorship has a current supply of 100,000,000 with 99,971,428.1563
+      in circulation. The last known price of Authorship is 0 USD and is up 0.00 over
+      the last 24 hours. More information can be found at http://authorship.com/.
+    logoURI: null
+    name: Authorship
+    symbol: ATS
+    type: null

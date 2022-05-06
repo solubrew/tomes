@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe610e04A9d8120afc2730D21CD71564CdDD3D9B7'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: auricoin
+    symbol: ric
+    type: null

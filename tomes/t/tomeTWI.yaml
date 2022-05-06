@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xdad26bce7dcf59cd03a2455558e4dd73e1c07b66'
+    chainId: null
+    decimals: null
+    description: Trade.win (TWI) is a cryptocurrency launched in 2020and operates
+      on the Ethereum platform. Trade.win has a current supply of 0. The last known
+      price of Trade.win is 0.3747193 USD and is up 245.28 over the last 24 hours.
+      It is currently trading on 4 active market(s) with $99,102.35 traded over the
+      last 24 hours. More information can be found at https://trade.win.
+    logoURI: null
+    name: Trade.win
+    symbol: TWI
+    type: null

@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x90dBfE6545392a89A45fA880e409696A54abE793'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BeneficentDAO Token
+    symbol: BVT
+    type: null

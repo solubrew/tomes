@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50'
+    chainId: null
+    decimals: null
+    description: BTC Lite (BTCL) is a cryptocurrency and operates on the Ethereum
+      platform. BTC Lite has a current supply of 21,000,000 with 18,699,999.9900309
+      in circulation. The last known price of BTC Lite is 0.00095895 USD and is up
+      27.04 over the last 24 hours. It is currently trading on 1 active market(s)
+      with $18.82 traded over the last 24 hours. More information can be found at
+      http://btclite.org/.
+    logoURI: null
+    name: BTC Lite
+    symbol: BTCL
+    type: null

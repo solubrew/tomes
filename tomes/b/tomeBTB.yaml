@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x06e0feB0D74106c7adA8497754074D222Ec6BCDf'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: BitBall
+    symbol: BTB
+    type: null

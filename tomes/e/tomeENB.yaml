@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xa6fb1df483b24eeab569e19447e0e107003b9e15'
+    chainId: null
+    decimals: null
+    description: Earnbase (ENB) is a cryptocurrency and operates on the Ethereum platform.
+      Earnbase has a current supply of 0. The last known price of Earnbase is 13.42349343
+      USD and is up 28.39 over the last 24 hours. It is currently trading on 3 active
+      market(s) with $55,902.26 traded over the last 24 hours. More information can
+      be found at https://earnbase.org.
+    logoURI: null
+    name: Earnbase
+    symbol: ENB
+    type: null

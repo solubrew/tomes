@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb020ed54651831878e5c967e0953a900786178f9'
+    chainId: null
+    decimals: null
+    description: Baz Token (BAZT) is a cryptocurrency and operates on the Ethereum
+      platform. Baz Token has a current supply of 2,500,000 with 1,089,402.026 in
+      circulation. The last known price of Baz Token is 0.01290561 USD and is down
+      -3.02 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $476.90 traded over the last 24 hours. More information can be found at
+      https://baztoken.io/.
+    logoURI: null
+    name: Baz Token
+    symbol: BAZT
+    type: null

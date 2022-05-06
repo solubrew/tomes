@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x6BFf2fE249601ed0Db3a87424a2E923118BB0312'
+    chainId: null
+    decimals: null
+    description: Fyooz (FYZ) is a cryptocurrency and operates on the Ethereum platform.
+      Fyooz has a current supply of 50,000,000 with 3,336,484.02228831 in circulation.
+      The last known price of Fyooz is 0.38531762 USD and is down -14.40 over the
+      last 24 hours. It is currently trading on 3 active market(s) with $38,399.63
+      traded over the last 24 hours. More information can be found at https://www.fyooz.io/.
+    logoURI: null
+    name: Fyooz
+    symbol: FYZ
+    type: null

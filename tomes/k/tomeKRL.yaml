@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0'
+    chainId: null
+    decimals: null
+    description: Kryll (KRL) is a cryptocurrency and operates on the Ethereum platform.
+      Kryll has a current supply of 49,417,348 with 30,000,443 in circulation. The
+      last known price of Kryll is 0.14574595 USD and is up 2.50 over the last 24
+      hours. It is currently trading on 4 active market(s) with $14,142.71 traded
+      over the last 24 hours. More information can be found at https://kryll.io/.
+    logoURI: null
+    name: Kryll
+    symbol: KRL
+    type: null

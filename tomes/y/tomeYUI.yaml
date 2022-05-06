@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x4c10bd19688b906665fbd53415f279f34b44ece7'
+    chainId: null
+    decimals: null
+    description: YUI Token (YUI) is a cryptocurrency and operates on the Ethereum
+      platform. YUI Token has a current supply of 27,823 with 0 in circulation. The
+      last known price of YUI Token is 7.26550676 USD and is down -6.75 over the last
+      24 hours. It is currently trading on 1 active market(s) with $42,839.75 traded
+      over the last 24 hours. More information can be found at https://www.yui.finance/.
+    logoURI: null
+    name: YUI Token
+    symbol: YUI
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xfa05A73FfE78ef8f1a739473e462c54bae6567D9'
+    chainId: null
+    decimals: null
+    description: Lunyr (LUN) is a cryptocurrency and operates on the Ethereum platform.
+      Lunyr has a current supply of 2,703,356.07853158 with 2,297,853.07853158 in
+      circulation. The last known price of Lunyr is 0.11172748 USD and is up 4.05
+      over the last 24 hours. It is currently trading on 8 active market(s) with $24,830.77
+      traded over the last 24 hours. More information can be found at https://lunyr.com/.
+    logoURI: null
+    name: Lunyr
+    symbol: LUN
+    type: null

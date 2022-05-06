@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x88ef27e69108b2633f8e1c184cc37940a075cc02'
+    chainId: null
+    decimals: null
+    description: Dego Finance (DEGO) is a cryptocurrency and operates on the Ethereum
+      platform. Dego Finance has a current supply of 8,777,127 with 0 in circulation.
+      The last known price of Dego Finance is 0.61092078 USD and is down -0.32 over
+      the last 24 hours. It is currently trading on 10 active market(s) with $185,662.21
+      traded over the last 24 hours. More information can be found at https://dego.finance/.
+    logoURI: null
+    name: Dego Finance
+    symbol: DEGO
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x79b4D12Fa63A8d1202b26c5Ba6d62136A4A09dDa'
+    chainId: null
+    decimals: null
+    description: SymVerse (SYM) is a cryptocurrency and operates on the Ethereum platform.
+      SymVerse has a current supply of 1,000,000,000 with 66,969,061 in circulation.
+      The last known price of SymVerse is 0.05663742 USD and is up 3.03 over the last
+      24 hours. It is currently trading on 3 active market(s) with $2,189.89 traded
+      over the last 24 hours. More information can be found at https://www.symverse.com/.
+    logoURI: null
+    name: SymVerse
+    symbol: SYM
+    type: null

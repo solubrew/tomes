@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x106F2D734E12545b4d78Fc057934905508F1fE24'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Conexao Coin
+    symbol: COINN
+    type: null

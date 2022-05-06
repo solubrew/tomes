@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x163C649Ac276C5FDcC27Db30a1C1F070Cb731C04'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: SimpleSwap Coin
+    symbol: SWAP
+    type: null

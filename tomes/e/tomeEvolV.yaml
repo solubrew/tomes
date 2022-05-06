@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x12528042299e0fCA4d44ae4f42359319b8901Fa2'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: Evolution Token
+    symbol: EvolV
+    type: null

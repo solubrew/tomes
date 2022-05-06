@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xb3299d4BaB93Bf04d5b11bc49CD6DFAD1f77d23f'
+    chainId: null
+    decimals: null
+    description: 3X Short Cardano Token (ADABEAR) is a cryptocurrency and operates
+      on the Ethereum platform. 3X Short Cardano Token has a current supply of 220,417.68834291
+      with 0 in circulation. The last known price of 3X Short Cardano Token is 0.06175673
+      USD and is down -15.10 over the last 24 hours. It is currently trading on 4
+      active market(s) with $49,407.18 traded over the last 24 hours. More information
+      can be found at https://ftx.com/tokens/ADABEAR.
+    logoURI: null
+    name: 3X Short Cardano Token
+    symbol: ADABEAR
+    type: null

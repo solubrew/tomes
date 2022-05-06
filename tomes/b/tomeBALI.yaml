@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x013a06558f07d9e6f9a00c95a33f3a0e0255176b'
+    chainId: null
+    decimals: null
+    description: Bali Coin (BALI) is a cryptocurrency and operates on the Ethereum
+      platform. Bali Coin has a current supply of 70,000,000 with 0 in circulation.
+      The last known price of Bali Coin is 0.01457163 USD and is up 10.82 over the
+      last 24 hours. It is currently trading on 1 active market(s) with $6,609.00
+      traded over the last 24 hours. More information can be found at https://balicoin.io.
+    logoURI: null
+    name: Bali Coin
+    symbol: BALI
+    type: null

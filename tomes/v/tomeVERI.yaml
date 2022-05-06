@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374'
+    chainId: null
+    decimals: null
+    description: Veritaseum (VERI) is a cryptocurrency and operates on the Ethereum
+      platform. Veritaseum has a current supply of 100,000,000 with 2,149,646.44000001
+      in circulation. The last known price of Veritaseum is 4.09323531 USD and is
+      up 13.66 over the last 24 hours. It is currently trading on 5 active market(s)
+      with $6,679.76 traded over the last 24 hours. More information can be found
+      at http://veritas.veritaseum.com/.
+    logoURI: null
+    name: Veritaseum
+    symbol: VERI
+    type: null

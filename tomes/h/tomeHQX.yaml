@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa'
+    chainId: null
+    decimals: null
+    description: HOQU (HQX) is a cryptocurrency and operates on the Ethereum platform.
+      HOQU has a current supply of 275,854,380 with 169,144,017.65811235 in circulation.
+      The last known price of HOQU is 0.00310458 USD and is up 2.50 over the last
+      24 hours. It is currently trading on 2 active market(s) with $1,550,899.78 traded
+      over the last 24 hours. More information can be found at https://www.hoqu.io/.
+    logoURI: null
+    name: HOQU
+    symbol: HQX
+    type: null

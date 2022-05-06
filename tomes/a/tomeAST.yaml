@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x27054b13b1B798B345b591a4d22e6562d47eA75a'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: AirSwap Token
+    symbol: AST
+    type: null

@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x83e2be8d114f9661221384b3a50d24b96a5653f5'
+    chainId: null
+    decimals: null
+    description: 0xcert (ZXC) is a cryptocurrency and operates on the Ethereum platform.
+      0xcert has a current supply of 474,999,999 with 347,746,334.0493023 in circulation.
+      The last known price of 0xcert is 0.00271612 USD and is up 4.51 over the last
+      24 hours. It is currently trading on 4 active market(s) with $48,920.09 traded
+      over the last 24 hours. More information can be found at https://0xcert.org/.
+    logoURI: null
+    name: 0xcert
+    symbol: ZXC
+    type: null

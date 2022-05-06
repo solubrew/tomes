@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x468ab3b1f63A1C14b361bC367c3cC92277588Da1'
+    chainId: null
+    decimals: null
+    description: Yeld Finance (YELD) is a cryptocurrency and operates on the Ethereum
+      platform. Yeld Finance has a current supply of 60,000 with 0 in circulation.
+      The last known price of Yeld Finance is 8.07773731 USD and is down -22.15 over
+      the last 24 hours. It is currently trading on 3 active market(s) with $35,405.53
+      traded over the last 24 hours. More information can be found at https://yeld.finance/.
+    logoURI: null
+    name: Yeld Finance
+    symbol: YELD
+    type: null

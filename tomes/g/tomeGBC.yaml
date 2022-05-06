@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xD895A50D3CcDA14751167ea2C586Ee8df3F0fA94'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: GBCoin
+    symbol: GBC
+    type: null

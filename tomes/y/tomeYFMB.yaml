@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x7aFaC1D878C66A47263DCe57976C371Ae2e74882'
+    chainId: null
+    decimals: null
+    description: YFMoonBeam (YFMB) is a cryptocurrency and operates on the Ethereum
+      platform. YFMoonBeam has a current supply of 1,000,000 with 0 in circulation.
+      The last known price of YFMoonBeam is 1.26310064 USD and is down -6.28 over
+      the last 24 hours. It is currently trading on 1 active market(s) with $0.00
+      traded over the last 24 hours. More information can be found at https://www.yfmoonbeam.com/.
+    logoURI: null
+    name: YFMoonBeam
+    symbol: YFMB
+    type: null

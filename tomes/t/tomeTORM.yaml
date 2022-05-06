@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x8cEa63f6383c1C13633F179F1af70ef75701a979'
+    chainId: null
+    decimals: null
+    description: Thorium (TORM) is a cryptocurrency and operates on the Ethereum platform.
+      Thorium has a current supply of 0. The last known price of Thorium is 0.00628794
+      USD and is down -0.07 over the last 24 hours. It is currently trading on 1 active
+      market(s) with $33.35 traded over the last 24 hours. More information can be
+      found at http://thorium.kr/.
+    logoURI: null
+    name: Thorium
+    symbol: TORM
+    type: null

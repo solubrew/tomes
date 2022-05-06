@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0xe3c864307b5592404431649de541c259497e2bd1'
+    chainId: null
+    decimals: null
+    description: The LoveChain (LOV) is a cryptocurrency and operates on the Ethereum
+      platform. The LoveChain has a current supply of 0. The last known price of The
+      LoveChain is 0.04056904 USD and is down -1.80 over the last 24 hours. It is
+      currently trading on 2 active market(s) with $5,203.50 traded over the last
+      24 hours. More information can be found at https://www.thelovechain.io/.
+    logoURI: null
+    name: The LoveChain
+    symbol: LOV
+    type: null

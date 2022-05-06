@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x221F7d0F2Fa0bFbd5F8B0d0340425906F2F9968c'
+    chainId: null
+    decimals: null
+    description: Super Running Coin (SRC) is a cryptocurrency and operates on the
+      Ethereum platform. Super Running Coin has a current supply of 100,000,000 with
+      0 in circulation. The last known price of Super Running Coin is 0.00017634 USD
+      and is up 0.72 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $0.00 traded over the last 24 hours. More information can be found at https://superrunningcoin.com/.
+    logoURI: null
+    name: Super Running Coin
+    symbol: SRC
+    type: null

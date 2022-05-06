@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x347c099f110ca6761779329d2879957b606b6ace'
+    chainId: null
+    decimals: null
+    description: Joint Ventures (JOINT) is a cryptocurrency and operates on the Ethereum
+      platform. Joint Ventures has a current supply of 616,000,000 with 22,248,084.7260718
+      in circulation. The last known price of Joint Ventures is 0.00115679 USD and
+      is up 0.25 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $1,400.39 traded over the last 24 hours. More information can be found
+      at https://jointventures.io.
+    logoURI: null
+    name: Joint Ventures
+    symbol: JOINT
+    type: null

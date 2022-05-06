@@ -1,0 +1,14 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D'
+    chainId: null
+    decimals: null
+    description: null
+    logoURI: null
+    name: LTO Network Token
+    symbol: LTO
+    type: null

@@ -1,0 +1,19 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x1c5f43710a1776b0ea7191b7ead75d4b98d69858'
+    chainId: null
+    decimals: null
+    description: Pool of Stake (PSK) is a cryptocurrency and operates on the Ethereum
+      platform. Pool of Stake has a current supply of 68,072,143 with 49,007,304 in
+      circulation. The last known price of Pool of Stake is 0.00305298 USD and is
+      down -50.98 over the last 24 hours. It is currently trading on 2 active market(s)
+      with $31,619.83 traded over the last 24 hours. More information can be found
+      at https://poolofstake.io.
+    logoURI: null
+    name: Pool of Stake
+    symbol: PSK
+    type: null

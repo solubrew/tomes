@@ -1,0 +1,18 @@
+children: []
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x0c963a1b52eb97c5e457c7d76696f8b95c3087ed'
+    chainId: null
+    decimals: null
+    description: Tokoin (TOKO) is a cryptocurrency and operates on the Ethereum platform.
+      Tokoin has a current supply of 2,000,000,000 with 178,664,008.409 in circulation.
+      The last known price of Tokoin is 0.00645217 USD and is down -0.08 over the
+      last 24 hours. It is currently trading on 4 active market(s) with $55,663.42
+      traded over the last 24 hours. More information can be found at https://www.tokoin.io/.
+    logoURI: null
+    name: Tokoin
+    symbol: TOKO
+    type: null

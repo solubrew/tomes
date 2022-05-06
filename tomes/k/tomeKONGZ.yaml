@@ -1,0 +1,12 @@
+family: null
+proxyFor: null
+status: true
+token:
+  '1':
+    address: '0x57a204AA1042f6E66DD7730813f4024114d74f37'
+    chainId: 1
+    decimals: 0
+    logoURI: null
+    name: null
+    symbol: KONGZ
+    type: null
